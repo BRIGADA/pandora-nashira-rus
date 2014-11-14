@@ -6,8 +6,6 @@
 
 
 ```
-#!text
-
  ---
  
  МЕТКА (не переводить)
@@ -27,8 +25,6 @@
 
 
 ```
-#!text
-
 <!--
 	The following tokens are replaced by the game:
  
@@ -41,5 +37,4 @@
  	%7% with a random crime (second person).
  	%8% with a random crime (third person).
 -->
-
 ```

@@ -1,0 +1,1533 @@
+Arctic
+
+Arctic
+
+Арктика
+
+---
+
+ArcticDescription
+
+Cold and deadly, the frozen landscape at the either pole of Pandora is a very hostile climate to humans. Agriculture is impossible without technical assistance.
+
+Холодное и смертельно опасное место. Сельское хозяйство невозможно без технической помощи.
+
+---
+
+ArcticProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+ArcticStats
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0
+
+---
+
+Blackout
+
+Blackout
+
+Энергоперегрузка
+
+---
+
+BlackoutDescription
+
+This area is suffering a complete loss of energy, all communications are halted and production is on hold.
+
+Эта область страдает от потери энергии, в нерабочем состоянии находится почти вся электроника и производство.
+
+---
+
+BlackoutProperties
+
+<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>City produces no resources
+
+<icon texture='GUI/Bullet'/>Эффект<br/><icon texture='GUI/Bullet'/>Город не производит ресурсов
+
+---
+
+City
+
+City
+
+Город
+
+---
+
+CityDescription
+
+Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists.
+
+Крупный населенный пунк. Имеет большое количество систем поддержания жизни, стредств производтва и защиты населения.
+
+---
+
+CityProperties
+
+<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending light biological units<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate
+
+<icon texture='GUI/Bullet'/>Производство<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы для оборонябщихся легких биоподразделений<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> цена движения<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> скорость ремонта
+
+---
+
+CityStats
+
+<icon texture='Resources/Food'/> +1  <icon texture='Resources/Minerals'/> +1
+
+<icon texture='Resources/Food'/> +1  <icon texture='Resources/Minerals'/> +1
+
+---
+
+CreditsBonus0
+
+Gold Vein
+
+Золотая жила
+
+---
+
+CreditsBonus0Description
+
+Gold has been a valuable and highly sought-after metal long before the beginning of recorded history on old Earth. Just like on our old world, virtually all accessible gold on Pandora's surface has been deposited by meteorites. A gold vein drastically increases the credits output of the city that controls the territory.
+
+Золото было ценным и востребованных металлом задолго до начала времен.Золотая жила резко увеличивает доход города, который контролирует эту территорию.
+
+---
+
+CreditsBonus0Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+CreditsBonus0Stats
+
+<icon texture='Resources/Credits'/> +50%
+
+<icon texture='Resources/Credits'/> +50%
+
+---
+
+Creep
+
+Infestation
+
+Infestation
+
+---
+
+CreepDescription
+
+As the Messari advance, the landscape about them changes. Reports from scientists occupying the observatories say that this seems to be a fundamental chemical reaction, perhaps using the fungus in the ground, perhaps its spores in the air. The atmosphere left when the reaction is complete seems to invigorate the Messari troops -- could this be their version of terraforming?
+
+As the Messari advance, the landscape about them changes. Reports from scientists occupying the observatories say that this seems to be a fundamental chemical reaction, perhaps using the fungus in the ground, perhaps its spores in the air. The atmosphere left when the reaction is complete seems to invigorate the Messari troops -- could this be their version of terraforming?
+
+---
+
+CreepProperties
+
+<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost for Messari ground units<br/><icon texture='GUI/Bullet'/>Territory provides no resources
+
+<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost for Messari ground units<br/><icon texture='GUI/Bullet'/>Territory provides no resources
+
+---
+
+CreepStats
+
+<icon texture='Resources/Pollution'/> +1
+
+<icon texture='Resources/Pollution'/> +1
+
+---
+
+Coast
+
+Coast
+
+Побережье
+
+---
+
+CoastDescription
+
+The mixture of fresh and salt water provided by coastal regions offers many nutrients for marine and terrestrial fauna and flora, making them highly sought-after zones.
+
+Смесь пресной и соленой воды, доступной в прибрежных районах, предлагает множество питательных веществ для морской и наземной флоры и фауны, что делает их весьма ценной зоной.
+
+---
+
+CoastProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+CoastStats
+
+<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0
+
+<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0
+
+---
+
+ConstructionBay
+
+Construction Bay
+
+Construction Bay
+
+---
+
+ConstructionBayDescription
+
+The cramped confines of our base weren't designed for large-scale construction. These exterior bays have the space and shelter to make production easier, safer and faster, once we get our tools in place.
+
+The cramped confines of our base weren't designed for large-scale construction. These exterior bays have the space and shelter to make production easier, safer and faster, once we get our tools in place.
+
+---
+
+ConstructionBayProperties
+
+<icon texture='GUI/Bullet'/>Construction
+
+<icon texture='GUI/Bullet'/>Construction
+
+---
+
+ConstructionBayStats
+
+<icon texture='Resources/Production'/> +1
+
+<icon texture='Resources/Production'/> +1
+
+---
+
+Desert
+
+Desert
+
+Пустыня
+
+---
+
+DesertDescription
+
+Extremely high temperatures and miles upon miles of infertile sand make the desert a very difficult climate to survive in. Agriculture is impossible without technical assistance.
+
+Чрезвычайно высокие температуры, мили и мили бесплодного песка делают пустыню крайне сложной для выживания. Сельское хозяйство невозможно без технической помощи.
+
+---
+
+DesertProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+DesertStats
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0
+
+---
+
+EnergyPark
+
+Energy Park
+
+Energy Park
+
+---
+
+EnergyParkDescription
+
+These spaces are focal points for a distributed solar / wind / wave energy collection network. Here, we can safely siphon off the collected energy, to be sold on the open market.
+
+These spaces are focal points for a distributed solar / wind / wave energy collection network. Here, we can safely siphon off the collected energy, to be sold on the open market.
+
+---
+
+EnergyParkProperties
+
+<icon texture='GUI/Bullet'/>Construction
+
+<icon texture='GUI/Bullet'/>Construction
+
+---
+
+EnergyParkStats
+
+<icon texture='Resources/Credits'/> +3
+
+<icon texture='Resources/Credits'/> +3
+
+---
+
+Farm
+
+Farm
+
+Ферма
+
+---
+
+FarmDescription
+
+With the advent of industrialization, these huge areas provide the raw materials for our food processing facilities.
+
+Эти постройки обеспечивают всем необходимым для сбора богатого урожая наших фермеров.
+
+---
+
+FarmProperties
+
+<icon texture='GUI/Bullet'/>Construction
+
+<icon texture='GUI/Bullet'/>Производство
+
+---
+
+FarmStats
+
+<icon texture='Resources/Food'/> +1
+
+<icon texture='Resources/Food'/> +1
+
+---
+
+FieldLaboratory
+
+Field Laboratory
+
+Field Laboratory
+
+---
+
+FieldLaboratoryDescription
+
+These pre-fab labs allow us to set up scientists outside of the cramped central study institutes. Once we get remote access put in, this'll be a boon to our research efforts.
+
+These pre-fab labs allow us to set up scientists outside of the cramped central study institutes. Once we get remote access put in, this'll be a boon to our research efforts.
+
+---
+
+FieldLaboratoryProperties
+
+<icon texture='GUI/Bullet'/>Construction
+
+<icon texture='GUI/Bullet'/>Construction
+
+---
+
+FieldLaboratoryStats
+
+<icon texture='Resources/Research'/> +1
+
+<icon texture='Resources/Research'/> +1
+
+---
+
+FoodBonus0
+
+Natural Plantation
+
+Природные плантации
+
+---
+
+FoodBonus0Description
+
+Rich soil, proximity to water and a perfect micro-climate will help us attain generous harvests in this area.
+
+Богатые почвы, близость к воде и прекрасный микроклимат - поможет нам собрать щедрый урожай в этой области.
+
+---
+
+FoodBonus0Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+FoodBonus0Stats
+
+<icon texture='Resources/Food'/> +2
+
+<icon texture='Resources/Food'/> +2
+
+---
+
+FoodBonus1
+
+Gaia Forest
+
+Лес Гайи
+
+---
+
+FoodBonus1Description
+
+A lush forest of titanic fruit trees which provides more food than even the best agricultural compound.
+
+Огромные леса из гигантских и крайне плодоносных деревьев,  производят больше пищи, чем самый лучший сельскохозяйственный регион.
+
+---
+
+FoodBonus1Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+FoodBonus1Stats
+
+<icon texture='Resources/Food'/> +3  <icon texture='Resources/Pollution'/> -1
+
+<icon texture='Resources/Food'/> +3  <icon texture='Resources/Pollution'/> -1
+
+---
+
+FoodBonus2
+
+Garden of Eden
+
+Райский Сад
+
+---
+
+FoodBonus2Description
+
+Beautiful to behold, this idyllic area is unnaturally rich in nutrients and its plant growth rate is unequaled. Some say it could sustain a megalopolis by itself.
+
+Эта идиллическая область неестественно богата питательными веществами и темпы роста растений  на ее территории не имеет себе равных.
+
+---
+
+FoodBonus2Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+FoodBonus2Stats
+
+<icon texture='Resources/Food'/> +4  <icon texture='Resources/Morale'/> +1
+
+<icon texture='Resources/Food'/> +4  <icon texture='Resources/Morale'/> +1
+
+---
+
+Forest
+
+Forest
+
+Лес
+
+---
+
+ForestDescription
+
+A forest is an area with a high density of trees. It functions as a habitat for organisms, hydrologic flow modulators, and soil conservers, constituting one of the most important aspects of the biosphere. Mechanical units will struggle to access this area.
+
+Лес представляет собой область с высокой плотностью деревьев. Он функционирует как среда обитания организмов, и составляет одну из самых важных аспектов биосферы. Технике требуются усилия, что бы проходить эту территорию.
+
+---
+
+ForestProperties
+
+<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost
+
+<icon texture='GUI/Bullet'/>Ландшафт<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы легких биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы техники<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/>цена движения
+
+---
+
+ForestStats
+
+<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1  <icon texture='Resources/Pollution'/> -1
+
+<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1  <icon texture='Resources/Pollution'/> -1
+
+---
+
+Fort
+
+Fort
+
+Крепость
+
+---
+
+FortDescription
+
+Massive fortifications that provide strong defenses and a vision bonus to any garrison. When manned by artillery units they are perfect for protecting borders or strategic positions.
+
+Массивные стены, обеспечивают сильную оборону и отличный обзор для гарнизона. Будучи укомплектованным артиллерией идеально подходит для защиты границ и стратегических позиций.
+
+---
+
+FortProperties
+
+<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate
+
+<icon texture='GUI/Bullet'/>Производство<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> силы обороняющимся<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> силы против операций<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> обзор<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> скорость ремонта
+
+---
+
+Fungus
+
+Fungus
+
+Фунгус
+
+---
+
+FungusDescription
+
+Very similar to old Earth, fungi on Pandora mainly act as symbionts for plants and animals. However, we recently discovered a macroscopic and very aggressive species that infests all kinds of organic lifeforms, emitting highly toxic spores. Further research is required, but for now troops should operate in fungus-contaminated territories with extreme caution.
+
+Так же как и на старой Земле, грибы на Пандоре в основном выступают в качестве симбионтов для растений и животных. Тем не менее, мы недавно обнаружили макроскопический и очень агрессивный вид, опасный для всех видов живых организмов, который испускает высокотоксичные споры. Необходимы дальнейшие исследования, сейчас войска должны работать в грибных районах с особой осторожностью.
+
+---
+
+FungusProperties
+
+<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 <icon texture='Attributes/Power'/> damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost
+
+<icon texture='GUI/Bullet'/>Ландшафт<br/><icon texture='GUI/Bullet'/>Наносит 0.2 урона в ход<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы для легких биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы для техники<br/><icon texture='GUI/Bullet'/>3 <icon texture='Attributes/Movement'/>цена движения
+
+---
+
+FungusStats
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1
+
+---
+
+Grassland
+
+Grassland
+
+Луг
+
+---
+
+GrasslandDescription
+
+Grasslands are areas dominated by herbaceous plants. The soil is very nutrient-rich, making it a prime candidate for agriculture.
+
+Луга - районы с преобладанием травянистых растений. Почва очень богата питательными веществами, что делает его главным кандидатом для сельского хозяйства.
+
+---
+
+GrasslandProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+GrasslandStats
+
+<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0
+
+<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0
+
+---
+
+Growth
+
+Orb Plantations
+
+Ускоренный рост
+
+---
+
+GrowthDescription
+
+As the Formers pass, they sow the ground with parcels of construction and gardening machines. These build orb plantations using local organic materials -- sealed hydroponic nurseries in which plants are seeded and raised to full growth before the whole structure is harvested.
+
+Позволяет городу с положительным приростом разрастаться в 2 раза быстрее.
+
+---
+
+GrowthProperties
+
+<icon texture='GUI/Bullet'/>Construction
+
+<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>+100% роста города
+
+---
+
+GrowthStats
+
+<icon texture='Resources/PositiveGrowth'/> +1  <icon texture='Resources/Credits'/> -2
+
+<icon texture='Resources/PositiveGrowth'/> +1  <icon texture='Resources/Credits'/> -2
+
+---
+
+Hills
+
+Hills
+
+Холмы
+
+---
+
+HillsDescription
+
+The transitional area between mountains and plains. The rough terrain makes agriculture more difficult but provides valuable minerals.
+
+Переходная зона между горами и равнинами. Крайне сложная для сельского хозяйства, но предоставляет ценные минералы.
+
+---
+
+HillsProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+HillsStats
+
+<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +1
+
+<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +1
+
+---
+
+Hive
+
+Hive
+
+Логово
+
+---
+
+HiveDescription
+
+This organic structure hosts a colony of Xenomorphs, giving them shelter and allowing them to reproduce.
+
+Это органическая структура служит колонией ксеноморфов, давая им приют и позволяя им быстро размножаться.
+
+---
+
+HiveProperties
+
+<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations
+
+<icon texture='GUI/Bullet'/>Ксено производство<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> силы обороняющимся<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> силы против операций
+
+---
+
+Mine
+
+Mine
+
+Шахта
+
+---
+
+MineDescription
+
+Built for the extraction of mineral resources from the ground, this mine provides the colonists with raw materials.
+
+Экстарактор материи - позволяет добывать ресурсы из под земли.
+
+---
+
+MineProperties
+
+<icon texture='GUI/Bullet'/>Construction
+
+<icon texture='GUI/Bullet'/>Производство
+
+---
+
+MineStats
+
+<icon texture='Resources/Minerals'/> +1
+
+<icon texture='Resources/Minerals'/> +1
+
+---
+
+MineralsBonus0
+
+Mexallon Field
+
+Мексалоновые поля
+
+---
+
+MineralsBonus0Description
+
+The soil in this area is filled with Mexallon, a very valuable mineral that's tough to extract.
+
+Почва в этой области наполнена Мексалоном, очень ценным минералом, который сложно извлечь другим путем.
+
+---
+
+MineralsBonus0Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+MineralsBonus0Stats
+
+<icon texture='Resources/Minerals'/> +2
+
+<icon texture='Resources/Minerals'/> +2
+
+---
+
+MineralsBonus1
+
+Isogen Field
+
+Исогеновые поля
+
+---
+
+MineralsBonus1Description
+
+Huge deposits of Isogen have been detected in this area. While toxic to the local environment, its high value and easy extraction should make mining here a priority.
+
+Огромные залежи Исогена были обнаружены в этой области. Так как он крайне дорог и в любом случае токсичен для местной окружающей среды, добыча здесь приоритетна.
+
+---
+
+MineralsBonus1Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+MineralsBonus1Stats
+
+<icon texture='Resources/Minerals'/> +3  <icon texture='Resources/Pollution'/> +1
+
+<icon texture='Resources/Minerals'/> +3  <icon texture='Resources/Pollution'/> +1
+
+---
+
+MineralsBonus2
+
+Noxium Field
+
+Поля Нексиума
+
+---
+
+MineralsBonus2Description
+
+The midnight-blue Noxium is probably the most valuable mineral in the universe and incredibly-dense deposits have been found in this area. However, as its name implies, its radiation is lethal for miles around. While modern technology can eliminate the danger to personnel, most people still fear &quot;Blue Lung&quot;.
+
+Нексиум - пожалуй, самый ценный минерал во вселенной и его невероятно плотные отложения были найдены в этой области. Однако его излучение смертельно на несколько миль вокруг. К счастью это решаемая проблема, при помощи спец оборудования.
+
+---
+
+MineralsBonus2Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+MineralsBonus2Stats
+
+<icon texture='Resources/Minerals'/> +4  <icon texture='Resources/Morale'/> -1
+
+<icon texture='Resources/Minerals'/> +4  <icon texture='Resources/Morale'/> -1
+
+---
+
+Mines
+
+Vulcan Mines
+
+Vulcan Mines
+
+---
+
+MinesDescription
+
+Satellite-deployed munitions that will prove deadly to the unaware traveler.
+
+Satellite-deployed munitions that will prove deadly to the unaware traveler.
+
+---
+
+MinesProperties
+
+<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>Inflicts 1 <icon texture='Attributes/Power'/> power of damage per turn<br/><icon texture='GUI/Bullet'/>Consumes all <icon texture='Attributes/Movement'/> movement upon entering<br/><icon texture='GUI/Bullet'/>Lasts 8 turns
+
+<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>Inflicts 1 <icon texture='Attributes/Power'/> power of damage per turn<br/><icon texture='GUI/Bullet'/>Consumes all <icon texture='Attributes/Movement'/> movement upon entering<br/><icon texture='GUI/Bullet'/>Lasts 8 turns
+
+---
+
+MoraleBonus0
+
+Hot Springs
+
+Горячий источник
+
+---
+
+MoraleBonus0Description
+
+Our colonists have learned to greatly enjoy the steaming baths of hot springs, which give them a reprieve from the daily burdens of colonial life and time to renew their spirit.
+
+Наши колонисты научились использовать источники для горячих ван и это отвлекает колонистов от тяжелой жизни.
+
+---
+
+MoraleBonus0Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+MoraleBonus0Stats
+
+<icon texture='Resources/Morale'/> +4
+
+<icon texture='Resources/Morale'/> +4
+
+---
+
+Mountains
+
+Mountains
+
+Горы
+
+---
+
+MountainsDescription
+
+Towering over Pandora's terrain to a height of several kilometers, the mountains' rough terrain offers a natural tactical advantage to infantry units.
+
+Возвышаясь над местностью Пандоры на высоту в несколько километров, крайне сложны для движения техники, но дают естественное тактическое преимущество пехотным подразделениям.
+
+---
+
+MountainsProperties
+
+<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight
+
+<icon texture='GUI/Bullet'/>Ландшафт<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы для легких биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы для техники<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/>цена движения<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> обзор
+
+---
+
+MountainsStats
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 2
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 2
+
+---
+
+Ocean
+
+Ocean
+
+Океан
+
+---
+
+OceanDescription
+
+The majority of Pandora's surface is covered by oceans, which are the hosts to numerous plant and animal lifeforms, from the microscopic to the unbelievably large.
+
+Большинство поверхности Пандоры покрыто океанами, заселенными огромным количеством живых существ, от микроскопических до невероятно больших.
+
+---
+
+OceanProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+OceanStats
+
+<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0
+
+<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0
+
+---
+
+SunkenRuin
+
+Sunken Ruin
+
+Подводные руины
+
+---
+
+SunkenRuinDescription
+
+The remains of a long-gone alien civilization, sunken ruins can host great knowledge and richness.<br/><br/>To explore the ruin, dispatch a unit to its territory.
+
+Остатки давно погибшей инопланетной цивилизации, затонувшие руины содержат как знания, так и богатство. <br/> <br/> Чтобы исследовать руины, нужно направить туда подразделения.
+
+---
+
+SunkenRuinProperties
+
+<icon texture='GUI/Bullet'/>Alien construction
+
+<icon texture='GUI/Bullet'/>Alien construction
+
+---
+
+Plains
+
+Plains
+
+Равнины
+
+---
+
+PlainsDescription
+
+The near absence of native shrubs and trees make the plains of Pandora easily-habitable areas, but offer little cover to infantry troops.
+
+Почти полное отсутствие кустарников и деревьев делают равнины Пандоры идеальными жилыми районами, не предоставляют укрытий для пехоты.
+
+---
+
+PlainsProperties
+
+<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for light biological ground units
+
+<icon texture='GUI/Bullet'/>Ландшафт<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы технике
+
+---
+
+Pollution
+
+Wasteland
+
+Пустошь
+
+---
+
+PollutionDescription
+
+Usually caused by weapons with immense power, territories which are turned into wasteland are toxic to organic life and provide no resources at all.<br/><br/>Former units are able to clear up the waste and restore the territory's original ecology, but it is a difficult and time-consuming process.
+
+Обычно это результат использования оружия огромной силы. Территории которые превратились в пустоши  обычно токсичны для органики и не дают никаких ресурсов. <br/> <br/> В теории возможно вернуть территориям прежний вид, но это сложный и трудоемкий процесс.
+
+---
+
+PollutionProperties
+
+<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Territory provides no resources
+
+<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>На территории нету ресурсов
+
+---
+
+PollutionStats
+
+<icon texture='Resources/Pollution'/> +1
+
+<icon texture='Resources/Pollution'/> +1
+
+---
+
+Portal
+
+Portal
+
+Portal
+
+---
+
+PortalDescription
+
+The portals by which the Messari appear on Pandora are closely guarded. Towers on inhuman scales, like the ruins we discovered, but shiny and new. And occupied by Messari troops.
+
+The portals by which the Messari appear on Pandora are closely guarded. Towers on inhuman scales, like the ruins we discovered, but shiny and new. And occupied by Messari troops.
+
+---
+
+PortalProperties
+
+<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations
+
+<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations
+
+---
+
+ProductionBonus0
+
+Xenite Flowers
+
+Ксеноцвет
+
+---
+
+ProductionBonus0Description
+
+Xenite is a wondrous plant that, when administered as a drug, allows the human body to enter a state of trance resistant to exhaustion and numbed to pain. While a person's working capacity is significantly increased by its usage, even a slight overdose results in instant cardiac arrest -- thus requiring a continuous monitoring of any workers who use it.
+
+Ксеноцвет - чудесное растение, сок которого при введении в кровь, позволяет человеческому организму войти в состояние транса, делает его устойчевым к истощению и боли. В то время как работоспособность человека значительно увеличивается, даже незначительные передозировки приводит к мгновенной остановке сердца.
+
+---
+
+ProductionBonus0Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+ProductionBonus0Stats
+
+<icon texture='Resources/Production'/> +50%
+
+<icon texture='Resources/Production'/> +50%
+
+---
+
+Purifier
+
+Purifier
+
+Purifier
+
+---
+
+PurifierDescription
+
+In contrast to the energy parks, these wind and water traps use tremendous power to filter the atmosphere and seas of Pandora. They're expensive, but they hugely reduce our impact on the planet.
+
+In contrast to the energy parks, these wind and water traps use tremendous power to filter the atmosphere and seas of Pandora. They're expensive, but they hugely reduce our impact on the planet.
+
+---
+
+PurifierProperties
+
+<icon texture='GUI/Bullet'/>Construction
+
+<icon texture='GUI/Bullet'/>Construction
+
+---
+
+PurifierStats
+
+<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -3
+
+<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -3
+
+---
+
+ResearchBonus0
+
+Observatory
+
+Обсерватория
+
+---
+
+ResearchBonus0Description
+
+A largely intact observation tower constructed with alien technology eons ago is both a marvelous sight and a real boon for our scientists. It greatly boosts the research output of the controlling city not only by allowing our scientists to study the sky, but also by letting us observe the aliens themselves from a safe distance.
+
+В значительной степени нетронутые обсерватории построены по инопланетной технологии в прошлых эпохах. Они являются настоящей находкой для наших ученых. Это значительно повышает исследовательскую эффективность контролирующего города, не только позволяя нашим ученым изучать небо, но и позволяя нам наблюдать вокруг с безопасного расстояния.
+
+---
+
+ResearchBonus0Properties
+
+<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight
+
+<icon texture='GUI/Bullet'/>Ксенопроизводство<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> обзор
+
+---
+
+ResearchBonus0Stats
+
+<icon texture='Resources/Research'/> +50%
+
+<icon texture='Resources/Research'/> +50%
+
+---
+
+River
+
+River
+
+Река
+
+---
+
+RiverDescription
+
+Pandora's greater gravity means rivers cut deeper into the landscape, making them highly defensible.
+
+Высокая гравитация означает что реки уходят глубже в ландшафт, делая их отличным укрытием.
+
+---
+
+RiverProperties
+
+<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units vs opponents on the other side of the river
+
+<icon texture='GUI/Bullet'/>Ландшафт<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы для защищающихся от врага на другой стороне реки
+
+---
+
+RiverStats
+
+<icon texture='Resources/Food'/> +1
+
+<icon texture='Resources/Food'/> +1
+
+---
+
+Road
+
+Road
+
+Дорога
+
+---
+
+RoadDescription
+
+When properly maintained, this thoroughfare greatly eases the transportation and deployment of vehicles and troops.
+
+При правильном техническом обслуживании, эта магистраль значительно облегчает транспортировку и скорость развертывания транспортных средств и войск.
+
+---
+
+RoadProperties
+
+<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost
+
+<icon texture='GUI/Bullet'/>Производство<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/>цена движения
+
+---
+
+Ruin
+
+Ruin
+
+Разрушеный город
+
+---
+
+RuinDescription
+
+The remnant of a long-gone alien civilization, these ruins can host great knowledge and richness.<br/><br/>To explore the ruin, dispatch a unit to its territory.
+
+Остатки давно ушедшей инопланетной цивилизации, эти руины содержат источник знаний и богатства. <br/> <br/> Чтобы исследовать руины, нужно направить туда подразделения.
+
+---
+
+RuinProperties
+
+<icon texture='GUI/Bullet'/>Alien construction
+
+<icon texture='GUI/Bullet'/>Ксенопроизводство
+
+---
+
+Sand
+
+Sand
+
+Sand
+
+---
+
+Savanna
+
+Savanna
+
+Саванна
+
+---
+
+SavannaDescription
+
+Savannas are characterized by a warm and dry climate, and with their fertile wide plains they are a passable candidate for agriculture.
+
+Саванны характеризуются теплым и сухим климатом, и идеально подходят для сельского хозяйства.
+
+---
+
+SavannaProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+SavannaStats
+
+<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 0
+
+<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 0
+
+---
+
+ScorchedEarth
+
+Scorched Earth
+
+Scorched Earth
+
+---
+
+ScorchedEarthDescription
+
+As beautiful as it once was, this area scarred by war doesn't provide much in the way of operational or strategic assets anymore.
+
+As beautiful as it once was, this area scarred by war doesn't provide much in the way of operational or strategic assets anymore.
+
+---
+
+ScorchedEarthProperties
+
+Effect
+
+Effect
+
+---
+
+Shield
+
+Shield
+
+Shield
+
+---
+
+ShieldDescription
+
+This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding.
+
+This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding.
+
+---
+
+ShieldProperties
+
+Effect
+
+Effect
+
+---
+
+SeafoodBonus0
+
+Fish
+
+Рыбное место
+
+---
+
+SeafoodBonus0Description
+
+The sea in this area is home to edible aquatic lifeforms in great numbers, which would greatly facilitate the survival of nearby cities.
+
+Море в этой области является домом для съедобных водных форм жизни, что позволяет значительно облегчить выживание ближайших городов.
+
+---
+
+SeafoodBonus0Properties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+Storm
+
+Ion Storm
+
+Ion Storm
+
+---
+
+StormDescription
+
+Ahead of the Messari arrival, areas are wracked by massive electromagnetic storms which inflict severe damage on any inhabitants.
+
+Ahead of the Messari arrival, areas are wracked by massive electromagnetic storms which inflict severe damage on any inhabitants.
+
+---
+
+StormProperties
+
+<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Inflicts 1.0 damage per turn<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Movement'/> movement cost
+
+<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Inflicts 1.0 damage per turn<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Movement'/> movement cost
+
+---
+
+Suburb
+
+Suburb
+
+Suburb
+
+---
+
+SuburbDescription
+
+This area of low-rise homes is ideal for our blue-collar population to retire to after a hard day in the factories and mines.
+
+This area of low-rise homes is ideal for our blue-collar population to retire to after a hard day in the factories and mines.
+
+---
+
+SuburbProperties
+
+<icon texture='GUI/Bullet'/>Construction
+
+<icon texture='GUI/Bullet'/>Construction
+
+---
+
+SuburbStats
+
+<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3
+
+<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3
+
+---
+
+Tropical
+
+Tropical
+
+Тропики
+
+---
+
+TropicalDescription
+
+The distinguishing features of tropical zones are a warm, humid climate, lush vegetation, and soil that's rather poor in nutrients.
+
+Отличительные черты тропических зон - теплый, влажный климат, пышная растительность; почва бедна минералами.
+
+---
+
+TropicalProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+TropicalStats
+
+<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0
+
+<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0
+
+---
+
+Tundra
+
+Tundra
+
+Тундра
+
+---
+
+TundraDescription
+
+The tundra is cold and barren, its vegetation mainly composed of shrubs, mosses and lichens. Agriculture is hampered by the low temperatures and permanently frozen subsoil, even in the short growing seasons.
+
+Тундра холодная и бесплодная, ее растительность в основном состоит из кустарников, мха и лишайников. Сельское хозяйство затруднено низким температурам.
+
+---
+
+TundraProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Ландшафт
+
+---
+
+TundraStats
+
+<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 0
+
+<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 0
+
+---
+
+WaterCreditsBonus
+
+Oil Field
+
+Oil Field
+
+---
+
+WaterCreditsBonusDescription
+
+On Pandora, only the planet's oceans have hosted enough organic matter over a long enough time to produce petrochemicals. Exploiting them will produce a huge resource and credit boost.
+
+On Pandora, only the planet's oceans have hosted enough organic matter over a long enough time to produce petrochemicals. Exploiting them will produce a huge resource and credit boost.
+
+---
+
+WaterCreditsBonusProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Terrain
+
+---
+
+WaterCreditsBonusStats
+
+<icon texture='Resources/Food'/> -2  <icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%
+
+<icon texture='Resources/Food'/> -2  <icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%
+
+---
+
+WaterFoodBonus
+
+Panspermia Reeds
+
+Panspermia Reeds
+
+---
+
+WaterFoodBonusDescription
+
+From space, these native plants bear a resemblance to Terran reeds. Yet, from the surface, these skyscrapin, metronomic plants are as soft as asparagus and as thick as palms, growing rapidly in the fertile oceans. They're an excellent source of nutrients.
+
+From space, these native plants bear a resemblance to Terran reeds. Yet, from the surface, these skyscrapin, metronomic plants are as soft as asparagus and as thick as palms, growing rapidly in the fertile oceans. They're an excellent source of nutrients.
+
+---
+
+WaterFoodBonusProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Terrain
+
+---
+
+WaterFoodBonusStats
+
+<icon texture='Resources/Food'/> +3
+
+<icon texture='Resources/Food'/> +3
+
+---
+
+WaterFungus
+
+Fungus
+
+Fungus
+
+---
+
+WaterFungusDescription
+
+Very similar to old Earth, fungi on Pandora mainly act as symbionts for plants and animals. However, we recently discovered a macroscopic and very aggressive species that infests all kinds of organic lifeforms, emitting highly toxic spores. Further research is required, but for now troops should operate in fungus-contaminated territories with extreme caution.
+
+Very similar to old Earth, fungi on Pandora mainly act as symbionts for plants and animals. However, we recently discovered a macroscopic and very aggressive species that infests all kinds of organic lifeforms, emitting highly toxic spores. Further research is required, but for now troops should operate in fungus-contaminated territories with extreme caution.
+
+---
+
+WaterFungusProperties
+
+<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost
+
+<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost
+
+---
+
+WaterFungusStats
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1
+
+<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1
+
+---
+
+WaterMineralsBonus
+
+Aquatic Mexallon
+
+Aquatic Mexallon
+
+---
+
+WaterMineralsBonusDescription
+
+Mexallon crystals reach up from the ocean beds here. Mexallon is a very valuable mineral that's tough to extract.
+
+Mexallon crystals reach up from the ocean beds here. Mexallon is a very valuable mineral that's tough to extract.
+
+---
+
+WaterMineralsBonusProperties
+
+<icon texture='GUI/Bullet'/>Terrain
+
+<icon texture='GUI/Bullet'/>Terrain
+
+---
+
+WaterMineralsBonusStats
+
+<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +4
+
+<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +4

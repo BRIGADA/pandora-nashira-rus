@@ -1,0 +1,309 @@
+Bombardment
+
+Orbital Bombardment
+
+Орбитальная бомбардировка
+
+---
+
+BombardmentDescription
+
+<style name='Italic'/>&quot;Some religious fanatics still fear the gods striking from the heavens. While we will not dub ourselves gods for inventing such powers, it might instill fear into those brainless lunatics.&quot;<br/>    -- Admiral James Heid, The Callisto Conflict<style name='Default'/><br/><br/>Orbital weaponry is neither cheap nor easy to manage. Yet the capability to strike foes anytime and anywhere can dramatically alter the outcome of any war.
+
+<style name='Italic'/>&quot; Многие религиозные фанатики все еще боятся грома с небес. Почему бы нам самим не использовать подобные силы, это станет отличным подспорьем в борьбе с сумашедшими.&quot;<br/>    -- Адмиран Джейм Хейд, Коллисианский Конфликт<style name='Default'/><br/><br/>Орбитальное оружие не является ни дешевым, ни легким в использовании. Тем не менее, возможность ударить врага в любое время и в любом месте может резко изменить исход любой войны.
+
+---
+
+BombardmentProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deals 1 <icon texture='Attributes/Power'/> power of damage to all units in a territory<br/><icon texture='GUI/Bullet'/>Ignores weapons of affected units
+
+<icon texture='GUI/Bullet'/>Операция<br/><icon texture='GUI/Bullet'/>Наносит 1 <icon texture='Attributes/Power'/> урона всем подразделениям на выбранной территории<br/><icon texture='GUI/Bullet'/>Игнорирует особенности подразделений
+
+---
+
+BlackHole
+
+Black Hole
+
+Черная дыра
+
+---
+
+BlackHoleDescription
+
+Unlike mass destruction weapons based on fusion and fission, this pseudo black hole has no lasting effects on the environment. Beyond its tremendous destructive power that is, as it crushes everything in a wide radius around its creation point.
+
+В отличие от оружия массового уничтожения на основе расщепления, эта псевдо черная дыра не имеет долговременного воздействие на окружающую среду. Ну, кроме своей огромной разрушительной силы, которая уничтожает все в большом радиусе вокруг точки создания.
+
+---
+
+BlackHoleProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deals 64 <icon texture='Attributes/Power'/> power of damage to all units and population in a territory and its neighbors<br/><icon texture='GUI/Bullet'/>Ignores weapons of affected units<br/><icon texture='GUI/Bullet'/>Destroys terrain features<br/><icon texture='GUI/Bullet'/>Causes wasteland
+
+<icon texture='GUI/Bullet'/>Операция<br/><icon texture='GUI/Bullet'/>Наносит 64 <icon texture='Attributes/Power'/> урона всем подразделениям и населению на выбранной территории и ее соседям<br/><icon texture='GUI/Bullet'/>Игнорирует особенности подразделений<br/><icon texture='GUI/Bullet'/>Уничтожает улучшения территорий<br/><icon texture='GUI/Bullet'/>Оставляет после себя пустошь.
+
+---
+
+DropPod
+
+Drop Pod
+
+Десантная капсула
+
+---
+
+DropPodDescription
+
+Drop pods are shielded chambers launched from orbit, containing one or several troops, giving us the possibility to drop them behind enemy lines with speed and precision.
+
+Запускаемая с орбиты десантная капсула, содержит один или несколько отрядов, давая нам возможность оказаться в тылу врага с огромной скоростью.
+
+---
+
+DropPodProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Not deployed directly, but consumed when a unit performs an orbital deployment
+
+<icon texture='GUI/Bullet'/>Операция<br/><icon texture='GUI/Bullet'/>Не активируется, а тратится при использовании подразделением десантных капсул в ваших городах.
+
+---
+
+Eggs0
+
+Eggs0
+
+Eggs0
+
+---
+
+Eggs1
+
+Eggs1
+
+Eggs1
+
+---
+
+Eggs2
+
+Eggs2
+
+Eggs2
+
+---
+
+EMPBeam
+
+EMP Beam
+
+EMP луч
+
+---
+
+EMPBeamDescription
+
+Unleashing a concentrated electromagnetic beam disrupts all ongoing productions, affects all electronic devices and induces malfunctions in all computer systems in the area. Targeted on a colony, it creates a massive and long-lasting blackout.
+
+Излучает концентрированный пучок электромагнитных волн, прерывает все текущие производства, влияет на все электронные устройства и вызывает сбои во всех компьютерных системах в области.
+
+---
+
+EMPBeamProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Causes a blackout which fully disables a city for 5 turns
+
+<icon texture='GUI/Bullet'/>Операция<br/><icon texture='GUI/Bullet'/>Полностью подавляет работу в городе на 5 ходов.
+
+---
+
+Mines
+
+Vulcan Mines
+
+Vulcan Mines
+
+---
+
+MinesDescription
+
+Deployed from our satellites, these hardened devices burrow deep into the ground. There, they expose their volatile chemical interiors to Pandora's air, creating a bubbling pressurized bomb, waiting to be disturbed.
+
+Deployed from our satellites, these hardened devices burrow deep into the ground. There, they expose their volatile chemical interiors to Pandora's air, creating a bubbling pressurized bomb, waiting to be disturbed.
+
+---
+
+MinesProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Inflicts 1 <icon texture='Attributes/Power'/> power of damage per turn<br/><icon texture='GUI/Bullet'/>Consumes all <icon texture='Attributes/Movement'/> movement upon entering<br/><icon texture='GUI/Bullet'/>Lasts 8 turns
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Inflicts 1 <icon texture='Attributes/Power'/> power of damage per turn<br/><icon texture='GUI/Bullet'/>Consumes all <icon texture='Attributes/Movement'/> movement upon entering<br/><icon texture='GUI/Bullet'/>Lasts 8 turns
+
+---
+
+NanoRobots
+
+Nano Robots
+
+Нано роботы
+
+---
+
+NanoRobotsDescription
+
+Microscopic scale robots can be programmed for specific tasks, such as nanomedicine or repairing devices, sacrificing part of their structures or themselves as a whole in the process to recompose the molecular structure of damaged or wounded units.
+
+Микроскопические роботы  могут быть запрограммированы для выполнения задач, таких как наномедицину или ремонт устройств, в процессе жертвуя частью своих структур или самих себя в целом, чтобы изменить молекулярную структуру поврежденных или раненых подразделений.
+
+---
+
+NanoRobotsProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Fully repairs all units in a territory
+
+<icon texture='GUI/Bullet'/>Операция<br/><icon texture='GUI/Bullet'/>Полностью восстанавливает все подразделения на территории.
+
+---
+
+Nuke
+
+Nuclear Missile
+
+Ядерное оружие
+
+---
+
+NukeDescription
+
+Nuclear reactions release vast quantities of energy from relatively small amounts of matter. Weaponized into small nuclear devices no larger than traditional bombs it can devastate entire cities by blast, fire and radiation.<br/><br/>Delivering nuclear payloads successfully is as important and costly as producing the nuclear devices themselves. With long range ballistic missiles we are now able to deliver these weapons of mass destruction to our enemies' doorstep.<br/><br/><style name='Italic'/>Intellectuals have long been warning about a nuclear war resulting in mutually assured destruction.
+
+Ядерные реакции создают огромное количество энергии из относительно небольшого количества вещества. Поместив ядерные устройства в небольшие ракеты, не большие чем традиционные бомбы мы можем опустошить целые города взрывом, пожаром и радиацией. <br/> <br/> Используя огромный радиус действия баллистических ракет мы теперь в состоянии доставить это оружие массового уничтожения к порогу домов наших врагов. <br/> <br/><style name='Italic'/>Ученые давно предупреждали что результатом ядерной войны может быть только взаимное уничтожение
+
+---
+
+NukeProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deals 8 <icon texture='Attributes/Power'/> power of damage to all units and population in a territory<br/><icon texture='GUI/Bullet'/>Ignores weapons of affected units<br/><icon texture='GUI/Bullet'/>Destroys terrain features<br/><icon texture='GUI/Bullet'/>Causes wasteland
+
+<icon texture='GUI/Bullet'/>Операция<br/><icon texture='GUI/Bullet'/>Наносит 8 <icon texture='Attributes/Power'/> всем подразделениям и населению на территории<br/><icon texture='GUI/Bullet'/>Игнорирует особенности подразделений<br/><icon texture='GUI/Bullet'/>Уничтожает все улучшения территорий<br/><icon texture='GUI/Bullet'/>Оставляет после себя пустошь.
+
+---
+
+Portal0
+
+Portal0
+
+Portal0
+
+---
+
+Portal1
+
+Portal1
+
+Portal1
+
+---
+
+Portal2
+
+Portal2
+
+Portal2
+
+---
+
+Portal3
+
+Portal3
+
+Portal3
+
+---
+
+Portal4
+
+Portal4
+
+Portal4
+
+---
+
+Promotion
+
+Field Training
+
+Полевые тренировки
+
+---
+
+PromotionDescription
+
+A brutal variation on war games, Field Training is deployed and performed using live ammunition. It is known for leaving many a soldier crippled or traumatized, or both. Only the cream survive, and the gained knowledge gives them an edge in real warfare.
+
+Использование боевых патронов в тренировках, жестокие физические нагрузки и тренировка идеальной дисциплины гарантирует большую выживаемость подразделений на поле боя.
+
+---
+
+PromotionProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rank for all units in a territory<br/><icon texture='GUI/Bullet'/>Deals 20% <icon texture='Attributes/Health'/> health damage<br/><icon texture='GUI/Bullet'/>Does not increase <icon texture='Attributes/Rank'/> rank above 10<br/><icon texture='GUI/Bullet'/>Does not affect units that would die
+
+<icon texture='GUI/Bullet'/>Операция<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> к рангу всех подразделений на территории.
+
+---
+
+Scan
+
+Satellite Scan
+
+Спутниковое разведка
+
+---
+
+ScanDescription
+
+Orbital reconnaissance has many advantages; it is discreet, efficient, precise, and ubiquitous. The latest generation recon satellites are able to spy on a wide zone at once, making them indispensable tools of espionage and warfare.
+
+Орбитальная разведка имеет много преимуществ: это недорогой, эффективный, точный способ шпионить за широкой территорией, что делает ее незаменимым инструментом в войне.
+
+---
+
+ScanProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Reveals a territory and its neighbors for 1 turn
+
+<icon texture='GUI/Bullet'/>Операция<br/><icon texture='GUI/Bullet'/>Показывает территорию и соседние с ней зоны на 1 ход.
+
+---
+
+Storm
+
+Ion Storm
+
+Ion Storm
+
+---
+
+Teleportation
+
+Planetary Gate
+
+Врата телепортации
+
+---
+
+TeleportationDescription
+
+While mostly known to laymen as wormholes, Planetary Gates are simply entrypoints into small scale white holes. Those devices allow any units to travel at superluminal speeds to a predefined point.
+
+Эти устройства позволяют любым объектам перемещаться на сверхсветовой скорости к заранее заданной точке.
+
+---
+
+TeleportationProperties
+
+<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Teleports all units from source to target territory
+
+<icon texture='GUI/Bullet'/>Операция<br/><icon texture='GUI/Bullet'/>Телепортирует все подразделения из одной точки в другую.

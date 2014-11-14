@@ -1,0 +1,189 @@
+Economy0
+
+&quot;Without cities and infrastructure, there is no economy.&quot;
+
+&quot;Без городов и инфраструктуры, нет экономики.&quot;
+
+---
+
+Economy1
+
+&quot;Red numbers everywhere! It can't get any worse, surely?&quot;
+
+&quot;Везде красные цифры! Хуже быть уже не может, правда?&quot;
+
+---
+
+Economy2
+
+&quot;Our market pales compared to that of the competition.&quot;
+
+&quot;Наш рынок - бледная копия того, что есть у наших врагов.&quot;
+
+---
+
+Economy3
+
+&quot;We have a flourishing economy!&quot;
+
+&quot;Наша экономика процветает!&quot;
+
+---
+
+Economy4
+
+&quot;Our economy is one of the driving forces behind the planetary market.&quot;
+
+&quot;Наша экономика является одной из движущих сил планетарного рынка.&quot;
+
+---
+
+Economy5
+
+&quot;Years upon years of hard labor have come to fruition: our economy is unrivaled!&quot;
+
+&quot;Многие годы труда не прошли зря: наша экономика не имеет себе равных!&quot;
+
+---
+
+Diplomacy0
+
+&quot;No contact with other factions has been established yet.&quot;
+
+&quot;У вас пока не было никаких контактов с другими фракциями.&quot;
+
+---
+
+Diplomacy1
+
+&quot;We are isolated and hated by many! I beg you to reconsider your actions!&quot;
+
+&quot;Слишком многие нас ненавидят и презирают! Я умоляю, пересмотрите нашу политику!&quot;
+
+---
+
+Diplomacy2
+
+&quot;The other factions have started to distance themselves from us.&quot;
+
+&quot;Другие фракции постепенно перестают с нами общаться.&quot;
+
+---
+
+Diplomacy3
+
+&quot;We are respected by the other faction leaders.&quot;
+
+&quot;Другие лидеры фракций нас уважают.&quot;
+
+---
+
+Diplomacy4
+
+&quot;We are on good terms with other factions. Keep it up!&quot;
+
+&quot;У вас отличные отношения с другими фракциями. Продолжайте в том же духе!&quot;
+
+---
+
+Diplomacy5
+
+&quot;Great job, other faction leaders like or even love us! We can count on their support.&quot;
+
+&quot;Отличная работа, похоже, что лидеры других фракций к нам не равнодушны! Мы можем рассчитывать на их поддержку.&quot;
+
+---
+
+Military0
+
+&quot;We have no military and are entirely helpless!&quot;
+
+&quot;У нас нету армий и мы абсолютно беззащитны!&quot;
+
+---
+
+Military1
+
+&quot;Our troop numbers are pathetic! Any halfway formidable foe will simply roll over us.&quot;
+
+&quot;Наши войска почти бесполезны! Любой враг представляет для нас смертельную угрозу.&quot;
+
+---
+
+Military2
+
+&quot;Our military strength is too low, we might not hold off an invasion.&quot;
+
+&quot;Наша военная сила крайне низкая. Высок шанс вторжения.&quot;
+
+---
+
+Military3
+
+&quot;We have solid military forces able to deal with enemy aggression.&quot;
+
+&quot;Наша военная сила почти равна силе врагов.&quot;
+
+---
+
+Military4
+
+&quot;Your army stands strong and ready to handle prolonged campaigns.&quot;
+
+&quot;У нас сильная армия, достаточная для военных кампаний.&quot;
+
+---
+
+Military5
+
+&quot;Our forces are unrivaled and the finest on the planet. Enemies tremble in fear!&quot;
+
+&quot;Наши войска самый сильные на всей планете. Враги нас боятся!&quot;
+
+---
+
+Research0
+
+&quot;We have not yet discovered any technologies.&quot;
+
+&quot;Мы пока не сделали никаких открытий.&quot;
+
+---
+
+Research1
+
+&quot;We are years behind the other factions and ridiculed by many!&quot;
+
+&quot;Целыми десятилетиями, фракции по очереди высмеивали нас!&quot;
+
+---
+
+Research2
+
+&quot;Other factions have passed us, time to optimize our priorities!&quot;
+
+&quot;Другие фракции обошли нас, время пересмотра приоритетов!&quot;
+
+---
+
+Research3
+
+&quot;Our research is going well.&quot;
+
+&quot;Темп исследований - приемлемый.&quot;
+
+---
+
+Research4
+
+&quot;Good news! We are one of the most advanced factions on the planet.&quot;
+
+&quot;Хорошие новости! Мы наиболее технологически продвинутая фракция на этой планете.&quot;
+
+---
+
+Research5
+
+&quot;I am proud to inform you that we have surpassed everyone -- our scientists are unrivaled.&quot;
+
+&quot;Наши ученые достигли неописуемых успехов, ни одна фракция даже близко не стоит с нами.&quot;

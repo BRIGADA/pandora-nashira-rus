@@ -1,0 +1,709 @@
+AcceptCreditsForDeal0
+
+(considers payment for deal)
+
+(согласие на плату за сделку)
+
+---
+
+AcceptCreditsForDeal1
+
+(accepts payment for deal)
+
+(принятие платы за сделку)
+
+---
+
+AcceptDenounce
+
+(accepts denounce)
+
+(согласие на осуждение)
+
+---
+
+AcceptDenounceThirdParty0
+
+(considers denouncement of third party)
+
+(considers denouncement of third party)
+
+---
+
+AcceptDenounceThirdParty1
+
+(accepts denouncement of third party)
+
+(accepts denouncement of third party)
+
+---
+
+AcceptOpenBorders
+
+(accepts open borders)
+
+(согласие на открытие границ)
+
+---
+
+AcceptPeaceOfferToThirdParty0
+
+(considers peace offer to third party)
+
+(considers peace offer to third party)
+
+---
+
+AcceptPeaceOfferToThirdParty1
+
+(accepts peace offer to third party)
+
+(accepts peace offer to third party)
+
+---
+
+AcceptPraise
+
+(accepts praise)
+
+(согласие на похвалы)
+
+---
+
+AcceptSanctionsAgainstThirdParty0
+
+(considers sanctions against third party)
+
+(considers sanctions against third party)
+
+---
+
+AcceptSanctionsAgainstThirdParty1
+
+(accepts sanctions against third party)
+
+(accepts sanctions against third party)
+
+---
+
+AcceptShareMap
+
+(accepts to share maps)
+
+(согласие на обмен картами)
+
+---
+
+AcceptWarDeclarationOnThirdParty0
+
+(considers war declaration on third party)
+
+(considers war declaration on third party)
+
+---
+
+AcceptWarDeclarationOnThirdParty1
+
+(accepts war declaration on third party)
+
+(accepts war declaration on third party)
+
+---
+
+RejectCreditsForDeal0
+
+(rejects payment for deal)
+
+(отказ от платы за сделку)
+
+---
+
+RejectCreditsForDeal1
+
+(rejects payment for deal)
+
+(отказ от платы за сделку)
+
+---
+
+AllianceAccepted
+
+(accepts alliance)
+
+(принятие альянса)
+
+---
+
+AllianceHint
+
+An alliance lasts at least 10 turns and allows both factions to enter each other's territory and fight side by side.
+
+Альянс длится не менее 10 ходов и позволяет обеим фракциям посещать территорию друг друга и сражаться бок о бок.
+
+---
+
+AllianceRejected
+
+(rejects alliance)
+
+(отказ от альянса)
+
+---
+
+DeclareWar
+
+(declares war)
+
+(объявление войны)
+
+---
+
+DemandCreditsForDeal
+
+(demands payment for deal)
+
+(требование платы за сделку)
+
+---
+
+DemandPeaceOfferToThirdParty0
+
+(demands peace offer to third party)
+
+(demands peace offer to third party)
+
+---
+
+DemandSanctionsAgainstThirdParty0
+
+(demands sanctions against third party)
+
+(demands sanctions against third party)
+
+---
+
+DemandTribute0
+
+(demands tribute)
+
+(требование дани)
+
+---
+
+DemandWarDeclarationOnThirdParty0
+
+(demands war declaration on third party)
+
+(demands war declaration on third party)
+
+---
+
+DemandWithdrawal
+
+(demands withdrawal)
+
+(требование вывода войск)
+
+---
+
+Denounce
+
+(denounces publicly)
+
+(публичное осуждение)
+
+---
+
+DenounceHint
+
+Public accusations that decrease the standing of the denounced faction with your friends but increase the faction's standing with your rivals. If denied, the impact is lessened.
+
+Публичные обвинения, которые уменьшают престиж осуждаемой фракции у ваших друзей, но увеличивают ее цену у ваших соперников. В случае отмены, влияние уменьшается.
+
+---
+
+DenounceThirdParty0
+
+(privately denounces third party)
+
+(privately denounces third party)
+
+---
+
+DenounceThirdPartyHint
+
+Accusations of a third party committing crimes against your dialogue partner. If believed, you gain standing with the partner while the third party loses favor with them. Otherwise, you just lose standing.
+
+Accusations of a third party committing crimes against your dialogue partner. If believed, you gain standing with the partner while the third party loses favor with them. Otherwise, you just lose standing.
+
+---
+
+GiftAccepted0
+
+(considers to accept gift)
+
+(согласиться на подарок)
+
+---
+
+GiftAccepted1
+
+(accepts gift)
+
+(принятие подарка)
+
+---
+
+GiftHint
+
+A financial gift that, if accepted, increases the standing of the donor with the receiver.
+
+Финансовые подарок, который, в случае принятия, улучшает отношения.
+
+---
+
+GiftRejected0
+
+(rejects gift)
+
+(отказ от подарка)
+
+---
+
+GiftRejected1
+
+(rejects gift)
+
+(отказ от подарка)
+
+---
+
+Goodbye
+
+(ends dialogue)
+
+(Окончить диалог)
+
+---
+
+LetMeKnow
+
+(ends dialogue)
+
+(ends dialogue)
+
+---
+
+LetMeThink
+
+(considers options)
+
+(considers options)
+
+---
+
+NonAggressionPactAccepted
+
+(accepts non-aggression pact)
+
+(принятие пакта о ненападении)
+
+---
+
+NonAggressionPactHint
+
+A non-aggression pact prevents both factions from declaring war on each other. Terminating this pact results in a significant standing loss with the other faction and, to a lesser degree, all other factions who know either of the two former pact partners.
+
+Пакт о ненападении длится не менее 10 ходов и предотвращает объявление войны друг другу в течение всего срока пакт и еще 5 ходов после расторжения.
+
+---
+
+NonAggressionPactRejected
+
+(rejects non-aggression pact)
+
+(отказ от пакта о ненападении)
+
+---
+
+OfferAlliance
+
+(offers alliance)
+
+(предложить альянс)
+
+---
+
+OfferGift0
+
+(offers gift)
+
+(предложить подарок)
+
+---
+
+OfferNonAggressionPact
+
+(offers non-aggression pact)
+
+(предложить пакта о ненападении)
+
+---
+
+OfferOpenBorders
+
+(offers open borders)
+
+(предложение открыть границы)
+
+---
+
+OfferPeace
+
+(offers peace)
+
+(предложение мира)
+
+---
+
+OfferResearchPact
+
+(offers research pact)
+
+(предложение научного договора)
+
+---
+
+OfferShareMap
+
+(offers to share maps)
+
+(предложение обменяться картами)
+
+---
+
+OfferTradingPact
+
+(offers trading pact)
+
+(предложение торгового договора)
+
+---
+
+OpenBordersHint
+
+Allows both factions to enter each other's territory.
+
+Позволяет обеим фракциям входить на взаимные территории.
+
+---
+
+PeaceAccepted
+
+(accepts peace)
+
+(принятие мира)
+
+---
+
+PeaceOfferToThirdPartyHint
+
+Demands from the dialogue partner to offer peace to a third party. If both partners are in an alliance, refusing to offer peace results in a standing loss with the ally.
+
+Demands from the dialogue partner to offer peace to a third party. If both partners are in an alliance, refusing to offer peace results in a standing loss with the ally.
+
+---
+
+PeaceRejected
+
+(rejects peace)
+
+(отказ от мира)
+
+---
+
+Praise
+
+(praises publicly)
+
+(публичная похвала)
+
+---
+
+PraiseHint
+
+Public words of praise that, if accepted, increase the standing of the praised faction with your friends but decrease the faction's standing with your rivals.
+
+Публичные похвалы, если будут приняты, повысят престиж у фракции, которую хвалят, у ваших друзей, но уменьшит доверие у соперников вашей фрактции.
+
+---
+
+RejectDenounce
+
+(rejects denounce)
+
+(отвергнуть осуждение)
+
+---
+
+RejectDenounceThirdParty0
+
+(rejects denouncement of third party)
+
+(rejects denouncement of third party)
+
+---
+
+RejectDenounceThirdParty1
+
+(rejects denouncement of third party)
+
+(rejects denouncement of third party)
+
+---
+
+RejectOpenBorders
+
+(rejects open borders)
+
+(отказаться открывать границы)
+
+---
+
+RejectPeaceOfferToThirdParty0
+
+(rejects peace offer to third party)
+
+(rejects peace offer to third party)
+
+---
+
+RejectPeaceOfferToThirdParty1
+
+(rejects peace offer to third party)
+
+(rejects peace offer to third party)
+
+---
+
+RejectPraise
+
+(rejects praise)
+
+(отказаться от похвалы)
+
+---
+
+RejectSanctionsAgainstThirdParty0
+
+(rejects sanctions against third party)
+
+(rejects sanctions against third party)
+
+---
+
+RejectSanctionsAgainstThirdParty1
+
+(rejects sanctions against third party)
+
+(rejects sanctions against third party)
+
+---
+
+RejectShareMap
+
+(rejects to share maps)
+
+(отказаться меняться картами)
+
+---
+
+RejectWarDeclarationOnThirdParty0
+
+(rejects war declaration on third party)
+
+(rejects war declaration on third party)
+
+---
+
+RejectWarDeclarationOnThirdParty1
+
+(rejects war declaration on third party)
+
+(rejects war declaration on third party)
+
+---
+
+ResearchPactAccepted
+
+(accepts research pact)
+
+(принять научного договор)
+
+---
+
+ResearchPactHint
+
+A research pact grants a bonus of up to 25% (based on its duration) of a faction's total research per turn to the partner. Thus, the faction with the lower research per turn profits more from the pact.
+
+Научный договор предоставляет бонус в размере до 10% (на основе его продолжительности) от общего числа исследований фракции за ход партнеру. Таким образом, фракция с меньшим числом очков исследования за ход, получает больше прибыли из пакта.
+
+---
+
+ResearchPactRejected
+
+(rejects research pact)
+
+(разорвать научный договор)
+
+---
+
+SanctionsAgainstThirdPartyHint
+
+Demands from the dialogue partner to cancel any trading and research pact with a third party. Denying the request results in a standing loss, while following through causes a standing gain.
+
+Demands from the dialogue partner to cancel any trading and research pact with a third party. Denying the request results in a standing loss, while following through causes a standing gain.
+
+---
+
+ShareMapHint
+
+Both factions share their explored territories, but the fog of war is not revealed.
+
+Обе фракции делятся своими изученными территориями, но туман войны не исчезает.
+
+---
+
+TerminateAlliance
+
+(terminates alliance)
+
+(прервать альянс)
+
+---
+
+TerminateNonAggressionPact
+
+(terminates non-aggression pact)
+
+(прервать пакт о ненападении)
+
+---
+
+TerminateOpenBorders
+
+(terminates open borders)
+
+(закрыть границы)
+
+---
+
+TerminateResearchPact
+
+(terminates research pact)
+
+(прервать научный договор)
+
+---
+
+TerminateTradingPact
+
+(terminates trading pact)
+
+(прервать торговый договор)
+
+---
+
+TradingPactAccepted
+
+(accepts trading pact)
+
+(принять торговый договор)
+
+---
+
+TradingPactHint
+
+A trading pact grants a bonus of up to 25% (based on its duration) of a faction's total income per turn to the partner. Thus, the faction with the lower income per turn profits more from the pact.
+
+Торговый пакт дает бонус до 10% (в зависимости от его продолжительности) от общего дохода фракции за ход партнеру. Таким образом, фракция с более низкими доходами за ход получает больше прибыли из пакта.
+
+---
+
+TradingPactRejected
+
+(rejects trading pact)
+
+(отказаться от торгового договора)
+
+---
+
+TributeAccepted0
+
+(considers to pay tribute)
+
+(предложение заплатить дань)
+
+---
+
+TributeAccepted1
+
+(accepts to pay tribute)
+
+(согласие платить дань)
+
+---
+
+TributeHint
+
+A reflection of the power balance between two factions, demanding or refusing tribute harms relations between the involved factions.
+
+Обычно является признаком доминирования одной фракции над другой, предложение заплатить дань, а также отказ платит дань оказывает негативное влияние на отношения между двумя фракциями.
+
+---
+
+TributeRejected0
+
+(rejects to pay tribute)
+
+(отказ платить дань)
+
+---
+
+TributeRejected1
+
+(rejects to pay tribute)
+
+(отказ платить дань)
+
+---
+
+WarHint
+
+A war drastically decreases the standing between two factions and allows each party to enter the enemy's territory, attack their units and capture cities.
+
+Война резко увеличивает непонимание между двумя фракциями и позволяет каждой партии проникнуть на территорию противника, атаковать их узлы и захватывать города.
+
+---
+
+WarDeclarationOnThirdPartyHint
+
+Demands from the dialogue partner to declare war on a third party. If both partners are in an alliance, refusing to declare war results in a standing loss with the ally.
+
+Demands from the dialogue partner to declare war on a third party. If both partners are in an alliance, refusing to declare war results in a standing loss with the ally.
+
+---
+
+WithdrawalAccepted
+
+(accepts to withdraw)
+
+(убрать свои войска)
+
+---
+
+WithdrawalRejected
+
+(rejects to withdraw)
+
+(отказаться убирать войска)

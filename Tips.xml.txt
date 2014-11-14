@@ -1,0 +1,461 @@
+0Description
+
+Colonizers are massive construction units that allow you to build the cities that form the backbone of your empire. To found your first city on Pandora, click the &quot;Build City&quot; button in the selection panel in the bottom left. Note that this order will consume your Colonizer.
+
+Колонизаторы - массивные строительные юниты, которые позволяют строить города, которые формируют костяк вашей империи. Чтобы найти свой первый город на Пандоре, нажмите &quot;Создать город&quot; в панели выбора в левом нижнем углу. Обратите внимание, что после этого приказа колонизатор будет потерян.
+
+---
+
+0Name
+
+Colonizer
+
+Колонизатор
+
+---
+
+1Description
+
+This unit is your first line of defense against rival factions and hostile alien species. You can either play safe by fortifying it in your city, or send it out on exploration duty by right-clicking on your destination. Exploration is risky, but can be very rewarding!
+
+Этот энит - ваша первая линия обороны против соперничающих группировок и враждебных чужеродных видов. Вы можете Не рисковать, оставив его охранять ваш город, или отправить его на разведку, щелкнув правой кнопкой мыши на пункт назначения. Разведка  рискованна, но может быть очень полезной!
+
+---
+
+1Name
+
+Combat Unit
+
+Боевой юнит
+
+---
+
+2Description
+
+A city can produce one item at a time, for example a unit or a building. In the upper right you can see your production options. Left-clicking on an option will add to the production queue below. Production of the item will begin when the turn ends. You can reorder the production queue by dragging items up and down the queue.
+
+Город может произвести только один объект одновременно, например юнит или здание. В правом верхнем углу вы можете увидеть ваши варианты производства. Кликните левой кнопкой мыши на опции и он будет добавлен в очередь производства и начнет производиться, когда придет его очередь.
+
+---
+
+2Name
+
+City Production
+
+Производство в Городе
+
+---
+
+3Description
+
+The population panel helps you focus your population into specific areas. Experiment by picking up and dropping colonists onto different tasks. You can see the reflected changes in the statistics panel just above. Being smart about colonist allocation can be the difference between a flourishing empire and a miserable one.
+
+Панель 'население' помогает вам сосредоточить ваше население в конкретных областях. Экспериментируйте, переводя колонистов на различные задачи. Вы можете видеть изменения в панели статистики чуть выше. С умом выбирайте распределение колонистов и вы получите процветающую империю.
+
+---
+
+3Name
+
+City Population
+
+Население города
+
+---
+
+4Description
+
+If you have enough <icon texture='Resources/Credits'/> credits available, you can invest them to quickly finish production by clicking on the little <icon texture='Resources/Credits'/> credits buttons.
+
+Если у вас достаточно <icon texture='Resources/Credits'/> кредитов, вы можете инвестировать их, чтобы быстро закончить производство, нажав на маленькую <icon texture='Resources/Credits'/> иконку кредитов.
+
+---
+
+4Name
+
+City Purchasing
+
+Ускорение призводства
+
+---
+
+5Description
+
+On the bottom left of the city view you can see a list of all the buildings that have been produced in the city. To sell a building, simply click on it.
+
+На нижнем левом углу вида город вы можете увидеть список всех зданий, которые были произведены в городе. Чтобы продать здание, просто нажмите на нее.
+
+---
+
+5Name
+
+City Buildings
+
+Городские строения
+
+---
+
+6Description
+
+The workshop allows you to manage and customize your unit designs. To create a new design, click the &quot;New&quot; button. This will duplicate the selected design and allow you to customize it without affecting the original.
+
+Юниты строятся по проектам, и мастерская позволяет управлять и настраивать ваши проекты. Чтобы создать новый проект, нажмите кнопку 'Создать'. Будет создан дубликат, что позволяет настроить его, не затрагивая оригинал.
+
+---
+
+6Name
+
+Workshop Design Creation
+
+Создание проектов в мастерской
+
+---
+
+7Description
+
+Formers build terrain modifications like farms and mines, which improve the resource output of territories utilized by cities. For greater convenience you can automate Formers by pressing the &quot;Automate&quot; button in the selection panel.
+
+Формер позволяет стоить модификаторы местности, такие как фермы и шахты, которые улучшают вывод ресурсов территорий, используемых городами. Для большего удобства вы можете автоматизировать Фориеров, нажав на кнопку &quot;Автоматизация&quot; в панели выбора.
+
+---
+
+7Name
+
+Former
+
+Формер
+
+---
+
+8Description
+
+You are low on resources! Move your mouse over the resources on the top left of the screen to find out what is going on! Perhaps it would help to tweak your cities' priorities, produce a building or two, or establish a new city with a colonizer.
+
+Вам хватает ресурсов! Наведите курсор на ресурсы в левом верхнем углу экрана, чтобы выяснить, что происходит! Возможно, поможет настроить приоритеты ваших городов, построить здание или два, или создать новый город.
+
+---
+
+8Name
+
+Out of Resources
+
+Нехватка ресурсов
+
+---
+
+9Description
+
+Welcome to Pandora! To move around the world you can hold down the left mouse button over terrain and move your mouse, or use the arrow keys. Once you are comfortable with your surroundings, left-click to select your unit in the center of the explored world and click OK.
+
+Добро пожаловать на Пандору! Для перемещения по всему миру вы можете перемещать мышь, удерживая левую кнопку мыши, или использовать клавиши со стрелками. Как только Вы освоитесь с вашим окружением, щелкните левой кнопкой мыши, чтобы выбрать юнит в центре исследованого мир и нажмите кнопку ОК.
+
+---
+
+9Name
+
+Start
+
+Старт
+
+---
+
+10Description
+
+Take your time to explore your way around the interface. Every button and label has a hint to provide you with relevant information. If you are unsure what to do next, refer to the glowing button on the right side of the screen. It will help you focus on the next task before you end your turn.
+
+Не торопитесь, исследуя интерфейса. Каждая кнопка и ярлык имеет рекомендацию, которая предоставит вам необходимую информацию. Если вы не уверены, что делать дальше, обратитесь к светящейся кнопки на правой стороне экрана. Это поможет вам сосредоточиться на следующей задаче, прежде чем вы закончите свой ход.
+
+---
+
+10Name
+
+Turn Button
+
+Кнопка хода
+
+---
+
+11Description
+
+Vital resources like food, minerals, research and credits are accumulated and shared globally. Every city provides and consumes these resources from the same pool, allowing you to fully specialize cities and even stock up on resources for harsher times.
+
+Жизненно важных ресурсs, такие как продукты питания, минералы, научные исследования и кредиты накапливаются и используются глобально. Каждый город предоставляет и потребляет эти ресурсы из того же общего фонда, что позволяет специализировать города и даже запастись ресурсами для суровых времен.
+
+---
+
+11Name
+
+Global Pooled Resources
+
+Общий фонд ресурсов
+
+---
+
+12Description
+
+You have discovered your first operation. These have various effects, from buffing your units to damaging the enemy. After producing an operation, or its associated building, you will be able to use it across Pandora.
+
+Вы открыли свою первую операцию. Они имеют различные эффекты, от лечения ваших юнитов до повреждения врага. После изготовления операции или связанного с ней здания, вы сможете использовать ее по всей Пандоре.
+
+---
+
+12Name
+
+Operation Discovery
+
+Открытие операций
+
+---
+
+13Description
+
+Your first operation is ready for use. Select it in the operations panel and fire away. Buildings that provide operations take time to charge back up after usage, so use them wisely. Smart usage of operations can change the outcome of entire wars.
+
+Ваша первая операция готова к использованию. Выберите ее в панели операций и используйте ее. Зданиям, которые обеспечивают операции потребуется время, чтобы зарядиться после использования, так что используйте их с умом. Умное использование операций может изменить исход целых войн.
+
+---
+
+13Name
+
+Operation Availability
+
+Операция доступна
+
+---
+
+14Description
+
+Your unit has taken damage and is injured. His power has diminished and he is more likely to die in the next fight. To heal, he must stay still and not participate in combat. You can accelerate the healing process by moving the unit to a city.
+
+Ваш юнит получил повреждения и ранения. Его сила уменьшилась, и он, скорее всего, умрет в следующем бою. Чтобы излечиться, он должен оставаться на месте и не участвовать в боевых действиях. Вы можете ускорить процесс заживления, перемещая юнит в город.
+
+---
+
+14Name
+
+Healing
+
+Лечение
+
+---
+
+15Description
+
+Each unit can travel a certain distance each turn, indicated by its movement speed. Holding down the right mouse button when moving a unit will display how far the unit can move and what path he will take. Once the unit can no longer move or attack, the power display above him turns gray.
+
+Каждый юнит может путешествовать на определенное расстояние каждый ход, определяемое его скоростью передвижения. Как только он уже не в состоянии двигаться или атаковать, дисплей над юнитом становится серым.
+
+---
+
+15Name
+
+Movement
+
+Движение
+
+---
+
+16Description
+
+The economy panel provides you with an overview of all your cities. Here you can conveniently change production, reallocate population and even change the global tax rate to compensate for negative morale.
+
+Панель экономики предоставляет вам обзор всех ваших городов. Здесь Вы можете удобно менять производство, перераспределять население и даже изменить глобальную налоговую ставку.
+
+---
+
+16Name
+
+Economy Panel
+
+Панель экономики
+
+---
+
+17Description
+
+Once you have the intended design selected, you can modify it by first choosing a class, followed by a compatible weapon, device and armor. Each unit module has its own strengths and weaknesses, and over the course of the game you will gain access to a plethora of new modules.
+
+После того как вы выбрали нужный проект, вы можете изменить его, выбрав сначала класс, а потом совместимое оружия, устройства и броню. Каждый модуль юнита имеет свои сильные и слабые стороны, и в течение игры вы получите доступ к множеству новых модулей.
+
+---
+
+17Name
+
+Workshop Design Modification
+
+Модификация проектов в Мастерской
+
+---
+
+18Description
+
+Globalization also affects population. While your total faction-wide growth stays unaffected by the amount of cities, your individual city growth migrates between cities based on morale. Factors such as high pollution, high taxes and a lack of living space will discourage growth in a city.
+
+Глобализация также влияет на рост населения. Ваши колонисты будут мигрировать между городами на основе морали. Такие факторы, как высокое загрязнение и нехватка жилой площади заставит колонистов перейти в более гостеприимные места в Вашей империи.
+
+---
+
+18Name
+
+Global Growth
+
+Глобальный рост
+
+---
+
+19Description
+
+Full control over Pandora can be achieved in three ways: by global domination, by buying out all independent factions or by scientific transcendence. For details and progress on each victory condition, refer to the military, economy and research buttons at the bottom of the screen.
+
+Полный контроль над Пандорой может быть достигнут тремя способами: с помощью мирового господства, путем выкупа всех независимых фракций или достижением научной трансцендентности. Для получения дополнительной информации и вашего прогресса по каждому условию победы, обратитесь к кнопкам Войска, Экономика и Исследования в нижней части экрана.
+
+---
+
+19Name
+
+Victory Conditions
+
+Условия победы
+
+---
+
+20Description
+
+The research panel presents the randomized technology tree. Clicking on a technology will select the current research to focus on, while shift-clicking will queue up the research. To find out exactly what a technology provides, hover your mouse over the individual icons.
+
+Панель Исследований представляет рандомизированное дерево технологий. Нажав на технологию, вы выберете текущее исследование. Чтобы выяснить, что именно технология обеспечивает, наведите курсор мыши на отдельные значки.
+
+---
+
+20Name
+
+Research Panel
+
+Паль исследований
+
+---
+
+21Description
+
+To open the city screen, you can click on the city name or on the city itself if it isn't garrisoned. Make sure to protect your city at all costs!
+
+Чтобы открыть экран города, вы можете нажать на название города, или на сам город, если он не имеет гарнизона. Защищайте свой город любой ценой!
+
+---
+
+21Name
+
+Opening the City Screen
+
+Открытие экрана города
+
+---
+
+22Description
+
+To ease empire-wide management, you can use the economy and military panels, available from the bottom of your screen. These will be invaluable tools once your empire expands over all of Pandora.
+
+Чтобы облегчить управление империей, вы можете использовать экономичесую и военную панели, доступные в нижней части экрана. Они будут бесценными инструментами, когда ваша империя расширится по всей Пандоре.
+
+---
+
+22Name
+
+Empire Management
+
+Управление империей
+
+---
+
+23Description
+
+Multiple units can be selected in multiple ways. Double-clicking on the territory tile will select all units in that territory, while shift- or ctrl-clicking in the army panel will add units to your selection.
+
+Несколько юнитов могут быть выбраны различными способами. Двойной щелчок на территории выберет все подразделения на этой территории, в то время щелчок с зажатой клавищей Shift или Ctrl на панели армии добавят единиц к вашему выбору.
+
+---
+
+23Name
+
+Army Control
+
+Контроль армии
+
+---
+
+24Description
+
+The Compendium stores a collection of useful game information. You can read up on factions, buildings, units, re-read tips and more.
+
+Энциклопедия хранит всю полезную информации об игре. Вы можете прочитать о фракциях, зданиях, юнитах, перечитать советы и многое другое.
+
+---
+
+24Name
+
+Compendium Panel
+
+Панель энциклопедии
+
+---
+
+25Description
+
+Hovering the cursor over enemies with a unit selected will display important information about the attacker, defender, their modifiers, as well as the odds and expected casualties for the battle. The defending unit is always chosen to be the one that does the best against the attacker. Use all of this information to your advantage.
+
+Hovering the cursor over enemies with a unit selected will display important information about the attacker, defender, their modifiers, as well as the odds and expected casualties for the battle. The defending unit is always chosen to be the one that does the best against the attacker. Use all of this information to your advantage.
+
+---
+
+25Name
+
+Combat
+
+Combat
+
+---
+
+26Description
+
+Pay special attention to the positioning of your units. Different terrain will affect them in different ways. While infantry excells in forest and mountain skirmishes, they don't do very well on the open plains. To gain an additional advantage, consider flanking your opponents by forming a triangle around them. Each flanking unit will give you an additional 25% power bonus.
+
+Pay special attention to the positioning of your units. Different terrain will affect them in different ways. While infantry excells in forest and mountain skirmishes, they don't do very well on the open plains. To gain an additional advantage, consider flanking your opponents by forming a triangle around them. Each flanking unit will give you an additional 25% power bonus.
+
+---
+
+26Name
+
+Flanking
+
+Flanking
+
+---
+
+27Description
+
+Projects provide either a temporary or permanent benefit for your whole empire once they are completed in any of your cities. The range of those benefits varies greatly. From simple one-time resource gains and bonus units to advanced technologies and strategies that unlock new possibilities and can provide significant advantages in a variety of sectors.
+
+Projects provide either a temporary or permanent benefit for your whole empire once they are completed in any of your cities. The range of those benefits varies greatly. From simple one-time resource gains and bonus units to advanced technologies and strategies that unlock new possibilities and can provide significant advantages in a variety of sectors.
+
+---
+
+27Name
+
+Projects
+
+Projects
+
+---
+
+28Description
+
+
+
+
+
+---
+
+28Name
+
+Sight
+
+Sight

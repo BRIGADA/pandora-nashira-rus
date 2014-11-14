@@ -1,0 +1,909 @@
+FirstContact
+
+&quot;Greetings, earthborn. I am Advocate Vivian Gardinier of Terra Salvum. We're here to save this new world -- hopefully, you'll help us.&quot;
+
+&quot;Приветствую, землянин. Я адвокат Вивиан Гардиньер из Терра Сальвум. Мы здесь, чтобы спасти этот новый мир -- мы надеемся, вы поможете нам.&quot;
+
+---
+
+NamePositive
+
+&quot;The beautiful %6%.&quot;
+
+&quot;The beautiful %6%.&quot;
+
+---
+
+NameNegative
+
+&quot;The worthless %6%.&quot;
+
+&quot;The worthless %6%.&quot;
+
+---
+
+LetMeThink
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+---
+
+LetMeKnow
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+---
+
+DenounceThirdParty0
+
+&quot;Someone's brown fingers have been withering all your best efforts. Want to know who?&quot;
+
+&quot;Кто-то своими грязными ручонками испортил все наши планы.Хотите знать кто?&quot;
+
+---
+
+AcceptDenounceThirdParty0
+
+&quot;Tell me more. What dirt have you rooted out?&quot;
+
+&quot;Расскажите подробнее. Какого рода грязь вы откопали?&quot;
+
+---
+
+RejectDenounceThirdParty0
+
+&quot;Some of us are scrabbling in the dirt, whilst others are looking at the stars. But you... you're not even scrabbling. You're just looking at the dirt!&quot;
+
+&quot;Некоторые из нас ползают в грязи, в то время как другие, смотрят на звезды. Но вы ... вы просто смотрите на грязь!&quot;
+
+---
+
+DenounceThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptDenounceThirdParty1
+
+&quot;That's... entirely what I expected from those tree-killers. Thank you.&quot;
+
+&quot;Это...совершенно ожидаемо от этих корчевателей. Спасибо.&quot;
+
+---
+
+RejectDenounceThirdParty1
+
+&quot;Why are you wasting my time with this manure? I've a planet to save!&quot;
+
+&quot;Зачем вы тратите свое время с этом навозом? Нам нужно спасать планету!&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty0
+
+&quot;Cancel that trade pact with those stinking, monstrous polluters... please?&quot;
+
+&quot;Отмените торговое соглашение с этими вонючими, чудовищными загрязнителями... пожалуйста?&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty0
+
+&quot;Who's wrecking the planet this time?&quot;
+
+&quot;Кто вредит планете на этот раз?&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty0
+
+&quot;Sorry, but I've got my houseplants to water and can't be listening to mammalian bleating.&quot;
+
+&quot;Извините, но я поливаю мои комнатные растения и не могу слушать блеяния млекопитающих.&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty1
+
+&quot;Okay. Frack those frackers.&quot;
+
+&quot;Ладно. Собаке собачья смерть.&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty1
+
+&quot;Sorry, but I need them for my carbon offset scheme.&quot;
+
+&quot;Простите, но они нужны мне для устройства компенсации выброса углерода.&quot;
+
+---
+
+DemandPeaceOfferToThirdParty0
+
+&quot;Imagine you and your enemy, imagine all the people, living life in... peace?&quot;
+
+&quot;Представьте себя и своих врагов, представьте всех людей, живущих... в согласии?&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty0
+
+&quot;I'm a dreamer. Who would have believed you share my dream?&quot;
+
+&quot;Я мечтатель. Кто бы мог поверить, что вы разделяете мою мечту?&quot;
+
+---
+
+RejectPeaceOfferToThirdParty0
+
+&quot;No, I'm sorry. We are not green peace - we believe in war, of any colour.&quot;
+
+&quot;Нет, мне очень жаль. Мы не Грин Пис - мы верим в войну, любого цвета.&quot;
+
+---
+
+DemandPeaceOfferToThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty1
+
+&quot;A brotherhood of man? I can get behind that.&quot;
+
+&quot;Братство людей? Я могу понять это.&quot;
+
+---
+
+RejectPeaceOfferToThirdParty1
+
+&quot;These are the sort of people who club seals and de-fin sharks. They deserve all they get.&quot;
+
+&quot;Они из тех людей, что убивают акул. Они заслужили это.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty0
+
+&quot;You need to declare war. Now. These treekillers need to die.&quot;
+
+&quot;You need to declare war. Now. These treekillers need to die.&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty0
+
+&quot;We loathe war... but we might an exception in this case. Who?&quot;
+
+&quot;We loathe war... but we might an exception in this case. Who?&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty0
+
+&quot;No, no war. We destroyed our own planet already.&quot;
+
+&quot;No, no war. We destroyed our own planet already.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty1
+
+&quot;Yes, their corpses will make excellent fertilizer for my flowerbeds. I agree.&quot;
+
+&quot;Yes, their corpses will make excellent fertilizer for my flowerbeds. I agree.&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty1
+
+&quot;No, we can't bring ourselves to do it. Sorry!&quot;
+
+&quot;No, we can't bring ourselves to do it. Sorry!&quot;
+
+---
+
+OfferShareMap
+
+&quot;Working together to make a map of Pandora's beauty is a worthy effort for mankind. Don't you agree?&quot;
+
+&quot;Совместная работа по созданию карты красот Пандоры достойна усилий для человечества. Вы не согласны?&quot;
+
+---
+
+AcceptShareMap
+
+&quot;Excellent! Together we can create a map of this planet's wonders!&quot;
+
+&quot;Отлично! Вместе мы можем создать карту чудес этой планеты!&quot;
+
+---
+
+RejectShareMap
+
+&quot;No, I don't think so. This planet's wonders should be shared with the likes of you.&quot;
+
+&quot;Нет, я так не думаю. Чудеса этой планеты должны быть скрыты от таких, как ты.&quot;
+
+---
+
+OfferOpenBorders
+
+&quot;Here, friend. Travel through our lands, and we shall travel through yours.&quot;
+
+&quot;Сюда, друг. Путешествуйте через наши земли, и мы будем путешествовать по вашей.&quot;
+
+---
+
+AcceptOpenBorders
+
+&quot;Now we can ramble across this delicate landscape.&quot;
+
+&quot;Теперь мы можем бродить по этой мирной земле.&quot;
+
+---
+
+RejectOpenBorders
+
+&quot;No. Our lands are a nature reserve, not a tourist destination.&quot;
+
+&quot;Нет. На нашей земле находится природный заповедник, не туристический лагерь.&quot;
+
+---
+
+TerminateOpenBorders
+
+&quot;I'm afraid I have to revoke our policy on open borders -- nature has suffered enough under your carelessness.&quot;
+
+&quot;Боюсь, я должен прекратить свою политику открытых границ - природа сильно пострадала от беспечности.&quot;
+
+---
+
+AcceptOpenBordersTerminated
+
+&quot;Very well, our lands will not miss your heavy boots.&quot;
+
+&quot;Очень хорошо, наши земли не будут скучать по вашим тяжелым ботинкам.&quot;
+
+---
+
+Crime0
+
+Another worker murdered. You care more about your damn plants than you do about people! I can't deal with you any more!
+
+Ещё один работник убит. Вы больше заботитесь о ваших чертовых растениях, чем о людях! Я не могу иметь с вами дел больше!
+
+---
+
+Crime1
+
+Damn hypocrites. Your cities are full of pollution yet you rage at us!
+
+Чертовы лицемеры. Ваши города будут полны грязи пока вы ненавидите нас!
+
+---
+
+Crime2
+
+We caught another one of your activists. Stop sabotaging our power plants! You're not Gandhi!
+
+Мы поймали еще одиного из ваших активистов. Прекратите саботировать наши электростанции! Вы не Ганди!
+
+---
+
+Denounce
+
+&quot;%7% The planet groans with the memory of your crimes.&quot;
+
+&quot;%7% Планета стонет, помня о своих преступлениях.&quot;
+
+---
+
+AcceptDenounce
+
+&quot;Is that the best insult you can come up with? Well it's true.&quot;
+
+&quot;И это лучшее оскорбление, которое вы можете придумать? Ну да, это правда.&quot;
+
+---
+
+RejectDenounce
+
+&quot;Oh, grow up.&quot;
+
+&quot;Вырастите уже...&quot;
+
+---
+
+Praise
+
+&quot;%5% I'm becoming increasingly convinced you're right about Pandora -- and I'm going to tell the world about it!&quot;
+
+&quot;%5% Я все больше убеждаюсь в том, что вы правы насчет Пандоры - и я собираюсь рассказать миру об этом!&quot;
+
+---
+
+AcceptPraise
+
+&quot;Together we make this place paradise. If the others will let us.&quot;
+
+&quot;Вместе мы можем сделать это место раем. Если другие позволят нам.&quot;
+
+---
+
+RejectPraise
+
+&quot;Flattery will get you nowhere.&quot;
+
+&quot;Лесть тебя никуда не заведет.&quot;
+
+---
+
+OfferSurrender
+
+&quot;No more. The dream of Gaia is broken. We submit.&quot;
+
+&quot;Хватит. Мечта Гейи разрушена. Мы подчиняемся.&quot;
+
+---
+
+AcceptSurrender
+
+&quot;Yes, you will follow our path, now. Come.&quot;
+
+&quot;Да, отныне вы последуете нашим путем. Придите.&quot;
+
+---
+
+RejectSurrender
+
+&quot;We will wiped you off the planet. Surrender was never an option.&quot;
+
+&quot;Мы сотрем вас с лица планеты. Капитуляция никогда не была одним из вариантов.&quot;
+
+---
+
+Compliment0
+
+You have taken the horrors of this planet and shown us how beautiful they are.
+
+Вы собрали все ужасы на этой планете, и показал нам как они прекрасны.
+
+---
+
+Compliment1
+
+To live in harmony with nature is a significant achievement.
+
+Жизнь в гармонии с природой является значительным достижением.
+
+---
+
+Compliment2
+
+While I might not agree with your ethical stance, I'll defend it to the hilt.
+
+Хотя я не могу согласиться с Вашей этической позицией, я буду защищать ее до конца.
+
+---
+
+Insult0
+
+%2%, you and your followers are a bunch of primitive romantics dancing naked around trees.
+
+%2%, вы и ваши последователи - кучка примитивных романтиков, танцующих голышом вокруг деревьев.
+
+---
+
+Insult1
+
+You worthless tree huggers have no place in a modern civilization, %2%.
+
+Ничего не стоящим любителям деревьев нет места в современной цивилизации, %2%.
+
+---
+
+Insult2
+
+I'll rub some of the mud that you like so much in your face, %3%.
+
+Я втоптал некоторых в грязь, которая вам так нравится на вашем лице, %3%.
+
+---
+
+OfferGift0
+
+&quot;Pandora demands that your behaviour is rewarded. Would you prefer credits... or this fine fertilizer? It's organic, free-range and very local. No, I'm not joking.&quot;
+
+&quot;Пандора требует, чтобы ваше поведение вознаградилось. Вы бы предпочли кредиты... или хватит удобрений? Они органические, на свободном выгуле, местные. Нет, я не шучу.&quot;
+
+---
+
+GiftAccepted0
+
+&quot;Pandora bless you, Earthborn. What gift do you have for her?&quot;
+
+&quot;Пандора благословляет вас, Землянин. Какой подарок у вас есть для нее?&quot;
+
+---
+
+GiftAccepted1
+
+&quot;Thank you, your money is most welcome and will contribute to the good cause of preserving nature.&quot;
+
+&quot;Спасибо, вашим деньгам мы всегда рады и они внесут свой вклад в благое дело сохранения природы.&quot;
+
+---
+
+GiftRejected0
+
+&quot;I appreciate the gesture, but would feel bad about taking your money. Sorry!&quot;
+
+&quot;Я ценю этот жест, но мы будет чувствовать себя неловко, приняв ваши деньги. К сожалению!&quot;
+
+---
+
+GiftRejected1
+
+&quot;No thanks, I'm afraid this sum will get neither of us anywhere...&quot;
+
+&quot;Нет, спасибо. Я боюсь, эта сумма не удовлетворит нас в любом случае...&quot;
+
+---
+
+DemandTribute0
+
+&quot;Your industry is a heavy burden for this planet. I firmly advise you to pay me an ecology tax so I can repair the damage done to nature.&quot;
+
+&quot;Ваша индустрия является тяжелым бременем для этой планеты. Я очень советую заплатить мне экологический налог, чтобы я могла возместить ущерб, нанесенный природе.&quot;
+
+---
+
+TributeAccepted0
+
+&quot;The planet can certainly spare some money, for good causes. How much do you have in mind?&quot;
+
+&quot;Дела планеты, безусловно, могут немного одолжить денег для добрых дел. Сколько вы имеете в виду?&quot;
+
+---
+
+TributeAccepted1
+
+&quot;Just take your money and leave me alone. Do you know how many trees we could have planted with that?&quot;
+
+&quot;Просто возьмите ваши деньги и оставить меня в покое. Знаете ли вы, сколько деревьев мы могли бы посадить?&quot;
+
+---
+
+TributeRejected0
+
+&quot;I'm afraid I can't give in to your threats %1%, otherwise you might make this a habit...&quot;
+
+&quot;Боюсь, я не могу заплатить в ответ на вашу угрозу, %1%, в противном случае вы могли бы сделать это привычкой...&quot;
+
+---
+
+TributeRejected1
+
+&quot;Like all men, if you'd been less greedy, you would have got what you wanted.&quot;
+
+&quot;Как и все люди, если бы вы были менее жадными, вы бы получили то, что вы хотели.&quot;
+
+---
+
+AcceptCreditsForDeal0
+
+&quot;Then tell me %1%, how much money is needed to convince you of this offer?&quot;
+
+&quot;Скажите, %1%, сколько денег необходимо, чтобы убедить вас в этом предложении?&quot;
+
+---
+
+AcceptCreditsForDeal1
+
+&quot;Fine, I'll transfer you the money. Now about my offer...&quot;
+
+&quot;Хорошо, я передам вам деньги. Теперь о моем предложении...&quot;
+
+---
+
+RejectCreditsForDeal0
+
+&quot;If you do not see the wisdom in this offer without a bribe, I'm no longer interested.&quot;
+
+&quot;Если вы не видите мудрость в этом предложении без взятки, то мне это не интересно.&quot;
+
+---
+
+RejectCreditsForDeal1
+
+&quot;I'm afraid you ask too much, %1%.&quot;
+
+&quot;Боюсь, вы слишком многого просите, %1%.&quot;
+
+---
+
+CreditsForDealRejected
+
+&quot;So be it.&quot;
+
+&quot;Так и быть.&quot;
+
+---
+
+DemandCreditsForDeal
+
+&quot;We're building a new power economy based on renewable energy sources. It's not going to plan. A donation might help us fix it.&quot;
+
+&quot;Мы строим новую экономику питания на основе возобновляемых источников энергии. Не все идет по плану. Пожертвование может помочь нам это исправить.&quot;
+
+---
+
+DemandCredits0
+
+&quot;Oh, it should only take %6% <icon texture='Resources/Credits'/> credits to make the solar panels ecologically-friendly.&quot;
+
+&quot;Нужно всего лишь %6% <icon texture='Resources/Credits'/> кредитов, чтобы сделать солнечные батареи экологичнее.&quot;
+
+---
+
+DemandCredits1
+
+&quot;With a donation of just %6% <icon texture='Resources/Credits'/> credits we can make the solar panels out of sustainable xenomorph spittle rather than oil-based polymers.&quot;
+
+&quot;Пожертвовуйте всего %6% <icon texture='Resources/Credits'/> кредитов, и мы сможем сделать солнечные панели из устойчивой слюны ксеноморфа вместо полимеров на основе нефти.&quot;
+
+---
+
+DemandCredits2
+
+&quot;With a donation of %6% <icon texture='Resources/Credits'/> credits, we could build a forest of wooden windmills, which would supply as much as %1% of our power needs!&quot;
+
+&quot;Пожертвовуйте всего %6% <icon texture='Resources/Credits'/> кредитов, и мы построим целый лес деревянных ветряных мельниц, которые будет поставлять столько энергии, сколько %1% нужно!&quot;
+
+---
+
+DemandCredits3
+
+&quot;With a donation of %6% <icon texture='Resources/Credits'/> credits, we can start a conservation project to take tissue samples of rare animals like the Aspidoch and Leviathan.&quot;
+
+&quot;С пожертвованием в размере %6% <icon texture='Resources/Credits'/> кредитов мы можем начать проект по сохранению образцов ткани редких животных, таких как Аспидохи и Левиафан.&quot;
+
+---
+
+OfferCredits0
+
+&quot;I hate to see any living thing suffer. Would %6% <icon texture='Resources/Credits'/> credits persuade you to leave the local wildlife alone?&quot;
+
+&quot;Я не могу видеть, как любое живое существо страдает. Могут ли %6% <icon texture='Resources/Credits'/> кредитов убедить вас оставить местную дикую природу в покое?&quot;
+
+---
+
+OfferCredits1
+
+&quot;As FDR said, forests are the lungs of the world. Here's %6% <icon texture='Resources/Credits'/> to stop you chopping them down.&quot;
+
+&quot;Как сказал Рузвельт, леса являются легкими мира. Вот %6% <icon texture='Resources/Credits'/>, чтобы  вы прекратили рубить их.&quot;
+
+---
+
+OfferCredits2
+
+&quot;We figure if we give you %6% <icon texture='Resources/Credits'/> credits, you might kill all the other humans - which, in my opinion, would make Gaia-Pandora very happy.&quot;
+
+&quot;Мы полагаем, если мы даем вам %6% <icon texture='Resources/Credits'/> кредитов, Вы могли бы убить всех других людей, что, на мой взгляд, сделает Гею-Пандору очень счастливой.&quot;
+
+---
+
+OfferCredits3
+
+&quot;Wow, you're in a bad way, but I can't afford more than %6% <icon texture='Resources/Credits'/> credits to help you out. Be good!&quot;
+
+&quot;Ничего себе, вы находитесь в плохом состоянии, но я не могу дать больше, чем %6% <icon texture='Resources/Credits'/> кредитов, чтобы помочь вам. Будьте здоровы!&quot;
+
+---
+
+AllianceAccepted
+
+&quot;Oh yes! Together we can make sure the sins of Old Earth won't happen again.&quot;
+
+&quot;Ах, да! Вместе мы можем убедиться, чтобы грехи Старой Земли больше не повторились.&quot;
+
+---
+
+AllianceRejected
+
+&quot;Thank you, but your ideology is too, shall we say, unconventional for my taste. No offense...&quot;
+
+&quot;Спасибо, но ваша идеология слишком, скажем так, нетрадиционна, на мой вкус. Без обид...&quot;
+
+---
+
+AllianceTerminated
+
+&quot;For real? Ah well, we had a good thing going while it lasted.&quot;
+
+&quot;Серьезно? Ну что ж, все было хорошо, пока все не закончилось.&quot;
+
+---
+
+Condemn
+
+&quot;You are a monster, %3%, and one day you will pay the price for these outrageous actions!&quot;
+
+&quot;Ты монстр, %3%, в один прекрасный день вы заплатите за эти возмутительные действия!&quot;
+
+---
+
+CondemnAccepted
+
+&quot;%4% That I'm willing to go that far, should show you my desperation!&quot;
+
+&quot;%4% То, что я зашла так далеко, должно показать вам всю степень моего отчаяния!&quot;
+
+---
+
+DeclareWar
+
+&quot;%4% As much as I despise violence, this is simply unacceptable!&quot;
+
+&quot;%4% Хоть я и презираю насилие, но это просто недопустимо!&quot;
+
+---
+
+DemandWithdrawal
+
+&quot;Do not think I'm not aware of your growing troop concentrations at my borders! Order their immediate withdrawal, or there will be consequences...&quot;
+
+&quot;Не думайте, что я не в курсе растущей концентрации ваших войск на моей границе! Немедленно выведите войска, или будут последствия...&quot;
+
+---
+
+Eliminated
+
+&quot;We shall meet again.&quot;
+
+&quot;Мы еще встретимся.&quot;
+
+---
+
+Goodbye
+
+&quot;Go with Gaia.&quot;
+
+&quot;Идите с Гейей.&quot;
+
+---
+
+Greet0
+
+&quot;You again? You are aware of the fact that I can't stand you, right?&quot;
+
+&quot;Опять вы? Вы знаете о том, что я терпеть не могу вас, не так ли?&quot;
+
+---
+
+Greet1
+
+&quot;Kind regards to you, %3%. Isn't this an exciting new world?&quot;
+
+&quot;С наилучшими пожеланиями, %3%. Разве это не интересный новый мир?&quot;
+
+---
+
+Greet2
+
+&quot;Greetings, my dear %1%. What do you have on your mind?&quot;
+
+&quot;Привет, мой дорогой %1%. Что у вас на уме?&quot;
+
+---
+
+NonAggressionPactAccepted
+
+&quot;Accepted! And unlike certain other leaders, I actually mean it.&quot;
+
+&quot;Принято! И в отличие от некоторых других лидеров, я на самом деле имею это в виду.&quot;
+
+---
+
+NonAggressionPactRejected
+
+&quot;Ahh... Hmm... No.&quot;
+
+&quot;Ах... Хм... Нет.&quot;
+
+---
+
+NonAggressionPactTerminated
+
+&quot;Ha, so what's next on your list? Declare war?&quot;
+
+&quot;Ха, а что дальше в вашем списке? Объявить войну?&quot;
+
+---
+
+OfferAlliance
+
+&quot;For the good of Earth and Pandora, let us fight together!&quot;
+
+&quot;Для блага Земли и Пандоры, давайте бороться вместе!&quot;
+
+---
+
+OfferNonAggressionPact
+
+&quot;No good can come of war -- a non-aggression pact would be a fine sign of our mutual intent.&quot;
+
+&quot;Ничего хорошего из этой войны не выйдет - пакт о ненападении был бы прекрасным знаком наших взаимных намерений.&quot;
+
+---
+
+OfferPeace
+
+&quot;Please, stop this madness! Do you know how many native species have already been lost forever through collateral damage?&quot;
+
+&quot;Пожалуйста, остановите это безумие! Вы знаете, сколько местных видов уже потеряно навсегда через сопутствующий ущерб?&quot;
+
+---
+
+OfferResearchPact
+
+&quot;Sharing our research will help us both on the path to Gaian enlightenment.&quot;
+
+&quot;Обмен нашими исследованиями поможет на пути к просветлению, к Гейе.&quot;
+
+---
+
+OfferTradingPact
+
+&quot;Trade between our nations could bring us closer together. What say you?&quot;
+
+&quot;Торговля между нашими народами может свести нас ближе друг к другу. Что скажете?&quot;
+
+---
+
+PeaceAccepted
+
+&quot;We accept. Man and nature have suffered enough.&quot;
+
+&quot;Хорошо. Человек и природа достаточно страдали.&quot;
+
+---
+
+PeaceRejected
+
+&quot;No, no, no! This ain't over yet!&quot;
+
+&quot;Нет, нет, нет! Еще ничего не закончилось!&quot;
+
+---
+
+ResearchPactAccepted
+
+&quot;Very well, let us make the discoveries of a new age together!&quot;
+
+&quot;Очень хорошо, давайте делать открытия новой эры вместе!&quot;
+
+---
+
+ResearchPactRejected
+
+&quot;Sorry %2%, not interested.&quot;
+
+&quot;Простите %2%, мне не интересно.&quot;
+
+---
+
+ResearchPactTerminated
+
+&quot;Do you really think this was the right decision, %2%? I doubt it.&quot;
+
+&quot;Вы действительно думаете, что это было правильное решение, %2%? Я сомневаюсь в этом.&quot;
+
+---
+
+TerminateAlliance
+
+&quot;I hope you don't misread this gesture my old friend, but our alliance is terminated -- effective immediately.&quot;
+
+&quot;Я надеюсь, вы правильно поняли этот жест, мой старый друг, наш союз прекращается немедленно.&quot;
+
+---
+
+TerminateNonAggressionPact
+
+&quot;Things are starting to go too far -- our non-aggression pact is hereby nullified.&quot;
+
+&quot;Все начинает заходить слишком далеко - наш пакт о ненападении предлагаю настоящим считать недействительным.&quot;
+
+---
+
+TerminateResearchPact
+
+&quot;We do not like the polluting path your research is taking. Our pact is hereby nullified.&quot;
+
+&quot;Нам не нравится загрязняющий путь ваш исследований. Наш пакт предлагаю настоящим считать недействительным.&quot;
+
+---
+
+TerminateTradingPact
+
+&quot;We had enough of your goods produced without any care for nature. Trade between our factions is suspended!&quot;
+
+&quot;У нас достаточно ваших товаров, производимых без заботы о природе. Товарооборот между нашими фракциями остановлен!&quot;
+
+---
+
+TradingPactAccepted
+
+&quot;Accepted! Let us hope for fruitful collaboration.&quot;
+
+&quot;Хорошо! Будем надеяться на плодотворное сотрудничество.&quot;
+
+---
+
+TradingPactRejected
+
+&quot;My people are not ready yet for an influx of your goods.&quot;
+
+&quot;Мои люди еще не готовы к наплыву ваших товаров.&quot;
+
+---
+
+TradingPactTerminated
+
+&quot;Now that is very disappointing.&quot;
+
+&quot;Это очень обидно.&quot;
+
+---
+
+WarAccepted
+
+&quot;So this is what you truly think, hm? Just wait, the ground will tremble under our marching forces!&quot;
+
+&quot;Вы и правда так думаете, а? Подождите, и земля дрогнет под ногами наших войск!&quot;
+
+---
+
+WithdrawalAccepted
+
+&quot;I don't know how our people got there -- probably following Gaia's dream -- but I'll call them home.&quot;
+
+&quot;Я не знаю, как наши люди оказались там, вероятно, следовали за сном Гайи, но я призову их домой.&quot;
+
+---
+
+WithdrawalRejected
+
+&quot;By what right? They walk among the animals, where you stomp and bloody the earth. They will not move.&quot;
+
+&quot;По какому праву? Они ходят среди животных, где вы топчете и заливаете кровью землю. Они никуда не двинутся.&quot;

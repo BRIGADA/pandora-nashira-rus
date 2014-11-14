@@ -1,0 +1,909 @@
+FirstContact
+
+&quot;As the Prime Minister, chief cadre and first clone of the Solar Dynasty, I, Yun Xi, welcome you to our world, to Pandora. I hope we can help you to leave it.&quot;
+
+&quot;Как премьер-министр, глава народа и первый клон Солнечной Династии, я, Юн Си, рад приветствовать Вас в нашем мире, на Пандоре. Я надеюсь, что мы можем помочь вам покинуть его.&quot;
+
+---
+
+NamePositive
+
+&quot;The wise %6%.&quot;
+
+&quot;The wise %6%.&quot;
+
+---
+
+NameNegative
+
+&quot;The tyrannic %6%.&quot;
+
+&quot;The tyrannic %6%.&quot;
+
+---
+
+LetMeThink
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+---
+
+LetMeKnow
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+---
+
+DenounceThirdParty0
+
+&quot;A proud foe is undermining your revolution.&quot;
+
+&quot;Гордый враг подрывает свою революцию.&quot;
+
+---
+
+AcceptDenounceThirdParty0
+
+&quot;Tell me of this anarcho-syndicalist running dog.&quot;
+
+&quot;Расскажи мне об этой анархо-синдикалистской болонке.&quot;
+
+---
+
+RejectDenounceThirdParty0
+
+&quot;There is no such plot. Perhaps you would be a better fit for the reeducation camps.&quot;
+
+&quot;Там нет такой сюжет. Может быть, вы лучше подойдут переобучающие лагеря.&quot;
+
+---
+
+DenounceThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptDenounceThirdParty1
+
+&quot;Yes, %6% is a counter-revolutionary. They will be... re-educated.&quot;
+
+&quot;Да, %6% являются контрреволюционными. Они будут... вновь переобучены.&quot;
+
+---
+
+RejectDenounceThirdParty1
+
+&quot;They are no more rebels than Mao was himself. Begone, lackey.&quot;
+
+&quot;Они не больше повстанцы, чем сам Мао. Прочь, лакей.&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty0
+
+&quot;Your partner is no friend of the people. I am the people.&quot;
+
+&quot;Ваш партнер - не друг народа. Я народ.&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty0
+
+&quot;Yes, these petit-bourgeoisie pacts do try my patience. Who tries yours?&quot;
+
+&quot;Да, эти мелкобуржуазные пакты испытывают мое терпение. Кто испытывает ваше?&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty0
+
+&quot;That would be a great leap backward.&quot;
+
+&quot;Это был бы большой шаг назад.&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty1
+
+&quot;Those reactionary bourgeois nationalist bonapartist CIA traitors? Yes, we were done with them before you even asked.&quot;
+
+&quot;Эти реакционные буржуазно-националистические Бонапартистские предатели ЦРУ? Да, мы были позаботились о них прежде, чем вы бы даже спросили.&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty1
+
+&quot;No, you will not sow factionalism with our allies. We stand strong.&quot;
+
+&quot;Нет, вы не будете основывать фракции с нашими союзниками. Мы стоим твердо.&quot;
+
+---
+
+DemandPeaceOfferToThirdParty0
+
+&quot;We need mutual respect for one another's actions -- as Zhou's Five Principles of Peaceful Coexistence laid out.&quot;
+
+&quot;Нам нужно взаимное уважение действий друг друга - как излагал Чжоу в 'Пяти принципах мирного сосуществования'.&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty0
+
+&quot;This class struggle cannot continue -- peace would be sensible. But with who?&quot;
+
+&quot;Это классовая борьба не может продолжаться - мир был разумным решением. Но с кем?&quot;
+
+---
+
+RejectPeaceOfferToThirdParty0
+
+&quot;No, the capitalists must suffer.&quot;
+
+&quot;Нет, капиталисты должны страдать.&quot;
+
+---
+
+DemandPeaceOfferToThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty1
+
+&quot;With them? Anything that gets our workers back in the factories.&quot;
+
+&quot;С ними? Все что угодно, лишь бы наши рабочие вернулись обратно на заводы.&quot;
+
+---
+
+RejectPeaceOfferToThirdParty1
+
+&quot;The Red Guards will not stand down. Absolutely not.&quot;
+
+&quot;Красная гвардия не будет стоять на коленях. Абсолютно нет.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty0
+
+&quot;How dare they? I am my father's clone, my people's heir. I will not stand for this. Will you defend my honour?&quot;
+
+&quot;How dare they? I am my father's clone, my people's heir. I will not stand for this. Will you defend my honour?&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty0
+
+&quot;The war will be short and we will be victorious. Who is no comrade?&quot;
+
+&quot;The war will be short and we will be victorious. Who is no comrade?&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty0
+
+&quot;Not today, we have factories to run.&quot;
+
+&quot;Not today, we have factories to run.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty1
+
+&quot;Yes, yes, our great army is already underway&quot;
+
+&quot;Yes, yes, our great army is already underway&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty1
+
+&quot;No -- it is not that we cannot fight them and win, but that we won't. They are not worthy of Yun Xi's attention.&quot;
+
+&quot;No -- it is not that we cannot fight them and win, but that we won't. They are not worthy of Yun Xi's attention.&quot;
+
+---
+
+OfferShareMap
+
+&quot;If I am to model this world after myself, I must know more of it. Let us share our survey data.&quot;
+
+&quot;Если я преобразовать этот мир после себя, я должен знать больше. Давайте поделимся нашим данным обследований.&quot;
+
+---
+
+AcceptShareMap
+
+&quot;Yes, all should be shared equally. And my equal share should be larger than all.&quot;
+
+&quot;Да, все должно быть поровну. И моя равная доля должна быть больше всех.&quot;
+
+---
+
+RejectShareMap
+
+&quot;The more space I know, the more I have to restrain my peasants from exploring. A thousand times no.&quot;
+
+&quot;Чем больше мест я знаю, тем больше я должен сдерживать свои крестьян от исследования. Нет, тысячу раз нет.&quot;
+
+---
+
+OfferOpenBorders
+
+&quot;We wanted to re-enact the Long March, in tribute to our forefathers. May we pass through your land?&quot;
+
+&quot;Мы хотим повторить Великий поход, в дань уважения нашим предкам. Можем ли мы пройти через эту землю?&quot;
+
+---
+
+AcceptOpenBorders
+
+&quot;Come, we have nothing to hide. You may explore our land. But stay out of our cities.&quot;
+
+&quot;Приходите, нам нечего скрывать. Вы можете изучить наш землю. Но держитесь подальше от наших городов.&quot;
+
+---
+
+RejectOpenBorders
+
+&quot;One day, we may share an industrial for mutual benefit. But not now.&quot;
+
+&quot;Однажды, мы сможем поделиться заводами, к нашей взаимной выгоде. Но не сейчас.&quot;
+
+---
+
+TerminateOpenBorders
+
+&quot;Dealing with the incidents caused by your people in our lands is becoming a nuisance. The agreement on open borders is hereby nullified.&quot;
+
+&quot;Разгребание инцидентов, вызванных вашими людьми в наших землях, становится помехой. Соглашение об открытых границах Настоящим считать недействительным.&quot;
+
+---
+
+AcceptOpenBordersTerminated
+
+&quot;In our realm your people could find enlightenment, while you only offer misguided ideologies. So be it.&quot;
+
+&quot;В нашем царстве ваши люди могут найти просветление, в то время как вы предлагаете только ошибочную идеологию. Так и быть.&quot;
+
+---
+
+Crime0
+
+Your workers die whilst you live in luxury, you decadent hypocrite. Have you no shame?
+
+Ваши работники умирают, пока вы живете в роскоши, вы декадентской лицемер. У Вас нет стыда?
+
+---
+
+Crime1
+
+What happened to the National Congress? Traitorous rebels? Ha! But poisoning your own people is the least of your crimes.
+
+Что произошло на Национальном конгрессе? Предательские повстанцы? Ха! Отравление своего народа  -- меньший грех, чем ваши преступления.
+
+---
+
+Crime2
+
+Do not think we do not know about your 're-education camps'. I wonder if anyone has ever left them alive?
+
+Не думайте, что мы не знаем о ваших 'лагерях перевоспитания'. Интересно, кто-нибудь покидал их живым?
+
+---
+
+Denounce
+
+&quot;%7% What horrors you commit, for your own purposes.&quot;
+
+&quot;%7% Какие ужасы вы поощряете, для собственных целей.&quot;
+
+---
+
+AcceptDenounce
+
+&quot;Yes, I did all that and more. It is for the greatness of my people. Those who survive.&quot;
+
+&quot;Да, я сделал все это и даже больше. Ради величия моего народа. Тех, кто выживет.&quot;
+
+---
+
+RejectDenounce
+
+&quot;This, you cannot prove. There are no records, the people who knew are dead. Yet, I must thank you for your concern.&quot;
+
+&quot;Этого вы не можете доказать. Там нет записей, люди, которые знали -  мертвы. Тем не менее, я должен поблагодарить вас за вашу заботу.&quot;
+
+---
+
+Praise
+
+&quot;%5% You have let a hundred flowers bloom -- and a hundred factories too.&quot;
+
+&quot;%5% Ты позволил цвести сотне цветов - и сотне заводов тоже.&quot;
+
+---
+
+AcceptPraise
+
+&quot;Thank you. Yes, I am the perfect human -- and I will rebuild this world in my perfect image.&quot;
+
+&quot;Спасибо. Да, я -  совершенный человек и я привожу этот мир в соответствии с моим идеальным образом.&quot;
+
+---
+
+RejectPraise
+
+&quot;Do not use the language of my elders as a tool of blandishment. I am not so easily swayed as you think.&quot;
+
+&quot;Не используйте язык моих старейшин как способ уговорить меня. Меня не так легко поколебать, как вы думаете.&quot;
+
+---
+
+OfferSurrender
+
+&quot;For the sake of my people, I must step down. The Solar Dynasty is yours now. I hope you clone better than I did.&quot;
+
+&quot;Ради моего народа, я должен уйти в отставку. Солнечная Династия теперь твоя. Я надеюсь, что вы лучший клон, чем я.&quot;
+
+---
+
+AcceptSurrender
+
+&quot;We always have room in the mines for more workers.&quot;
+
+&quot;У нас всегда есть комнаты в шахтах для большего числа работников.&quot;
+
+---
+
+RejectSurrender
+
+&quot;No, we don't want to have to feed your mouths.&quot;
+
+&quot;Нет, мы не хотим кормить ваши рты.&quot;
+
+---
+
+Compliment0
+
+You are perfect everywhere, Prime Minister Yun Xi. I see why your people adore you so.
+
+Вы прекрасны во всем, премьер-министр Юн Си. Я понимаю, почему ваши люди обожают вас.
+
+---
+
+Compliment1
+
+Such great factories must hold a great nation, Yun Xi. You are truly blessed.
+
+Такие великие заводы должны иметь великий народ, Юн Си. Вы действительно благословенны.
+
+---
+
+Compliment2
+
+Equality is the ultimate aim -- to take all our people to the same level. How noble of your to lead in such an endeavour.
+
+Равенство является конечной целью - привести весь наш народ до одного уровня. Как благородно с вашей стороны вести нас в таком начинании.
+
+---
+
+Insult0
+
+You are a ruthless tyrant who enslaves his people and doesn't give a dime about how this planet will look in 20 years.
+
+Вы безжалостный тиран, который порабощает своих людей и не дает капли данных о том, как эта планета будет выглядеть через 20 лет.
+
+---
+
+Insult1
+
+How arrogant, to put your own clone son in charge of your people. Do you value them so little and yourself so much?
+
+Как высокомерно, поставить свой собственный клон управлять своим народом. Вы цените их так мало и себя так много?
+
+---
+
+Insult2
+
+You genocidal clone-idiot. You're so in-bred, you're your own son!
+
+Вы геноцидный клон-идиот. Ты так и воспитан, вы - ваш собственный сын!
+
+---
+
+OfferGift0
+
+&quot;We have the destiny to meet across a thousand miles. As a token of respect, I would like to transfer you some credits...&quot;
+
+&quot;Это судьба, что мы встретились через тысячи миль. В знак уважения, я хотел бы передать вам несколько кредиты...&quot;
+
+---
+
+GiftAccepted0
+
+&quot;There is no shame in taking a fool's money. The people thank you... but how much?&quot;
+
+&quot;Нет ничего постыдного в получении денег от дураков. Народ благодарит вас ... но на сколько?&quot;
+
+---
+
+GiftAccepted1
+
+&quot;Thank you -- my pleasure palace needed some new concubine-holders.&quot;
+
+&quot;Спасибо, мой дворец удовольствий нуждается в нескольких новых наложницах.&quot;
+
+---
+
+GiftRejected0
+
+&quot;Neither heaven nor earth would not induce me to take money from the hands of the poor.&quot;
+
+&quot;Ни небо, ни земля не заставит меня брать деньги из рук бедных.&quot;
+
+---
+
+GiftRejected1
+
+&quot;Hmm. The people may thank you when you're slightly more generous.&quot;
+
+&quot;Хм. Люди, возможно, будут вам благодарны, если вы будете более щедрым.&quot;
+
+---
+
+DemandTribute0
+
+&quot;Without control of the means of production, %3%, you can't ultimately win this battle. But, for a small sum, I can send you a copy of my little red book, which will tell you how to.&quot;
+
+&quot;Без контроля над средствами производства, %3%, вы не сможете в конечном итоге выиграть эту битву. Но, за небольшую сумму, я могу отправить вам копию моей маленькой красной книги, который расскажет вам, как.&quot;
+
+---
+
+TributeAccepted0
+
+&quot;You are taking food of my mouth -- and a thousand others will starve before I do. If you're happy with that take the money.&quot;
+
+&quot;Вы отнимаете пищу из моего рта, и тысячи других будут голодать прежде, чем я. Если вы довольны, то возьмите деньги.&quot;
+
+---
+
+TributeAccepted1
+
+&quot;I cannot refuse. Take it.&quot;
+
+&quot;Я не могу отказаться. Возьмите это.&quot;
+
+---
+
+TributeRejected0
+
+&quot;I will not be accused of a capitulationist tendency, %2%. I have my people to fight for.&quot;
+
+&quot;Я не буду обвинен в капитулянтскую тенденции, %2%. У меня есть мой народ, за которой я буду бороться.&quot;
+
+---
+
+TributeRejected1
+
+&quot;My people, and more importantly I, will starve if we give you that. A thousand times, no.&quot;
+
+&quot;Мой народ, и что более важно, я, будем голодать, если мы дадим вам столько. Тысячу раз нет.&quot;
+
+---
+
+AcceptCreditsForDeal0
+
+&quot;Greedy oligarcho-capitalists! %1%, what do you want?&quot;
+
+&quot;Жадные олигархо-капиталисты! %1%, чего ты хочешь?&quot;
+
+---
+
+AcceptCreditsForDeal1
+
+&quot;Fine, I'll transfer you the money. Now about my offer...&quot;
+
+&quot;Хорошо, я передам вам деньги. Теперь о моем предложении...&quot;
+
+---
+
+RejectCreditsForDeal0
+
+&quot;If you do not see the wisdom in this offer without a bribe, I'm no longer interested.&quot;
+
+&quot;Если вы не видите мудрости в этом предложении без взятки, то я больше не заинтересован.&quot;
+
+---
+
+RejectCreditsForDeal1
+
+&quot;I'm afraid you ask too much, %1%.&quot;
+
+&quot;Боюсь, вы слишком многого просите, %1%.&quot;
+
+---
+
+CreditsForDealRejected
+
+&quot;So be it.&quot;
+
+&quot;Так и быть.&quot;
+
+---
+
+DemandCreditsForDeal
+
+&quot;With a financial contribution from your side I can actually see this working out...&quot;
+
+&quot;С финансовой помощью с вашей стороны я могу реально увидеть решение проблемы...&quot;
+
+---
+
+DemandCredits0
+
+&quot;I'm not insolent, %6% <icon texture='Resources/Credits'/> credits will be enough.&quot;
+
+&quot;Я не оскорблен, %6% <icon texture='Resources/Credits'/> кредитов будет достаточно.&quot;
+
+---
+
+DemandCredits1
+
+&quot;%6% <icon texture='Resources/Credits'/> credits sounds like a reasonable sum, don't you think?&quot;
+
+&quot;%6% <icon texture='Resources/Credits'/> кредитов звучит как разумная сумма, вам не кажется?&quot;
+
+---
+
+DemandCredits2
+
+&quot;In this case, I'm afraid a larger sum is appropriate: %6% <icon texture='Resources/Credits'/> credits.&quot;
+
+&quot;В этом случае, я боюсь большая сумма уместнее:%6% <icon texture='Resources/Credits'/> кредитов.&quot;
+
+---
+
+DemandCredits3
+
+&quot;I want everything you've got -- and not one credit less!&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+&quot;Я хочу все, что есть -- и ни кредитом меньше!&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+---
+
+OfferCredits0
+
+&quot;Would a modest sum of %6% <icon texture='Resources/Credits'/> credits be of any help to you?&quot;
+
+&quot;Может скромная сумма в %6% <icon texture='Resources/Credits'/> кредитов поможет вам?&quot;
+
+---
+
+OfferCredits1
+
+&quot;%6% <icon texture='Resources/Credits'/> credits should be a reasonable contribution to your endeavours.&quot;
+
+&quot;Сумма в %6% <icon texture='Resources/Credits'/> кредитов должна быть разумным вкладом в ваших начинаниях.&quot;
+
+---
+
+OfferCredits2
+
+&quot;I'm willing to gift you a generous sum of %6% <icon texture='Resources/Credits'/> credits.&quot;
+
+&quot;Я готов подарить вам щедрую сумму в %6% <icon texture='Resources/Credits'/> кредитов.&quot;
+
+---
+
+OfferCredits3
+
+&quot;I will admit to confusion in the conversion rate between the yuan and these credits.... %6% <icon texture='Resources/Credits'/> is my entire fortune though.&quot;
+
+&quot;Я признаю путаницу в стоимости конвертации между юанями и кредитами... %6% <icon texture='Resources/Credits'/> все что я желаю.&quot;
+
+---
+
+AllianceAccepted
+
+&quot;Indeed, %2%! Let us forge an alliance that will last through the ages!&quot;
+
+&quot;Действительно,%2%! Давайте создадим альянс, который будет длиться на протяжении веков!&quot;
+
+---
+
+AllianceRejected
+
+&quot;An honorable offer, which we cannot accept for reasons that are, uh, confidential.&quot;
+
+&quot;Почетное предложение, которое мы не можем принять по причинам, которые, ну, конфиденциальны.&quot;
+
+---
+
+AllianceTerminated
+
+&quot;Well, so much for our alliance to last through the ages.&quot;
+
+&quot;что ж, наш союз продлился несколько веков.&quot;
+
+---
+
+Condemn
+
+&quot;Millions will die in the fallout, you fool! I will never forget this.&quot;
+
+&quot;Миллионы умрут в последствии, дурак! Я никогда не забуду этого.&quot;
+
+---
+
+CondemnAccepted
+
+&quot;%4% You just get what you deserve.&quot;
+
+&quot;%4% Вы просто получаете то, что вы заслуживаете.&quot;
+
+---
+
+DeclareWar
+
+&quot;%4% I will teach you a lesson about the art of war.&quot;
+
+&quot;%4% Я преподам вас урок о военном искусстве.&quot;
+
+---
+
+DemandWithdrawal
+
+&quot;Do not think I'm not aware of your growing troop concentrations at my borders! Order their immediate withdrawal, or there will be consequences...&quot;
+
+&quot;Не думайте, что я не в курсе вашей растущей концентрации войск на моей границе! Немедленно выведите войска, или будут последствия...&quot;
+
+---
+
+Eliminated
+
+&quot;A thousand alien suns set on our dynasty today -- but we shall return. We shall always return.&quot;
+
+&quot;Тысячи чужеродных Солнц светили нашей династии, но мы еще вернемся. Мы всегда будем возвращаться.&quot;
+
+---
+
+Goodbye
+
+&quot;Walk carefully.&quot;
+
+&quot;Идите аккуратно.&quot;
+
+---
+
+Greet0
+
+&quot;What do you want, treacherous %2%?&quot;
+
+&quot;Что вы хотите, коварный %2%?&quot;
+
+---
+
+Greet1
+
+&quot;I greet you, %3%, under this alien sky. How will our destinies unfold?&quot;
+
+&quot;Я приветствую вас,%3%, под этим чужды небом. Как наша судьба развернется?&quot;
+
+---
+
+Greet2
+
+&quot;A trustworthy friend like yourself deserves a deep bow. How can I help you?&quot;
+
+&quot;Надежный друг, такой как вы, заслуживает глубокий поклон. Как я могу помочь вам?&quot;
+
+---
+
+NonAggressionPactAccepted
+
+&quot;Let peace reign supreme at our borders.&quot;
+
+&quot;Пусть мир воцарится на наших границах.&quot;
+
+---
+
+NonAggressionPactRejected
+
+&quot;No. Take it as you will.&quot;
+
+&quot;Нет. Примите это как хотите.&quot;
+
+---
+
+NonAggressionPactTerminated
+
+&quot;Your mind must be clouded, performing such an act.&quot;
+
+&quot;Ваш ум должен быть затуманен, выполняя такой акт.&quot;
+
+---
+
+OfferAlliance
+
+&quot;Friend. Come ally yourself with the strong, the numerous, the industrious Solar Dynasty. Yun Xi is the best of comrades.&quot;
+
+&quot;Друг. Объединитесь с сильной, многочисленной, трудолюбивой Солнечной Династией. Юн Си является лучшим из товарищей.&quot;
+
+---
+
+OfferNonAggressionPact
+
+&quot;I know war is anathema to you; we simply want to perfect our nation in isolation. Shall we agree to renounce mutual war?&quot;
+
+&quot;Я знаю, война является анафемой для вас, мы просто хотим совершенствовать нашу нацию в изоляции. Должны ли мы согласиться отказаться от войны?&quot;
+
+---
+
+OfferPeace
+
+&quot;There is no weakness in offering the olive branch; you would be weak to refuse it.&quot;
+
+&quot;Нет слабости в принятии оливковой ветви, вы слабы, если отказаваетесь от нее.&quot;
+
+---
+
+OfferResearchPact
+
+&quot;Shall we walk the path of enlightenment together?&quot;
+
+&quot;Должны ли мы идти по пути просветления вместе?&quot;
+
+---
+
+OfferTradingPact
+
+&quot;Let us sign a trading pact! We will both profit.&quot;
+
+&quot;Давайте подпишем торговый пакт! Мы оба получим прибыль.&quot;
+
+---
+
+PeaceAccepted
+
+&quot;Yes, peace is a wise choice.&quot;
+
+&quot;Да, мир является мудрым выбором.&quot;
+
+---
+
+PeaceRejected
+
+&quot;Begging for peace like a dog? Try harder.&quot;
+
+&quot;Просите мира, как собака? Старайтесь лучше.&quot;
+
+---
+
+ResearchPactAccepted
+
+&quot;Indeed, let us find enlightenment together.&quot;
+
+&quot;В самом деле, мы найдем просветление вместе.&quot;
+
+---
+
+ResearchPactRejected
+
+&quot;I apologize, but I am afraid the benefits of such a pact would be too one-sided.&quot;
+
+&quot;Я прошу прощения, но я боюсь, преимущество такого пакта было бы слишком односторонним.&quot;
+
+---
+
+ResearchPactTerminated
+
+&quot;Disappointing, but it cannot be helped. Maybe we will reconsider in a couple months.&quot;
+
+&quot;Жаль, и ничто не может этому помочь. Может быть, мы пересмотрим наше мнение через пару месяцев.&quot;
+
+---
+
+TerminateAlliance
+
+&quot;While our alliance surely stood strong under this alien sky, the time has come to part ways.&quot;
+
+&quot;Хотя наш союз, конечно, стоял сильным под этим Чужим небом, пришло время расстаться.&quot;
+
+---
+
+TerminateNonAggressionPact
+
+&quot;Our stupid non-aggression pact is hereby nullified.&quot;
+
+&quot;Наш глупый пакт о ненападении Настоящим считать недействительным.&quot;
+
+---
+
+TerminateResearchPact
+
+&quot;The scientific profit from our research pact is too one-sided, so I'm canceling it.&quot;
+
+&quot;Научная прибыль от нашего исследовательского пакта слишком односторонняя, так что я отменяю его.&quot;
+
+---
+
+TerminateTradingPact
+
+&quot;To be frank, I think our trading pact is simply not profitable enough for us, and hereby nullified.&quot;
+
+&quot;Откровенно говоря, я думаю, что наш торговый пакт просто не выгоден нам, и настоящим аннулируются.&quot;
+
+---
+
+TradingPactAccepted
+
+&quot;Most excellent, let the commerce flow my dear %1%!&quot;
+
+&quot;Превосходно, пусть деньги течь, дорогой %1%!&quot;
+
+---
+
+TradingPactRejected
+
+&quot;We do not seek your material goods at this point in time.&quot;
+
+&quot;Нам не нужны ваши материальные блага в данный момент.&quot;
+
+---
+
+TradingPactTerminated
+
+&quot;Why would you make such an unwise decision? One of your advisors must be an enemy spy.&quot;
+
+&quot;Зачем вы приняли такое неразумное решение? Один из ваших советников должно быть враг или шпион.&quot;
+
+---
+
+WarAccepted
+
+&quot;Very well, %2%. Time to teach you a lesson in the art of war.&quot;
+
+&quot;Очень хорошо, %2%. Настало время, чтобы научить вас военному искусству.&quot;
+
+---
+
+WithdrawalAccepted
+
+&quot;Let me confide in you -- the Red Guard sometimes escape my control. Yet I promise, %1%, that shall listen to me when I tell them to move. A small hole left unmended will become a big hole and much more difficult to mend.&quot;
+
+&quot;Позвольте мне довериться вам -- Красная гвардия иногда избегает моего контроля. Тем не менее, я обещаю, %1%, что они слушаются меня, когда я говорю им двигаться. Небольшое отверстие, оставленной неремонтированным станет большой дырой, которую гораздо труднее исправить.&quot;
+
+---
+
+WithdrawalRejected
+
+&quot;When one door closes, another opens. Which is a way of saying 'no'.&quot;
+
+&quot;Когда одна дверь закрывается, открывается другая. Это такой способ сказать 'нет'.&quot;

@@ -1,0 +1,741 @@
+Attack
+
+Attack
+
+Атака
+
+---
+
+AttackHint
+
+Attack
+
+Атаковать цель
+
+---
+
+Automatize
+
+Automate
+
+Автоматизация
+
+---
+
+AutomatizeHint
+
+Automate [A]
+
+Чтобы включить автоматизацию нажмите [A]
+
+---
+
+BuildCity
+
+Build City
+
+Построить город
+
+---
+
+BuildCityHint
+
+Build City [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending light biological units<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate<br/><icon texture='GUI/Bullet'/>Cities have to be at least 2 territories apart<br/><icon texture='GUI/Bullet'/>Removes all territory improvements<br/><icon texture='GUI/Bullet'/>Cannot build on mountains<br/><icon texture='GUI/Bullet'/>Cannot build on special terrain features
+
+Построить город [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы для защиты легких биологических подразделений<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> скорость ремонта <br/><icon texture='GUI/Bullet'/>Город должен иметь хотя бы 2 области<br/><icon texture='GUI/Bullet'/>Удаляет все территориальные улучшения<br/><icon texture='GUI/Bullet'/>Невозможно строить в горах<br/><icon texture='GUI/Bullet'/>Нельзя строить на особых территориях
+
+---
+
+BuildConstructionBay
+
+Build Construction Bay
+
+Build Construction Bay
+
+---
+
+BuildConstructionBayHint
+
+Build Construction Bay [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Build Construction Bay [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+---
+
+BuildEnergyPark
+
+Build Energy Park
+
+Build Energy Park
+
+---
+
+BuildEnergyParkHint
+
+Build Energy Park [Y]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +3<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Build Energy Park [Y]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +3<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+---
+
+BuildFarm
+
+Build Farm
+
+Построить ферму
+
+---
+
+BuildFarmHint
+
+Build Farm [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Построить ферму [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/> работы требуют 3 хода.
+
+---
+
+BuildFieldLaboratory
+
+Build Field Laboratory
+
+Build Field Laboratory
+
+---
+
+BuildFieldLaboratoryHint
+
+Build Field Laboratory [L]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Build Field Laboratory [L]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+---
+
+BuildFort
+
+Build Fort
+
+Построить форт
+
+---
+
+BuildFortHint
+
+Build Fort [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+50%% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/Power'/> power vs operations<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/HealingRate'/> healing rate<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Построить форт [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> силы для обороняющихся<br/><icon texture='GUI/Bullet'/>-1 урона от операций врага<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> обзора<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> скорость ремонта <br/><icon texture='GUI/Bullet'/>работы требуют 3 хода.
+
+---
+
+BuildMine
+
+Build Mine
+
+Построить шахту
+
+---
+
+BuildMineHint
+
+Build Mine [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Построить шахту [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>работы требуют 3 хода.
+
+---
+
+BuildPurifier
+
+Build Purifier
+
+Build Purifier
+
+---
+
+BuildPurifierHint
+
+Build Purifier [P]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -3<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Build Purifier [P]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -3<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+---
+
+BuildRoad
+
+Build Road
+
+Построить дорогу
+
+---
+
+BuildRoadHint
+
+Build Road [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Построить дорогу [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>-50% цены движения<br/><icon texture='GUI/Bullet'/>работы требуют 3 хода.
+
+---
+
+BuildSuburb
+
+Build Suburb
+
+Build Suburb
+
+---
+
+BuildSuburbHint
+
+Build Suburb [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Build Suburb [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+---
+
+ClearCreep
+
+Clear Infestation
+
+Clear Infestation
+
+---
+
+ClearCreepHint
+
+Clear Infestation<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Clear Infestation<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+---
+
+ClearForest
+
+Clear Forest
+
+Вырубить лес
+
+---
+
+ClearForestHint
+
+Clear Forest [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Вырубить лес [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>работы требуют 3 хода.
+
+---
+
+ClearFungus
+
+Clear Fungus
+
+Уничтожить фунгус
+
+---
+
+ClearFungusHint
+
+Clear Fungus [Alt+N]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Уничтожить фунгус [Alt+U]<br/><style name='Small'/><icon texture='GUI/Bullet'/>работы требуют 3 хода.
+
+---
+
+ClearPollution
+
+Clear Wasteland
+
+Очистить пустошь
+
+---
+
+ClearPollutionHint
+
+Clear Wasteland [Alt+W]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Очистить пустошь [Alt+W]<br/><style name='Small'/><icon texture='GUI/Bullet'/>работы требуют 3 хода.
+
+---
+
+Deploy
+
+Deploy
+
+Развернуть
+
+---
+
+DeployHint
+
+Deploy
+
+Развернуть
+
+---
+
+DestroyImprovement
+
+Destroy Improvement
+
+Удалить улучшение
+
+---
+
+DestroyImprovementHint
+
+Destroy Improvement [Alt+D]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Destroy any non-road improvement
+
+Удалить улучшение [Alt+D]<br/><style name='Small'/><icon texture='GUI/Bullet'/>удаляет все улучшения территории кроме дороги
+
+---
+
+DestroyRoad
+
+Destroy Road
+
+Удалить дорогу
+
+---
+
+DestroyRoadHint
+
+Destroy Road [Alt+R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Destroy road improvement
+
+Удалить дорогу [Alt+R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Удаляет дорогу
+
+---
+
+Disband
+
+Disband
+
+Распустить
+
+---
+
+DisbandHint
+
+Disband [Delete]<br/><style name='Small'/><icon texture='GUI/Bullet'/>25%% of unit's <icon texture='Resources/Credits'/> credits value received if disbanded in allied territory<br/><icon texture='GUI/Bullet'/>%1% <icon texture='Resources/Credits'/> credits received if disbanded here
+
+Распустить [Delete]<br/><style name='Small'/><icon texture='GUI/Bullet'/>25%% кредитов <icon texture='Resources/Credits'/> потраченных на подразделение будет возвращено, если оно будет распущено на союзной территории<br/><icon texture='GUI/Bullet'/>%1% <icon texture='Resources/Credits'/> кредитов будет возвращено если распустить здесь.
+
+---
+
+Drop
+
+Drop
+
+Десант
+
+---
+
+DropHint
+
+Orbital Deployment<br/><icon texture='GUI/Bullet'/>Deploy unit to any unoccupied revealed territory on the planet<br/><icon texture='GUI/Bullet'/>Unit has to be stationed in a city controlled by its player<br/><icon texture='GUI/Bullet'/>Consumes a drop pod operation
+
+Орбитальный десант<br/><icon texture='GUI/Bullet'/>Выброс десанта возможен на любую незанятую врагом территорию<br/><icon texture='GUI/Bullet'/>При десантировании подразделения должны находиться в городе игрока<br/><icon texture='GUI/Bullet'/>Потребляет десантную операцию
+
+---
+
+Guard
+
+Guard
+
+Охрана
+
+---
+
+GuardHint
+
+Guard [G]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Hold position until an enemy enters attack range or until attacked<br/>
+
+Охрана [G]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Держать позиции пока в радиусе атаке не появится враг или подразделение не будет атаковано.<br/>
+
+---
+
+GrowForest
+
+Grow Forest
+
+Растить лес
+
+---
+
+GrowForestHint
+
+Grow Forest [T]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1  <icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Растить лес [T]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1  <icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>работы требуют 3 хода.
+
+---
+
+GrowFungus
+
+Grow Fungus
+
+Растить фунгус
+
+---
+
+GrowFungusHint
+
+Grow Fungus [N]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Растить фунгус [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>работы требуют 3 хода.
+
+---
+
+HarvestCredits
+
+Harvest Credits
+
+Harvest Credits
+
+---
+
+HarvestCreditsHint
+
+Harvest Credits<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Credits'/> credits from territory
+
+Harvest Credits<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Credits'/> credits from territory
+
+---
+
+HarvestFood
+
+Harvest Food
+
+Harvest Food
+
+---
+
+HarvestFoodHint
+
+Harvest Food [Alt+F]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Food'/> food from territory
+
+Harvest Food [Alt+F]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Food'/> food from territory
+
+---
+
+HarvestMinerals
+
+Harvest Minerals
+
+Harvest Minerals
+
+---
+
+HarvestMineralsHint
+
+Harvest Minerals [Alt+M]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Minerals'/> minerals from territory
+
+Harvest Minerals [Alt+M]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Minerals'/> minerals from territory
+
+---
+
+HarvestResearch
+
+Harvest Research
+
+Harvest Research
+
+---
+
+HarvestResearchHint
+
+Harvest Research<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Research'/> research from territory
+
+Harvest Research<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Research'/> research from territory
+
+---
+
+Heal
+
+Heal
+
+Ремонт
+
+---
+
+HealHint
+
+Heal [H]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Hold position until healed<br/><icon texture='GUI/Bullet'/>Heals %1%%% per turn<br/><icon texture='GUI/Bullet'/>%2% turns until fully healed
+
+Ремонт [H]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Держать позиции до полного ремонта<br/><icon texture='GUI/Bullet'/>Восстанавливает %1%%% за ход<br/><icon texture='GUI/Bullet'/>%2% до полного ремонта
+
+---
+
+HoldPosition
+
+Hold Position
+
+Держать позиции
+
+---
+
+HoldPositionHint
+
+Hold Position [D]
+
+Держать позиции [D]
+
+---
+
+Idle
+
+Idle
+
+Простаивает
+
+---
+
+ImproveClosestCity
+
+Improve Closest City
+
+Улучшать ближайший город
+
+---
+
+ImproveClosestCityHint
+
+Improve Closest City [Alt+A]
+
+Улучшать ближайший город [Alt+A]
+
+---
+
+ImproveEcoregion
+
+Improve Ecoregion
+
+Улучшать экорегион
+
+---
+
+ImproveEcoregionHint
+
+Improve Ecoregion [K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Улучшать экорегион [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>работы требуют 3 хода.
+
+---
+
+InciteRiot
+
+Incite Riot
+
+Incite Riot
+
+---
+
+InciteRiotHint
+
+Incite Riot<br/><icon texture='GUI/Bullet'/>Incites a riot in a city that lasts 4 turns and drastically reduces morale<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+Incite Riot<br/><icon texture='GUI/Bullet'/>Incites a riot in a city that lasts 4 turns and drastically reduces morale<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+---
+
+InfiltrateReconnaissance
+
+Infiltrate Reconnaissance
+
+Infiltrate Reconnaissance
+
+---
+
+InfiltrateReconnaissanceHint
+
+Infiltrate Reconnaissance<br/><icon texture='GUI/Bullet'/>Grants full access to a player's view until the end of the turn<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+Infiltrate Reconnaissance<br/><icon texture='GUI/Bullet'/>Grants full access to a player's view until the end of the turn<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+---
+
+LowerTerrain
+
+Lower Terrain
+
+Lower Terrain
+
+---
+
+LowerTerrainHint
+
+Lower Terrain [Alt+I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Lower Terrain [Alt+I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+---
+
+Move
+
+Move to
+
+Двигаться
+
+---
+
+MoveHint
+
+Move
+
+Передвижение
+
+---
+
+RaiseTerrain
+
+Raise Terrain
+
+Raise Terrain
+
+---
+
+RaiseTerrainHint
+
+Raise Terrain [I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Raise Terrain [I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+---
+
+Refit
+
+Refit
+
+Переоснащение
+
+---
+
+RefitHint
+
+Refit [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Change unit design<br/><icon texture='GUI/Bullet'/>Unit has to be stationed in a city controlled by its player
+
+Переоснащение [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Сменить дизайн подразделения на выбранный<br/><icon texture='GUI/Bullet'/>Подразделение должно быть в городе игрока.
+
+---
+
+ReleaseGeneticVirus
+
+Release Genetic Virus
+
+Release Genetic Virus
+
+---
+
+ReleaseGeneticVirusHint
+
+Release Genetic Virus<br/><icon texture='GUI/Bullet'/>Releases a genetic virus in a city that lasts 4 turns and continuously kills population<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+Release Genetic Virus<br/><icon texture='GUI/Bullet'/>Releases a genetic virus in a city that lasts 4 turns and continuously kills population<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+---
+
+SabotageBuilding
+
+Sabotage Building
+
+Sabotage Building
+
+---
+
+SabotageBuildingHint
+
+Sabotage Building<br/><icon texture='GUI/Bullet'/>Destroys a random building of a city<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+Sabotage Building<br/><icon texture='GUI/Bullet'/>Destroys a random building of a city<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+---
+
+SabotageProduction
+
+Sabotage Production
+
+Sabotage Production
+
+---
+
+SabotageProductionHint
+
+Sabotage Production<br/><icon texture='GUI/Bullet'/>Destroys a random amount of a city's accumulated production<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+Sabotage Production<br/><icon texture='GUI/Bullet'/>Destroys a random amount of a city's accumulated production<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+---
+
+SabotageResearch
+
+Sabotage Research
+
+Sabotage Research
+
+---
+
+SabotageResearchHint
+
+Sabotage Research<br/><icon texture='GUI/Bullet'/>Destroys a random amount of a player's accumulated research<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+Sabotage Research<br/><icon texture='GUI/Bullet'/>Destroys a random amount of a player's accumulated research<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+---
+
+Skip
+
+Skip
+
+Пропустить
+
+---
+
+SkipHint
+
+Skip [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Skip this turn
+
+Пропустить [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Пропустить ход
+
+---
+
+StealCredits
+
+Steal Credits
+
+Steal Credits
+
+---
+
+StealCreditsHint
+
+Steal Credits<br/><icon texture='GUI/Bullet'/>Steals a random amount of a player's accumulated credits<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+Steal Credits<br/><icon texture='GUI/Bullet'/>Steals a random amount of a player's accumulated credits<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+---
+
+StealResearch
+
+Steal Research
+
+Steal Research
+
+---
+
+StealResearchHint
+
+Steal Research<br/><icon texture='GUI/Bullet'/>Steals a random amount of a player's accumulated research<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+Steal Research<br/><icon texture='GUI/Bullet'/>Steals a random amount of a player's accumulated research<br/><icon texture='GUI/Bullet'/>%1%%% base success chance
+
+---
+
+WorsenEcoregion
+
+Worsen Ecoregion
+
+Ухудшить экорегион
+
+---
+
+WorsenEcoregionHint
+
+Worsen Ecoregion [Alt+K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration
+
+Ухудшить экорегион [Alt+C]<br/><style name='Small'/><icon texture='GUI/Bullet'/> работы требуют 3 хода 

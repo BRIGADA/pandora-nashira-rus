@@ -1,0 +1,741 @@
+AlienAggression
+
+Xenology
+
+Ксенология
+
+---
+
+AlienAggressionDescription
+
+<style name='Italic'/>&quot;There is no such thing as an 'alien'. There are but different understandings and ways of life, all created and dictated by our Lord. Let us bask in His insight and benevolence.&quot;<br/>    -- Lady Lilith Vermillion, Tempore Dei<style name='Default'/><br/><br/>Detention, examination and dissection of native species, combined with investigative neuroscience and genetic research, leads us to better comprehend these enemies and the threat they represent.
+
+<style name='Italic'/>&quot;Не существует такого понятия как 'пришелец'. Есть только различное понимание путей развития жизненных форм и все они, как и мы, созданы единым богом. Давайте отбросим предвзятость и проявим доброжелательность. &quot;<br/>    -- Леди Лилит Алая, Вечный Завет<style name='Default'/><br/><br/>Исследование новых форм жизни открывает новые горизонты познания.
+
+---
+
+AlienAggressionProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>-25% alien aggression
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>-25% агрессивность чужих
+
+---
+
+Aspidoch
+
+Aspidoch Tiling
+
+Строение Аспидоха
+
+---
+
+AspidochDescription
+
+<style name='Italic'/>&quot;We're going to need a bigger... gun.&quot;<br/>    -- Commodore Pequod, First Naval Force.<style name='Default'/><br/><br/> To survive in the high gravity of Pandora, the island-sized Aspidoch seemed impossibly huge. Its bones solved the mystery. A mixture of graphene, buckminster fullerene and carbyne acts as a skeletal structure throughout the great creature, allowing it to deploy its tremendous force without tearing itself apart.
+
+Чтобы существовать в условиях повышенной гравитации Пандоры, скелет Аспидоха стал невероятно огромным. Его кости помогли решить эту тайну. Смесь графена, фуллерена Бакминстера и карбиновых волокон выступает в качестве скелетной структуры по всему телу существа, что позволяет ему развивать огромную силу, которую мы видели в борьбе с ним, не разрывая его на части.
+
+---
+
+AspidochProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for heavy units
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы тяжелых подразделений.
+
+---
+
+Assault
+
+Operation Valkyrie
+
+Операция Валькирия
+
+---
+
+AssaultDescription
+
+<style name='Italic'/>&quot;It doesn't matter what you do, as long as you do.&quot;<br/>    -- Admiral James Heid, On War<style name='Default'/><br/><br/> Devised by tactics and logistics experts, Operation Valkyrie is the codename for a large scale reconnaissance operation followed by a massive orbital troop deployment, much like a Blitzkrieg. The result is a swift and powerful strike behind the enemy lines that can decide the outcome of an entire campaign.
+
+Разработанная тактиками и специалистами логистики, Операция Валькирия стала крупнейшей операцией по разведке с последующим развертыванием орбитальных станций. В соответсвии с ее названием, главное ее назначение - быстрый и мощный удар в тыл врага, который может решить исход всей кампании.
+
+---
+
+AssaultProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Provides 3 <icon texture='Operations/ScanIcon' height='16'/> satellite scans on completion<br/><icon texture='GUI/Bullet'/>Provides 3 <icon texture='Operations/DropPodIcon' height='16'/> drop pods on completion
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>Дает доступ к 3 <icon texture='Operations/ScanIcon' height='16'/> спутниковым слежениям после изучения.<br/><icon texture='GUI/Bullet'/>Дает доступ к 3 <icon texture='Operations/DropPodIcon' height='16'/> десантным капсулам после изучения.
+
+---
+
+Colonization
+
+Colonization Fervor
+
+Жажда колонизации
+
+---
+
+ColonizationDescription
+
+<style name='Italic'/>&quot;People forget that Pandora isn't like Earth -- it's a SuperTerran planet around a very different star. Yet everything we have was designed for Terran conditions. Even a table leg only operates under certain parameters -- gravity, air pressure, atmospheric acidity, radioactivity, topology and so on -- which are completely different here. And we don't have access to most of our go-to resources. You try building a tank out of fungus!&quot;<br/>    -- Dr. Wendigo, Engineering Department, Togra University.<style name='Default'/><br/><br/>The rush for territorial domination on Pandora is relentless. Thankfully, our colonists are irrationally dedicated to the cause, which should give us a headstart in colonization.
+
+Погоня за территориальное доминирование на Пандоре неумолима. К счастью, энтузиазм колонистов достаточно просто подстегнуть.
+
+---
+
+ColonizationProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Provides a <icon texture='Units/ColonizerIcon' height='16'/> colonizer on completion<br/><icon texture='GUI/Bullet'/>Provides a <icon texture='Units/TrooperIcon' height='16'/> colonial trooper on completion
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>Вы получаете <icon texture='Units/ColonizerIcon' height='16'/> колонизатора в своем самом большом городе.
+
+---
+
+Construction0
+
+Pandoran Construction
+
+Pandoran Construction
+
+---
+
+Construction0Description
+
+<style name='Italic'/>&quot;Cheops' Law: Nothing ever gets built on schedule or within budget.&quot;<br/>    -- Robert A. Heinlein, Time Enough for Love<style name='Default'/><br/><br/>To walk into one of the construction bays is a unique experience. Filling the cavernous hangar is the drone field, an inseparable mass of flying, walking and rolling robots, slaved to the factory's central schematic. From the flitting cutters to the pendulous assembly drones to the lumbering traction engines, it merges into a silver cloud, with a rapidly growing shape at its middle -- the assigned construction project. Enter the cloud and you experience a miracle of the modern age -- the mass splits like a shoal of herring before a predatory shark, while work continues implacably around you.<br/><br/>The construction bay is just one of several new field improvements our architects have designed.
+
+<style name='Italic'/>&quot;Cheops' Law: Nothing ever gets built on schedule or within budget.&quot;<br/>    -- Robert A. Heinlein, Time Enough for Love<style name='Default'/><br/><br/>To walk into one of the construction bays is a unique experience. Filling the cavernous hangar is the drone field, an inseparable mass of flying, walking and rolling robots, slaved to the factory's central schematic. From the flitting cutters to the pendulous assembly drones to the lumbering traction engines, it merges into a silver cloud, with a rapidly growing shape at its middle -- the assigned construction project. Enter the cloud and you experience a miracle of the modern age -- the mass splits like a shoal of herring before a predatory shark, while work continues implacably around you.<br/><br/>The construction bay is just one of several new field improvements our architects have designed.
+
+---
+
+Construction0Properties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Allows formers to construct construction bays, field laboratories, energy parks, suburbs and purifiers
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Allows formers to construct construction bays, field laboratories, energy parks, suburbs and purifiers
+
+---
+
+Credits
+
+Qan Bargaining
+
+Сделка Кана
+
+---
+
+CreditsDescription
+
+<style name='Italic'/>&quot;The important thing about a free market is that no exchange takes place unless both parties benefit. Or think they do, at least.&quot;<br/>    -- Abay Qan, The Final Transaction<style name='Default'/><br/><br/>Haggling has always been an important part of human commerce, but the Qan have elevated it to an art, using all available market data, down to the seemingly insignificant, to obtain the greatest price advantage. Their technique has always been talked about with high praise, and the easy availability of up-to-the-second data in the modern world greatly facilitates the process.
+
+Торговля всегда была важной частью человеческой жизни, но Кан поднял его в ранг искусства. Используя все имеющиеся данные о рынке, вплоть до, казалось бы, незначительных, он получил огромное преимущество в цене. О его технике всегда говорят с похвалой.
+
+---
+
+CreditsProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Resources/Credits'/> purchase costs in all cities
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Resources/Credits'/> стоимости покупки
+
+---
+
+Defense
+
+Command Nexus
+
+Командный пункт Нексус
+
+---
+
+DefenseDescription
+
+<style name='Italic'/>&quot;Once you've acquired power, you need to learn how to focus it.&quot;<br/>    -- Prime Minister Yun Xi, The Large Black Book<style name='Default'/><br/><br/>Establishing a centralized command center is a risky move, as its destruction would be disastrous, but it also has its rewards. This headquarters dispatches local tactical information instantaneously and can act as a last-ditch reinforcement, if it is ever needed.
+
+Создание централизованного командного центра было рискованным шагом, ведь его разрушение будет иметь катастрофические последствия, но в этом также есть свои плюсы. Этот штаб управляет местной тактической информацией и может выступать в качестве источника подкрепления, если в этом возникает необходимость.
+
+---
+
+DefenseProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for units inside your borders
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы ваших подразделений при сражении на вашей территории.
+
+---
+
+Diplomacy
+
+Planetary Council
+
+Планетарный консул
+
+---
+
+DiplomacyDescription
+
+<style name='Italic'/>&quot;Diplomacy is the art of letting somebody else have your way.&quot;<br/>    -- David Frost<style name='Default'/><br/><br/>The establishment of a worldwide diplomatic organization to facilitate cooperation and negotiation between all factions will hopefully boost our reputation and standing. Who says altruism can't also be self-interested?
+
+<style name='Italic'/>&quot;Дипломатия - это исскуство показать другим свой путь. &quot;<br/>    -- Девид Фрост<style name='Default'/><br/><br/>Создание всемирной дипломатической организации для содействия сотрудничеству и переговорам между всеми фракциями.
+
+---
+
+DiplomacyProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Increases standings with every faction on completion
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>Улучшает отношение к вам  других фракции.
+
+---
+
+Ecoform
+
+Ecoforming
+
+Ecoforming
+
+---
+
+EcoformDescription
+
+<style name='Italic'/>&quot;Transforming the barren lands into fields of green -- fields that extend beyond sight. That will be the planet of our people's dreams.&quot;<br/>    -- Prime Minister Yun Xi, Leadership of the State<style name='Default'/><br/><br/>In the Amazon rain-forest, before it was obliterated, hunter-gatherer tribes would burn out clearings, bring in plants alien to the region, and sculpt the landscape by suppressing hostile flora and fauna. The ecological forming we're doing on Pandora only differs from that in scale. Here, local species are eliminated and the Formers saturate the land with Earth-native minerals (nitrates, phosphates and so on). Then the Formers distribute genetically- and cybernetically-modified Earth plants and pollinating insects that can survive long enough to alter the environment towards the desired norm. 
+
+<style name='Italic'/>&quot;Transforming the barren lands into fields of green -- fields that extend beyond sight. That will be the planet of our people's dreams.&quot;<br/>    -- Prime Minister Yun Xi, Leadership of the State<style name='Default'/><br/><br/>In the Amazon rain-forest, before it was obliterated, hunter-gatherer tribes would burn out clearings, bring in plants alien to the region, and sculpt the landscape by suppressing hostile flora and fauna. The ecological forming we're doing on Pandora only differs from that in scale. Here, local species are eliminated and the Formers saturate the land with Earth-native minerals (nitrates, phosphates and so on). Then the Formers distribute genetically- and cybernetically-modified Earth plants and pollinating insects that can survive long enough to alter the environment towards the desired norm. 
+
+---
+
+EcoformProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Allows formers to improve ecoregions<br/><icon texture='GUI/Bullet'/>Allows formers to worsen ecoregions
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Allows formers to improve ecoregions<br/><icon texture='GUI/Bullet'/>Allows formers to worsen ecoregions
+
+---
+
+FoodMinerals
+
+Colony Ship Dismantling
+
+Демонтирование колонизационного корабля
+
+---
+
+FoodMineralsDescription
+
+<style name='Italic'/>&quot;They broke up the Mayflower too, you know? And the Argo never sailed again -- it just rotted. This old girl has one last chance to be useful. After twenty-seven light years, I think she'd be grateful.&quot;<br/>    -- Foreman Cadenza, Recycling Department, Togra University<style name='Default'/><br/><br/>The colony ship used to reach Pandora would take several decades to travel back to our homeworld. So instead of sending it home, we would rather unload all the remaining supplies and then dismantle the whole craft. This will result in a significant one-time resource boost of food and minerals for our new empire.
+
+Кораблю-колонии, который мы использовали, чтобы достичь Пандоры,  понадобится несколько десятилетий, чтобы вернуться назад к нашей родной планете. Таким образом, вместо отправки его домой, мы хотели бы разгрузить все оставшиеся запасы, а затем демонтировать весь корабль. Это приведет к значительному единовременного повышению ресурсов продовольствия и минералов для нашей новой империи.
+
+---
+
+FoodMineralsProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+16 <icon texture='Resources/Food'/> food on completion<br/><icon texture='GUI/Bullet'/>+32 <icon texture='Resources/Minerals'/> minerals on completion
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+20 <icon texture='Resources/Food'/> еды после изучения<br/><icon texture='GUI/Bullet'/>+20 <icon texture='Resources/Minerals'/> минералов после изучения.
+
+---
+
+FormerWorkSpeed
+
+Great Planetary Survey
+
+Великая экспансия
+
+---
+
+FormerWorkSpeedDescription
+
+<style name='Italic'/>&quot;As a great man's influence never ends, so also there is not definite finality, no end, to a great survey; it runs along for centuries, ever responsive to the strain of the increasing needs of a growing population and an enlarging domain.&quot;<br/>    -- Cleveland Abbe<style name='Default'/><br/><br/>This survey will be a comprehensive study of Pandora's ecosystem that greatly improves our understanding of the planet and in turn makes the landscaping process significantly more efficient.
+
+<style name='Italic'/>&quot;Как никогда не заканчивается экспансия человечества, так никогда и не закончатся территории, но почему бы вместо освоения новых территорий не осваивать и улучшать старые, что гораздо эффективней .&quot;<br/>    -- Кливленд Аббе<style name='Default'/><br/><br/>Экспансия должна начинаться со всестороннего изучения экосистем Пандоры, это значительно улучшит наше понимание планеты что в свою очередь делает процесс терраформирования значительно эффективнее.
+
+---
+
+FormerWorkSpeedProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>-25% work duration for all formers
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+33% скорость работы формеров.
+
+---
+
+Fungus0
+
+Fungus Cultivation
+
+Разведение фунгуса
+
+---
+
+Fungus0Description
+
+<style name='Italic'/>&quot;I prefer a world covered in fungi to one covered in mushroom clouds.&quot;<br/>    -- Advocate Vivian Gardinier, The Landing Address<style name='Default'/><br/><br/>Several of our scientists advocate the theory that the fungus represents some sort of defense system for the planet, since growth and spore dispersal appear to be directly related to the damage done to the environment. The native species like xenomorphs seem largely unaffected by the spores.<br/><br/>Our understanding now reaches far enough that we can safely grow and decompose fungus colonies with our Former units -- though their spores remain just as deadly to other units.
+
+Некоторые из наших ученых создали теорию, что грибок представляет собой какую-то систему обороны планеты, так как его рост и распространение спор, похоже, непосредственно связанны с ущербом, нанесенным окружающей среде. Местные формы жизни, такие как ксеноморф похоже вообще никак не затронуты грибками. <br/> <br/> Наше понимание их строения в настоящее время позволяет нам эффективно растить и распространять колонии грибков, хотя их споры остаются столь же смертельно опасными.
+
+---
+
+Fungus0Properties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Formers suffer no damage in fungus<br/><icon texture='GUI/Bullet'/>Allows formers to clear fungus<br/><icon texture='GUI/Bullet'/>Allows formers to grow fungus
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>Формеры могут растить фунгус<br/><icon texture='GUI/Bullet'/>При помощи формеров возможно выращивание колоний грибков.
+
+---
+
+Fungus1
+
+Fungus Mutagenesis
+
+Мутагенезис фунгуса
+
+---
+
+Fungus1Description
+
+<style name='Italic'/>&quot;Life is too short to stuff a mushroom.&quot;<br/>    -- Shirley Conran, Superwoman<style name='Default'/><br/><br/>Our latest breakthroughs in the field of genetics have allowed us to alter the characteristics of fungi via PCR site-directed mutagenesis, effectively creating edible plants that can also produce efficient fuel via biomass conversion.
+
+Последние достижения в области генетики позволили нам изменить характеристики грибов через ПЦР, фактически создавая съедобные растения, которые также могут  производить топливо через переработку их биомассы.
+
+---
+
+Fungus1Properties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food from territories with fungus in all cities<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> minerals from territories with fungus in all cities
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> еды на территории с фунгусами<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> минералов на территории с фунгусами
+
+---
+
+Fungus2
+
+Fungal Hormones
+
+Гормоны фунгуса
+
+---
+
+Fungus2Description
+
+<style name='Italic'/>&quot;Centuries of Terran herbalism resulted in a few non-toxic mushrooms and a vast array of fungus-derived medicinal compounds. Think what we could do with the infinite varieties of Pandora's mushroom kingdoms.&quot;<br/>    -- Alpheus Schreiber, The Chymical Kitchen<style name='Default'/><br/><br/>Genetically-engineered hormones for fungi allow us to effectively double their growth rate and with that their food and mineral output. Highly resistant to hostile climates, diseases, and parasites, mankind's future need for resources might very well be covered just by fungus plantations spanning hundreds of square miles...
+
+Генетически-модифицированные гормоны грибков позволяют нам удвоить темпы их роста с тем, чтобы повысить добычу еды и минералов. Высокая устойчивость к враждебному климату, болезням и паразитам делает их просто идеальным оружием в борьбе за выживание ...
+
+---
+
+Fungus2Properties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food from territories with fungus in all cities<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> minerals from territories with fungus in all cities
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> еды на территории с фунгусами<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> минералов на территории с фунгусами
+
+---
+
+GoldenAge
+
+Golden Age
+
+Золотой век
+
+---
+
+GoldenAgeDescription
+
+<style name='Italic'/>&quot;Through many darknesses came we. On this day at last our Lady not only gave us Her Light but passed It down unto us. Let us rejoice and humbly pray we be worthy of Her grace.&quot;<br/>    -- Lady Lilith Vermillion, Through Dusk to Dawn<style name='Default'/><br/><br/>The colonists rejoice as our society reaches levels of enlightenment that would have been unthinkable back on old Earth. A nationwide celebration would probably make them very happy.
+
+<style name='Italic'/>&quot;Мы прошли через ад. В этот день Богоматерь, передала свой свет вниз к нам. Возрадуемся и смиренно помолимся и сделаем все, чтобы быть достойными Ее милости.&quot;<br/>    -- Леди Лилит Алая, Через закат к расвету<style name='Default'/><br/><br/>Колонисты радуются, наше общество достигло нового уровня просветления.
+
+---
+
+GoldenAgeProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Morale'/> morale for 12 turns in all cities
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+16 <icon texture='Resources/Morale'/> морали на 10 ходов после исследования.
+
+---
+
+Growth
+
+Eugenic Population Survey
+
+Eugenic Population Survey
+
+---
+
+GrowthDescription
+
+<style name='Italic'/>&quot;Men are generally more careful of the breed of their horses and dogs than of their children.&quot;<br/>    -- William Penn. Some Fruits Of Solitude, In Reflections And Maxims Relating To The Conduct Of Human Life (1693).<style name='Default'/><br/><br/>Much of the limit on our population growth is down to simple, preventable failures prior to and during pregnancy. By investing a little more in a one-off survey of the most widespread genetic flaws in our population, we can improve the average genetic health of our population. This way, we can make an significant increase in the survivability of childbirth and the life-prospects of our growing population for very little effort.
+
+<style name='Italic'/>&quot;Men are generally more careful of the breed of their horses and dogs than of their children.&quot;<br/>    -- William Penn. Some Fruits Of Solitude, In Reflections And Maxims Relating To The Conduct Of Human Life (1693).<style name='Default'/><br/><br/>Much of the limit on our population growth is down to simple, preventable failures prior to and during pregnancy. By investing a little more in a one-off survey of the most widespread genetic flaws in our population, we can improve the average genetic health of our population. This way, we can make an significant increase in the survivability of childbirth and the life-prospects of our growing population for very little effort.
+
+---
+
+GrowthProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+10% <icon texture='Resources/PositiveGrowth'/> growth in all cities
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+10% <icon texture='Resources/PositiveGrowth'/> growth in all cities
+
+---
+
+Guerrilla
+
+Guerrilla Warfare
+
+Партизанская война
+
+---
+
+GuerrillaDescription
+
+<style name='Italic'/>&quot;The conventional army loses if it does not win. The guerrilla wins if he does not lose.&quot;<br/>    -- Henry Kissinger<style name='Default'/><br/><br/>The strategy and tactics of guerrilla warfare tend to center upon the use of a small, mobile force competing against a larger, more unwieldy one. Tactics such as ambushes, sabotage, raids, the element of surprise, and extraordinary mobility are used to harass a larger and less-mobile traditional army, or strike a vulnerable target and withdraw almost immediately. We've now adapted these techniques to Pandora's unique topology.
+
+<style name='Italic'/>&quot;Обычная армия - уничтожена, если не может победит, армия партизан - побеждает, если не может быть уничтожена.&quot;<br/>    -- Генри Киссинджер<style name='Default'/><br/><br/>Стратегия и тактика партизанской войны, как правило, делает ставку на использовании небольшой, мобильной армии, нежели на тяжелую технику. Тактики, такие как засады, диверсии, рейды, элементы неожиданности, и чрезвычайная мобильность дают в сумме сверхэффективность против традиционной армии. Теперь мы адаптировали эти методы для уникальной топологии Пандоры.
+
+---
+
+GuerrillaProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units in forests and mountains
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы у легких биологических подразделений в горах и лесах.
+
+---
+
+Harvest
+
+Remote Autonomous Harvesting
+
+Remote Autonomous Harvesting
+
+---
+
+HarvestDescription
+
+<style name='Italic'/>&quot;If only I could make such a machine to sort the chaff from the men.&quot;<br/>    -- Prime Minister Yun Xi<style name='Default'/><br/><br/>Using the standardized Tirenei drill at a fraction of its power to achieve 30 revolutions per minute allows Formers to safely extract natural minerals and nutrients from the soil with the otherwise underutilized radial suction pumps. Similar approaches that we had not thought of before can be used for Pandora's diverse terrestrial and aquatic regions to extract valuable resources from places we have not yet had a chance to populate.
+
+<style name='Italic'/>&quot;If only I could make such a machine to sort the chaff from the men.&quot;<br/>    -- Prime Minister Yun Xi<style name='Default'/><br/><br/>Using the standardized Tirenei drill at a fraction of its power to achieve 30 revolutions per minute allows Formers to safely extract natural minerals and nutrients from the soil with the otherwise underutilized radial suction pumps. Similar approaches that we had not thought of before can be used for Pandora's diverse terrestrial and aquatic regions to extract valuable resources from places we have not yet had a chance to populate.
+
+---
+
+HarvestProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Allows formers to harvest resources from territories
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Allows formers to harvest resources from territories
+
+---
+
+Leviathan
+
+Leviathan Hide
+
+Вскрытие Левиафана
+
+---
+
+LeviathanDescription
+
+<style name='Italic'/>&quot;Leviathan flesh tastes somewhat like paintstripper so requires extensive treatment for culinary use. However, its fins make an excellent broth -- but do remember to wear shielded chainmail gloves when handling it.<br/>    -- Alpheus Schreiber, The Chymical Kitchen<style name='Default'/><br/><br/>The Leviathan's skin demonstrates parallel evolution to shark skin, being comprised of overlapping monomolecular tooth-like structures. This makes it both tough to break and dangerous to touch -- perfect for our waterborne units if we can replicate it.
+
+Кожа Левиафана демонстрирует параллельный ход эволюции, это как если бы кожа акулы состояла из перекрывающихся мономолекулярные зубов. Это идеально подходит для наших водных подразделений, и мы вполне способные воссоздать подобную структуру.
+
+---
+
+LeviathanProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for waterborne units
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы для водных подразделений
+
+---
+
+Market0
+
+Planetary Market
+
+Planetary Market
+
+---
+
+Market0Description
+
+<style name='Italic'/>&quot;The only thing sweeter than shooting an enemy with his own gun is selling it to his widow afterwards.&quot;<br/>    -- Director Eric Preston, Lethal Market Forces<style name='Default'/><br/><br/>After virtual decades of negotiation, which took mere days in real time, AI representatives of each faction have agreed to set up a planetary market. Here we can anonymously buy natural resources at prices that vary according to supply and demand. Be aware, though, that you are buying from, and selling to, your opponents.
+
+<style name='Italic'/>&quot;The only thing sweeter than shooting an enemy with his own gun is selling it to his widow afterwards.&quot;<br/>    -- Director Eric Preston, Lethal Market Forces<style name='Default'/><br/><br/>After virtual decades of negotiation, which took mere days in real time, AI representatives of each faction have agreed to set up a planetary market. Here we can anonymously buy natural resources at prices that vary according to supply and demand. Be aware, though, that you are buying from, and selling to, your opponents.
+
+---
+
+Market0Properties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Provides access to the planetary market
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Provides access to the planetary market
+
+---
+
+Movement
+
+Advanced Time Dilation
+
+Продвинутое искривление времени
+
+---
+
+MovementDescription
+
+<style name='Italic'/>&quot;It may take us centuries to master time dilation. So we expect to be done by next Tuesday. &quot;<br/>    -- Professor Alpheus Schreiber, Stand-Up For Scientists<style name='Default'/><br/><br/>Time had always been overlooked as only a matter of perception. Time compression and dilation is now a full-fledged research field and the first results are encouraging. It will probably take centuries to fully understand the manipulation of this very peculiar dimension, but it already grants us better mobility.
+
+Время всегда рассматривалось как часть мироощущения, а не как что-то, что можно изменять. Сжатие и расширение времени уже доступно в настоящее время в полевых условиях и дает первые результаты. Вероятно, потребуются столетия, чтобы полностью освоить манипуляции этой очень своеобразной величиной, но уже это дает нам огромную мобильность.
+
+---
+
+MovementProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Movement'/> movement for all units
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Movement'/> движения
+
+---
+
+Power
+
+Telepathy
+
+Телепатия
+
+---
+
+PowerDescription
+
+<style name='Italic'/>&quot;Welcome to Telepathics Anonymous. Don't bother introducing yourself.&quot;<br/>    -- Robert Barr<style name='Default'/><br/><br/>The ability to read into our enemies' minds helps us predict and prevent each and every one of their movements on the battlefield. Though it doesn't mean we can win every battle, it helps.
+
+<style name='Italic'/>&quot;Добро пожаловать в телепаты. Можете не представляться .&quot;<br/>    -- Роберт Барр<style name='Default'/><br/><br/>Умение читать мысли наших врагов помогает предсказать и предотвращать все их действия на поле боя. Хотя это не делает нас бессмертными.
+
+---
+
+PowerProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for all units
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы
+
+---
+
+Pollution
+
+Planetary Awareness
+
+Планетарные наблюдения
+
+---
+
+PollutionDescription
+
+<style name='Italic'/>&quot;Like splitting the atom, extinction-level events were thought the province of god alone. Yet humanity didn't also acquire god's putative morality or wisdom along with god's power, so Earth is dead. This time, we must learn.&quot;<br/>    -- Advocate Vivian Gardinier, Alien Ecosystems<style name='Default'/><br/><br/>The main drawback of industrialization has always been pollution. We are not willing to repeat the mistakes we made on old Earth and monitoring of pollutant interference in the wilderness, as well as proactive actions to diminish the release of hazardous waste, can alleviate the problem.
+
+Основным недостатком индустриализации всегда было загрязнение. Мы не готовы повторять ошибки, которые мы сделали на старой Земле. Мониторинг всех загрязняющих веществ в атмосфере может решить проблему.
+
+---
+
+PollutionProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>-2 <icon texture='Resources/Pollution'/> pollution in all cities
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>-2 <icon texture='Resources/Pollution'/> загрязнений
+
+---
+
+Population
+
+Advanced City Planning
+
+Продвинутая городская архитектура
+
+---
+
+PopulationDescription
+
+<style name='Italic'/>&quot;We should concentrate our work not only to a separated housing problem but housing involved in our daily work and all the other functions of the city.&quot;<br/>    -- Alvar Aalto, Sketches<style name='Default'/><br/><br/>Careful, rational planning and implementation of automated space management prevents population growth from being hampered by housing shortages.
+
+<style name='Italic'/>&quot;Мы должны сконцентрировать наше внимание не только на решении жилищной проблемы, мы должны рассматривать желье как часть нашей повседневной жизни и учитывать ее участие во всех других функциях города.&quot;<br/>    -- Альвар Аальто<style name='Default'/><br/><br/>Осторожное, рациональное планирование и внедрение автоматизированного управления предотвращает ограничение роста населения от нехватки жилья.
+
+---
+
+PopulationProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Habitat'/> habitat in all cities
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Habitat'/> к жилью
+
+---
+
+Production
+
+Operational Efficiency
+
+Повышение оперативности
+
+---
+
+ProductionDescription
+
+<style name='Italic'/>&quot;The Pyramids, Rome, The Great Wall... they weren't built by free men. You may feel like slaves today, but you're building a golden future for us all.&quot;<br/>    -- Prime Minister Yun Xi, Leadership of the State<style name='Default'/><br/><br/>In any industrialized nation, most delays and production problems stem from a single failure: that of coordination in the dispatching of human and material resources, due to petty quarrels over contractual details. Better handling of those issues by a regulating authority can help productivity.
+
+В любой промышленно развитой стране большинство задержек в производстве проистекает из таких вещей, как ошибки координации в диспетчеризации людских и материальных ресурсов в связи с мелкими нарушения ранее запланированных действий. Решение этих вопросов с помощью регулирующего органа может увеличить производительность.
+
+---
+
+ProductionProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Production'/> production from workers in all cities
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Production'/> производительности рабочих
+
+---
+
+Research
+
+Brain Growth
+
+Мозговой рост
+
+---
+
+ResearchDescription
+
+<style name='Italic'/>&quot;Eierkopf. Intello. Egghead. Every language has a dismissive attitude to greater intelligence. Isn't it time that humanity ditched this beastly attitude and embraced the one thing that makes us distinct from the animals?&quot;<br/>    -- Professor Alpheus Schreiber, Stand-Up For Scientists<style name='Default'/><br/><br/>Time has passed and humanity has evolved yet again. What would have looked like an abnormally swollen cranium on old Earth is now commonplace -- the average brain is now capable of a more simultaneous functions and focused tasks than ever before, and the expanded neural network gives our researchers a great advantage.
+
+Прошло время, и человечество в очередной раз изменилось. То что выглядело бы как аномально опухший череп на Старой Земле, в настоящее время стало обычным явлением - средний мозг теперь способен на большее число одновременных функций, чем когда-либо прежде, а подключение к нейронной сети дает нашим исследователям большое преимущество.
+
+---
+
+ResearchProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Research'/> research from scientists in all cities
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Research'/> исследований от ученых
+
+---
+
+Sight
+
+Xenotronium Sensors
+
+Ксенотрониумные сенсоры
+
+---
+
+SightDescription
+
+<style name='Italic'/>&quot;Unobtainium, vibranium, adamantium... I swear the scientists are just making these compounds up. But as long as they have military applications, you won't hear me complaining.&quot;<br/>    -- Admiral James Heid, On War<style name='Default'/><br/><br/>Xenotronium, though rare and slightly unstable, is a chemical compound with interesting properties. Used in eyepieces, it gives properties close but immensely superior to old Earth's night vision goggles, along with heat and movement detection.
+
+Ксенотрониум, чрезвычайно редкий и нестабильный элемент, представляет собой химическое соединение с интересными свойствами. Использование в качестве окуляров дает эффект аналогичный ночному видению совместно с тепловизором и сканером движений.
+
+---
+
+SightProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Sight'/> sight for all units
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Sight'/> обзора
+
+---
+
+SpyAttack
+
+Conversion Virus
+
+Conversion Virus
+
+---
+
+SpyAttackDescription
+
+<style name='Italic'/>&quot;One kiss, and you're mine.&quot;<br/>    -- Jane Blonde, Spysnatcher<style name='Default'/><br/><br/>The conversion virus is a simple modification of influenza, mixed with the by-product of a fascinating local fungus. The fungus itself - Xenodikarya Credulus - was discovered by Solar Dynasty apparatchiks, who had noted (and exploited) the unearthly trust of workers harvesting the fungus, without realizing its full potential. Sadly, we haven't managed to create an aerosol or militarized version, so it only works from human contact - a handshake, a hug or a kiss. The espionage department has shown great interest.
+
+<style name='Italic'/>&quot;One kiss, and you're mine.&quot;<br/>    -- Jane Blonde, Spysnatcher<style name='Default'/><br/><br/>The conversion virus is a simple modification of influenza, mixed with the by-product of a fascinating local fungus. The fungus itself - Xenodikarya Credulus - was discovered by Solar Dynasty apparatchiks, who had noted (and exploited) the unearthly trust of workers harvesting the fungus, without realizing its full potential. Sadly, we haven't managed to create an aerosol or militarized version, so it only works from human contact - a handshake, a hug or a kiss. The espionage department has shown great interest.
+
+---
+
+SpyAttackProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+75% infiltration chance for agents
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+75% infiltration chance for agents
+
+---
+
+SpyDefense
+
+Custodes
+
+Custodes
+
+---
+
+SpyDefenseDescription
+
+<style name='Italic'/>&quot;Qui custodiet ipsos custodes?&quot;<br/>    -- Juvenal, Satires VI.<style name='Default'/><br/><br/>Now, throughout every town, perched on rooftops, in the sewers, are the Custodes. From a distance they appear to be sclerotic white orbs about a foot across. Most of the time they're static. But should they detect a hint of DNA foreign to our populace, they start swarming in their hundreds on its position. If they don't suffocate the intruder, they provide a damn fine indicator for city security as to where they're hiding out. (Obviously, they're only of use against small numbers of intruders.)
+
+<style name='Italic'/>&quot;Qui custodiet ipsos custodes?&quot;<br/>    -- Juvenal, Satires VI.<style name='Default'/><br/><br/>Now, throughout every town, perched on rooftops, in the sewers, are the Custodes. From a distance they appear to be sclerotic white orbs about a foot across. Most of the time they're static. But should they detect a hint of DNA foreign to our populace, they start swarming in their hundreds on its position. If they don't suffocate the intruder, they provide a damn fine indicator for city security as to where they're hiding out. (Obviously, they're only of use against small numbers of intruders.)
+
+---
+
+SpyDefenseProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>-50% infiltration chance for enemy agents
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>-50% infiltration chance for enemy agents
+
+---
+
+Terraform
+
+Terraforming
+
+Терраформинг
+
+---
+
+TerraformDescription
+
+<style name='Italic'/>&quot;With the best intentions, they'll make Pandora into a new Earth -- by which I mean, this planet is doomed.&quot;<br/>    -- Advocate Vivian Gardinier, The Landing Address<style name='Default'/><br/><br/>Across the tundra, the city block-sized Formers spread, the ones at the front excavating, the rear contingent compressing earth and stacking rock. These improved Former fleets can flatten, raise or lower areas the size of countries in a matter of months. Given enough time, they could make this entire planet one ocean -- perhaps, save for a single unearthly mountain of carefully-stacked rock.
+
+<style name='Italic'/>&quot;Преобразование пустынь в зеленые луга, не об этом ли мы мечтали?&quot;<br/>    -- Премьер-министр Юн Си, Государственный Лидер<style name='Default'/><br/><br/>Атмосферные процессоры и почвенные мутагены в сочетании друг с другом дают бесконечные возможности для изменения мира вокруг.
+
+---
+
+TerraformProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Allows formers to raise terrain<br/><icon texture='GUI/Bullet'/>Allows formers to lower terrain
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>Формеры могут улучшать экорегион<br/><icon texture='GUI/Bullet'/>Формеры могут улучшать экорегион
+
+---
+
+Transport
+
+Naval Transportation Logistics
+
+Морская навигация
+
+---
+
+TransportDescription
+
+<style name='Italic'/>&quot;The ocean won't stop the Eaters. They'll build rafts and eat the fish, sharks and whales out of the sea, perhaps even the Aspidoch himself. Fish, if you're reading this; run, hide!&quot;<br/>    -- Advocate Vivian Gardinier, The Landing Address<style name='Default'/><br/><br/>A large percentage of the planetary surface is covered by water, forming an obstacle for civilian and military units alike. Naval logistics provide our empire with deployable transporters that can ship land units over the sea.
+
+Большой процент поверхности планеты покрыт водой, образуя препятствие для гражданских и военных подразделений. Морская навигация обеспечит нашу империю новым видом транспортировки.
+
+---
+
+TransportProperties
+
+<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>Allows land units to self-embark across water
+
+<icon texture='GUI/Bullet'/>Достижение<br/><icon texture='GUI/Bullet'/>подразделения могут перемещаться по воде

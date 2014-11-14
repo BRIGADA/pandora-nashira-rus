@@ -1,0 +1,1077 @@
+Agent0
+
+Covert Agent
+
+Covert Agent
+
+---
+
+Agent0Description
+
+<style name='Italic'/>&quot;Mata Hari? The spy? I've never heard of her. But if I had, I would never admit it.&quot;<br/>    -- Itala Palomino, A Child's Guide to Espionage<style name='Default'/><br/><br/>Most factions call their spies attachés or military advisors or diplomatic aides - but they're spies all the same. On Pandora, though all the factions are unified in their mutual friendship and trust, we thought it wise to revive this oldest of professions. Use them discreetly and wisely.
+
+<style name='Italic'/>&quot;Mata Hari? The spy? I've never heard of her. But if I had, I would never admit it.&quot;<br/>    -- Itala Palomino, A Child's Guide to Espionage<style name='Default'/><br/><br/>Most factions call their spies attachés or military advisors or diplomatic aides - but they're spies all the same. On Pandora, though all the factions are unified in their mutual friendship and trust, we thought it wise to revive this oldest of professions. Use them discreetly and wisely.
+
+---
+
+Agent0Properties
+
+<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Can infiltrate cities<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Can infiltrate cities<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+---
+
+Agent1
+
+Cyber Agent
+
+Cyber Agent
+
+---
+
+Agent1Description
+
+<style name='Italic'/>&quot;It's a very sad thing that nowadays there is so little useless information.&quot;<br/>    -- Oscar Wilde<style name='Default'/><br/><br/>Our agents may have had all the wiles of the old world, but they were traditional types, using sad little pistols and blackbagging each other outside embassies. Our new agents, though as capable as their predecessors at the Le Carré style of espionage, have wetware interfaces and all sorts of hidden extras.
+
+<style name='Italic'/>&quot;It's a very sad thing that nowadays there is so little useless information.&quot;<br/>    -- Oscar Wilde<style name='Default'/><br/><br/>Our agents may have had all the wiles of the old world, but they were traditional types, using sad little pistols and blackbagging each other outside embassies. Our new agents, though as capable as their predecessors at the Le Carré style of espionage, have wetware interfaces and all sorts of hidden extras.
+
+---
+
+Agent1Properties
+
+<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Can infiltrate cities<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Can infiltrate cities<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+---
+
+Agent2
+
+Datangel
+
+Datangel
+
+---
+
+Agent2Description
+
+<style name='Italic'/>&quot;If our memories are hard drives, our eyes satellites and our hands machines a thousand miles distant... what do we care if someone's watching? They're probably just another part of us.&quot;<br/>    -- Itala Palomino<style name='Default'/><br/><br/>It's hard to talk about our third generation agents... because they're always listening. We assume that they're still working for us, wherever or whatever they are, because parcels of enemy data keep unlocking in my terminal. But they've moved so far past human now that communication with them is like talking to angels. It's a blessing that they still appear to be, mostly on our side.
+
+<style name='Italic'/>&quot;If our memories are hard drives, our eyes satellites and our hands machines a thousand miles distant... what do we care if someone's watching? They're probably just another part of us.&quot;<br/>    -- Itala Palomino<style name='Default'/><br/><br/>It's hard to talk about our third generation agents... because they're always listening. We assume that they're still working for us, wherever or whatever they are, because parcels of enemy data keep unlocking in my terminal. But they've moved so far past human now that communication with them is like talking to angels. It's a blessing that they still appear to be, mostly on our side.
+
+---
+
+Agent2Properties
+
+<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Can infiltrate cities<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Can infiltrate cities<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+---
+
+Aircraft0
+
+Strike Aircraft
+
+Истребитель Удар
+
+---
+
+Aircraft0Description
+
+<style name='Italic'/>&quot;Fight on and fly on to the last drop of blood and the last drop of fuel, to the last beat of the heart.&quot;<br/>    -- Baron Manfred von Richthofen<style name='Default'/><br/><br/>The problem of flight in Pandora's unreliable atmosphere has been solved. Gaseous fuel is ionized and fed into an acceleration chamber containing magnetic and electrical fields, where particles are propelled through the exhaust chamber by the Lorentz force. This produces an exhaust velocity of up to and beyond 10,000 meters per second, allowing smaller airborne vessels with a limited power source to evolve into fast and agile fighters.
+
+<style name='Italic'/>&quot;Не прекращай огонь до последней капли крови, до послений капли топлива, до последнего удара сердца. &quot;<br/>    -- Барон Манфред фон Рихтгофен<style name='Default'/><br/><br/>Проблема полета в специфичной атмосфере Пандоры была решена. Газообразное топливо ионизируется и подается в камеру ускорения, содержащей магнитные и электрические поля, где частицы движутся в выпускной камере силой Лоренца. Это дает скорость движения до 10000 метров в секунду.
+
+---
+
+Aircraft0Properties
+
+<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+<icon texture='GUI/Bullet'/>Легкое воздушной судно<br/><icon texture='GUI/Bullet'/>Не может захватывать города
+
+---
+
+Aircraft1
+
+Hurricane Aircraft
+
+Истребитель Ураган
+
+---
+
+Aircraft1Description
+
+The Hurricane trumps all existing aircraft, combining the evasiveness of light airborne units thanks to its groundbreaking countermeasure systems with the firepower and resilience of heavier ones.
+
+Ураган превосходит все существующие самолеты, сочетая уклончивость, легкость и высокую огневую мощь.
+
+---
+
+Aircraft1Properties
+
+<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+<icon texture='GUI/Bullet'/>Легкое воздушное судно<br/><icon texture='GUI/Bullet'/>Не может захватывать города
+
+---
+
+Aircraft2
+
+Nu Aircraft
+
+Истребитель Нио
+
+---
+
+Aircraft2Description
+
+The Nu has one huge tactical advantage compared to our current aircraft. Its geomagnetic hull allows it to travel to Pandora's thermosphere, where the dense ionization fields can be used to supercharge the ship and its weapons. Then it can strike down on enemies at frightening speeds.
+
+Нио по ТТХ сильно превосходит самолеты старых поколений. Его корпус позволяет летать в ионизированных слоях атмосферы, и использовать ионизированное поле для зарядки оружия.
+
+---
+
+Aircraft2Properties
+
+<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+<icon texture='GUI/Bullet'/>Легкое воздушное судно<br/><icon texture='GUI/Bullet'/>Не может захватывать города
+
+---
+
+AlienAircraft
+
+Messari Aircraft
+
+Messari Aircraft
+
+---
+
+AlienAircraftDescription
+
+These U-shaped aircraft scud across the sky like an old Earth catamaran, maneuvering impossibly across Pandora's banked clouds or flipping direction with no sign of deployed energy. If there are living creatures in these craft, they must have much higher gravitational tolerance and reactions than any human pilot.
+
+These U-shaped aircraft scud across the sky like an old Earth catamaran, maneuvering impossibly across Pandora's banked clouds or flipping direction with no sign of deployed energy. If there are living creatures in these craft, they must have much higher gravitational tolerance and reactions than any human pilot.
+
+---
+
+AlienAircraftProperties
+
+<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+---
+
+AlienArtillery
+
+Messari Artillery
+
+Messari Artillery
+
+---
+
+AlienArtilleryDescription
+
+Built on a similar line to the Messari 'tank', these twin obelisks lack the focal omphalos of the 'tank'. This gives its weaponry a much greater range, but a wider dispersion, allowing it to hit multiple targets. Thankfully, this seems to reduce its lethality -- if it hits you, you're only nearly certain to die rather completely certain.
+
+Built on a similar line to the Messari 'tank', these twin obelisks lack the focal omphalos of the 'tank'. This gives its weaponry a much greater range, but a wider dispersion, allowing it to hit multiple targets. Thankfully, this seems to reduce its lethality -- if it hits you, you're only nearly certain to die rather completely certain.
+
+---
+
+AlienArtilleryProperties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit
+
+---
+
+AlienMech
+
+Messari Mech
+
+Messari Mech
+
+---
+
+AlienMechDescription
+
+We can't even tell what this thing is. The nearest analogue in terms of scale is one of our titanic mechs, but this great monolith doesn't walk -- it just floats across the landscape, like a wandering cityblock. Scraping the clouds at its summit is the most powerful of the Messari diffusion weapons, a great eye that turns jerkily from target to target. Wherever it looks, entire battlefields vanish.
+
+We can't even tell what this thing is. The nearest analogue in terms of scale is one of our titanic mechs, but this great monolith doesn't walk -- it just floats across the landscape, like a wandering cityblock. Scraping the clouds at its summit is the most powerful of the Messari diffusion weapons, a great eye that turns jerkily from target to target. Wherever it looks, entire battlefields vanish.
+
+---
+
+AlienMechProperties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Not affected by roads<br/><icon texture='GUI/Bullet'/>Cannot perform orbital deployment
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Not affected by roads<br/><icon texture='GUI/Bullet'/>Cannot perform orbital deployment
+
+---
+
+AlienMothership
+
+Messari Mothership
+
+Messari Mothership
+
+---
+
+AlienMothershipDescription
+
+This city-sized drifting disc is the ultimate expression of the Messari field technology. Unlike the shrieking rending of their other diffusion weapons, the hole at the centre of the torus is silent -- indeed, sound seems unable to escape it at all. Anything else the disc passes over simply evaporates.<br/><br/>Our only blessing is that the thing can't move any faster than a march, else we'd already have lost.
+
+This city-sized drifting disc is the ultimate expression of the Messari field technology. Unlike the shrieking rending of their other diffusion weapons, the hole at the centre of the torus is silent -- indeed, sound seems unable to escape it at all. Anything else the disc passes over simply evaporates.<br/><br/>Our only blessing is that the thing can't move any faster than a march, else we'd already have lost.
+
+---
+
+AlienMothershipProperties
+
+<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins
+
+---
+
+AlienTank
+
+Messari Tank
+
+Messari Tank
+
+---
+
+AlienTankDescription
+
+This Messari device fills the role of a tank, acting as a heavy front line unit. It seems to be based on the same divided-obelisk base as the Artillery unit, but its greater resilience and firepower is balanced by a shorter range and less dispersed fire patterns.
+
+This Messari device fills the role of a tank, acting as a heavy front line unit. It seems to be based on the same divided-obelisk base as the Artillery unit, but its greater resilience and firepower is balanced by a shorter range and less dispersed fire patterns.
+
+---
+
+AlienTankProperties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit
+
+---
+
+AlienTransport
+
+Transport
+
+Transport
+
+---
+
+AlienTransportDescription
+
+There must be some hard limit to how the Messari can use their portals or these transports wouldn't be necessary. Perhaps water interferes with the teleporters' action? Perhaps the portals aren't accurate enough for targeting our cities directly? Whatever the reason, these craft allow the Messari to reach any area of the planet.
+
+There must be some hard limit to how the Messari can use their portals or these transports wouldn't be necessary. Perhaps water interferes with the teleporters' action? Perhaps the portals aren't accurate enough for targeting our cities directly? Whatever the reason, these craft allow the Messari to reach any area of the planet.
+
+---
+
+AlienTransportProperties
+
+<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Transports land units<br/><icon texture='GUI/Bullet'/>Cannot attack
+
+<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Transports land units<br/><icon texture='GUI/Bullet'/>Cannot attack
+
+---
+
+AlienTrooper
+
+Messari Trooper
+
+Messari Trooper
+
+---
+
+AlienTrooperDescription
+
+These foot-soldiers of the alien invasion look almost human -- bipedal and simian. However, given that we've never captured one alive or even managed to penetrate their armor, we can't tell if they're the aliens themselves, some servitor race, or even just a cruel mockery of the human form.<br/><br/>They might be the weakest Messari unit, but they come in their hundreds and they're still lethally effective.
+
+These foot-soldiers of the alien invasion look almost human -- bipedal and simian. However, given that we've never captured one alive or even managed to penetrate their armor, we can't tell if they're the aliens themselves, some servitor race, or even just a cruel mockery of the human form.<br/><br/>They might be the weakest Messari unit, but they come in their hundreds and they're still lethally effective.
+
+---
+
+AlienTrooperProperties
+
+<icon texture='GUI/Bullet'/>Light biological unit
+
+<icon texture='GUI/Bullet'/>Light biological unit
+
+---
+
+Aspidoch
+
+Aspidoch
+
+Аспидох
+
+---
+
+AspidochDescription
+
+A blue whale, on earth, can be 100 feet long and weigh as much as 170 tonnes. By comparison to Pandora's Aspidoch, though, the blue whale is a minnow. The Aspidoch could literally swallow it in a bite. Given Pandora's high gravity, such a creature can only survive in the oceans. We've only encountered one Aspidoch, so we can't tell if it's the last of a species or simply a rare apex predator -- but it's the biggest, most deadly creature we've ever encountered.
+
+Грубо говоря, это аналог земного кита. Может быть длиной 100 футов и весить целых 170 тонн. Аспидох может буквально проглотить при укусе. Учитывая высокую гравитацию Пандоры, такое существо может выжить только в океанах. Мы только что столкнулись с одним из Аспидохов, поэтому мы не можем точно сказать, вершина ли это пищевой цепочки в море или нет - но это самое большое, самое смертельное существо из всех с которыми мы когда-либо сталкивались.
+
+---
+
+AspidochProperties
+
+<icon texture='GUI/Bullet'/>Heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power when defending
+
+<icon texture='GUI/Bullet'/>Тяжелое биоподразделение<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> силы при защите
+
+---
+
+ATV0
+
+Seeker ATV
+
+Развед вездеход
+
+---
+
+ATV0Description
+
+Despite the similarities between Pandora and old Earth, tweaking properties like mass and moment of inertia for a light reconnaissance vehicle can mean the difference between life and death to its driver. The reported top speed for certain Xenomorph species is above 150 miles per hour, so that in military circles exploration duty has become a much-feared punishment for disobedience.<br/><br/><style name='Italic'/>Roger Raynor and his seeker trike are legendary among explorers, his adventures often told in bars and at campfires: How he outwitted the great Galeth by driving in circles, how he stole Vermillion's golden scarab by escaping through the Sea of Grass, and how he tried to outrun a pack of black Xenomorphs. The story, sadly, ends there.
+
+Несмотря на сходство между Пандорой и старой Земли, изменение свойств таких как масса и момента инерции для разведывательной машины может означать переход грани между жизнью и смертью его водителя. Судя по докладам, максимальная скорость для некоторых видов ксеноморфов выше 150 миль в час, так что в военных кругах разведки стали все больше бояться ошибок.
+
+---
+
+ATV0Properties
+
+<icon texture='GUI/Bullet'/>Light mechanical unit
+
+<icon texture='GUI/Bullet'/>Легкая техника
+
+---
+
+ATV1
+
+Longhaul ATV
+
+Вездеход Лонгхау
+
+---
+
+ATV1Description
+
+A much-needed upgrade to its smaller counterpart, the Seeker, the Longhaul is able to withstand all kinds of twists, bumps and damage without even flinching. Its shock absorption capabilities make its maneuverability unmatched.
+
+Столь ожидаемая - улучшенная версия вездехода. Сочетает прочность и крайне высокую маневренность.
+
+---
+
+ATV1Properties
+
+<icon texture='GUI/Bullet'/>Light mechanical unit
+
+<icon texture='GUI/Bullet'/>Легкая техника
+
+---
+
+ATV2
+
+Atlas ATV
+
+Вездеход Атлас
+
+---
+
+ATV2Description
+
+Its electromagnetically charged armor doesn't only protect this ATV from terrain damage. It also provides it with a reasonable protection against most common weapons, making it a valuable asset both as a reconnaissance force and as a hit-and-run unit in warfare.
+
+Его электромагнитная броня не только защищает этот вездеход от повреждений местности. Она также обеспечивает его адекватной защитой от наиболее распространенных видов оружия, что делает его ценным как для разведки, так и для тактики 'ударил-отошел'
+
+---
+
+ATV2Properties
+
+<icon texture='GUI/Bullet'/>Light mechanical unit
+
+<icon texture='GUI/Bullet'/>Легкая техника
+
+---
+
+Bug0
+
+Xenomorph Drone
+
+Ксено Трутень
+
+---
+
+Bug0Description
+
+Xenomorphs, also referred to as &quot;Bugs&quot; by soldiers and civilians alike, are the multitudinous insectoid natives of the planet. They're the size of a man and their sheer numbers mean that they could wipe out our colonies easily, if they turn hostile. They make the tranquil wilderness of Pandora a very dangerous place indeed.
+
+Ксеноморфы, которых наши солдаты и гражданские так же называют &quot;Жуками&quot;, являются распространенными насекомоподобными жителями планеты. Они размером с человека и их огромное количество представляет угрозу для наших колоний, если они будут настроены враждебно.
+
+---
+
+Bug0Properties
+
+<icon texture='GUI/Bullet'/>Light biological unit
+
+<icon texture='GUI/Bullet'/>Легкое биоподразделение
+
+---
+
+BugQueen
+
+Xenomorph Queen
+
+Ксено Королева
+
+---
+
+BugQueenDescription
+
+Queens are significantly larger and stronger than drones. Our scientists think that they rarely leave the Xenomorph hives, where they lay eggs and care for their young. Like most species, they fiercely defend their offspring, which makes attacks on hives a very dangerous endeavor.
+
+Королева гораздо больше обычных трутней. Ученые считают, что она редко покидает логово, где откладывает яйца и заботится о молодом потомстве. Как и большинство видов, они отчаянно защищают свое логово, что делает нападения на ульи очень опасным занятием.
+
+---
+
+BugQueenProperties
+
+<icon texture='GUI/Bullet'/>Heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power when defending
+
+<icon texture='GUI/Bullet'/>Тяжелое биоподразделение<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> силы при защите
+
+---
+
+Colonizer
+
+Colonizer
+
+Колонизатор
+
+---
+
+ColonizerDescription
+
+Fragile exploration vehicles that are stockpiled with necessities to sustain life, Colonizers hold the power humanity hungers for the most -- expansion.
+
+Хрупкое транспортное средство, которое содержит полный комплекс устройств поддержания жизни. Колонизаторы управляют тем, что человечество жаждет больше всего - расширения.
+
+---
+
+ColonizerProperties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Consumes a colonist<br/><icon texture='GUI/Bullet'/>Builds new cities<br/><icon texture='GUI/Bullet'/>Cannot attack
+
+<icon texture='GUI/Bullet'/>Тяжелая техника<br/><icon texture='GUI/Bullet'/>При создании потребляет 1 единицу населения<br/><icon texture='GUI/Bullet'/>Строит новые города<br/><icon texture='GUI/Bullet'/>Не может атаковать
+
+---
+
+Crab
+
+Karkinos
+
+Karkinos
+
+---
+
+CrabDescription
+
+Under the planet's surface, something breeds monsters. We've dubbed these 'karkinos', though the Solar Dynasty boffins call them Takaashigani. They're visually similar to Terran arthropods, save for their great scale and the sickening speed of their movement. They stun their prey and drag them down, alive, underground or undersea, to be consumed by their young.
+
+Under the planet's surface, something breeds monsters. We've dubbed these 'karkinos', though the Solar Dynasty boffins call them Takaashigani. They're visually similar to Terran arthropods, save for their great scale and the sickening speed of their movement. They stun their prey and drag them down, alive, underground or undersea, to be consumed by their young.
+
+---
+
+CrabProperties
+
+<icon texture='GUI/Bullet'/>Amphibious light biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power in water territories
+
+<icon texture='GUI/Bullet'/>Amphibious light biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power in water territories
+
+---
+
+Flyer
+
+Scite
+
+Саранча
+
+---
+
+FlyerDescription
+
+Flocks of these flying predators travel large distances each day, searching for prey. While smaller objects like humans seem relatively safe, we've received reports of Scites mercilessly attacking our undefended machinery.
+
+Стаи этих хищников пролетают огромные расстояния каждый день, ища добычу. Раньше мы считали их относительно безопасными из-за их размера, но недавно мы получили сообщения о том, что саранча безжалостно атакует наши незащищенные машины.
+
+---
+
+FlyerProperties
+
+<icon texture='GUI/Bullet'/>Airborne light biological unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains
+
+<icon texture='GUI/Bullet'/>Легкое воздушное биоподразделение
+
+---
+
+Former
+
+Former
+
+Формер
+
+---
+
+FormerDescription
+
+The Former is a powerful, revolutionary machine capable of transforming almost any terrain. The solution to our resource struggles lies with life-changing apparatus like this. But as with all tools, it must be used with care.
+
+Формер был самым революционным изобретением человечества. Потребность терраформирования всегда являлась ключевой при колонизации новых планет. Но как и все инструменты, формер должен использоваться с осторожностью.
+
+---
+
+FormerProperties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Improves terrain<br/><icon texture='GUI/Bullet'/>Cannot attack
+
+<icon texture='GUI/Bullet'/>Тяжелая техника<br/><icon texture='GUI/Bullet'/>Улучшает территории<br/><icon texture='GUI/Bullet'/>Не может атаковать
+
+---
+
+Former1
+
+Amphibious Former
+
+Amphibious Former
+
+---
+
+Former1Description
+
+The original Formers were landbound because of their sheer weight -- but as we've explored, we've realized how advantageous aquatic development could be. These new models are watertight and much lighter, so they're capable of amphibious tasks.
+
+The original Formers were landbound because of their sheer weight -- but as we've explored, we've realized how advantageous aquatic development could be. These new models are watertight and much lighter, so they're capable of amphibious tasks.
+
+---
+
+Former1Properties
+
+<icon texture='GUI/Bullet'/>Amphibious heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Improves terrain<br/><icon texture='GUI/Bullet'/>Cannot attack
+
+<icon texture='GUI/Bullet'/>Amphibious heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Improves terrain<br/><icon texture='GUI/Bullet'/>Cannot attack
+
+---
+
+Giant
+
+Galeth
+
+Галеш
+
+---
+
+GiantDescription
+
+Fittingly dubbed as &quot;Giants&quot; due to their height of over a dozen meters, these clumsy beasts can easily pulp tanks or city-blocks when on a rampage. Their bizarre cranium-sting bypasses even our strongest armor, so combat with a Galeth should be avoided until we discover more advanced military technology.
+
+Это существо всполне походит под описание &quot;Титана&quot;из-за своей высоты в десятки метров, эти неуклюжие звери могут легко давить танки или серьездно повреждать целые здания. Их причудливый череп может пронзать даже нашу сильнейшую броню. Столкновений с Галешем следует избегать до тех пор, пока у нас не появятся продвинутые технологии.
+
+---
+
+GiantProperties
+
+<icon texture='GUI/Bullet'/>Heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power vs undefended cities
+
+<icon texture='GUI/Bullet'/>Тяжелое биоподразделение<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> силы против незащишенных городов.
+
+---
+
+Leviathan
+
+Leviathan
+
+Левиафан
+
+---
+
+LeviathanDescription
+
+Little is known about the Leviathan, ruler of the Pandoran Seas. This massive aquatic lifeform is only recognized as an insurmountable force, highly reactive to the vibrations caused by motorized watercraft and capable of sinking entire fleets on its own.
+
+То немногое, что мы знаем о них точно - они являются правителями морей Пандоры. Эта массивная водная форма жизни обладает огромной силой и крайне агрессивно реагирует на шум двигателей нашей техники.
+
+---
+
+LeviathanProperties
+
+<icon texture='GUI/Bullet'/>Heavy biological unit
+
+<icon texture='GUI/Bullet'/>Тяжелое биоподразделение
+
+---
+
+Mech0
+
+Goliath Mech
+
+ЭБК Голиаф
+
+---
+
+Mech0Description
+
+The tank, our current heaviest war machine, is restricted in size due to limitations in maneuvering on Pandora's rough terrain. Finally the time has come for a new era of mechanization.<br/><br/>The Goliath is a gigantic humanoid war machine with a total weight of over a hundred thousand tons, as much as the largest Earth aircraft carrier. It can carry enough firepower to engage whole armies and equip even the heaviest weapon modules.
+
+Танк, наша нынешняя тяжелая военная машина, ограничен в размерах из-за ограничений в маневрировании на пересеченной местности Пандоры. Наконец пришло время для новой эры механизации.<br/><br/>Экзоскелетный Боевой Комплекс 'Голиаф' - на данный момент наша самая тяжелая военная единица с общим весом более ста тысяч тонн, столько же, сколько и крупнейший самолет на Земле. Он может нести достаточно вооружения, чтобы атаковать целые армии, и может оснащаться даже самыми тяжелыми модулями оружия.
+
+---
+
+Mech0Properties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Not affected by roads<br/><icon texture='GUI/Bullet'/>Cannot perform orbital deployment
+
+<icon texture='GUI/Bullet'/>Тяжелая техника<br/><icon texture='GUI/Bullet'/>Игнорирует дороги<br/><icon texture='GUI/Bullet'/>Не может использоваться в орбитальном десанте
+
+---
+
+Mech1
+
+Cerberus Mech
+
+ЭБК Цербер
+
+---
+
+Mech1Description
+
+To increase hull size even further while maintaining stability, we have added two additional legs to the machine. Dubbed the &quot;Cerberus&quot;, a beast from ancient mythology that guards the underworld, the shadow of this mech will darken an entire city.
+
+Экзоскелетный Боевой Комплекс 'Цербер' - духовный наследник технологий ЭБК Голиаф. Что бы увеличить размер полезной нагрузки - были добавлены дополнительные ноги.Назван в честь &quot;Цербера&quot;, зверя из древней мифологии который охраняет подземный мир, тень этого меха может накрыть весь город.
+
+---
+
+Mech1Properties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Not affected by roads<br/><icon texture='GUI/Bullet'/>Cannot perform orbital deployment
+
+<icon texture='GUI/Bullet'/>Тяжелая техника<br/><icon texture='GUI/Bullet'/>Игнорирует дороги<br/><icon texture='GUI/Bullet'/>Не может использоваться в орбитальном десанте
+
+---
+
+Mech2
+
+Titan Mech
+
+ЭБК Титан
+
+---
+
+Mech2Description
+
+The organic Titan is the most advanced and fearsome man-machine hybrid ever designed. Weighing over a million tons and topping a kilometer tall, whole cities shake in its wake. Properly equipped and armored, a Titan is basically unstoppable and can even withstand nuclear missiles.
+
+Экзоскелетный Боевой Комплекс 'Титан' - биомеханическая машина, управляемая через прямой человеко-машинный интерфейс. Его вес составляет десятки тысяч тон, а высота сотни метров. Броня выдерживает почти прямое попадание ракет с ядерными боеголовками. Целый город трясется от его движения.
+
+---
+
+Mech2Properties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Not affected by roads<br/><icon texture='GUI/Bullet'/>Cannot perform orbital deployment
+
+<icon texture='GUI/Bullet'/>Тяжелая техникаt<br/><icon texture='GUI/Bullet'/>Игнорирует дороги<br/><icon texture='GUI/Bullet'/>Не может использоваться в орбитальном десанте
+
+---
+
+Nightcrawler
+
+Kraken
+
+Kraken
+
+---
+
+NightcrawlerDescription
+
+Awoken by the sun's disappearance, rising from the depths, this city-sized creature harks back to primeval nightmares and the mad scribblings found in Lovecraftian tomes. Writhing tentacles, mouths everywhere, endless fields of flesh stretching to the horizon, and a stench like the grave. It's like a battlefield come to life, to wreak revenge on the living.
+
+Awoken by the sun's disappearance, rising from the depths, this city-sized creature harks back to primeval nightmares and the mad scribblings found in Lovecraftian tomes. Writhing tentacles, mouths everywhere, endless fields of flesh stretching to the horizon, and a stench like the grave. It's like a battlefield come to life, to wreak revenge on the living.
+
+---
+
+NightcrawlerProperties
+
+<icon texture='GUI/Bullet'/>Amphibious heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power in water territories
+
+<icon texture='GUI/Bullet'/>Amphibious heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power in water territories
+
+---
+
+Ningen
+
+Ningen
+
+Ningen
+
+---
+
+NingenDescription
+
+The dark-loving Ningen feels like an answer to the unanswered question &quot;why digest your food internally?&quot; Hurling acidic bile many kilometres, the Ningen waits for its prey to die from the horrific burns, before descending for a pre-digested midnight snack.
+
+The dark-loving Ningen feels like an answer to the unanswered question &quot;why digest your food internally?&quot; Hurling acidic bile many kilometres, the Ningen waits for its prey to die from the horrific burns, before descending for a pre-digested midnight snack.
+
+---
+
+NingenProperties
+
+<icon texture='GUI/Bullet'/>Amphibious heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power in water territories
+
+<icon texture='GUI/Bullet'/>Amphibious heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power in water territories
+
+---
+
+QueenFlyer
+
+Devourer
+
+Пожиратель
+
+---
+
+QueenFlyerDescription
+
+A massive winged beast, the Devourer's shadow is widely known as the &quot;Harbinger of Death&quot;. With its meter long jaws and claws, the creature can lift and swallow even our heaviest tanks.
+
+Огромное летающее существо, так же называемое &quot;Весником Смерти&quot;. Своими метровыми когтями и клыками оно пробивает даже броню тяжелых танков.
+
+---
+
+QueenFlyerProperties
+
+<icon texture='GUI/Bullet'/>Airborne heavy biological unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains
+
+<icon texture='GUI/Bullet'/>Тяжелое воздушное биоподразделение
+
+---
+
+Shark
+
+Carcharodon
+
+Каркарадон
+
+---
+
+SharkDescription
+
+Carcharodon are aquatic predators several meters long. They usually roam the oceans in packs. While there exist reports of this species attacking larger naval vessels, they usually go after objects matching their own size.
+
+Каркарадон - водный хищник длиной несколько метров. Как правило, встречаются стаями. Хотя существуют доклады, что представители этого вида атакуют морские суда крупнее их, они обычно преследуют объекты, соответствующие их собственному размеру.
+
+---
+
+SharkProperties
+
+<icon texture='GUI/Bullet'/>Waterborne light biological unit
+
+<icon texture='GUI/Bullet'/>Легкое водное биоподразделение
+
+---
+
+SpitterBug
+
+Xenomorph Spitter
+
+Расчленитель
+
+---
+
+SpitterBugDescription
+
+This large creature utilizes an oddly-evolved throat to spit highly corrosive liquid over very large distances. This &quot;Heavy Rain&quot; has become a bane for civilian and military personnel alike. Citizens are advised to seek shelter immediately as soon as the sirens announce a Spitter attack.
+
+Это огромное существо способно изрыгать облако кислоты на огромные расстояния. В случае опасности нападения подобных существ, колонисты укрываются в подземных убежищах.
+
+---
+
+SpitterBugProperties
+
+<icon texture='GUI/Bullet'/>Heavy biological unit
+
+<icon texture='GUI/Bullet'/>Тяжелое биоподразделение
+
+---
+
+Tank0
+
+Avenger Tank
+
+Танк Мститель
+
+---
+
+Tank0Description
+
+Transporting war machinery from Earth was prohibitively expensive but we need equipment to defend ourselves against the planet's dangerous lifeforms and other factions. With that in mind, we've designed a modified version of mankind's most feared field weapon: the tank.<br/><br/>As dispensers of death and destruction, tanks often had the last word on the Earth battlefield. On top of adaptations to Pandora's gravity and terrain, they can be configured with several different types of turrets.<br/><br/><style name='Italic'/>&quot;Roll over them.&quot;
+
+Из-за невозможности транспортировать вооружение с Земли и необходимости защишаться от местной фауны, наши ученые и техники разработали прототип танка способного перемещаться по здешнему ландшафту и несущему достаточное количество вооружения и защиты для продолжительной автономности. <br/><br/><style name='Italic'/>&quot;Свернем их.&quot;
+
+---
+
+Tank0Properties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit
+
+<icon texture='GUI/Bullet'/>Тяжелая техника
+
+---
+
+Tank1
+
+Demolisher Tank
+
+Танк Разрушитель
+
+---
+
+Tank1Description
+
+The big brother to the Avenger, the Demolisher has armor as thick as castle walls. This mobile fortress stops for nothing.
+
+Большой брат Мстителя, по сути является его тяжелой версией с многократно увеличенной броней.
+
+---
+
+Tank1Properties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit
+
+<icon texture='GUI/Bullet'/>Тяжелая техника
+
+---
+
+Tank2
+
+Liberator Tank
+
+Танк Освободитель
+
+---
+
+Tank2Description
+
+Over the past decades our understanding of the man-machine interface has progressed significantly, but only by studying the largest alien creatures have we finally mastered the technology of an organic interface. The Liberator is a complete symbiosis between man and machine and terrifyingly deadly.<br/><br/><style name='Italic'/>&quot;Tell me, Commander, how does it feel to become one with your tank?&quot;<br/>&quot;Liberating.&quot;
+
+За последние десятилетия наше понимание человеко-машинного интерфейса достигло значительного прогресса, но только изучая крупнейших инопланетных тварей мы, наконец, освоили технологию органического интерфейса. Освободитель является смертоносным симбиозом между человеком и машиной.<br/><br/><style name='Italic'/>&quot;Командир, каково это чуствовать себя танком?&quot;<br/>&quot;Это Свобода!&quot;
+
+---
+
+Tank2Properties
+
+<icon texture='GUI/Bullet'/>Heavy mechanical unit
+
+<icon texture='GUI/Bullet'/>Тяжелая техника
+
+---
+
+Transport
+
+Transport
+
+Бронетранспортёр
+
+---
+
+TransportDescription
+
+Transports are unarmed military vessels that can ship your land troops across the water. They are extremely vulnerable to naval or air attacks, and should be protected whenever possible.
+
+Это невооруженное пехотное транспортное средство, перевозящее пехоты как по земле, так и по морю. Они чрезвычайно уязвимы для военно-морских или воздушных атак и должны быть защищены, когда это возможно.
+
+---
+
+TransportProperties
+
+<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Transports a land unit<br/><icon texture='GUI/Bullet'/>Cannot attack<br/><icon texture='GUI/Bullet'/>Cannot be produced
+
+<icon texture='GUI/Bullet'/>Тяжелая техника<br/><icon texture='GUI/Bullet'/>Перевозит наземные подразделения<br/><icon texture='GUI/Bullet'/>Не может атаковать
+
+---
+
+Trooper0
+
+Colonial Trooper
+
+Разведотряд
+
+---
+
+Trooper0Description
+
+The first line of defense in most battles and trained for a variety of combat scenarios, Colonial Troopers are the backbone of modern armies.<br/><br/><style name='Italic'/>&quot;Give me ten troopers and a week, and I will change the course of history.&quot;
+
+Разведотряд является практически аналогом пехоты Старой Земли, который был адаптирован под здешние атмосферные условия.<br/><br/><style name='Italic'/>&quot;Дайте мне десять человек и неделю, и я изменю ход истории.&quot;
+
+---
+
+Trooper0Properties
+
+<icon texture='GUI/Bullet'/>Light biological unit
+
+<icon texture='GUI/Bullet'/>Легкое биоподразделение
+
+---
+
+Trooper1
+
+Assault Trooper
+
+Штурмовик
+
+---
+
+Trooper1Description
+
+Mobile, agile and highly armored, Assault Troopers are the soldier of the future. The reinforced full body suit can withstand a considerable onslaught, but grants the wearer quite responsive motor control.<br/><br/><style name='Italic'/>When field tested in a city warfare scenario, a young lieutenant named Wilkins, last of his squad, took out three enemy Avenger tanks by himself. The story spread like wildfire through the ranks, and &quot;pulling a Wilkins&quot; has become a synonym for bucking the odds.
+
+Мобильный и весьма бронированный, Штурмовой десантник является Солдатом будущего. Экзоскелетная броня закрывает все тело и способно выдержать значительный урон.<br/><br/><style name='Italic'/>Во время полевых испытаний в сценарии городском войны, молодой лейтенант по имени Уилкинс, последний из его команды, уничтожил три вражеских танка Мститель в одиночку. История быстро распространилась как лесной пожар, и выражение 'усилие Уилкинса' стало синонимом 'победить, несмотря ни на что'.
+
+---
+
+Trooper1Properties
+
+<icon texture='GUI/Bullet'/>Light biological unit
+
+<icon texture='GUI/Bullet'/>Легкое биоподразделение
+
+---
+
+Trooper1Shock
+
+Shock Trooper
+
+Ударная пехота
+
+---
+
+Trooper1ShockDescription
+
+As their name suggest, Shock Troopers are used to swing key battles, deployed to hit fast and hard before the enemy can react. Their impregnable battlesuits makes each one worth ten normal troopers.
+
+Как следует из их названия, Ударная пехота используется в начале сражений, что бы максимально быстро ударить, прежде чем противник может реагировать. Их бронекостюмы делают каждого из них равного десяти обычным солдатам.
+
+---
+
+Trooper1ShockProperties
+
+<icon texture='GUI/Bullet'/>Light biological unit
+
+<icon texture='GUI/Bullet'/>Легкое биоподразделение
+
+---
+
+Trooper2
+
+Precentor Trooper
+
+Симбиотическая пехота
+
+---
+
+Trooper2Description
+
+Analyzing alien technology has opened up the door to a new type of infantry clad in organic battle suits. Each suit is genetically engineered for its wearer and grants him supernatural strength, toughness and endurance.
+
+Исследование строения тел чужих открыло дверь к новому типу пехоты, одетой в органические боевые костюмы. Каждый костюм результат долгой работы генной инженерии, и дает своему владельцу сверхъестественную силу, прочность и выносливость.
+
+---
+
+Trooper2Properties
+
+<icon texture='GUI/Bullet'/>Light biological unit
+
+<icon texture='GUI/Bullet'/>Легкое биоподразделение
+
+---
+
+Watercraft0
+
+Barracuda Watercraft
+
+Гидроцикл Баракуда
+
+---
+
+Watercraft0Description
+
+Electric propulsion has been brought to the waters of Pandora, enabling traversal of both lake and ocean waves. Coupled with efficient solar collectors, small skirmish gunboats can travel unlimited distances with speed and efficiency.
+
+Гидроцикл Баракуда обладает высокоэффективными солнечными батареями и неплохим комплектом вооружения. Может путешествовать по морю на неограниченные расстояния с высокой скоростью и эффективностью.
+
+---
+
+Watercraft0Properties
+
+<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit
+
+<icon texture='GUI/Bullet'/>Тяжелая водная техника<br/><icon texture='GUI/Bullet'/>Не может захватывать города
+
+---
+
+Watercraft1
+
+Dreadnought Watercraft
+
+Осадный дредноут
+
+---
+
+Watercraft1Description
+
+Capable of mounting two turrets, this cruiser-class watercraft is a formidable frontline fighter in sea warfare.
+
+Имеет достаточно места для установки двух орудийных башен и является грозным оружием на поле боя.
+
+---
+
+Watercraft1Properties
+
+<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit
+
+<icon texture='GUI/Bullet'/>Тяжелая водная техника<br/><icon texture='GUI/Bullet'/>Не может захватывать города
+
+---
+
+Watercraft2
+
+Tangaroa Watercraft
+
+Эсминец Тангороа
+
+---
+
+Watercraft2Description
+
+A gigantic buoyant structure able to take on most enemies without taking a single scratch, the Tangaroa moves at frightening speed and strikes with unmatched force.
+
+Гигантская плавучая крепость, способная уничтожить любую цель, не получив ни единой царапины, Тангороа движется с огромной скоростью и обладает непревзойденной силой.
+
+---
+
+Watercraft2Properties
+
+<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit
+
+<icon texture='GUI/Bullet'/>Тяжелая водная техника<br/><icon texture='GUI/Bullet'/>Не может захватывать города

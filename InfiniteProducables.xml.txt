@@ -1,0 +1,29 @@
+CreditsInf
+
+Wealth
+
+Торговля
+
+---
+
+CreditsInfProperties
+
+<icon texture='GUI/Bullet'/>Converts 1 <icon texture='Resources/Production'/> production into 2 <icon texture='Resources/Credits'/> credits
+
+<icon texture='GUI/Bullet'/>Конвертирует 1 единицу <icon texture='Resources/Production'/> производства в 4 <icon texture='Resources/Credits'/> кредита
+
+---
+
+GrowthInf
+
+Growth
+
+Расселение
+
+---
+
+GrowthInfProperties
+
+<icon texture='GUI/Bullet'/>Converts 2 <icon texture='Resources/Production'/> production into 1 <icon texture='Resources/PositiveGrowth'/> growth
+
+<icon texture='GUI/Bullet'/> Конвертирует <icon texture='Resources/Production'/> производства в рост <icon texture='Resources/PositiveGrowth'/> населения

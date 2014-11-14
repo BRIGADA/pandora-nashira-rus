@@ -1,0 +1,3445 @@
+AddProductKey
+
+Add Product Key
+
+Add Product Key
+
+---
+
+AddProductKeyPrompt
+
+Please enter a valid product key to add to your Slitherine account:
+
+Please enter a valid product key to add to your Slitherine account:
+
+---
+
+Advanced
+
+Advanced
+
+Дополнительно
+
+---
+
+Advancement
+
+Project
+
+Достижение
+
+---
+
+Advancements
+
+Projects
+
+Достижение 
+
+---
+
+AdvancementsHelp
+
+Projects provide either a temporary or permanent benefit for your whole empire once they are completed in any of your cities. The range of those benefits varies greatly. From simple one-time resource gains and bonus units to advanced technologies and strategies that unlock new possibilities and can provide significant advantages in a variety of sectors.
+
+Достижения - могут иметь временный или перманентный эффект.<br/><br/> Их результативность очень сильно различается. Это может быть как одноразовым получением ресурсов, так и улучшением подразделений ,и получение разнообразных технологий, которые сильно влияют на исходы событий.
+
+---
+
+All
+
+All
+
+Все
+
+---
+
+Alliance
+
+Alliance
+
+Альянс
+
+---
+
+AlliedVictoryDescription
+
+Allies share progress towards economic and military victories.
+
+Allies share progress towards economic and military victories.
+
+---
+
+AllocationLocked
+
+Colonists will not be automatically assigned to this task.
+
+Колонисты не будут автоматически распределяться по работам.
+
+---
+
+AllocationUnlocked
+
+Colonists will be automatically assigned to this task.
+
+Колонисты  будут автоматически распределяться по работам.
+
+---
+
+Armor
+
+Armor
+
+Броня
+
+---
+
+Armors
+
+Armors
+
+Броня
+
+---
+
+ArmorsHelp
+
+In the workshop armors are applied to units, and in game terms they simply provide additional power for an increased production cost.<br/><br/>Since a better armor does not result in an increased upkeep cost, it is a good idea to always equip the best available armor as long as the overall production cost of a design stays reasonable.
+
+В мастерской вы можете устанавливать новую броню на подразделения, как правило чем она прочнее - тем дороже.<br/><br/> Очень важно заметить - улучшение брони не увеличивает стоимость содержания войск. Всегда нужно использовать самую лучшую защиту из возможных, если цена за нее разумна.
+
+---
+
+Army
+
+Army
+
+Армия
+
+---
+
+Background
+
+Background
+
+О фракции
+
+---
+
+Building
+
+Building
+
+Постройка
+
+---
+
+Buildings
+
+Buildings
+
+Постройки
+
+---
+
+BuildingsHelp
+
+Buildings are produced in cities to improve the economy and various industries of your empire. While most buildings simply increase the resource output of a city, there also exist others that provide a defensive benefit or are used to deploy operations.<br/><br/>Note that buildings have upkeep costs, so you should only build them where they are most effective.
+
+Здания создаются в городах для улучшения экономики и различных отраслей промышленности вашей империи. В то время как большинство зданий просто увеличивает производство ресурсов, существуют и другие, обладающие особыми особенностями, а так же используются для оборонительных  или разведывательных операций. <br/> <br/> Обратите внимание, что здания имеют затраты на содержание, так что вы должны  строить их только там, где они являются наиболее эффективными.
+
+---
+
+Buy
+
+Buy
+
+Buy
+
+---
+
+Cancel
+
+Cancel
+
+Отмена
+
+---
+
+CancelOrder
+
+Cancel order
+
+Отменить заказ
+
+---
+
+CannotHarvestTerritoryHint
+
+Cannot harvest territory.
+
+Сбор на территории невозможен.
+
+---
+
+ChooseProduction
+
+Choose Production
+
+Выберите производство
+
+---
+
+ChooseProductionHint
+
+Choose which item you would like to produce [Space].
+
+Выберите предмет производства [Пробел].
+
+---
+
+ChooseResearch
+
+Choose Research
+
+Выберите исследование
+
+---
+
+ChooseResearchHint
+
+Choose your research focus [Space].
+
+Выберете фокус исследования [Пробел].
+
+---
+
+CompatibleDesigns
+
+Compatible Designs
+
+Совместимый проект
+
+---
+
+Compendium
+
+Compendium
+
+Энциклопедия
+
+---
+
+ConfirmPassword
+
+Confirm Password
+
+Подтвердите пароль
+
+---
+
+Connect
+
+Connect
+
+Подключиться
+
+---
+
+Contacts
+
+Contacts
+
+Контакты
+
+---
+
+Continue
+
+Continue
+
+Продолжить
+
+---
+
+ContinuePlaying
+
+Continue Playing
+
+Продолжить игру
+
+---
+
+COST
+
+<style name='Small' color='Gray'/>%1% cost<style name='Default'/>
+
+<style name='Small' color='Gray'/>%1% цена<style name='Default'/>
+
+---
+
+ConversionsHint
+
+Conversions<br/>The number of converted native aliens.
+
+Преобразование<br/>Число преобразуемых чужих.
+
+---
+
+Cities
+
+Cities
+
+Города
+
+---
+
+City
+
+City
+
+Город
+
+---
+
+CityPopulation
+
+City population.
+
+Население.
+
+---
+
+CityTaxRate
+
+Tax Rate
+
+Tax Rate
+
+---
+
+CityTaxSliderHint
+
+Tax Rate<br/>Regulates the city tax rate. Higher taxes increase <icon texture='Resources/Credits'/> income, but lower <icon texture='Resources/Morale'/> morale.
+
+Tax Rate<br/>Regulates the city tax rate. Higher taxes increase <icon texture='Resources/Credits'/> income, but lower <icon texture='Resources/Morale'/> morale.
+
+---
+
+Class
+
+Class
+
+Класс
+
+---
+
+Close
+
+Close
+
+Закрыть
+
+---
+
+ContactPlayer
+
+Click to contact %1%.
+
+Левая кнопка мыши - что бы связаться с %1%.
+
+---
+
+CreateAccount
+
+Create Account
+
+Создать аккаунт
+
+---
+
+CreateAccountPrompt
+
+Please enter the required information:
+
+Пожалуйства введите необходимую информацию:
+
+---
+
+Credits
+
+Credits
+
+Создатели
+
+---
+
+CreditsHint
+
+Credits<br/>Accumulation of wealth. Used to purchase goods and pay upkeep costs. Without credits your units and buildings will be disbanded and dismantled.
+
+Кредиты <br/> ваше богатство, которое используются для покупки товаров и оплаты затрат на содержание. Без кредитов ваши подразделения и здания будут расформированы и демонтированы.
+
+---
+
+Culture
+
+Culture
+
+Culture
+
+---
+
+CultureColonists
+
+Artists
+
+Artists
+
+---
+
+CultureColonistsHint
+
+Artists accumulate culture to expand the borders of your city and raise morale.
+
+Artists accumulate culture to expand the borders of your city and raise morale.
+
+---
+
+CultureHint
+
+Culture<br/>Used to expand city borders and raise morale.
+
+Culture<br/>Used to expand city borders and raise morale.
+
+---
+
+CurrentResearchHint
+
+Currently researching technology. Click to change.
+
+Исследование выполнено. Кликните что бы продолжить.
+
+---
+
+Date
+
+%1% %2% AD
+
+%1% %2% AD
+
+---
+
+DEFEAT!
+
+DEFEAT!
+
+ПОРАЖЕНИЕ!
+
+---
+
+Delete
+
+Delete
+
+Удалить
+
+---
+
+DeleteSavedGameTitle
+
+Delete Saved Game
+
+Удалить сохранение
+
+---
+
+DeleteSavedGameMessage
+
+This will permanently delete the saved game. Are you sure you want to continue?
+
+Вы действительно хотите удалить сохранение?
+
+---
+
+DeleteUnitDesignHint
+
+Delete selected unit design.
+
+Удалить выбранный проект.
+
+---
+
+Demographics
+
+Demographics
+
+Демография
+
+---
+
+DesignNameHint
+
+Design name. Click to rename.
+
+Название проекта. Кликните что бы переименовать.
+
+---
+
+Designs
+
+Designs
+
+Проекты
+
+---
+
+DetailedStanding0
+
+Furious
+
+В ярости
+
+---
+
+DetailedStanding1
+
+Angry
+
+Злится
+
+---
+
+DetailedStanding2
+
+Reserved
+
+Сдержанный
+
+---
+
+DetailedStanding3
+
+Polite
+
+Вежливый
+
+---
+
+DetailedStanding4
+
+Cooperative
+
+Сотрудничающий
+
+---
+
+DetailedStanding5
+
+Friendly
+
+Дружественный
+
+---
+
+DetailedStanding6
+
+Generous
+
+Великодушный
+
+---
+
+Device
+
+Device
+
+Устройство
+
+---
+
+Devices
+
+Devices
+
+Устройства
+
+---
+
+DevicesHelp
+
+Applied to a unit via the workshop, devices grant units a variety of different bonuses for an increased production cost.<br/><br/>Unlike the simple power bonus gained from armors, the bonus for devices is situational -- so make sure to utilize them properly.
+
+Устройства устанавливаются в мастерской и они предоставляют подразделению различные бонусы, за увеличение стоимости производства <br/> <br/> В отличие от  бонуса защиты, полученного от брони, бонус для устройств носит ситуационный характер - используйте только по мере необходимости.
+
+---
+
+Dialogue
+
+Dialogue
+
+Диалог
+
+---
+
+Diplomacy
+
+Diplomacy
+
+Дипломатия
+
+---
+
+Diplomacy1
+
+Isolated and hated by other factions
+
+Isolated and hated by other factions
+
+---
+
+Diplomacy2
+
+Underwhelming diplomatic relations
+
+Underwhelming diplomatic relations
+
+---
+
+Diplomacy3
+
+Respected by other factions
+
+Respected by other factions
+
+---
+
+Diplomacy4
+
+Good diplomatic relations
+
+Good diplomatic relations
+
+---
+
+Diplomacy5
+
+Liked or even loved by other factions
+
+Liked or even loved by other factions
+
+---
+
+Directory
+
+Directory
+
+Папка
+
+---
+
+DirectConnect
+
+Direct Connect
+
+Прямое подключение
+
+---
+
+DisableTips
+
+Disable Tips
+
+Отключить подсказки
+
+---
+
+DisableTipsHint
+
+Stop showing pop-up tips. You may re-enable them in the settings panel.
+
+Подсказки отключены. Их можно сново включить через панель настроек.
+
+---
+
+EclipseOfNashira
+
+Eclipse of Nashira
+
+Eclipse of Nashira
+
+---
+
+Economy
+
+Economy
+
+Экономика
+
+---
+
+Economy1
+
+Abysmal economy
+
+Abysmal economy
+
+---
+
+Economy2
+
+Poor economy
+
+Poor economy
+
+---
+
+Economy3
+
+Flourishing economy
+
+Flourishing economy
+
+---
+
+Economy4
+
+Superior economy
+
+Superior economy
+
+---
+
+Economy5
+
+Unrivaled economy
+
+Unrivaled economy
+
+---
+
+EconomyVictoryDescription
+
+Accumulate enough credits to purchase 75% of the other independent factions' economies to win an economic victory.
+
+Накопите достаточно кредитов на покупку 75% экономик других фракций , чтобы одержать экономическую победу.
+
+---
+
+EconomyVictoryProgress
+
+Economic victory progress: %1%%%
+
+Прогресс экономической победы: %1%%%
+
+---
+
+Efficiency
+
+Efficiency
+
+Эффективность
+
+---
+
+Eliminated
+
+Eliminated
+
+Уничтожен
+
+---
+
+Email
+
+Email
+
+Email
+
+---
+
+EndTurn
+
+End Turn
+
+Конец хода
+
+---
+
+EndTurnHint
+
+End your turn [Space].
+
+Закончить ваш ход [Пробел].
+
+---
+
+Enter
+
+Enter
+
+Открыть папку
+
+---
+
+EnterCityHint
+
+Click to enter city screen.
+
+Кликните что бы открыть экран города.
+
+---
+
+EntityDamageModifier
+
+<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> damage
+
+<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> урон
+
+---
+
+EntityInfiltrationModifier
+
+<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Infiltration'/> infiltration power
+
+<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Infiltration'/> infiltration power
+
+---
+
+EntityPowerModifier
+
+<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> power
+
+<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> сила
+
+---
+
+Era0
+
+Colonization Era
+
+Эра колонизации
+
+---
+
+Era1
+
+Mechanization Era
+
+Эра механики
+
+---
+
+Era2
+
+Transcendence Era
+
+Эра трансцедентности
+
+---
+
+EstimatedCasualties
+
+Estimated Casualties
+
+Ожидаемые потери
+
+---
+
+Events
+
+Events
+
+События
+
+---
+
+ExitToDesktop
+
+Exit to Desktop
+
+Выход из игры
+
+---
+
+ExitToMainMenu
+
+Exit to Main Menu
+
+Выход в меню
+
+---
+
+Faction
+
+Faction
+
+Фракция
+
+---
+
+Factions
+
+Factions
+
+Фракции
+
+---
+
+FactionsHelp
+
+Globalization, the colonization of extraterrestrial bodies in our solar system, and the first successful construction of an Alcubierre drive in the second half of the 21st century, combined to swiftly undermine Earth's old world order.<br/><br/>To stay relevant and stem the massive costs required to cope with global pollution and extraterrestrial engineering, most existing countries united in federations or merged with powerful mega-corporations.<br/><br/>The resulting factions greatly differ in their ideologies and beliefs on how human society should advance into an unknown future.
+
+Глобализация, колонизацию внеземных тел в нашей Солнечной системе, и первое успешное строительство двигателя Алькубьерре во второй половине 21-го века, в сочетании с быстрым разрушением старого мирового порядка Земли. <br/> <br/>, Чтобы оставаться независимыми и побороть  огромные траты связанные с глобальным загрязнением и развитием внеземной добычи ресурсов, большинство существующих стран, объединенных в федерации или слились с мощным мега-корпораций. <br/> <br/> Полученные фракции значительно различаются по своей идеологии и убеждений о том, как человеку общество должно продвигаться в неизвестное будущее.
+
+---
+
+Feature
+
+Feature
+
+Особенность
+
+---
+
+Features
+
+Features
+
+Особенности 
+
+---
+
+FeaturesHelp
+
+Features are used to classify the state of territories. They can be simple terrain features like plains and forests, constructions like roads and farms, or even sophisticated effects caused by operations.
+
+Особенности используются для классификации территорий. Они могут быть простыми, как особенности рельефа равнины и леса, сооружений, таких как дороги и фермы, или сложными - связанными с военными операциями.
+
+---
+
+FirstContact
+
+First Contact
+
+First Contact
+
+---
+
+Flanking
+
+Flanking
+
+Примыкающий
+
+---
+
+Food
+
+Food
+
+Еда
+
+---
+
+FoodColonists
+
+Farmers
+
+Фермеры
+
+---
+
+FoodColonistsHint
+
+Farmers procure food from territories to sustain your population.
+
+Фермеры производят еду для поддержания вашего населения.
+
+---
+
+FoodHint
+
+Food<br/>Sustains population. Without food your colonists will starve and die.
+
+Еда <br/> Еда нужна населению. Без пищи колонисты будут голодать и умирать.
+
+---
+
+ForceEndTurnHint
+
+Force your turn to end [Ctrl+Space].
+
+Закончить ход принудительно [Ctrl+Пробел].
+
+---
+
+Friendly
+
+Friendly
+
+Дружелюбный
+
+---
+
+GameBrowser
+
+Game Browser
+
+Список игр
+
+---
+
+GameLobby
+
+Game Lobby
+
+Игровое лобби
+
+---
+
+GameName
+
+Game Name
+
+Название игры
+
+---
+
+GameOver
+
+Game Over
+
+Конец игры
+
+---
+
+GlobalTaxRate
+
+Global Tax Rate
+
+Global Tax Rate
+
+---
+
+GlobalTaxSliderHint
+
+Regulates the global tax rate. Higher taxes increase <icon texture='Resources/Credits'/> income, but lower <icon texture='Resources/Morale'/> morale.
+
+Regulates the global tax rate. Higher taxes increase <icon texture='Resources/Credits'/> income, but lower <icon texture='Resources/Morale'/> morale.
+
+---
+
+Growth
+
+Growth
+
+Прирост населения
+
+---
+
+GrowthHint
+
+Growth<br/>The rate at which population increases or decreases. Once enough positive or negative growth has accumulated, a colonist is gained or lost. Starting at 8, every time your city grows, your borders expand.
+
+Прирост населения <br/> Скорость, с которой население увеличивается или уменьшается. После накопления или уменьшения, колонист добавляется или теряется. Начиная с 8 уровня, каждый раз, когда город растет, ваши границы расширяются.
+
+---
+
+Habitat
+
+Habitat
+
+Жилье
+
+---
+
+HabitatHint
+
+Habitat<br/>Living space available to your population. A negative value indicates overpopulation and reduces morale.
+
+Жилье <br/> Эта вся жилая площадь доступная для населения. Отрицательное значение указывает перенаселение и снижает моральный дух.
+
+---
+
+HallOfFame
+
+Hall of Fame
+
+Зал славы
+
+---
+
+HealthHint
+
+Health<br/>The overall condition.
+
+Здоровье<br/>Общее состояние.
+
+---
+
+Help
+
+Help
+
+Справка
+
+---
+
+HideAdditionalOrders
+
+Hide additional orders.
+
+Hide additional orders.
+
+---
+
+Host
+
+Host
+
+Хост
+
+---
+
+Hostile
+
+Hostile
+
+Враждебный
+
+---
+
+IdleUnitsHint
+
+Select next idle unit [Tab].
+
+Выберите следующее простаивающее подразделение [Tab].
+
+---
+
+INFINITY
+
+99
+
+99
+
+---
+
+Incompatible
+
+Incompatible
+
+Не совместим
+
+---
+
+Info
+
+Info
+
+Инфо
+
+---
+
+Invite
+
+Invite
+
+Invite
+
+---
+
+InviteDisabledHint
+
+Server not running Steam version or Steam matchmaking unavailable.
+
+Server not running Steam version or Steam matchmaking unavailable.
+
+---
+
+IP
+
+IP
+
+IP
+
+---
+
+Join
+
+Join
+
+Присоединиться
+
+---
+
+LastPing
+
+Last Ping
+
+Ping
+
+---
+
+LeadBy
+
+Lead by %1%
+
+Lead by %1%
+
+---
+
+LeadsTo
+
+Leads to:
+
+Ведет к:
+
+---
+
+Legend
+
+Legend
+
+Легенда
+
+---
+
+Lifeform
+
+Lifeform
+
+Форма жизни
+
+---
+
+Load
+
+Load
+
+Загрузка
+
+---
+
+LoadGame
+
+Load Game
+
+Загрузить игру
+
+---
+
+LoadGameHint
+
+Load Game [Ctrl+L]<br/>Quick Load [F9]
+
+Загрузить игру [Ctrl+L]<br/>Быстрая загрузка [F12S]
+
+---
+
+LoadingSavedGame
+
+Loading Saved Game
+
+Загрузка игры
+
+---
+
+Login
+
+Login
+
+Логин
+
+---
+
+LoginPrompt
+
+Please enter your Slitherine account information:
+
+Пожалуйства введите информацию о вашем Slitherine аккаунте:
+
+---
+
+Lore
+
+Lore
+
+Знания
+
+---
+
+Market
+
+Market
+
+Market
+
+---
+
+Menu
+
+Menu
+
+Меню
+
+---
+
+Military
+
+Military
+
+Войска
+
+---
+
+Military1
+
+Pathetic troop numbers
+
+Pathetic troop numbers
+
+---
+
+Military2
+
+Low military strength
+
+Low military strength
+
+---
+
+Military3
+
+Solid military forces
+
+Solid military forces
+
+---
+
+Military4
+
+Strong standing army
+
+Strong standing army
+
+---
+
+Military5
+
+Massive troop formations
+
+Massive troop formations
+
+---
+
+MilitaryVictoryDescription
+
+Control 75% of Pandora's population to win a military victory.
+
+Захватите 75% населения Пандоры, чтобы выиграть военную победу.
+
+---
+
+MilitaryVictoryProgress
+
+Military victory progress: %1%%%
+
+Прогресс военной победы: %1%%%
+
+---
+
+Minerals
+
+Minerals
+
+Минералы
+
+---
+
+MineralsColonists
+
+Miners
+
+Шахтеры
+
+---
+
+MineralsColonistsHint
+
+Miners extract minerals from territories to be processed for production.
+
+Шахтеры добывают полезные ископаемые для использования в производстве.
+
+---
+
+MineralsHint
+
+Minerals<br/>Sustain production. Without minerals your colonists cannot produce goods.
+
+Минералы<br/>Следите за их производством. Без минералов ваших колонисты не смогут ничего производить.
+
+---
+
+Minimap
+
+Minimap
+
+Миникарта
+
+---
+
+Month0
+
+January
+
+Январь
+
+---
+
+Month1
+
+February
+
+Февраль
+
+---
+
+Month2
+
+March
+
+Март
+
+---
+
+Month3
+
+April
+
+Апрель
+
+---
+
+Month4
+
+May
+
+Март
+
+---
+
+Month5
+
+June
+
+Июнь
+
+---
+
+Month6
+
+July
+
+Июль
+
+---
+
+Month7
+
+August
+
+Август
+
+---
+
+Month8
+
+September
+
+Сентябрь
+
+---
+
+Month9
+
+October
+
+Октябрь
+
+---
+
+Month10
+
+November
+
+Ноябрь
+
+---
+
+Month11
+
+December
+
+Декабрь
+
+---
+
+Morale
+
+Morale
+
+Мораль
+
+---
+
+MoraleHint
+
+Morale<br/>Overall population happiness. Positive or negative morale increases or decreases the resource output and growth rate of your population.
+
+Мораль <br/>Общий показатель счастье населения. Каждое деление, положительное или отрицательное увеличивает или уменьшает  производительность населения на 5%.
+
+---
+
+More
+
+More
+
+Больше
+
+---
+
+MovementHint
+
+Movement Speed<br/>The number of territories the unit can cross in one month.
+
+Скорость передвижения <br/> Сколько территорий возможно пересечь за один ход.
+
+---
+
+Multiplayer
+
+Multiplayer
+
+Мультиплеер
+
+---
+
+Name
+
+Name
+
+Имя
+
+---
+
+Neutral
+
+Neutral
+
+Нейтральный
+
+---
+
+New
+
+New
+
+Новая
+
+---
+
+NewGame
+
+New Game
+
+Новая игра
+
+---
+
+NewSaveGame
+
+New Save Game
+
+Новое сохранение
+
+---
+
+NewTypeDiscovered
+
+New %1% Discovered:
+
+Доступно новое %1%
+
+---
+
+NewUnitDesignHint
+
+Create new unit design.
+
+Создать новый проект.
+
+---
+
+NoEnemyRetaliation
+
+<icon texture='GUI/Bullet'/>No enemy retaliation
+
+<icon texture='GUI/Bullet'/>Никакого ответного огня
+
+---
+
+NoGainFromArmor
+
+<icon texture='GUI/Bullet'/>No gain from armor
+
+<icon texture='GUI/Bullet'/>Нет бонусов от брони
+
+---
+
+NoGainFromWeapon
+
+<icon texture='GUI/Bullet'/>No gain from weapon
+
+<icon texture='GUI/Bullet'/>Нет бонусов от оружия
+
+---
+
+NoResearchSet
+
+No research set
+
+Не исследовано
+
+---
+
+NonAggressionPact
+
+Non-aggression pact
+
+Пакт о не нападении
+
+---
+
+None
+
+None
+
+Нет
+
+---
+
+NotReady
+
+Not Ready
+
+Не готово
+
+---
+
+NoCompatibleDesigns
+
+No compatible designs are available.
+
+Нет совместимых проектов.
+
+---
+
+NoUnitSelected
+
+No unit selected
+
+Подразделения не выбраны
+
+---
+
+NoValidUnitsSelected
+
+No valid units are selected.
+
+Подходящие подразделения не выбраны.
+
+---
+
+OK
+
+OK
+
+OK
+
+---
+
+OpenBorders
+
+Open borders
+
+Открытые границы
+
+---
+
+OpenCompendiumHint
+
+Open compendium panel [F1].
+
+Открыть энциклопедию [F1].
+
+---
+
+OpenDiplomacyHint
+
+Open diplomacy panel [F2].
+
+Открыть панель дипломатии [F2].
+
+---
+
+OpenEconomyHint
+
+Open economy panel [F3].
+
+Открыть панель экономики [F3].
+
+---
+
+OpenEventsHint
+
+Open events panel [F7].
+
+Открыть панель событий [F7].
+
+---
+
+OpenMenuHint
+
+Open menu panel [ESC].
+
+Открыть меню [ESC].
+
+---
+
+OpenMilitaryHint
+
+Open military panel [F4].
+
+Открыть панель армий [F4].
+
+---
+
+OpenResearchHint
+
+Open research panel [F5].
+
+Открыть панель исследований [F5].
+
+---
+
+OpenUnitWorkshopHint
+
+Open unit workshop panel [F6].
+
+Открыть мастерскую [F6].
+
+---
+
+OpenWebsite
+
+Open website in your preferred browser.
+
+Открыть вэбсайт в выбранно броузере.
+
+---
+
+Operation
+
+Operation
+
+Операция
+
+---
+
+Operations
+
+Operations
+
+Операции
+
+---
+
+OperationsHelp
+
+Either actively deployed onto the field or passively consumed, operations range from small military or economic advantages up to weapons of devastating power. A wise use of operations can change the outcome of almost any campaign, so it is a good idea to incorporate them into your strategies.
+
+Могут быть либо использованы активно либо работать пассивно, операции варьируются от получения небольших военных или экономических преимуществ до оружия разрушительной силы.Разумное использование операций может изменить результат практически любых действий, так что это хорошая идея, чтобы включить их в свои стратегии.
+
+---
+
+OrderUnits
+
+Order Units (%1%)
+
+Приказать подразделениям (%1%)
+
+---
+
+OrderUnitsHint
+
+Choose order for idle unit.
+
+Выберите приказы для простаивающих подразделений.
+
+---
+
+Other
+
+Other
+
+Другое
+
+---
+
+Overwrite
+
+Overwrite
+
+Перезаписать
+
+---
+
+OverwriteSavedGameTitle
+
+Overwrite Saved Game
+
+Перезаписать сохраненную игру
+
+---
+
+OverwriteSavedGameMessage
+
+This will permanently overwrite the saved game. Are you sure you want to continue?
+
+Вы действительно хотите перезаписать сохраненную игру?
+
+---
+
+Parameters
+
+Parameters
+
+Параметры
+
+---
+
+Password
+
+Password
+
+Пароль
+
+---
+
+PlayerName
+
+Player Name
+
+Имя игрока
+
+---
+
+Player
+
+Player
+
+Player
+
+---
+
+Players
+
+Players
+
+Игроки
+
+---
+
+PleaseWait
+
+Please Wait ...
+
+Пожалуйста ждите ...
+
+---
+
+PleaseWaitHint
+
+
+
+
+
+---
+
+Pollution
+
+Pollution
+
+Загрязнение
+
+---
+
+PollutionHint
+
+Pollution<br/>The amount of industrial waste a city produces. Pollution has a negative impact on morale.
+
+Загрязнение<br/>Количество промышленных отходов города. Загрязнение отрицательно влияет на моральное состояние.
+
+---
+
+Population
+
+Population
+
+Население
+
+---
+
+PopulationHint
+
+Population<br/>Assigned to tasks.
+
+Население<br/>Назначеное на работы.
+
+---
+
+PopulationX
+
+Population (%1%)
+
+Населения (%1%)
+
+---
+
+Port
+
+Port
+
+Port
+
+---
+
+PowerHint
+
+Power<br/>Indicates the base attacking and defending strength. Power proportionally lowers with missing health.
+
+Сила<br/>Указывает базовые атакующие и защитные возможности. Сила снижается пропорционально здоровью.
+
+---
+
+ProcessingTurn
+
+Processing turn ...
+
+Обработка хода ...
+
+---
+
+ProducingProduceable
+
+Producing %1%.
+
+В производстве - '%1%'.
+
+---
+
+Production
+
+Production
+
+Производство
+
+---
+
+ProductionColonists
+
+Workers
+
+Рабочие
+
+---
+
+ProductionColonistsHint
+
+Workers process minerals into production to build things.
+
+Рабочие могут из минералов создавать разнообразные вещи.
+
+---
+
+ProductionCostHint
+
+Production Cost
+
+Цена производства
+
+---
+
+ProductionHint
+
+Production<br/>Processes minerals into buildings, troops or operations.
+
+Производство <br/> Процесс постройки из минералов зданий, снаряжения или снабжение операций.
+
+---
+
+ProductionOptions
+
+Production Options
+
+Опции производства
+
+---
+
+ProductionQueue
+
+Production Queue
+
+Очередь производства
+
+---
+
+ProductKey
+
+Product Key
+
+Product Key
+
+---
+
+Profile
+
+Profile
+
+Профайл
+
+---
+
+Provides
+
+Provides:
+
+Дает:
+
+---
+
+PurchaseProductionItem
+
+Purchase for %1% <icon texture='Resources/Credits'/> credits.
+
+Купить за %1% <icon texture='Resources/Credits'/> кредитов.
+
+---
+
+PurchaseCost
+
+%1% <icon texture='Resources/Credits'/>
+
+%1% <icon texture='Resources/Credits'/>
+
+---
+
+PurchaseDescription
+
+Purchase
+
+Купить
+
+---
+
+Quit
+
+Quit
+
+Выход
+
+---
+
+Random
+
+Random
+
+Случайно
+
+---
+
+Rank
+
+Rank
+
+Ранг
+
+---
+
+RankHint
+
+Rank (%1% / %2%)<br/>Unit experience gained from combat. Each successive rank increases unit power by %3%%%.
+
+Ранг (%1% / %2%)<br/>сколько единиц опыта, накоплено в бою. Каждый последующий ранг увеличивает силу подразделения на %3%%%.
+
+---
+
+Raze
+
+Raze
+
+Сровнять с землей
+
+---
+
+RazeHint
+
+Click to begin razing the city by killing 1 population each turn.
+
+Кликните, чтобы начать разрушение города, убивая единице населения каждый ход.
+
+---
+
+RazeOrder
+
+raze order
+
+Приказать разрушить
+
+---
+
+Ready
+
+Ready
+
+Готово
+
+---
+
+Refit
+
+Refit
+
+ Переоснастить 
+
+---
+
+RefitUnits
+
+Refit %1% / %2% units for %3% <icon texture='Resources/Credits'/> credits.
+
+Переоснастить  %1% / %2% за %3% <icon texture='Resources/Credits'/> кредитов.
+
+---
+
+Refresh
+
+Refresh
+
+Обносить
+
+---
+
+RememberPassword
+
+Remember Password
+
+Помните пароль
+
+---
+
+RemoteHost
+
+Remote Host
+
+Удаленный Host
+
+---
+
+RemotePort
+
+Remote Port
+
+ Удаленный Port
+
+---
+
+Report
+
+Report
+
+Важно событие
+
+---
+
+RequiresX
+
+Requires %1% %2%.
+
+Requires %1% %2%.
+
+---
+
+Research
+
+Research
+
+Исследования
+
+---
+
+Research1
+
+Years behind in research
+
+Years behind in research
+
+---
+
+Research2
+
+Outdated technologies
+
+Outdated technologies
+
+---
+
+Research3
+
+Moderate research progress
+
+Moderate research progress
+
+---
+
+Research4
+
+Advanced technologies
+
+Advanced technologies
+
+---
+
+Research5
+
+Outstanding and highly advanced research
+
+Outstanding and highly advanced research
+
+---
+
+ResearchColonists
+
+Scientists
+
+Ученые
+
+---
+
+ResearchColonistsHint
+
+Scientists accumulate research to discover new technologies.
+
+Ученые накапливают знания, чтобы обнаружить новые технологии.
+
+---
+
+ResearchHint
+
+Research<br/>Accumulation of knowledge. Used to discover new technologies.
+
+Исследования <br/> Накопление знаний. Используется для обнаружения новых технологий.
+
+---
+
+ResearchPact
+
+Research pact
+
+Исследовательский договор
+
+---
+
+ResearchVictoryDescription
+
+Research 75% of all technologies to win a science victory.
+
+Исследовать 75% всех технологий для научной победы.
+
+---
+
+ResearchVictoryProgress
+
+Research victory progress: %1%%%
+
+Прогресс научной победы: %1%%%
+
+---
+
+ResetPassword
+
+Reset Password
+
+Сбросить пароль
+
+---
+
+Resign
+
+Resign
+
+Resign
+
+---
+
+ResourceAccumulated
+
+<icon texture='GUI/Bullet'/>%1% accumulated
+
+<icon texture='GUI/Bullet'/>%1% собранно
+
+---
+
+ResourceAccumulatedOutOf
+
+<icon texture='GUI/Bullet'/>%1% / %2% accumulated
+
+<icon texture='GUI/Bullet'/>%1% / %2% собранно
+
+---
+
+ResourcePerTurn
+
+%1% per turn
+
+%1% за ход
+
+---
+
+ResourcePerTurnFromAdvancements
+
+<icon texture='GUI/Bullet'/>%1% from projects
+
+<icon texture='GUI/Bullet'/>%1% от достижений
+
+---
+
+ResourcePerTurnFromArtists
+
+<icon texture='GUI/Bullet'/>%1% from artists
+
+<icon texture='GUI/Bullet'/>%1% from artists
+
+---
+
+ResourcePerTurnFromBuildingUpkeep
+
+<icon texture='GUI/Bullet'/>%1% from building upkeep
+
+<icon texture='GUI/Bullet'/>%1% от содержания зданий
+
+---
+
+ResourcePerTurnFromBuildings
+
+<icon texture='GUI/Bullet'/>%1% from buildings
+
+<icon texture='GUI/Bullet'/>%1% от зданий
+
+---
+
+ResourcePerTurnFromCity
+
+<icon texture='GUI/Bullet'/>%1% from city
+
+<icon texture='GUI/Bullet'/>%1% от города
+
+---
+
+ResourcePerTurnFromFaction
+
+<icon texture='GUI/Bullet'/>%1% from faction
+
+<icon texture='GUI/Bullet'/>%1% от фракции
+
+---
+
+ResourcePerTurnFromFarmers
+
+<icon texture='GUI/Bullet'/>%1% from farmers
+
+<icon texture='GUI/Bullet'/>%1% от фермеров
+
+---
+
+ResourcePerTurnFromFrontierPenalty
+
+<icon texture='GUI/Bullet'/>%1% from frontier penalty
+
+<icon texture='GUI/Bullet'/>%1% от пенальти за границы
+
+---
+
+ResourcePerTurnFromHabitat
+
+<icon texture='GUI/Bullet'/>%1% from habitat
+
+<icon texture='GUI/Bullet'/>%1% от жилья
+
+---
+
+ResourcePerTurnFromMigration
+
+<icon texture='GUI/Bullet'/>%1% from migration
+
+<icon texture='GUI/Bullet'/>%1% от миграции
+
+---
+
+ResourcePerTurnFromMineralShortage
+
+<icon texture='GUI/Bullet'/>%1% from mineral shortage
+
+<icon texture='GUI/Bullet'/>%1% от хранилища минералов
+
+---
+
+ResourcePerTurnFromMiners
+
+<icon texture='GUI/Bullet'/>%1% from miners
+
+<icon texture='GUI/Bullet'/>%1% от шахтеров
+
+---
+
+ResourcePerTurnFromMorale
+
+<icon texture='GUI/Bullet'/>%1% from morale
+
+<icon texture='GUI/Bullet'/>%1% от морали
+
+---
+
+ResourcePerTurnFromNaturalGrowth
+
+<icon texture='GUI/Bullet'/>%1% from natural growth
+
+<icon texture='GUI/Bullet'/>%1% от природного роста населения
+
+---
+
+ResourcePerTurnFromOther
+
+<icon texture='GUI/Bullet'/>%1% from other
+
+<icon texture='GUI/Bullet'/>%1% от другово
+
+---
+
+ResourcePerTurnFromPollution
+
+<icon texture='GUI/Bullet'/>%1% from pollution
+
+<icon texture='GUI/Bullet'/>%1% от загрязнений
+
+---
+
+ResourcePerTurnFromPopulation
+
+<icon texture='GUI/Bullet'/>%1% from population
+
+<icon texture='GUI/Bullet'/>%1% от населения
+
+---
+
+ResourcePerTurnFromProduction
+
+<icon texture='GUI/Bullet'/>%1% from production
+
+<icon texture='GUI/Bullet'/>%1% от производства
+
+---
+
+ResourcePerTurnFromRazing
+
+<icon texture='GUI/Bullet'/>%1% from razing
+
+<icon texture='GUI/Bullet'/>%1% от разрушений
+
+---
+
+ResourcePerTurnFromResearch
+
+<icon texture='GUI/Bullet'/>%1% from research
+
+<icon texture='GUI/Bullet'/>%1% от исследований
+
+---
+
+ResourcePerTurnFromResearchers
+
+<icon texture='GUI/Bullet'/>%1% from scientists
+
+<icon texture='GUI/Bullet'/>%1% от ученых
+
+---
+
+ResourcePerTurnFromResearchPacts
+
+<icon texture='GUI/Bullet'/>%1% from research pacts
+
+<icon texture='GUI/Bullet'/>%1% от научного договора
+
+---
+
+ResourcePerTurnFromRiot
+
+<icon texture='GUI/Bullet'/>%1% from subversive riots
+
+<icon texture='GUI/Bullet'/>%1% from subversive riots
+
+---
+
+ResourcePerTurnFromStarvation
+
+<icon texture='GUI/Bullet'/>%1% from starvation
+
+<icon texture='GUI/Bullet'/>%1% от голодания
+
+---
+
+ResourcePerTurnFromTakeover
+
+<icon texture='GUI/Bullet'/>%1% from takeover
+
+<icon texture='GUI/Bullet'/>%1% от поглощения
+
+---
+
+ResourcePerTurnFromTakeoverCasualties
+
+<icon texture='GUI/Bullet'/>%1% from takeover casualties
+
+<icon texture='GUI/Bullet'/>%1% from takeover casualties
+
+---
+
+ResourcePerTurnFromTakeoverMigration
+
+<icon texture='GUI/Bullet'/>%1% from takeover migration
+
+<icon texture='GUI/Bullet'/>%1% from takeover migration
+
+---
+
+ResourcePerTurnFromTaxes
+
+<icon texture='GUI/Bullet'/>%1% from taxes
+
+<icon texture='GUI/Bullet'/>%1% от налогов
+
+---
+
+ResourcePerTurnFromTerritories
+
+<icon texture='GUI/Bullet'/>%1% from territories
+
+<icon texture='GUI/Bullet'/>%1% от территорий
+
+---
+
+ResourcePerTurnFromTradingPacts
+
+<icon texture='GUI/Bullet'/>%1% from trading pacts
+
+<icon texture='GUI/Bullet'/>%1% от торгового договора
+
+---
+
+ResourcePerTurnFromUnits
+
+<icon texture='GUI/Bullet'/>%1% from units
+
+<icon texture='GUI/Bullet'/>%1% from units
+
+---
+
+ResourcePerTurnFromUnitUpkeep
+
+<icon texture='GUI/Bullet'/>%1% from unit upkeep
+
+<icon texture='GUI/Bullet'/>%1% от содержания подразделений
+
+---
+
+ResourcePerTurnFromVirus
+
+<icon texture='GUI/Bullet'/>%1% from genetic virus
+
+<icon texture='GUI/Bullet'/>%1% from genetic virus
+
+---
+
+ResourcePerTurnFromWorkers
+
+<icon texture='GUI/Bullet'/>%1% from workers
+
+<icon texture='GUI/Bullet'/>%1% от рабочих
+
+---
+
+ResourceTotal
+
+%1% total
+
+%1% всего
+
+---
+
+ResourceTurnsLeft
+
+<icon texture='GUI/Bullet'/>%1% turns left
+
+<icon texture='GUI/Bullet'/>%1% ходов осталось
+
+---
+
+Return
+
+Return
+
+Вернуться
+
+---
+
+ReturnToMap
+
+Return to Map
+
+Вернуться на карту
+
+---
+
+Riot
+
+Riot
+
+Riot
+
+---
+
+Save
+
+Save
+
+Сохранить
+
+---
+
+SaveGame
+
+Save Game
+
+Сохранить игру
+
+---
+
+SaveGameHint
+
+Save Game [Ctrl+S]<br/>Quick Save [F10]
+
+Сохранить игру [Ctrl+S]<br/>Быстрое сохранение [F11]
+
+---
+
+SelectCompatibleDesign
+
+Select a compatible design.
+
+Выберите совместимый проект.
+
+---
+
+Sell
+
+Sell
+
+Sell
+
+---
+
+SellBuildingTitle
+
+Sell Building
+
+Продать здание
+
+---
+
+SellBuildingMessage
+
+Are you sure you want to sell %1% for %2% <icon texture='Resources/Credits'/> credits?
+
+Вы уверены, что хотите продать %1% for %2% <icon texture='Resources/Credits'/> кредитов?
+
+---
+
+SetTerritoryToAcquire
+
+Set this territory to be acquired next when enough population <style color='Gray'/>(%1%)<style name='Default'/> is accumulated <style color='Gray'/>(%2% turns)<style name='Default'/>.
+
+Поглатить эту территориию при следующем росте населения населения <style color='Gray'/>(%1%)<style name='Default'/> через <style color='Gray'/>(%2% ходов)<style name='Default'/>.
+
+---
+
+Score0
+
+None
+
+Отсутствует
+
+---
+
+Score1
+
+Very Weak
+
+Крайне слабое
+
+---
+
+Score2
+
+Weak
+
+Слабое
+
+---
+
+Score3
+
+Average
+
+Среднее
+
+---
+
+Score4
+
+Strong
+
+Сильное
+
+---
+
+Score5
+
+Very Strong
+
+Очень сильное
+
+---
+
+Selection
+
+Selection
+
+Выбор
+
+---
+
+Settings
+
+Settings
+
+Настройки
+
+---
+
+SettingsHint
+
+Settings [Ctrl+E]
+
+Настройки [Ctrl+E]
+
+---
+
+ShowAdditionalOrders
+
+Show additional orders.
+
+Показывать дополнительные приказы
+
+---
+
+SightHint
+
+Sight Range<br/>How far the unit can see.
+
+Дальносить видимости<br/>Как далеко подразделения могут видеть.
+
+---
+
+SlotClosed
+
+[Closed]
+
+[Closed]
+
+---
+
+SlotOpen
+
+[Open]
+
+[Open]
+
+---
+
+SortByClass
+
+Sort by Class
+
+Сортировать по Классу
+
+---
+
+SortByCredits
+
+Sort by Credits
+
+Сортировать по Доходу
+
+---
+
+SortByDevice
+
+Sort by Device
+
+Сортировать по Устройствам
+
+---
+
+SortByDesign
+
+Sort by Design
+
+Сортировать по Проекту
+
+---
+
+SortByFood
+
+Sort by Food
+
+Сортировать по Еде
+
+---
+
+SortByGrowth
+
+Sort by Growth
+
+Сортировать по Росту
+
+---
+
+SortByHabitat
+
+Sort by Habitat
+
+Сортировать по Жилью
+
+---
+
+SortByHealth
+
+Sort by Health
+
+Сортировать по Здоровья
+
+---
+
+SortByMinerals
+
+Sort by Minerals
+
+Сортировать по Минералам
+
+---
+
+SortByMorale
+
+Sort by Morale
+
+Сортировать по Морали
+
+---
+
+SortByMovement
+
+Sort by Movement
+
+Сортировать по Скорости
+
+---
+
+SortByName
+
+Sort by Name
+
+Сортировать по Имени
+
+---
+
+SortByOrder
+
+Sort by Order
+
+Сортировать по Приказам
+
+---
+
+SortByPollution
+
+Sort by Pollution
+
+Сортировать по Загрязнениям
+
+---
+
+SortByPopulation
+
+Sort by Population
+
+Сортировать по Населению
+
+---
+
+SortByProduction
+
+Sort by Production
+
+Сортировать по Производству
+
+---
+
+SortByPower
+
+Sort by Power
+
+Сортировать по Силе
+
+---
+
+SortByResearch
+
+Sort by Research
+
+Сортировать по Иследованям
+
+---
+
+SortBySight
+
+Sort by Sight
+
+Сортировать по Обзору
+
+---
+
+SortByUpkeep
+
+Sort by Upkeep
+
+Сортировать по Содержанию
+
+---
+
+SortByWeapon
+
+Sort by Weapon
+
+Сортировать по Оружию
+
+---
+
+Spectating
+
+Spectating
+
+Наблюдение
+
+---
+
+SpectatingHint
+
+
+
+
+
+---
+
+Spectator
+
+Spectator
+
+Spectator
+
+---
+
+Start
+
+Start
+
+Старт
+
+---
+
+Statistics
+
+Statistics
+
+Статистика
+
+---
+
+StopRazing
+
+<style color='Red'/>Stop Razing
+
+<style color='Red'/>Остановить разрушение
+
+---
+
+StopRazingHint
+
+Click to stop razing the city.
+
+Кликлине что бы останосить разрушение города.
+
+---
+
+Stories
+
+Stories
+
+Stories
+
+---
+
+StoriesHelp
+
+Here you can find short stories about the world of Pandora. Enjoy the reading!
+
+Here you can find short stories about the world of Pandora. Enjoy the reading!
+
+---
+
+Story
+
+Story
+
+Story
+
+---
+
+SuccessChance
+
+Success Chance
+
+Success Chance
+
+---
+
+Targets
+
+Targets
+
+Цели
+
+---
+
+TargetPower
+
+Target Power
+
+Сила цели
+
+---
+
+Team
+
+Team
+
+Team
+
+---
+
+Team0
+
+None
+
+None
+
+---
+
+Team1
+
+A
+
+A
+
+---
+
+Team2
+
+B
+
+B
+
+---
+
+Team3
+
+C
+
+C
+
+---
+
+Team4
+
+D
+
+D
+
+---
+
+Team5
+
+E
+
+E
+
+---
+
+Team6
+
+F
+
+F
+
+---
+
+Team7
+
+G
+
+G
+
+---
+
+Team8
+
+H
+
+H
+
+---
+
+Technologies
+
+Technologies
+
+Технологии
+
+---
+
+TechnologiesHelp
+
+Over the course of the game you will unlock increasingly more advanced technologies which provide new buildings, units, weapons, armors, devices, operations and projects.
+
+В течение игры вы будете изучать все более передовые технологий, здания, учреждения, оружие, доспехи, устройства, достижений. <br/> <br/> Если специально не отключено то исследование 75% всех имеющихся  технологий дадут вам победу вашей империи.
+
+---
+
+TechnologyCost
+
+Cost: %1% <icon texture='Resources/Research'/> research <style name='Small' color='Gray'/>(%2% turns)
+
+Цена: %1% <icon texture='Resources/Research'/> исследования  <style name='Small' color='Gray'/>(%2% ходов)
+
+---
+
+TerritorySetToAcquire
+
+This territory is going to be acquired when enough population <style color='Gray'/>(%1%)<style name='Default'/> is accumulated <style color='Gray'/>(%2% turns)<style name='Default'/>.
+
+Эта территория будет получено, когда достаточное количество населения <style color='Gray'/>(%1%)<style name='Default'/> через <style color='Gray'/>(%2% ходов)<style name='Default'/>.
+
+---
+
+Timeline
+
+Timeline
+
+Предыстория
+
+---
+
+TimelineHelp
+
+The journey here has been filled with turmoil. Factions have risen up from opportunities and ideologies independent of governments. Private corporations and religious movements have started wars over pure greed and power. Many have died and many lands lay in ruin. With the discovery of Pandora, the future is as uncertain as ever. Have we learned anything or will history repeat itself?
+
+Путешествие было полным потрясений. Фракции поднялись до предела возможностей и идеологии, и стали независимыми от правительства. Частные корпорации и религиозных движений начались войны ради жадности и власти. Многие умерли, а многие земли превратились в руины. С открытием Пандора, будущее непредсказуемо как никогда. Научились ли мы чемунибудь из повторения истории?
+
+---
+
+Tip
+
+Tip
+
+Совет
+
+---
+
+Tips
+
+Tips
+
+Советы
+
+---
+
+TipsHelp
+
+Tips are shown throughout the game to aid the player. You can read individual tips in this section or reset tips in the settings panel to have them shown again during gameplay.
+
+Советы показаны на протяжении всей игры, чтобы помочь игроку. Вы можете прочитать отдельные советы в этом разделе или сбросить советы в панели настроек, чтобы они снова появляются во время игры.
+
+---
+
+ToggleGrid
+
+Toggle grid [Ctrl+G].
+
+Toggle grid [Ctrl+G].
+
+---
+
+ToggleYieldOverlay
+
+Toggle yield overlay [Ctrl+Y].
+
+Toggle yield overlay [Ctrl+Y].
+
+---
+
+Total
+
+Total
+
+Всего
+
+---
+
+TradingPact
+
+Trading pact
+
+Торговый пакт
+
+---
+
+TransferControlToThisCityHint
+
+Click to transfer control to this city.
+
+Нажмите, чтобы перейти к этому городу.
+
+---
+
+Turn
+
+Turn
+
+Ход
+
+---
+
+TurnsUntilPopulationGrowth
+
+Turns until growth.
+
+Ходов до роста населения.
+
+---
+
+TurnsUntilProductionComplete
+
+Turns until production is complete.
+
+Ходов до конца производства.
+
+---
+
+TURNS
+
+<style name='Small' color='Gray'/>%1% turns<style name='Default'/>
+
+<style name='Small' color='Gray'/>%1% ходов<style name='Default'/>
+
+---
+
+(TURNS)
+
+<style name='Small' color='Gray'/>(%1% turns<style name='Small' color='Gray'/>)<style name='Default'/>
+
+<style name='Small' color='Gray'/>(%1% ходов<style name='Small' color='Gray'/>)<style name='Default'/>
+
+---
+
+UnitWorkshop
+
+Unit Workshop
+
+До мастерской
+
+---
+
+Unit
+
+Unit
+
+Подразделение
+
+---
+
+Units
+
+Units
+
+Подразделения
+
+---
+
+UnitsHelp
+
+Units are designed in the workshop and produced in cities. Military troops consist of biological units (infantry) as well as a variety of mechanical units (from light reconnaissance vehicles to massive war machines), and each unit class has their own strength and weaknesses. There also exist civilian units like Colonizers (to found new bases) and Formers (to shape the landscape), which are unarmed and thus require protection.<br/><br/>Note that almost all units have an upkeep cost, so do not invest into a large army unless it serves a purpose.
+
+Подразделения разрабатываются в мастерской и производятся в городах. Войска состоят из биологических юнитов (пехота), а также различных механических единиц (от легких разведывательных машин до огромных боевых машин), и каждый их класс имеет свои сильные и слабые стороны. Также существуют гражданские подразделения, такие как колонизаторы (служат для основания новых поселений) и формеры (для формирования ландшафта), которые не имеют оружия и, следовательно, нуждаются в защите. <br/> <br/> Следует отметить, что практически все устройства имеют стоимость поддержки, так что не вкладывайте деньги в большую армию, если она не служит конкретным потребностям.
+
+---
+
+Unready
+
+Unready
+
+Не готово
+
+---
+
+UpkeepHint
+
+Upkeep Cost<br/>Credits cost per month.
+
+Цена содержания<br/>Кредитов в месяц.
+
+---
+
+Version
+
+Version
+
+Версия
+
+---
+
+VICTORY!
+
+VICTORY!
+
+ПОБЕДА!
+
+---
+
+VS
+
+VS
+
+против
+
+---
+
+VictoryChance
+
+Victory Chance
+
+Шанс победы
+
+---
+
+War
+
+War
+
+Война
+
+---
+
+Weapon
+
+Weapon
+
+Оружие
+
+---
+
+Weapons
+
+Weapons
+
+Оружие
+
+---
+
+WeaponsHelp
+
+Weapons come in the form of guns or turrets, and are carried by infantry units or mounted on vehicles. Different weapon types are more or less effective against certain unit classes or in certain situations, so equip your units wisely.<br/><br/>If you are under attack and defending your borders, it is a good idea to refit your existing units with the 'Refit' order to counter the enemy's troop composition.
+
+Оружие  носят пехотные подразделения или устанавливают на транспортные средства. Различные виды оружия  эффективно против различных классов или в определенных ситуациях, поэтому устанавливать его нужно мудро. <br/> <br/> Если Вы находитесь под атакой то защита ваших границ, это хорошая идея.
+
+---
+
+Website
+
+Website
+
+Вебсайт
+
+---
+
+Workshop
+
+Workshop
+
+Мастерская
+
+---
+
+XOutOfY
+
+%1% / %2%
+
+%1% / %2%
+
+---
+
+Year
+
+Year %1% AD
+
+Year %1% AD

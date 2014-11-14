@@ -1,0 +1,909 @@
+FirstContact
+
+&quot;May I introduce myself? I am Doctor Alpheus Schreiber, nominal head of Togra University. It was our creations, such as the Alcubierre drive, that brought man to Pandora. Given that, I don't think you grudge us a chance to research this fascinating new world and to expand the borders of human thought, would you? I thought not. I can see we're going to get along... famously.&quot;
+
+&quot;Разрешите представиться? Я доктор Алфей Шрайбер, номинальный глава университета Тогра. Это были наши творения, такие как привод Алькубьерре, которые привели людей на Пандору. Учитывая это, я не думаю, что вы пожалеете дать нам шанс исследовать этот увлекательный новый мир и расширить границы человеческой мысли, не так ли? Я так и думал. Я вижу, что мы... поладим.&quot;
+
+---
+
+NamePositive
+
+&quot;The brilliant %6%.&quot;
+
+&quot;The brilliant %6%.&quot;
+
+---
+
+NameNegative
+
+&quot;The unethical %6%.&quot;
+
+&quot;The unethical %6%.&quot;
+
+---
+
+LetMeThink
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+---
+
+LetMeKnow
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+---
+
+DenounceThirdParty0
+
+&quot;I don't need to tell you how I know but... you're under threat.&quot;
+
+&quot;Не буду говорить вам, откуда я знаю, но... вы под угрозой.&quot;
+
+---
+
+AcceptDenounceThirdParty0
+
+&quot;Really? Why would anyone do that? We don't mean to hurt anyone. Except in the course of research.&quot;
+
+&quot;В самом деле? Зачем кому-то это делать? Мы не хотели кому-то навредить. Разве что в рамках исследований.&quot;
+
+---
+
+RejectDenounceThirdParty0
+
+&quot;Excuse me, I'm rather busy. These rats won't eviscerate themselves.&quot;
+
+&quot;Простите, я очень занят. Эти крысы не выпотрошат себя.&quot;
+
+---
+
+DenounceThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptDenounceThirdParty1
+
+&quot;Really? I'll put that in my notes. Most fascinating. Thank you again.&quot;
+
+&quot;В самом деле? Я запишу это у себя в блокноте. Очень захватывающе. Еще раз спасибо.&quot;
+
+---
+
+RejectDenounceThirdParty1
+
+&quot;Why would anyone do that? We're scientists. It's like kicking puppies, outside of a correct puppy-kicking trial. I jest, of course.&quot;
+
+&quot;Зачем кому-то это делать? Мы ученые. Это все равно, что бить щенков, за исключением тех случаев, когда они провинились. Я шучу, конечно.&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty0
+
+&quot;We know about your pacts and our medium-term predictions for you aren't good if you carry them on. I wouldn't dare ask about the long-term if I were you... &quot;
+
+&quot;Мы знаем о ваших пактах и наши среднесрочные прогнозы на вас не очень хороши, если будете их придерживаться. Я бы не рискнул спросить о долгосрочной перспективе, только если бы вы... &quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty0
+
+&quot;Well, I suppose we don't need help to do research. But we do for trade. Hmm, who?&quot;
+
+&quot;Ну, я предполагаю, что мы не нуждаемся в помощи в исследованиях. Но мы ещё заняты торговлей. Хм, с кем?&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty0
+
+&quot;You know the rumors about my IQ - are you sure you want to attempt such blatant manipulation with me?&quot;
+
+&quot;Вы наверняка слушали слухи о моем IQ. Вы уверены, что хотите попробовать такую вопиющую манипуляцию со мной?&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty1
+
+&quot;Dumbkopfs! I knew they would do this of course. But it's always such a disappointment.&quot;
+
+&quot;Идиоты! Я знал, что они будут делать это, конечно. Но это всегда такое разочарование.&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty1
+
+&quot;Lionel, could you pass the wrench? I need to fix this person -- he appears to speaking rot.&quot;
+
+&quot;Лионель, не могли бы вы передать ключ на 12? Мне нужно, чтобы исправить этого человека - он говорит вздор.&quot;
+
+---
+
+DemandPeaceOfferToThirdParty0
+
+&quot;Could you stop fighting please? The seismic activity is affecting our studies.&quot;
+
+&quot;Не могли бы вы прекратить войну, пожалуйста? Сейсмическая активность влияет наши исследования.&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty0
+
+&quot;Gladly! War is an inefficient way to solve our problems.&quot;
+
+&quot;С удовольствием! Война является неэффективным способом, чтобы решить наши проблемы.&quot;
+
+---
+
+RejectPeaceOfferToThirdParty0
+
+&quot;I'm sorry, we're keen to test this new projectile's effect on human organs. We've already got funding.&quot;
+
+&quot;Мне очень жаль, мы заинтересованы сейчас в проверке воздействия этого нового снаряда на человеческие органы. И у нас уже есть финансирование.&quot;
+
+---
+
+DemandPeaceOfferToThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty1
+
+&quot;Makes sense to me.&quot;
+
+&quot;Это понятно.&quot;
+
+---
+
+RejectPeaceOfferToThirdParty1
+
+&quot;I don't think I quite remember how to turn the automated guns off. What a shame that is. A dreadful... shame.&quot;
+
+&quot;Я точно не помню, как выключить автоматизированные орудия. Какой позор. Ужасный ... позор.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty0
+
+&quot;Our predictions have you in a war within two periods. And you don't want to fight our predictions.&quot;
+
+&quot;Our predictions have you in a war within two periods. And you don't want to fight our predictions.&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty0
+
+&quot;Oh, really? Who are we meant to be fighting? &quot;
+
+&quot;Oh, really? Who are we meant to be fighting? &quot;
+
+---
+
+RejectWarDeclarationOnThirdParty0
+
+&quot;Haha, no. You must be confusing us with another scientific institution on Pandora.&quot;
+
+&quot;Haha, no. You must be confusing us with another scientific institution on Pandora.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty1
+
+&quot;We were at war with them ten minutes before you called. But it's so pleasant to watch you think you have some power on this world.&quot;
+
+&quot;We were at war with them ten minutes before you called. But it's so pleasant to watch you think you have some power on this world.&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty1
+
+&quot;It's funny, but I don't seem to have a war in my diary. And I can't mess up my diary. Do call again.&quot;
+
+&quot;It's funny, but I don't seem to have a war in my diary. And I can't mess up my diary. Do call again.&quot;
+
+---
+
+OfferShareMap
+
+&quot;Our data analysis labs has made some beautiful 11 dimensional maps, though they do always end up looking a bit like torii - donuts to you. We could render them down to a 2D form, if you wanted to understand a fragment of what we do.&quot;
+
+&quot;Наши лаборатории анализа данных сделали несколько красивых 11-мерных карт, хотя они всегда в конечном итоге выглядит немного как торы - пончики по вашему. Мы могли бы преобразовать их к 2D форме, если вы хотите понять фрагмент того, что мы делаем.&quot;
+
+---
+
+AcceptShareMap
+
+&quot;We're just downscaling it - the 1:1 data scale will probably fritz your old Earth-based computers.&quot;
+
+&quot;Мы просто уменьшили их размере, данные в масштабе 1:1, вероятно, повесят ваши старые Земные компьютеры.&quot;
+
+---
+
+RejectShareMap
+
+&quot;The AI resources of old Earth could just about comprehend our map. I'm not sure an ape like you would know whether to eat it or mate with it.&quot;
+
+&quot;Ресурсы ИИ со Старой Земли могли бы лишь примерно понять нашу карту. Я не уверен, что такой примат как вы разберется, съесть это или спариться с этим.&quot;
+
+---
+
+OfferOpenBorders
+
+&quot;Shall we loosen our border restrictions? We already know everything you've got, anyway.&quot;
+
+&quot;Можеи нам ослабить наши пограничные ограничения? Мы и так знаем все, что у вас есть.&quot;
+
+---
+
+AcceptOpenBorders
+
+&quot;Of course, you're welcome in. Just avoid the testing zones. You'll know when you're in them, because you won't exist any more.&quot;
+
+&quot;Конечно, приходите. Просто избегайте зон тестирования. Вы их узнаете, вы в них просто перестанете существовать.&quot;
+
+---
+
+RejectOpenBorders
+
+&quot;The very concept of borders is so outmoded in this post-nation state society, that your request makes no sense. I'd encourage you not to cross them all the same.&quot;
+
+&quot;Само понятие границ настолько устарело в этом пост-национальном обществе, что ваш запрос не имеет смысла. Но я призываю вас не переходить их все равно.&quot;
+
+---
+
+TerminateOpenBorders
+
+&quot;We've started field tests on weapons that must not end up in the wrong hands -- so in an effort to minimize the dangers of espionage, I hereby terminate our agreement on open borders. My apologies, %1%.&quot;
+
+&quot;Мы начали полевые испытания на оружие, которое не должно в конечном итоге попасть в чужие руки. Чтобы свести к минимуму опасности, связанные со шпионажем, я прекращаю наше соглашение об открытых границах. Прошу прощения, %1%.&quot;
+
+---
+
+AcceptOpenBordersTerminated
+
+&quot;I hope the real reason is not that you're afraid we would steal your technology, because let me assure you my dear %1%, that is never going to happen.&quot;
+
+&quot;Я надеюсь, что настоящая причина не в том, что вы боитесь, что мы украдем вашу технологию. так позвольте мне заверить вас, мой дорогой %1%, что этого никогда не случится.&quot;
+
+---
+
+Crime0
+
+You make these wonderful discoveries and let man-shaped monsters turn them into weapons. Are you careless or malicious, I wonder?
+
+Вы делаете эти замечательные открытия и позволяете человекообразным монстрам превратить их в оружие.интересно, вы небрежные или просто вредоносные?
+
+---
+
+Crime1
+
+How much local wildlife has died in your vivisection labs? 
+
+Сколько местных диких животных умерло в ваших вивисекционных лабораториях? 
+
+---
+
+Crime2
+
+Every domestic device you design kills another half-a-dozen of my people. Don't you test your tech? Or is this another strand to your plan?
+
+Каждый ваше разрабатываемое устройство убивает другого полдесятка моих людей. Разве вы не проверяете свои технологии? Или это у вас такой план?
+
+---
+
+Denounce
+
+&quot;%7% This is not scientific.&quot;
+
+&quot;%7% Это не научно.&quot;
+
+---
+
+AcceptDenounce
+
+&quot;Yes, yes. That was us. And we'd do it again. You can't possibly understand our reasons. And I can prove that.&quot;
+
+&quot;Да, да. Это были мы. И мы сделаем это снова. Вы не сможете понять наши причины. И я могу это доказать.&quot;
+
+---
+
+RejectDenounce
+
+&quot;What do you think we are, mad scientists? You may consider our precepts mad, but our ratiocination is provably perfect (or it would be, save for cursed Gödel.)&quot;
+
+&quot;Вы думаете, что мы безумные ученые? Вы можете рассмотривать наши предписания как безумные, но наше логическое рассуждение с использованием силлогизмов доказуемо идеально.&quot;
+
+---
+
+Praise
+
+&quot;%5% You're a very advanced monkey. That was intended as a compliment. I like monkeys. Very useful for... research.&quot;
+
+&quot;%5% вы очень продвинутые обезьяны. Это было задумано как комплимент. Мне нравится обезьяны. Очень полезны для... исследования.&quot;
+
+---
+
+AcceptPraise
+
+&quot;Why, thank you. Another Nobel would do nicely.&quot;
+
+&quot;Ну, спасибо. Другой Нобелевский лауреат сделает это лучше.&quot;
+
+---
+
+RejectPraise
+
+&quot;There's a 97.34%% chance you're flattering us to get something. How... cute.&quot;
+
+&quot;С вероятностью 97.34%% вы льстите нам, чтобы получить что-то. Как... мило.&quot;
+
+---
+
+OfferSurrender
+
+&quot;Well, sadly, I predicted this from the start. But our master plan will come to fruition soon enough. In the meantime, we'd like to surrender to you.&quot;
+
+&quot;Ну, к сожалению, я предсказал это с самого начала. Но наш генеральный план достаточно скоро будет реализован. А пока, мы хотели бы сдаться.&quot;
+
+---
+
+AcceptSurrender
+
+&quot;Yes, yes, just put it in the in-tray. Welcome aboard.&quot;
+
+&quot;Да, да, просто положить его в корзину для входящих бумаг. Добро пожаловать на борт.&quot;
+
+---
+
+RejectSurrender
+
+&quot;No, we don't have the teachers available to teach quantum synchronistic infundubula to your entire population, and it would be pointless you attempting to enter our society without knowing the basics.&quot;
+
+&quot;Нет, у нас нет свободного учителя, чтобы объяснять квантовую синхронистическую воронку всей вашей нации, и было бы бессмысленно пытаетесь ввести вас в наше общество без знания основ.&quot;
+
+---
+
+Compliment0
+
+Any sufficiently advanced science is indistinguishable from magic. And you are wizards!
+
+Любая достаточно развитая наука неотличима от магии. И вы волшебники!
+
+---
+
+Compliment1
+
+Without people like you, mankind would never have crawled out of its shell. We are born in shells, right?
+
+Без таких людей, как вы, человечество никогда бы не вылезло из своей скорлупы. Мы рождаемся в оболочках, не так ли?
+
+---
+
+Compliment2
+
+Pandora is blessed that it has explorers like you to uncover its mysteries!
+
+Пандора благословенна, что она имеет таких исследователей, как вы, раскрывающих ее тайны!
+
+---
+
+Insult0
+
+Your anarchistic ideologies and unethical experiments are no longer tolerable.
+
+Ваши анархические идеологии и неэтичные эксперименты не приемлимы.
+
+---
+
+Insult1
+
+You've no idea why you're doing what you're doing, do you? You obviously don't care.
+
+Вы понятия не имеете, почему вы делаете то, что вы делаете, не так ли? Вас, очевидно, это не волнует.
+
+---
+
+Insult2
+
+You have made monsters of men.
+
+Вы сделали монстров из людей.
+
+---
+
+OfferGift0
+
+&quot;We have some spare credits lying around. Do you want them?&quot;
+
+&quot;У нас завалялось несколько запасных кредитов. Вам не надо?&quot;
+
+---
+
+GiftAccepted0
+
+&quot;What do you propose?&quot;
+
+&quot;Что вы предлагаете?&quot;
+
+---
+
+GiftAccepted1
+
+&quot;That'll make a big difference to our research efforts.&quot;
+
+&quot;Это будет иметь большое значение для наших научно-исследовательских работ.&quot;
+
+---
+
+GiftRejected0
+
+&quot;Why do we need your money, when we can turn lead into gold?&quot;
+
+&quot;Зачем нам нужны ваши деньги, когда мы можем превратить свинец в золото?&quot;
+
+---
+
+GiftRejected1
+
+&quot;Sorry, that's not enough, even for a Large Millimeter Array.&quot;
+
+&quot;К сожалению, этого не достаточно даже для Большого Миллиметрового Массива.&quot;
+
+---
+
+DemandTribute0
+
+&quot;You know, a little bit of money to our research efforts, will mean that we won't try our evolutionary tests on you.&quot;
+
+&quot;Знаете, немного денег для наших научно-исследовательских работ будут означать, что мы не будем проводить наши эволюционные испытания на вас.&quot;
+
+---
+
+TributeAccepted0
+
+&quot;I'm sure I can skim some off the pointless commercial projects - there's money here for frictionless shower curtains. How much do you need?&quot;
+
+&quot;Я уверен, что я могу отменить пару бессмысленных коммерческих проектов: вот деньги на скользящие  душевые занавески. Сколько вам нужно?&quot;
+
+---
+
+TributeAccepted1
+
+&quot;Okay, money skimmed. Hope you use it well.&quot;
+
+&quot;Ладно, деньги сняты. Надеюсь, что вы правильно их используете.&quot;
+
+---
+
+TributeRejected0
+
+&quot;How pitiable you are. I have some change for coffee, if that would help?&quot;
+
+&quot;Как вы жалки. У меня есть немного мелочи на кофе, если это поможет?&quot;
+
+---
+
+TributeRejected1
+
+&quot;No. The budget doesn't stretch to that.&quot;
+
+&quot;Нет. Бюджет не резиновый.&quot;
+
+---
+
+AcceptCreditsForDeal0
+
+&quot; %1%, what amount would make this work?&quot;
+
+&quot; %1%, какая сумма вас устроит?&quot;
+
+---
+
+AcceptCreditsForDeal1
+
+&quot;Rational. The money is yours. Now let's talk.&quot;
+
+&quot;Логично. Деньги ваши. Теперь давайте поговорим.&quot;
+
+---
+
+RejectCreditsForDeal0
+
+&quot;Sorry, %1%, but this conversation is irrelevant.&quot;
+
+&quot;Простите, %1%, но этот разговор не имеет смысла.&quot;
+
+---
+
+RejectCreditsForDeal1
+
+&quot;We don't pay in Australium. What planet are you from?&quot;
+
+&quot;Мы не расплачиваемся Австралиумами. Вы с какой планеты?&quot;
+
+---
+
+CreditsForDealRejected
+
+&quot;Science is beyond money.&quot;
+
+&quot;Наука вне денег.&quot;
+
+---
+
+DemandCreditsForDeal
+
+&quot;We need some funds for research. Can you make a donation?&quot;
+
+&quot;Нам нужны средства для исследований. Можете ли вы сделать пожертвование?&quot;
+
+---
+
+DemandCredits0
+
+&quot;New neutrino factories for all our labs should only cost %6% <icon texture='Resources/Credits'/> credits.&quot;
+
+&quot;Новые генераторы нейтрино для всех наших лабораторий будут стоить %6% <icon texture='Resources/Credits'/> кредитов.&quot;
+
+---
+
+DemandCredits1
+
+&quot;Hmm, with %6% <icon texture='Resources/Credits'/> credits we can build the Notional Boson Impacter the particle team want.&quot;
+
+&quot;Хмм, с %6% <icon texture='Resources/Credits'/> мы сможем воссоздать столкновение Воображаемых Бозонов.&quot;
+
+---
+
+DemandCredits2
+
+&quot;Just send over %6% <icon texture='Resources/Credits'/> credits. It'll all go to science.&quot;
+
+&quot;Просто отправьте %6% <icon texture='Resources/Credits'/> кредитов. Это все пойдет на науку.&quot;
+
+---
+
+DemandCredits3
+
+&quot;We want to indulge in pure research -- so we need pure money. Every cent you've got.&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+&quot;Мы хотим, заняться чистыми исследованиями, так что нам нужны чистые деньги. Все, которые у вас есть.&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+---
+
+OfferCredits0
+
+&quot;Would a sum of %6% <icon texture='Resources/Credits'/> credits help with your gamete reassignment surgery?&quot;
+
+&quot;Сумма в %6% <icon texture='Resources/Credits'/> кредитов поможет в вашей операции по смене гамет?&quot;
+
+---
+
+OfferCredits1
+
+&quot;%6% <icon texture='Resources/Credits'/> credits. The cost of the Human Genome Project, in today's money. Does that work?&quot;
+
+&quot;%6% <icon texture='Resources/Credits'/> Кредитов. Стоимость проекта генома человека, в сегодняшних деньгах. Ну как?&quot;
+
+---
+
+OfferCredits2
+
+&quot;These %6% <icon texture='Resources/Credits'/> credits were meant to be for curing cancer and solving world hunger. Perhaps someone else on this planet has that covered? Take them.&quot;
+
+&quot;Эти %6% <icon texture='Resources/Credits'/> кредитов должны были пойти на лечение рака и решение проблемы мирового голода. Возможно, кто-то еще на этой планете страдает от этого? Возьмите их.&quot;
+
+---
+
+OfferCredits3
+
+&quot;%6% <icon texture='Resources/Credits'/> credits -- and that's my entire fortune! Every quark of every atom of every molecule of every credit.&quot;
+
+&quot;%6% <icon texture='Resources/Credits'/> кредитов -- это все мое богатство! Каждый кварк каждого атома каждой молекулы каждого кредита.&quot;
+
+---
+
+AllianceAccepted
+
+&quot;Yes, let us toast to a shared venture into a new age! I made this whiskey myself, in our Large Scale Atom Assembler.&quot;
+
+&quot;Да, давайте выпьем за совместный шаг в новую эпоху! Я сделал этот виски сам, в нашем Крупноразмерном Атомном Ассемблере.&quot;
+
+---
+
+AllianceRejected
+
+&quot;We're scientists. We're meant to be non-aligned!&quot;
+
+&quot;Мы ученые. Мы предназначены для свободы!&quot;
+
+---
+
+AllianceTerminated
+
+&quot;I really hoped for a longer journey together...&quot;
+
+&quot;Я действительно надеялся на длительное путешествие вместе ...&quot;
+
+---
+
+Condemn
+
+&quot;You murdering bastard! I blame myself that the technology to wipe out entire countries ended up in your hands!&quot;
+
+&quot;Вы убивающий ублюдок! Я виню себя в том, что технология, способная уничтожить целые страны оказалась в ваших руках!&quot;
+
+---
+
+CondemnAccepted
+
+&quot;%4% Be assured, I did not make this choice lightly. &quot;
+
+&quot;%4% Будьте уверены, это был нелегкий выбор. &quot;
+
+---
+
+DeclareWar
+
+&quot;%4% I had sincere hopes we could avoid a war, but the time has finally come.&quot;
+
+&quot;%4% У меня были искренние надежды, что мы сможем избежать войны, но время пришло.&quot;
+
+---
+
+DemandWithdrawal
+
+&quot;Don't think I'm not aware of your growing troop concentrations at my borders! Order their immediate withdrawal, or there will be consequences...&quot;
+
+&quot;Не думайте, что я не в курсе вашей растущей концентрации войск на моей границе! Немедленно выведите войска, или будут последствия...&quot;
+
+---
+
+Eliminated
+
+&quot;This world is doomed without science. Something is... coming.&quot;
+
+&quot;Этот мир обречен без науки. Что-то... грядет.&quot;
+
+---
+
+Goodbye
+
+&quot;Schreiber out.&quot;
+
+&quot;Шрайбер вышел.&quot;
+
+---
+
+Greet0
+
+&quot;I have better things to do than argue with simpletons, so make your demands clear.&quot;
+
+&quot;У меня есть более важные дела, чем спорить с простаками, так излагайте ваши требования ясно.&quot;
+
+---
+
+Greet1
+
+&quot;Greetings, %3%. What are the latest discoveries in your empire?&quot;
+
+&quot;Приветствую, %3%. Каковы последние открытия в вашей империи?&quot;
+
+---
+
+Greet2
+
+&quot;Always a delight to see you, %1%. What is on your mind?&quot;
+
+&quot;Всегда приятно видеть вас, %1%. Что у тебя на уме?&quot;
+
+---
+
+NonAggressionPactAccepted
+
+&quot;Signed. We have no plans to attack you in the foreseeable future. Or the past, either. My little joke.&quot;
+
+&quot;Подписано. У нас нет никаких планов нападения на вас в обозримом будущем. Или в прошлом.  Это моя маленькая шутка.&quot;
+
+---
+
+NonAggressionPactRejected
+
+&quot;Thanks for the offer, but I can't give that guarantee.&quot;
+
+&quot;Спасибо за предложение, но я не могу дать такую гарантию.&quot;
+
+---
+
+NonAggressionPactTerminated
+
+&quot;Now I have to plan for such mundane tasks as winning a war.&quot;
+
+&quot;Теперь я должен планировать такие повседневные задачи, как выиграть войну.&quot;
+
+---
+
+OfferAlliance
+
+&quot;We're not wonderful at this fighting thing. Could you help us out?&quot;
+
+&quot;Мы не силны в этих военных играх. Не могли бы вы помочь нам?&quot;
+
+---
+
+OfferNonAggressionPact
+
+&quot;How about a non-aggression pact? Though I doubt you understand more than 'I agree to not punch anyone wearing glasses.'&quot;
+
+&quot;Как насчет пакта о ненападении? Хотя я сомневаюсь, вы понимаете больше, чем 'я согласен не бить никого в очках'.&quot;
+
+---
+
+OfferPeace
+
+&quot;Whoah, can we stop this war already? The shell impacts are disturbing our experiments.&quot;
+
+&quot;Мы уже можем прекратить эту войну, м? Ударная волна мешает нашим экспериментам.&quot;
+
+---
+
+OfferResearchPact
+
+&quot;I can't believe you haven't asked us, but... do you want to share in our scientific discoveries?&quot;
+
+&quot;Я не могу поверить, что вы нас ещё об этом не попросили, но... Вы не хотите принять участие в наших научных открытиях?&quot;
+
+---
+
+OfferTradingPact
+
+&quot;We'd like to trade. Oh, have you ever heard of the Prisoner's Dilemma? No? Good.&quot;
+
+&quot;Мы хотели бы торговать. О, вы когда-нибудь слышали о дилемме заключенного? Нет? Хорошо.&quot;
+
+---
+
+PeaceAccepted
+
+&quot;Maybe you're not that unreasonable after all, %2%. Accepted.&quot;
+
+&quot;Может быть, вы не так уж и неразумны, в конце концов, %2%. Принимаю.&quot;
+
+---
+
+PeaceRejected
+
+&quot;Declined. Plain and simple.&quot;
+
+&quot;Отклонить. Просто и понятно.&quot;
+
+---
+
+ResearchPactAccepted
+
+&quot;An excellent suggestion. We accept.&quot;
+
+&quot;Отличное предложение. Мы принимаем.&quot;
+
+---
+
+ResearchPactRejected
+
+&quot;Hehe, no thanks, %1%.&quot;
+
+&quot;Хе-хе, нет, спасибо, %1%.&quot;
+
+---
+
+ResearchPactTerminated
+
+&quot;You are insulting my intelligence, %2%. I will not forget this.&quot;
+
+&quot;Вы оскорбляете мой интеллект, %2%. Я этого не забуду.&quot;
+
+---
+
+TerminateAlliance
+
+&quot;It feels as if lately our interests have grown apart, an alliance is no longer justified.&quot;
+
+&quot;Такое ощущение, будто в последнее время наши интересы отдалились друг от друга, альянс больше не оправдан.&quot;
+
+---
+
+TerminateNonAggressionPact
+
+&quot;I'm afraid I can no longer guarantee the peace between our factions.&quot;
+
+&quot;Я боюсь, что больше не могу гарантировать мир между нашими фракциями.&quot;
+
+---
+
+TerminateResearchPact
+
+&quot;Let's be honest %1%, you profit significantly more from our research pact...&quot;
+
+&quot;Давайте будем честными %1%, ваша прибыль значительно больше от нашего исследовательского пакта...&quot;
+
+---
+
+TerminateTradingPact
+
+&quot;Our profits from the trade pact are marginal at best...&quot;
+
+&quot;Наши доходы от торгового пакта являются незначительными в лучшем случае ...&quot;
+
+---
+
+TradingPactAccepted
+
+&quot;Yes, let's give it a try.&quot;
+
+&quot;Да, давайте попробуем.&quot;
+
+---
+
+TradingPactRejected
+
+&quot;No thanks, %1%. Maybe in the future.&quot;
+
+&quot;Нет, спасибо, %1%. Может быть в будущем.&quot;
+
+---
+
+TradingPactTerminated
+
+&quot;%2%, don't be so irrational!&quot;
+
+&quot;%2%, не будьте так иррациональны!&quot;
+
+---
+
+WarAccepted
+
+&quot;Tiresome, but unavoidable. I guess.&quot;
+
+&quot;Скучно, но неизбежно. Я полагаю.&quot;
+
+---
+
+WithdrawalAccepted
+
+&quot;Quantum uncertainty dictates that our the entangled particles that constitute our troops could be just about anywhere. But we'll make sure that they're not on your territory.&quot;
+
+&quot;Квантовая неопределенность диктует, что наши запутанне частицы, составляющие наши войска, могут быть практически в любом месте. Но мы будем надеятся, что они не на вашей территории.&quot;
+
+---
+
+WithdrawalRejected
+
+&quot;Do you think we would have put our troops somewhere we didn't mean them to be? You underestimate me, sir.&quot;
+
+&quot;Вы думаете, мы бы поставили наши войска где-то, где мы бы не хотели, чтобы они были? Вы недооцениваете меня, сэр.&quot;

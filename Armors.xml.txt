@@ -1,0 +1,269 @@
+Alien
+
+Messari Carapace
+
+Messari Carapace
+
+---
+
+AlienDescription
+
+The hideous energies of the Messari weapons are replicated in a smaller scale in their armor. Any projectile or energy coming near to the rippling field-surface of this substance scatters like petals on a soft wind.
+
+The hideous energies of the Messari weapons are replicated in a smaller scale in their armor. Any projectile or energy coming near to the rippling field-surface of this substance scatters like petals on a soft wind.
+
+---
+
+AlienProperties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Armor
+
+---
+
+Armor0
+
+Steel Armor
+
+Стальные бронепластины
+
+---
+
+Armor0Description
+
+Thickened 'Ironclad' steel armor provides basic protection against incoming projectiles and explosives for an increased manufacturing cost.
+
+Стальные бронепластины обеспечивает базовую защиту от снарядов и взрывчатых веществ. Стоимость производства увеличена.
+
+---
+
+Armor0Properties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+Armor1
+
+Titanium Armor
+
+Титановые бронепластины
+
+---
+
+Armor1Description
+
+Forged from titanium, that strong, lustrous and corrosion-resistant metal, this advanced armor provides double the protection of regular steel.
+
+Выкованная из титана, чрезвычайно прочная и устойчивая к коррозии, эта передовая броня обеспечивает удвоенную защиту по сравнению со сталью.
+
+---
+
+Armor1Properties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+Armor2
+
+Zortium Armor
+
+Зортиумная броня
+
+---
+
+Armor2Description
+
+We have discovered that pure mexallon isotopes chemically bond with titanium, resulting in a very robust material we call Zortium, which is ideally suited for armor.
+
+Мы обнаружили, что чистые изотопы мексалона химически связываются с титаном, в результате чего получается очень прочный материал. Мы называем его Зортиум, он идеально подходит для брони.
+
+---
+
+Armor2Properties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+Armor3
+
+Gauss Armor
+
+Гаусс броня
+
+---
+
+Armor3Description
+
+Explosions and kinetic impacts damage armor based on its structural weakness at a molecular level. Gauss armor is nothing other than Zortium armor with a highly optimized molecular layout, but this massively improves its resilience. However, the optimization process has to be performed for each armor individually after manufacture so is extremely expensive.
+
+Гаусс броня не что иное, как зортиумная броня с высоко оптимизированной молекулярной структурой, и это сильно повышает ее упругость. Однако, процесс оптимизации должен быть выполнен для каждой брони индивидуально после изготовления, что сильно повышает стоимость изготовления.
+
+---
+
+Armor3Properties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+Armor4
+
+Adamantium Armor
+
+Адамантиновая броня
+
+---
+
+Armor4Description
+
+Pitch black and extremely heavy, Adamantium is a superdense material found several hundred kilometers below the planetary surface and is difficult to both mine and refine. Even wearing the armor is cumbersome, yet it can withstand even massive impacts.<br/><br/><style name='Italic'/>In military circles, troopers geared up with the dark and durable Adamantium armor are called &quot;Beetles&quot;.
+
+Черная, как смола, и крайне тяжелая, адамантиновая броня является сверхплотным материалом, найденным в нескольких сотнях километров ниже поверхности планеты и ее трудно и дорого обрабатывать. Хоть и является громоздкой, она может выдержать даже серьезные повреждения. <br/> <br/> <style Name='Italic'/> В военных сфере, солдаты одетые в темные и прочные доспехи адамантина называются &quot;Жуками&quot;.
+
+---
+
+Armor4Properties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+Armor5
+
+Silksteel Armor
+
+Шелкосталь
+
+---
+
+Armor5Description
+
+Thin as silk but a magnitude more robust than regular steel, this armor is highly appreciated among the troops due to its flexibility and easy maintenance. The extra manoeuvrability means users often have higher survivability than those equipped with armor made from stronger materials.
+
+Тонкая, как шелк, но более прочная, чем сталь, эта броня высоко ценится в войсках благодаря своей гибкости и простоте обслуживания. Это означает, что солдаты имеют большую выживаемость, чем в тяжелой броне.
+
+---
+
+Armor5Properties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+Armor6
+
+Neutronium Armor
+
+Нейтронная броня
+
+---
+
+Armor6Description
+
+An integrated mini reactor constantly produces free neutrons that are roaming between two magnetized layers and neutralize incoming beams, or projectiles and soak up excess energy.<br/><br/><style name='Italic'/>&quot;You know, Pretty Boy Johnson from the fifth battalion was kitted out with first-gen Neutronium. A Galeth damaged the reactor outlet with an lucky cut and left neutrons leaking straight into poor Greg. A few minutes later... well, let's just say that he just didn't look that pretty anymore.&quot;
+
+Встроенный мини-реактор постоянно производит свободные нейтроны, которые находятся между двумя намагниченными слоями и нейтрализуют попадающие лучи, снаряды и рассеивают лишнюю энергию.<br/><br/><style name='Italic'/>&quot;Знаете, Красавчик Джонсон с пятого батальона был снаряжен первым поколением нейтронной брони. Галеш повредил выход из реактора удачным ударом и часть нейтронов утекла прямо в бедного Грега. Через несколько минут... хорошо, давайте просто скажем, что он больше не был Красавчиком.&quot;
+
+---
+
+Armor6Properties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+Armor7
+
+Anti-Matter Armor
+
+Броня из антиматерии
+
+---
+
+Armor7Description
+
+Covers the wearer or coated machine with a superfine layer of anti-matter particles held in place with a magnetic field. Properly used, the armor absorbs almost any physical attack on contact.<br/><br/><style name='Italic'/>WARNING: Only the most advanced and trained troops are able to handle this type of armor. Incorrect usage will result in dismemberment, at best.
+
+Покрывает владельца или машину сверхтонким слоем частиц антиматерии, удерживаемых вместе с помощью магнитного поля. При правильном использовании, броня поглощает почти любую физическую атаку при контакте.<br/><br/><style name='Italic'/>ПРЕДУПРЕЖДЕНИЕ: Только самые продвинутые и обученные войска способны использовать этот тип брони. Неправильное использование может привести к расчленению, в лучшем случае.
+
+---
+
+Armor7Properties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+Armor8
+
+Xenotronium Armor
+
+Ксенотриумная броня
+
+---
+
+Armor8Description
+
+Xenotronium is the most advanced protection ever designed, based on anti-matter principles. The armor is self-aware and detects incoming threats via energy fluctuation in the environment. If there is an incoming beam or projectile within several miles, in pico-seconds all the defensive capabilities are focused on defending the attack location to neutralize the threat.
+
+Ксенотриумная броня является самой совершенной версией защиты из всех когда-либо созданных на основе антивещества. Броня обладает самосознанием и обнаруживает входящие угрозы через флуктуации энергии в окружающей среде.
+
+---
+
+Armor8Properties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+Best
+
+Best Armor
+
+Лучшая броня
+
+---
+
+BestProperties
+
+<icon texture='GUI/Bullet'/>Armor
+
+<icon texture='GUI/Bullet'/>Защита
+
+---
+
+None
+
+No Armor
+
+Нет брони
+
+---
+
+NoneDescription
+
+Units without armor have no additional protection and must rely on their clothes or hull when attacked.
+
+Подразделения без брони не имеют защиты и должны полагаться на прочность своей одежды или корпуса.

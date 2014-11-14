@@ -1,0 +1,2277 @@
+AgileDevice
+
+Movement Regulation
+
+Регулирование движений
+
+---
+
+AgileDeviceDescription
+
+A device that regulates movement to mitigate fatigue.
+
+Устройство, которое регулирует движение с целью минимизации энергозатрат.
+
+---
+
+Academy0
+
+Rigorous Regiment
+
+Строгое управление
+
+---
+
+Academy0Description
+
+Organization of permanent military forces.
+
+Реорганизация регулярной армии
+
+---
+
+Academy1
+
+Customization
+
+Индивидуализация
+
+---
+
+Academy1Description
+
+Suit the equipment to the soldier, not the soldier to the equipment.
+
+Новая концепция снаряжения: снаряжение выбирается под солдата, а не наоборот.
+
+---
+
+Academy2
+
+Neural Interface
+
+Нейроинтерфейс
+
+---
+
+Academy2Description
+
+A direct link to a centralized combat database that enhances troop efficiency.
+
+Прямое подключение к централизованной военной базе данных, для повышение эффективности войск.
+
+---
+
+Agent0
+
+Espionage
+
+Espionage
+
+---
+
+Agent0Description
+
+Revive old-Earth espionage techniques and recruit spy rings.
+
+Revive old-Earth espionage techniques and recruit spy rings.
+
+---
+
+Agent1
+
+Bonded Wetware
+
+Bonded Wetware
+
+---
+
+Agent1Description
+
+Implanting Kusanagi devices in our agents should allow them to operate in both physical and data realms simultaneously.
+
+Implanting Kusanagi devices in our agents should allow them to operate in both physical and data realms simultaneously.
+
+---
+
+Agent2
+
+M-Spirits
+
+M-Spirits
+
+---
+
+Agent2Description
+
+Moving our agents past the constraints of their human form.
+
+Moving our agents past the constraints of their human form.
+
+---
+
+Aircraft0
+
+Magnetoplasmadynamic Thruster
+
+Магнитное ускорение
+
+---
+
+Aircraft0Description
+
+An electric propulsion system that brings war to the skies.
+
+Электрическая силовая установка, которая переносит войну на небеса.
+
+---
+
+Aircraft1
+
+Advanced Evasion Countermeasures
+
+Расширенные способы уклонения
+
+---
+
+Aircraft1Description
+
+The integration of artificial intelligence and various countermeasure systems into airborne units.
+
+Интеграция искусственного интеллекта и различных систем наблюдения в воздушно-десантные подразделения.
+
+---
+
+Aircraft2
+
+Geomagnetic Hull
+
+Геомагнитный корпус
+
+---
+
+Aircraft2Description
+
+This bulky hull replacement allows aircraft to draw power from the ionization differences in Pandora's thermosphere.
+
+Этот громоздкий корпус позволяет самолету получать энергию от перепадов ионизации в термосфере Пандоры.
+
+---
+
+AlienAggression
+
+Xenology
+
+Ксенология
+
+---
+
+AlienAggressionDescription
+
+The study of aliens, both alive and dead, to expand our knowledge of their species.
+
+Изучение чужих, как живых так и мертвых, позволяющее расширить наши познания об их видах.
+
+---
+
+AlwaysHealDevice
+
+Mechanical and Organic Maintenance
+
+Механико-органическое обслуживание
+
+---
+
+AlwaysHealDescription
+
+New ways of keeping robotic, organic and cybernetic units in shape.
+
+Новые способы обслуживания роботов, органических и кибернетических подразделений для поддержания их в должной форме.
+
+---
+
+Armor0
+
+Reinforced Steel Plates
+
+Армированные стальные пластины
+
+---
+
+Armor0Description
+
+Basic steel armor to increase our troops' resistance against enemy weaponry.
+
+Базовая стальная броня, усиленная для выживания во враждебной среде.
+
+---
+
+Armor1
+
+Titanium Plates
+
+Титановые пластины
+
+---
+
+Armor1Description
+
+Robust armor forged from titanium, a strong and valuable metal found in abundance on Pandora.
+
+Прочная броня, выкованная из титана, крайне прочного металла, в изобилии доступного на планете Пандора.
+
+---
+
+Armor2
+
+Zortium Molecules
+
+Молекулярная структура Зортиума
+
+---
+
+Armor2Description
+
+A compound of titanium and mexallon that is stronger than either material.
+
+Соединение титана и мексалона, более прочное, чем любой другой металл.
+
+---
+
+Armor3
+
+Gauss Optimization
+
+Оптимизация Гаусса
+
+---
+
+Armor3Description
+
+A new algorithm that allows us to analyze and optimize armor on a molecular level.
+
+Новый алгоритм, который позволяет модифицировать броню на молекулярном уровне.
+
+---
+
+Armor4
+
+Adamantium Processing
+
+Обработка адамантина
+
+---
+
+Armor4Description
+
+The techniques required to process adamantium, a heavy, resistant material that's suitable for armor.
+
+Методы, необходимые для обработки адамантиума. Это тяжелый и очень стойкий материал, который хорошо подходит для брони.
+
+---
+
+Armor5
+
+Silksteel Alloy
+
+Шелкосталевый сплав
+
+---
+
+Armor5Description
+
+An alloy for armors that is ultra light but extremely robust.
+
+Сплав для брони, ультра легкий, но очень прочный.
+
+---
+
+Armor6
+
+Neutron Roaming
+
+Блуждающие нейтроны
+
+---
+
+Armor6Description
+
+An entirely new style of armor design that utilizes absorbent neutrons produced by an embedded reactor.
+
+Совершенно новый вид защиты, который использует абсорбирование нейтронами, возникающих во встроенном реакторе.
+
+---
+
+Armor7
+
+Anti-Matter Substrate
+
+Создание анти-материи
+
+---
+
+Armor7Description
+
+Allows us to coat armor with a layer of relatively stable and incredibly absorbent anti-matter.
+
+Позволяет нам создавать защитное поле из относительно стабильного антивещества.
+
+---
+
+Armor8
+
+Xenotronium Synapses
+
+Ксенотриумный ген
+
+---
+
+Armor8Description
+
+Imagine an anti-matter armor that is self-aware and &quot;lives&quot; for one sole purpose: to protect its wearer.
+
+Представьте себе поле из антивещества, которое обладает самосознанием и 'живет' только с одной единственной целью: защищать своего владельца.
+
+---
+
+Artillery0
+
+Guided Indirect Fire
+
+Управляемый непрямой огонь
+
+---
+
+Artillery0Description
+
+Drone-supported, heavy long range weaponry that can shred whole troop formations.
+
+Автоматизированное тяжелое вооружение дальнего радиуса действия, способное уничтожать целые армии.
+
+---
+
+Artillery1
+
+Multiple Rounds Simultaneous Burst
+
+Системы стрельбы кассетными боеприпасами
+
+---
+
+Artillery1Description
+
+A simultaneous burst of mid-air shells that cover a huge area and leave the target little chance of surviving the bombardment.
+
+Снаряды с предварительным взрывом в воздухе, охватывающие огромную территорию. Шанс выживания цели минимален.
+
+---
+
+Artillery2
+
+Graviton Shells
+
+Гравитоновые снаряды
+
+---
+
+Artillery2Description
+
+Advanced shrapnel shells that generate portable gravitational fields.
+
+Продвинутые снаряды, несущие внутри портативные генераторы гравитации.
+
+---
+
+Aspidoch
+
+Aspidoch Tiling
+
+Строение Аспидоха
+
+---
+
+Assault
+
+Operation Valkyrie
+
+Операция Валькирия
+
+---
+
+AssaultDescription
+
+Orbital reconnaissance and disposable troop landers that allow for a one-shot military strike anywhere on the planet.
+
+Крупная операция по орбитальной разведке и высадке огромного количества войск в любой точке планеты.
+
+---
+
+AttackDevice
+
+Assault Tactics
+
+Тактика штурма
+
+---
+
+AttackDeviceDescription
+
+Development of centralized utilities to enhance co-ordinated offensives.
+
+Создание централизованного управления для улучшения координации наступления.
+
+---
+
+ATV0
+
+Analytical Dynamics
+
+Аналитическая динамика
+
+---
+
+ATV0Description
+
+Adaptation of vehicles to Pandora's distinct environmental parameters.
+
+Адаптация транспортных средств к атмосфере Пандоры.
+
+---
+
+ATV1
+
+Energy Absorption
+
+Поглащение энергии
+
+---
+
+ATV1Description
+
+Enhanced shock absorption gives light vehicles an edge in rough terrain or when performing difficult maneuvers.
+
+Улучшенная амортизация дает транспортным средствам полноценную возможность движения по пересеченной местности.
+
+---
+
+ATV2
+
+Electrically Charged Armor
+
+Электрозарядка брони
+
+---
+
+ATV2Description
+
+An electrostatic protection layer that protects ATVs against ordinary weapons.
+
+Электростатический защитный слой, который защищает вездеходы от обычных систем вооружения.
+
+---
+
+Automatic1
+
+Stochastic Projectiles
+
+Стохастический полет снаряда
+
+---
+
+Automatic1Description
+
+Advanced automatic weapons based on randomised projectile spreads.
+
+Продвинутая система автоматизации оружия, необходимая, чтобы сделать траекторию полета снаряда непредсказуемой.
+
+---
+
+Automatic2
+
+Mutagen Projectiles
+
+Мутагенные боеприпасы
+
+---
+
+Automatic2Description
+
+Development of a magazine that safely stores mutagen-loaded rounds able to provoke spontaneous cellular decay.
+
+Разработка патронов и обойм для безопасного хранения мутагенов для использования их в оружии
+
+---
+
+BiologyCategoryProperties
+
+<icon texture='GUI/Bullet'/>Biology technology
+
+<icon texture='GUI/Bullet'/>Биотехнологии
+
+---
+
+BlackHole
+
+Controlled Singularity
+
+Контролируемая сингулярность
+
+---
+
+BlackHoleDescription
+
+Industrial-scale production of non-radioactive mass destruction weapons.
+
+Технология производства нерадиоактивного оружия массового уничтожения.
+
+---
+
+Bombardment
+
+Planetary Bombardment
+
+Планетарная бомбардировка
+
+---
+
+BombardmentDescription
+
+Dropping armaments and ordnance directly from space.
+
+Создание автоматического орбитального вооружения огневой поддержки.
+
+---
+
+Cannon0
+
+Anti-Armor Warheads
+
+Противотанковые боеголовки
+
+---
+
+Cannon0Description
+
+Tank breakers as an answer to the enemy's heavy war machinery.
+
+Рациональный ответ тяжелой технике врага.
+
+---
+
+Cannon1
+
+Photomultiplier
+
+Фотоумножитель
+
+---
+
+Cannon1Description
+
+A photon-based cannon that generates a powerful electromagnetic field.
+
+Фотонная пушка способная генерировать сверхсильное магнитоное поле.
+
+---
+
+Cannon2
+
+Superluminal Projectiles
+
+Сверхсветовые снаряды
+
+---
+
+Cannon2Description
+
+A superior cannon that shoots high frequency, faster-than-light particles capable of piercing any protection.
+
+Создание снаряда, способного лететь быстрее чем, чем скорость света.
+
+---
+
+ChemistryCategoryProperties
+
+<icon texture='GUI/Bullet'/>Chemistry technology
+
+<icon texture='GUI/Bullet'/>Химические технологии
+
+---
+
+Colonization
+
+Colonization Fervor
+
+Жажда колонизации
+
+---
+
+ColonizationDescription
+
+Focus the efforts of the colony on expansion for a while.
+
+Объединение усилий колонии на расширении.
+
+---
+
+Construction0
+
+Pandoran Construction
+
+Pandoran Construction
+
+---
+
+Construction0Description
+
+Blueprints for field improvements.
+
+Blueprints for field improvements.
+
+---
+
+ConvertNativeDevice
+
+Xenomorph Pheropod
+
+Ксеноферамоны
+
+---
+
+Credits
+
+Qan Bargaining
+
+Сделка Кана
+
+---
+
+CreditsDescription
+
+A whole new analytic structure for market data that helps obtain new materials and technologies at a competitive price.
+
+Обсолютноый новый аналитический метод анализа рынка, позволяющий получить выгоду без затрат.
+
+---
+
+Credits0
+
+Stock Exchange
+
+Фондовая биржа
+
+---
+
+Credits0Description
+
+Facilitation of economic development through the establishment of an organized market.
+
+Содействие экономическому развитию путем создания организованного рынка.
+
+---
+
+Credits1
+
+Market Microstructure
+
+Рыночная микроструктура
+
+---
+
+Credits1Description
+
+Examines the ways in which the working processes of a market affect transactions and trading behavior.
+
+Изучение методов, которые максимально эффективно регулируют ход сделок и торговлю.
+
+---
+
+Credits2
+
+Economic Manipulation
+
+Экономические Манипуляции
+
+---
+
+Credits2Description
+
+Trade may be a good way to sustain an economy, but loading the dice is better than gambling.
+
+Торговля может быть хорошим способом для поддержания экономики, но жульничать играя в кости - по прежнее более эффективно, чем надеяться на случай.
+
+---
+
+Defense
+
+Command Nexus
+
+Командный пункт Нексус
+
+---
+
+DefenseDescription
+
+Organize defense systems in a more efficient way thanks to a centralized HQ.
+
+Организация оборонных систем в новой и более эффективной форме, в форме централизованного штаба.
+
+---
+
+Defense0
+
+Adaptive Fortifications
+
+Адаптивная фортификация
+
+---
+
+Defense0Description
+
+Advanced relocatable barricades and bunkers used in urban warfare.
+
+Проективание портативных баррикад, а так же мобильных бункеров для ведения войны в пределах города.
+
+---
+
+Defense1
+
+Structural Protection
+
+Структурная защита
+
+---
+
+Defense1Description
+
+Embed the colony with a grid of varied defenses against all kinds of threats.
+
+Создание полноценного защитного периметра для колоний
+
+---
+
+Defense2
+
+Superscalar Construction
+
+Суперскалярное строительство
+
+---
+
+Defense2Description
+
+Gauge the menace from without, then provide security from within our walls.
+
+Датчики встроенные в стены, позволяют получить полную информацию об всем, что происходит снаружи.
+
+---
+
+DefenseDevice
+
+Damage Evasion
+
+Избегание огня
+
+---
+
+DefenseDeviceDescription
+
+Study of damage evasion to improve unit defense.
+
+Изучение способов избежать повреждений, с целью повысить выживаемость подразделений.
+
+---
+
+Diplomacy
+
+Planetary Council
+
+Планетарный Совет
+
+---
+
+DiplomacyDescription
+
+Diplomatic relations can be improved with the establishment of a multicultural council.
+
+Дипломатические отношения могут быть улучшены с помощью основания мультикультурного совета.
+
+---
+
+DropPod
+
+Damped Landing Pod
+
+Ударогасящие подушки
+
+---
+
+DropPodDescription
+
+Technology and logistics required to deploy respectable troop formations out of orbit and behind enemy lines.
+
+Технологии и логистика, необходимые для заброски войск с орбиты в тылу врага.
+
+---
+
+Ecoform
+
+Ecoforming
+
+Ecoforming
+
+---
+
+EcoformDescription
+
+Planet-shaping technology to alter the quality of terrain.
+
+Planet-shaping technology to alter the quality of terrain.
+
+---
+
+ElectronicsCategoryProperties
+
+<icon texture='GUI/Bullet'/>Electronics technology
+
+<icon texture='GUI/Bullet'/>Электроника
+
+---
+
+EMPBeam
+
+Orbital Cannon
+
+Орбитальная пушка
+
+---
+
+EMPBeamDescription
+
+Satellite with mounted electromagnetic cannon aimed at the disruption of enemy production.
+
+Спутник с установленной на нем электромагнитной пушкой, способной полностью нейтрализовать производство противника.
+
+---
+
+EngineeringCategoryProperties
+
+<icon texture='GUI/Bullet'/>Engineering technology
+
+<icon texture='GUI/Bullet'/>Инженерные технологии
+
+---
+
+ExperienceDevice
+
+On-Field Recording Drones
+
+Автоматически дроны для видеонаблюдения
+
+---
+
+ExperienceDeviceDescription
+
+Paramilitary devices designed for the sole purpose of combat data recording and analysis.
+
+Военизированное устройство, предназначенное исключительно для записи и анализа боевых столкновений.
+
+---
+
+FirstStrikeDevice
+
+Preliminary Vulnerability and Risk Assessment
+
+Предварительные оценки уязвимостей и рисков
+
+---
+
+FirstStrikeDeviceDescription
+
+Research can been made in the field of initial tactical situations and the best way to deal with them.
+
+Создание устройства способного максимально эффективно оценивать опасности на поле боя
+
+---
+
+Flak0
+
+Maneuver Estimation
+
+Предсказание движения
+
+---
+
+Flak0Description
+
+Real-time flight prediction that allows very effective ground-to-air weaponry.
+
+Системы работающие в реальном времени, сильно повышающие эффективность ПВО.
+
+---
+
+Flak1
+
+Projectile Dispersion
+
+Составные боеприпасы
+
+---
+
+Flak1Description
+
+Mid-range fragmentation allows ground-to-air projectiles to cover a large zone.
+
+Боеприпасы среднего радиуса действия, позволяющие при стрельбе типа земля-воздух покрывать огромные пространства.
+
+---
+
+Flak2
+
+Sprite Lightning
+
+Генерация молний
+
+---
+
+Flak2Description
+
+Far more potent than electromagnetic pulses, sprite lightning can cover a wide area of the sky with devastating effects.
+
+Гораздо более мощная, чем электромагнитный импульс, молния может охватывать широкую область неба с крайне разрушительными последствиями.
+
+---
+
+Flame0
+
+Infernal Pre-Igniter
+
+Система предварительного зажигания
+
+---
+
+Flame0Description
+
+New mobile ignition system producing flames with a temperature of over 2000 degrees Celsius, able to melt any kind of flesh.
+
+Новая боевая система способная создавать пламя с температурой более 2000 градусов по Цельсию, способное расплавить любой вид брони.
+
+---
+
+Flame1
+
+Chemical Post-Reaction
+
+Химические постреакции
+
+---
+
+Flame1Description
+
+Basic, yet memorable, chemistry crash course for the enemy.
+
+Простой, но крайне запоминающийся курс химии для вашего врага.
+
+---
+
+Flame2
+
+Biohazardous Weaponry
+
+Биологическое оружие
+
+---
+
+Flame2Description
+
+Highly specialized weapons using the hostile chemicals of the local fauna and flora.
+
+Узкоспециализированные виды оружия, используемые против враждебной местной фауны и флоры.
+
+---
+
+Food0
+
+Synthetic Fertilizer
+
+Синтетические удобрения
+
+---
+
+Food0Description
+
+Agriculture made possible on any soil.
+
+Сельское хозяйство стало возможным на любой почве.
+
+---
+
+Food1
+
+Aeroponics
+
+Аэропоника
+
+---
+
+Food1Description
+
+Plant growth in an air or mist environment without the use of soil or an aggregate medium.
+
+Выращивание растений в воздушной или туманной среде без использования почвы.
+
+---
+
+Food2
+
+Food Replication
+
+Репликация еды
+
+---
+
+Food2Description
+
+Replicate existing food from mycoproteins, to satisfy the nutritional demands of megacities growing beyond expectations.
+
+Репликация еды из микопротеинов, позволит удовлетворить пищевые потребности мегаполисов.
+
+---
+
+FoodMinerals
+
+Colony Ship Dismantling
+
+Демонтирование колонизационного корабля
+
+---
+
+FoodMineralsDescription
+
+Recycle the defunct space vessel used to reach Pandora into much-needed resources.
+
+Переработка отработавшего свое космического корабля, на котором вы прибыли на Пандору.
+
+---
+
+Former1
+
+Amphibious Landscaping
+
+Amphibious Landscaping
+
+---
+
+Former1Description
+
+Explore terraforming the waters and seabeds of Pandora, for better exploitation.
+
+Explore terraforming the waters and seabeds of Pandora, for better exploitation.
+
+---
+
+FormerWorkSpeed
+
+Great Planetary Survey
+
+Великая экспансия
+
+---
+
+FormerWorkSpeedDescription
+
+Large-scale bioenvironmental study of Pandora to better assess the possibilities offered by the terrain.
+
+Крупномасштабные биосферные исследования Пандоры, с целью оценить возможности изменения местности.
+
+---
+
+Fungus0
+
+Fungus Cultivation
+
+Разведение фунгуса
+
+---
+
+Fungus0Description
+
+Technology to safely grow and decompose fungus.
+
+Технология безопасного выращивания и уничтожения грибков.
+
+---
+
+Fungus1
+
+Fungus Mutagenesis
+
+Мутагенезис фунгуса
+
+---
+
+Fungus1Description
+
+Mutate fungi to produce food and minerals.
+
+Позволяет использовать фунгус как источник разнообразных ресурсов.
+
+---
+
+Fungus2
+
+Fungal Hormones
+
+Гормоны фунгуса
+
+---
+
+Fungus2Description
+
+Further increase the food and mineral output of fungus.
+
+Увеличение плодоносности грибков.
+
+---
+
+GoldenAge
+
+Golden Age
+
+Золотой век
+
+---
+
+GoldenAgeDescription
+
+Rejoice as the colony enters a new age of enlightenment and harmony.
+
+Праздник того, что колония вступает в новую эпоху Просвещения и гармонии.
+
+---
+
+Growth
+
+Eugenic Population Survey
+
+Клонирование
+
+---
+
+GrowthDescription
+
+A population survey to determine the most widespread genetic flaws.
+
+Искусственное создание копий людей, которые могут временно повысить прирост населения.
+
+---
+
+Growth0
+
+Public Gene Therapy
+
+Public Gene Therapy
+
+---
+
+Growth0Description
+
+Mass access to gene therapy should improve population survival rates.
+
+Mass access to gene therapy should improve population survival rates.
+
+---
+
+Growth1
+
+Mass Cloning
+
+Mass Cloning
+
+---
+
+Growth1Description
+
+Artificial human reproduction that boosts population growth.
+
+Artificial human reproduction that boosts population growth.
+
+---
+
+Growth2
+
+Viral Personality Defenses
+
+Viral Personality Defenses
+
+---
+
+Growth2Description
+
+Devices that prevent our post-human populations from breaking down into Grey Goo.
+
+Devices that prevent our post-human populations from breaking down into Grey Goo.
+
+---
+
+Guerrilla
+
+Guerrilla Warfare
+
+Партизанская война
+
+---
+
+GuerrillaDescription
+
+New world hit and run tactics.
+
+Новые тактики внезапной атаки.
+
+---
+
+Harvest
+
+Remote Autonomous Harvesting
+
+Remote Autonomous Harvesting
+
+---
+
+HarvestDescription
+
+Techniques and tools for independent resource gathering throughout the lands and seas.
+
+Techniques and tools for independent resource gathering throughout the lands and seas.
+
+---
+
+HealAreaDevice
+
+Area Aid
+
+Массовое лечение
+
+---
+
+HealAreaDeviceDescription
+
+Area healing and repair in a deployable device.
+
+Массовое исцеление и ремонт с помощью одноразовых устройств.
+
+---
+
+Laser0
+
+Advanced Stimulated Emission
+
+Продвинутое усиление излучения
+
+---
+
+Laser0Description
+
+Design of an electrically powered device capable of producing a solid state beam of 100 kW or more.
+
+Конструирование электрических устройств, способных создавать луч мощностью 100 кВт и более.
+
+---
+
+Laser1
+
+Fusion Beams
+
+Направленый луч
+
+---
+
+Laser1Description
+
+Fusing excited deuterium and tritium nuclei with helium can release a deadlier laser beam.
+
+Новый тип лазера, основанный на новом методе фокусировки.
+
+---
+
+Laser2
+
+Graviton Particles
+
+Частицы гравитона
+
+---
+
+Laser2Description
+
+The discovery of graviton particles along with their utilization in beam weapons.
+
+Открытие гравитонов положило начало новым лазерным технологиям
+
+---
+
+Leviathan
+
+Leviathan Hide
+
+Укрытие Левиафана
+
+---
+
+Market0
+
+Planetary Market
+
+Planetary Market
+
+---
+
+Market0Description
+
+A secure, anonymous platform for inter-faction resource trading.
+
+A secure, anonymous platform for inter-faction resource trading.
+
+---
+
+MathematicsCategoryProperties
+
+<icon texture='GUI/Bullet'/>Mathematics technology
+
+<icon texture='GUI/Bullet'/>Математика
+
+---
+
+Mech0
+
+Humanoid War Machines
+
+Э.Б.П. - экзоскелетная боевая платформа
+
+---
+
+Mech0Description
+
+Gigantic war machines that dominate the battle field.
+
+Гигантские боевые машины, которые не знают себе равных на поле боя.
+
+---
+
+Mech1
+
+Adamantium Hull
+
+Адамантиновый корпус
+
+---
+
+Mech1Description
+
+Push the mech to a new size level with an adamantium based hull.
+
+Ставит производство ЭБП на новую ступень, позволяя строить более большие машины.
+
+---
+
+Mech2
+
+Organic Titan
+
+Органический Титан
+
+---
+
+Mech2Description
+
+A man-machine that's also the largest mech ever designed. Unrivaled on the battlefield.
+
+Невероятно огромная машина. Непревзойденная на поле боя.
+
+---
+
+Minerals0
+
+Mineral Refining
+
+Обработка минералов
+
+---
+
+Minerals0Description
+
+Refining process for Pandora's rich mineral sources.
+
+Новый процесс добычи из богатых минералами источников планеты Пандора.
+
+---
+
+Minerals1
+
+Robotic Excavation
+
+Роботизированная добыча
+
+---
+
+Minerals1Description
+
+Robotic drones for mining assistance.
+
+Автоматические дроны для шахтеров.
+
+---
+
+Minerals2
+
+Mineral Teleportation
+
+Телепортация минералов
+
+---
+
+Minerals2Description
+
+Mineral extraction with the use of precise microwarps.
+
+Использование телепортации для транспортировки минералов.
+
+---
+
+Mines
+
+Orbital Mines
+
+Orbital Mines
+
+---
+
+MinesDescription
+
+High-explosive packages deployed from space.
+
+High-explosive packages deployed from space.
+
+---
+
+Missile0
+
+Guided Weapons
+
+Управляемое оружие
+
+---
+
+Missile0Description
+
+Self-propelled guided weapon systems.
+
+Самоходные системы с управляемым вооружением.
+
+---
+
+Missile1
+
+Intelligent Homing
+
+Интеллектуальное самонаведение
+
+---
+
+Missile1Description
+
+A basic, cheap missile AI designed for target pursuit, ensuring minimal mistakes and enhanced accuracy.
+
+Основная и крайне дешевая ракета с ИИ. Предназначена для уничтожения целей в случая когда требуется максимальная точность.
+
+---
+
+Missile2
+
+Anti-Matter Control
+
+Управляемая анти-материя
+
+---
+
+Missile2Description
+
+State of the art missile design to put matter-antimatter reactions to good use.
+
+Современные ракетные системы вполне способны нести модуль генерации анти-материи.
+
+---
+
+Morale0
+
+Holographic Projections
+
+Голографический проектор
+
+---
+
+Morale0Description
+
+The next level of digital visualization in entertainment.
+
+Новый уровень цифровых развлечений и визуализации.
+
+---
+
+Morale1
+
+Emotion Expression
+
+Контроль эмоций
+
+---
+
+Morale1Description
+
+Neurosurgery and conditioning dedicated to standard of living improvement.
+
+Нейрохирургия ставит уровень жизни на новый уровень.
+
+---
+
+Morale2
+
+Thought Signal Processing
+
+Мозговой анализатор
+
+---
+
+Morale2Description
+
+The latest projects in neuro-feedback manipulation help our population to better handle stressful situations.
+
+Последние достижения в области нейро-связи помогут нашему населению, лучше справляться со стрессовыми ситуациями.
+
+---
+
+Movement
+
+Advanced Time Dilation
+
+Продвинутое искривление времени
+
+---
+
+MovementDescription
+
+Improve troop movement speed by manipulating time like any other dimension.
+
+Улучшает скорость передвижения войск при помощи манипуляции со временем.
+
+---
+
+MovementDevice
+
+Topological Evaluation
+
+Топологическая оценка
+
+---
+
+MovementDeviceDescription
+
+This branch of logistics was launched with the sole purpose of reducing delivery costs. Its results could have interesting consequences if applied to military equipment.
+
+Эта ветвь логистики был создана с единственной целью - сокращения транспортных затрат.
+
+---
+
+NanoRobots
+
+Nano Repair Systems
+
+Ремонтные наносистемы
+
+---
+
+NanoRobotsDescription
+
+Nano-robots specifically engineered and programmed for medicinal and repair purposes.
+
+Нанороботы специально разработаны и запрограммированы для лечебных и ремонтных целей.
+
+---
+
+Nuke
+
+Nuclear Weapons Delivery
+
+Системы доставки ядерного оружия
+
+---
+
+NukeDescription
+
+A global nuclear weapons delivery system that opens the door to thermonuclear warfare.
+
+Глобальная система доставки ядерного оружия, которая открывает дверь термоядерным войнам.
+
+---
+
+PhysicsCategoryProperties
+
+<icon texture='GUI/Bullet'/>Physics technology
+
+<icon texture='GUI/Bullet'/>Физика
+
+---
+
+Pollution
+
+Planetary Awareness
+
+Планетарные наблюдения
+
+---
+
+PollutionDescription
+
+Careful planning, execution and monitoring to alleviate pollution problems that may arise.
+
+Тщательное планирование и мониторинг окружающей среды почти решает проблему загрязнения.
+
+---
+
+Pollution0
+
+Automated Recycling
+
+Автоматическая переработка
+
+---
+
+Pollution0Description
+
+Identify and remedy a major downside of industrialization.
+
+Выявление и устранение обратной стороны индустриализации.
+
+---
+
+Pollution1
+
+Air Recycling
+
+Очищение воздуха
+
+---
+
+Pollution1Description
+
+Diminish pollution by cleaning the planet's air.
+
+Очистка и уменьшение загрязенения воздуха
+
+---
+
+Pollution2
+
+Artificial Atmosphere
+
+Кондиционированный воздух
+
+---
+
+Pollution2Description
+
+Flush the atmosphere to create a more stable biosphere from existing data.
+
+Насыщение атмосферы создает более стабильную биосферу.
+
+---
+
+Population
+
+Advanced City Planning
+
+Продвинутая городская архитектура
+
+---
+
+PopulationDescription
+
+Optimize space utilisation in your colonies.
+
+Оптимизация размещения свободного места в ваших колониях.
+
+---
+
+Population0
+
+Modular Housing
+
+Модульные дома
+
+---
+
+Population0Description
+
+Efficient and modular housing design.
+
+Крайне эффективный дизайн жилых зданий.
+
+---
+
+Population1
+
+Podkletnov Field
+
+Подклетново поле
+
+---
+
+Population1Description
+
+Creation of gravito-magnetic fields for practical use in urban planning.
+
+Создание гравитационно-магнитных полей для использования в городском планировании.
+
+---
+
+Population2
+
+Digital Retirement
+
+Цифровое бессмертие
+
+---
+
+Population2Description
+
+Immortality may still be a myth, but there are other means to ensure an impossibly long life.
+
+Бессмертие все еще не достижимо, но есть и другие способы достижения невероятно долгой жизни.
+
+---
+
+Power
+
+Telepathy
+
+Телепатия
+
+---
+
+PowerDescription
+
+The ability to read others' minds can help in countless ways.
+
+Возможность читать мысли других людей применима во многих сферах.
+
+---
+
+Production
+
+Operational Efficiency
+
+Повышение оперативности
+
+---
+
+ProductionDescription
+
+The introduction of a regulating authority to support business contracts, helping productivity.
+
+Создание регулирующего органа для контроля деловых отношений, помогает повысить производительность.
+
+---
+
+Production0
+
+Industrial Automation
+
+Индустриальная автоматизация
+
+---
+
+Production0Description
+
+Machines that build machines.
+
+Машины строят машины.
+
+---
+
+Production1
+
+Intelligent Manufacturing
+
+Интеллектуальное производство
+
+---
+
+Production1Description
+
+AI-driven manufacturing maximizing factory throughput.
+
+Целые фабрики управляемые ИИ.
+
+---
+
+Production2
+
+Nano Manufacturing
+
+Нано производство
+
+---
+
+Production2Description
+
+Self-replication further enhances production by eliminating human interaction.
+
+Самопроизводство без участия человека.
+
+---
+
+Promotion
+
+Field Training
+
+Полевые тренеровки
+
+---
+
+PromotionDescription
+
+Promote your troops through advanced training methods in the field.
+
+Обучайте ваших солдат с помощью продвинутых тренировочных методик в условиях, приближенным к боевым.
+
+---
+
+Research
+
+Brain Growth
+
+Мозговой рост
+
+---
+
+ResearchDescription
+
+Forced evolution brings changes to cephalic development, along with improved intelligence.
+
+Принудительная эволюция приносит изменения в мозговое развитие.
+
+---
+
+Research0
+
+Quantization
+
+Квантование
+
+---
+
+Research0Description
+
+An explanation of classical field theory in a new way.
+
+Расширение классической теории поля в совершенно новом ключе.
+
+---
+
+Research1
+
+Quantum Chaos Theory
+
+Квантовая теория хаоса
+
+---
+
+Research1Description
+
+On-the-fly recalculation of phase spaces greatly enhances our experiment results.
+
+Новые методы изучения хаоса.
+
+---
+
+Research2
+
+Advanced String Theory
+
+Расширение Теории струн
+
+---
+
+Research2Description
+
+Breakthroughs in M-Theory studies to revolutionize the way we think about causality in research.
+
+Прорывы в М-теории, открыли революционные методы изучения мира.
+
+---
+
+Scan
+
+Orbital Reconnaissance
+
+Орбитальная Разведка
+
+---
+
+ScanDescription
+
+Knowledge is power: a satellite uplink allows us to employ satellites for planetary reconnaissance from space.
+
+Знание есть сила: спутниковая разведка позволяет нам следить за любой точкой планеты.
+
+---
+
+Sight
+
+Xenotronium Sensors
+
+Ксенорониумные сенсоры
+
+---
+
+SightDescription
+
+Movement and heat detectors would allow us to see enemies from farther away.
+
+Сканеры движения и тепловизоны позволят нам видеть врагов издалека.
+
+---
+
+SightDevice
+
+Sonic Reverberation Experimentation
+
+Звуковая ревебрация
+
+---
+
+SightDeviceDescription
+
+The in-depth examination of sound reverberation in gaseous environment may lead to an interesting boost in operational foresight.
+
+Углубленное изучение звуковой реверберации в воздушной среде.
+
+---
+
+Sniper0
+
+High Velocity Projectiles
+
+Высокоскоростные снаряды
+
+---
+
+Sniper0Description
+
+Development of an advanced gun chamber that gives precision rifle bullets extraordinary speed, range and accuracy.
+
+Разработка нового типа оружейного ствола, который повышает точность и дальность винтовки.
+
+---
+
+Sniper1
+
+High Impact Discharges
+
+Патроны высокой пробивной силы
+
+---
+
+Sniper1Description
+
+Highly ionized ammo for sniper rifles able to incapacitate any target that has not been destroyed or killed.
+
+Высоко ионизированные боеприпасы для снайперских винтовок. Они в состоянии при попадании вывести из строя любую одиночную цель.
+
+---
+
+Sniper2
+
+Applied Quantum Entanglement
+
+Субатомные заряды
+
+---
+
+Sniper2Description
+
+Quantic bullets specifically tailored for precision weapons, which inflict cellular warping on their target.
+
+Квантовые пули специально предназначенные для высокоточного оружия, которые вызывают атомные деформации у своей цели.
+
+---
+
+SociologyCategoryProperties
+
+<icon texture='GUI/Bullet'/>Sociology technology
+
+<icon texture='GUI/Bullet'/>Социология
+
+---
+
+SpyAttack
+
+Conversion Virus
+
+Conversion Virus
+
+---
+
+SpyAttackDescription
+
+A persuasive fungal spore that can be weaponised on a small scale.
+
+A persuasive fungal spore that can be weaponised on a small scale.
+
+---
+
+SpyBuilding
+
+Panopticon Cities
+
+Panopticon Cities
+
+---
+
+SpyBuildingDescription
+
+Cities designed so that not an inch escapes the view of the security teams.
+
+Cities designed so that not an inch escapes the view of the security teams.
+
+---
+
+SpyDefense
+
+Custodes
+
+Custodes
+
+---
+
+SpyDefenseDescription
+
+Autonomous, autochthonic devices capable of detecting and tracking all enemy DNA.
+
+Autonomous, autochthonic devices capable of detecting and tracking all enemy DNA.
+
+---
+
+SpyDevice
+
+Illusion Research
+
+Illusion Research
+
+---
+
+SpyDeviceDescription
+
+Optical, mental and digital illusions combined to produce a unique detection-prevention device.
+
+Optical, mental and digital illusions combined to produce a unique detection-prevention device.
+
+---
+
+StrategyCategoryProperties
+
+<icon texture='GUI/Bullet'/>Strategy technology
+
+<icon texture='GUI/Bullet'/>Стратегические технологии
+
+---
+
+Tank0
+
+Heavy War Machines
+
+Тяжелые военные машины
+
+---
+
+Tank0Description
+
+The design of a hull capable of mechanical and electrostatic deflection allows us to produce heavily armored combat vehicles.
+
+Новая конструкция шасси позволяет производить тяжелую технику.
+
+---
+
+Tank1
+
+Carbon Nanotubes
+
+Углеродные нанотрубки
+
+---
+
+Tank1Description
+
+The use of carbon allotropes further enhances the capacity of heavily armored tanks.
+
+Использование нанотрубок еще больше повышает выживаемость тяжелых бронированных танков.
+
+---
+
+Tank2
+
+Organic Machine Interface
+
+Человеко-машинный интерфейс
+
+---
+
+Tank2Description
+
+Explore the frightening possibility of a tank being directly connected to its crew.
+
+Исследуйте пугающие возможности танка, непосредственно связанного с его экипажем.
+
+---
+
+Teleportation
+
+Teleportation
+
+Телепортация
+
+---
+
+TeleportationDescription
+
+The instant displacement of matter is finally within your reach.
+
+Мгновенное перемещение материи теперь стало возможным.
+
+---
+
+Terraform
+
+Terraforming
+
+Терраформинг
+
+---
+
+TerraformDescription
+
+Planet-shaping technology to alter terrain levels.
+
+Технологии изменения ландшафта.
+
+---
+
+Transport
+
+Naval Transportation Logistics
+
+Морская навигация
+
+---
+
+TransportDescription
+
+Logistics required to ship ground troops across the sea.
+
+Системы навигации для движения по морю.
+
+---
+
+Trooper1
+
+Assault Suit
+
+Штурмовое снаряжение
+
+---
+
+Trooper1Description
+
+Infantry troops of the future.
+
+Пехотные войска будущего.
+
+---
+
+Trooper2
+
+Organic Suit
+
+Органическое снаряжение
+
+---
+
+Trooper2Description
+
+Infantry enhanced with alien technology.
+
+Уселение пехоты с помошью технологий пришельцев
+
+---
+
+UpkeepDevice
+
+Rationing Analytics
+
+Рациональная логистика
+
+---
+
+UpkeepDeviceDescription
+
+Rationing in itself may look harsh to some, but when applied in a humane way, the gain in efficiency cannot be overlooked.
+
+Рациональность сама по себе может выглядеть сурово, но она дает неописуемый прирост эффективности.
+
+---
+
+Watercraft0
+
+Electric Marine Propulsion
+
+Водные электродвигатели
+
+---
+
+Watercraft0Description
+
+Direct-drive generators mounted on watercraft ensure optimal hydropower in all conditions.
+
+Прямо-приводные генераторы для кораблей, они обеспечивают оптимальное движения в любых условиях.
+
+---
+
+Watercraft1
+
+Belt Armor
+
+Полная защита
+
+---
+
+Watercraft1Description
+
+A thick, sloped complementary belt layer further enhances watercraft protection.
+
+Толстая и относительно легкая броня для кораблей.
+
+---
+
+Watercraft2
+
+Grounded Bulkheads
+
+Рекомбинация корпуса
+
+---
+
+Watercraft2Description
+
+This watercraft design is reinforced against physical damage and grounded against all kinds of non-physical ones.
+
+Эта конструкция кораблей дает дополнительную защиту от физических повреждений .

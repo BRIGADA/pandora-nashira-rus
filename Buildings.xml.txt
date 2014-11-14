@@ -1,0 +1,965 @@
+Academy0
+
+Training Facility
+
+Учебный центр
+
+---
+
+Academy0Description
+
+<style name='Italic'/>&quot;The aim of military training is not just to prepare men for battle, but to make them long for it.&quot;<br/>    -- Louis Simpson<style name='Default'/><br/><br/>The Training Facility provides our troops with thorough training in the use of all available military technologies. By the end of this boot camp, we guarantee every soldier is aching for war.
+
+<style name='Italic'/>&quot;Наша цель не просто подготовить солдат, а сделать так, чтобы они выжили как можно дольше.&quot;<br/>    -- Луис Симпсон<style name='Default'/><br/><br/>Учебный центр предоставляет войскам подготовку в использовании всех военных технологий. К концу этого обучения, мы гарантируем что каждый солдат будет готов к войне.
+
+---
+
+Academy0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rank for new units
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> к рангу подразделений
+
+---
+
+Academy1
+
+Equipment Modification
+
+Центр индвидуального подбора снаряжения
+
+---
+
+Academy1Description
+
+War games allow our commanders to pinpoint strengths and weaknesses among the troops. Measures can subsequently be taken, such as the reorganization of regiments. Perhaps more importantly, games also lead to the modification of some vehicles and weapons to better compensate for the weaknesses, and to enhance the strengths, of their users.
+
+Военные наблюдения позволяют нашим командирам точно определять сильные и слабые стороны своих войск. Как мера, в дальнейшем возможна реорганизация родов войск. Но что более важно - это ведет к пересмотру концепции распределения вооружения и технических средств на более эффективную.
+
+---
+
+Academy1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Attributes/Rank'/> rank for new units
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> к рангу подразделений
+
+---
+
+Academy2
+
+Gordian Database
+
+Военная база данных
+
+---
+
+Academy2Description
+
+Mankind has a long history of war. Rather than accommodate the various hazards of battle by sheer improvisation, the Gordian Database provides our troops with a direct neural link to a list of historical conflicts and their known resolution, as well as various calculations based on hypothetical moves. Having the equivalent of a chess grandmaster in every recruit's head greatly tips the scales in our favor.
+
+Человечество имеет огромный опыт в ведении войн. Вместо того, чтобы изучать различные опасности боя на своих ошибках, военная база данных обеспечивает наши войска прямой нервной связью со списком исторических конфликтов и их известных окончаниях, а также обеспечивает различными расчетами на основе гипотетических движений. Эквивалент гроссмейстера в голове каждого новобранца сильно склоняет чашу весов в нашу пользу.
+
+---
+
+Academy2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Attributes/Rank'/> rank for new units
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Attributes/Rank'/> к рангу подразделений
+
+---
+
+BlackHoleBuilding
+
+Black Hole Generator
+
+Генератор черных дыр
+
+---
+
+BlackHoleBuildingDescription
+
+This military application of particle accelerators produces collisions between particles with an energy of several zettaelectronvolts, focused on one single goal: the creation of macroscopic, volatile black holes. So far the results are terrifying, though the time required to build sufficient energy is a massive drawback.
+
+Эта военная версия ускорителя частиц производит столкновения частиц с одной единственной целью: создание макроскопических черных дыр. Результат получается ужасающий, хотя и требует огромного количество энергии.
+
+---
+
+BlackHoleBuildingProperties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a black hole operation<br/><icon texture='GUI/Bullet'/>16 turn cooldown
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>Позволяет создавать черные дыры<br/><icon texture='GUI/Bullet'/> перезарядка 20 ходов
+
+---
+
+BombardmentBuilding
+
+Orbital Bombardment Uplink
+
+Связь с орбитальным бомбардировщиком
+
+---
+
+BombardmentBuildingDescription
+
+Providing a fast and reliable space uplink for target acquisition is a challenge when dealing with moving targets. This uplink system consists of error correction and prediction modules to provide tactically targeted bombardments on time.
+
+Обеспечение быстрой и надежной космической связи для передачи местонахождения целей всегла было проблемой. Эта система состоит из корректора ошибок и модулей прогнозирования.
+
+---
+
+BombardmentBuildingProperties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides an orbital bombardment operation<br/><icon texture='GUI/Bullet'/>4 turn cooldown
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>Дает доступ к орбитальной бомбардировке<br/><icon texture='GUI/Bullet'/>перезарядка 5 ходов
+
+---
+
+Credits0
+
+Stock Exchange
+
+Планетарный фондовый рынок
+
+---
+
+Credits0Description
+
+A stock exchange provides an organized market for purchasing and selling of securities with well-defined rules and regulations. This is indispensable for the smooth and orderly functioning of the corporate sector in a free market economy.<br/><br/><style name='Italic'/>A stock exchange need not be merely a hive of speculation or a gambling den. It should sometimes also act as a place for safe and profitable investment.
+
+Фондовая биржа обеспечивает организованный рынок для покупки и продажи ценных бумаг. Это необходимо для нормального и упорядоченного функционирования корпоративного сектора в условиях свободной рыночной экономики. <br/> <br/> <style Name='Italic'/> Фондовая биржа не должна быть местом для спекуляций или азартных игр. Она должна выступать в качестве места для безопасного и выгодного инвестирования.
+
+---
+
+Credits0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Credits'/> credits
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Credits'/> кредитов из налогов<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Credits'/> кредита
+
+---
+
+Credits1
+
+Market Regulator
+
+Рыночный регулятор
+
+---
+
+Credits1Description
+
+Unfettered capitalism is extremely efficient - but doesn't always produce the optimal results for our particular society. The creation of regulatory establishments which oversee the market to enforce an optimal structure is therefore a rational step.
+
+Ничем не сдерживаемый капитализм чрезвычайно эффективен, но не всегда дает оптимальные результаты для конкретного общества. Создание нормативных учреждений, которые осуществляют надзор на рынке для обеспечения оптимальной структуры, является крайне рациональным шагом.
+
+---
+
+Credits1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Credits'/> credits
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Credits'/> кредитов от налогов<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Credits'/> кредита
+
+---
+
+Credits2
+
+Credit Forge
+
+Казначейство
+
+---
+
+Credits2Description
+
+<style name='Italic'/>&quot;No complaint is more common than that of a scarcity of money.&quot;<br/>  -- Adam Smith<style name='Default'/><br/><br/>The injection of credits into the market can help rectify minor problems, support and boost perennial projects, and save small-scale industry from bankruptcy. Once the colony starts making its own money, nothing can stand in the way of its development. Except perhaps a deflationary bubble.
+
+<style name='Italic'/>&quot;Нет жалобы более распространенной, чем нехватка денег.&quot;<br/>  -- Адам Смит<style name='Default'/><br/><br/>Вклад денег в рынок может помочь исправить проблеммы поддержки и стимулирования долговременных проектов и спасти легкую промышленность от банкротства. Как только колония начнет зарабатывать свои собственные деньги, ничто не может устоять на пути ее развития. За исключением, пожалуй инфляционного пузыря.
+
+---
+
+Credits2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Credits'/> credits
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Credits'/> кредитов от налогов<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Credits'/> кредитов
+
+---
+
+Defense0
+
+Adaptive Bunker Wall
+
+Адаптивная фортификация
+
+---
+
+Defense0Description
+
+While constructing static fortifications to block passages and provide a military advantage is a priceless defensive boon, it has always suffered from the lack of instantaneous deployment and adaptability.<br/><br/>Adaptive bunker walls can be deployed immediately after a threat is identified and will form a complex of barricades, defiles and bunkers. The dynamic nature of the structure allows it to be easily repacked after the threat has passed to provide free passage and keep the economic impact as low as possible.
+
+Постройка укреплений дает бесценное военное преимущество, но всегда их главной проблеммой была скорость развертывания.<br/><br/>Адаптивные защитные стены могут быть развернуты практически мгновенно, при любых признаках угрозы. Динамическая структура повзоляет так же быстро их сворачивать и перемещать практически без усилий.
+
+---
+
+Defense0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> силы для защищающихся<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> силы против операций
+
+---
+
+Defense1
+
+Defense Network
+
+Защитная сеть
+
+---
+
+Defense1Description
+
+The Defense Network is a modular countermeasure system integrated within the very structure of the colony, able to counter any and all kinds of known menace with suitable means ranging from gravitational domes to coilguns and ICE.
+
+Защитная сеть -  модульная система противодействия, интегрированная в архитектуру колонии, в состоянии противостоять любым известным угрозам.
+
+---
+
+Defense1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+200% <icon texture='Attributes/Power'/> power vs operations
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> силы для защищающихся<br/><icon texture='GUI/Bullet'/>+200% <icon texture='Attributes/Power'/> силы против операций
+
+---
+
+Defense2
+
+Planetary Fortress
+
+Планетарная крепость
+
+---
+
+Defense2Description
+
+The Planetary Fortress is a sentient paramilitary superstructure dedicated to the analysis of potential and effective incoming threats. Its ability to grant almost immediate material support and assign idle troops where they are most needed is of the essence in any modern conflict.
+
+Планетарная крепость является военизированной городской надстройкой и занимается анализом потенциальных угроз и быстрому реагированию на них. Она способна предоставить почти немедленную материальную поддержку и отправить простаивающие войска туда, где они больше всего нужны, что имеет существенное значение в любом современном конфликте.
+
+---
+
+Defense2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+200% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+400% <icon texture='Attributes/Power'/> power vs operations
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+200% <icon texture='Attributes/Power'/> силы для защищающихся<br/><icon texture='GUI/Bullet'/>+400% <icon texture='Attributes/Power'/> силы против операций
+
+---
+
+EMPBeamBuilding
+
+EMP Satellite Uplink
+
+Связь с EMP спутником
+
+---
+
+EMPBeamBuildingDescription
+
+Slowly building up energy from solar flares, the EMP satellite is able to redirect a fraction of these solar ion storms towards the surface of Pandora in a high-powered, concentrated beam that disables defenses and cripples production of its target.
+
+Медленно собирая энергию из солнечных вспышек, EMP спутник способен перенаправлять часть энергии этих солнечных ионных бурь на поверхность Пандоры в мощный, концентрированный пучок, который отключает защиту и снижает производство цели.
+
+---
+
+EMPBeamBuildingProperties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides an EMP beam operation<br/><icon texture='GUI/Bullet'/>8 turn cooldown
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>Обеспечивает работу EMP луча<br/><icon texture='GUI/Bullet'/>перезарядка 10 ходов
+
+---
+
+Food0
+
+Cultivation Facility
+
+Теплицы
+
+---
+
+Food0Description
+
+Very similar to old Earth, Pandora is host to a variety of ecoregions, ranging from the frozen ice lands at the poles to vast deserts and rain forests near the equator. With food supply being a primary concern for new colonies, cultivation facilities produce synthetic fertilizers that allow plant growth even in the most desolate climates and on nutrient-poor soil - though even they can't produce something from nothing.
+
+Как и Старая Земля, Пандора имеет различные экорегионы, начиная от замороженных ледяных земель на полюсах до обширных пустынь и тропических лесов вблизи экватора. Производство еды являестся одной из основных задач новых колоний, поэтому теплицы производят синтетические удобрения, которые позволяют расти растениям даже в самых пустынных климатических и на бедными питательными веществами почвах, хотя даже они не могут произвести что-то из ничего.
+
+---
+
+Food0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Food'/> food from farmers<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Food'/> еды от фермеров<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> Еды
+
+---
+
+Food1
+
+Plant Air Suspension Relay
+
+Системы воздушной культивации
+
+---
+
+Food1Description
+
+<style name='Italic'/>&quot;It is our most sacred duty, as children of Gaia, to not sully the soil or air she so generously grants us, any more than we truly need, and only then in a most cautious manner.&quot;<br/>    -- First Gardinier Elora, Nomination Speech<style name='Default'/><br/><br/>Suspending plants in the air inside support structures allows for precise growth regulation. Oxygen and other nutrients come in contact directly with the plant's roots, fully bypassing the inefficiencies of an aggregate medium.
+
+<style name='Italic'/>&quot;Это наша самая священная обязанность, как детей Гайи, - не запятнать почву или воздух, который она так щедро дарует нам, в большей степени, чем нам действительно требуется, и только тогда, когда это действительно нужно и крайне осторожно.&quot;<br/>    -- Элора Гардиньер Первая, Номинационная Речь<style name='Default'/><br/><br/>Поддержка растений в воздухе на опорных конструкциях позволяет точно регулировать их рост. Кислород и другие питательные вещества поступают непосредственно в корни растений, полностью минуя неэффективную внешнюю среду.
+
+---
+
+Food1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Food'/> food from farmers<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Food'/> еды от фермеров<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Food'/> Еды
+
+---
+
+Food2
+
+Food Replicator
+
+Репликация еды
+
+---
+
+Food2Description
+
+Growing plants seems inefficient at this point, since we have the technology to simply replicate food.<br/><br/>A solar-powered replicator works by rearranging subatomic particles, which are abundant everywhere in the universe, to form molecules and arrange those molecules to form objects. Since matter patterns are stored at a molecular level it is only possible to replicate objects with simple quantum structures, such as food.<br/><br/><style name='Italic'/>Some Luddites still refuse to eat replicated food, instead opting for the lengthy process of growing and preparing a meal like in the old times.
+
+Процесс выращевания еды в данный момент крайне неэффективен, но у нас наконец появилась технология позволяющая воссоздавать ее.<br/> <br/> В основе репликации лежит перестраивание субатомных частиц в молекулы и организация этих молекул в объекты. К сожалению можно повторить только объекты из простых квантовых структур, такие как продукты питания.
+
+---
+
+Food2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Food'/> food from farmers<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Food'/> еды от фермеров<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Food'/> Еды
+
+---
+
+Growth0
+
+Gene Therapy Clinic
+
+Gene Therapy Clinic
+
+---
+
+Growth0Description
+
+This clinic allows individuals to have a complete genome-test. Once flaws are identified, your genetic structure can have a spring-clean, killing off any problematic strands and inserting others to increase the growth rate, intelligence and hardiness of any resulting children.
+
+This clinic allows individuals to have a complete genome-test. Once flaws are identified, your genetic structure can have a spring-clean, killing off any problematic strands and inserting others to increase the growth rate, intelligence and hardiness of any resulting children.
+
+---
+
+Growth0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+10% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/PositiveGrowth'/> growth
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+10% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/PositiveGrowth'/> growth
+
+---
+
+Growth1
+
+Replicant Factory
+
+Replicant Factory
+
+---
+
+Growth1Description
+
+Applying the precepts of mass-production to auxology, stem cell modification and fetal growth rate allows us to quickly and efficiently replicate our best colonists.
+
+Applying the precepts of mass-production to auxology, stem cell modification and fetal growth rate allows us to quickly and efficiently replicate our best colonists.
+
+---
+
+Growth1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/PositiveGrowth'/> growth
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/PositiveGrowth'/> growth
+
+---
+
+Growth2
+
+Hegemonising Nanotech Suppressor
+
+Hegemonising Nanotech Suppressor
+
+---
+
+Growth2Description
+
+Until now, using nanotech to automatically increase our virtual population density has created breakouts of the dreaded Grey Goo -- self-replicating personalities, like tumours in the Matrix. HNS devices act as white blood cells or police in the system, hunting down incipient Goo.<br/><br/>This advancement allows us to use nanotech more freely and hugely expands synapse growth in our dominant post-physical population.
+
+Until now, using nanotech to automatically increase our virtual population density has created breakouts of the dreaded Grey Goo -- self-replicating personalities, like tumours in the Matrix. HNS devices act as white blood cells or police in the system, hunting down incipient Goo.<br/><br/>This advancement allows us to use nanotech more freely and hugely expands synapse growth in our dominant post-physical population.
+
+---
+
+Growth2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+40% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/PositiveGrowth'/> growth
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+40% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/PositiveGrowth'/> growth
+
+---
+
+Headquarters
+
+Headquarters
+
+Единый штаб
+
+---
+
+HeadquartersDescription
+
+The headquarters symbolizes the capital of your empire and a center of civilization. Not only will your troops fight with an iron will to hold them, they also provide some basic resources.<br/><br/>You can only have one headquarters - building another will relocate the headquarters to the new city.<br/><br/><style name='Italic'/>Nullus est instar domus.
+
+Это штаб-квартира, которая символизирует столицу всей империи и является центром цивилизации. Мало того, что ваши войска будут здесь сражаться до последней капли крови,так еще это позволит добывать дополнительные ресурсы благодаря оптимизации управления. <br/> <br/> Вы можете иметь только один штаб. Строительство еще одного перенесет штаб в новый город.<br/><br/><style name='Italic'/>Nullus est instar domus (лат. &quot;Нет другого места, такого как дом&quot;).
+
+---
+
+HeadquartersProperties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>One per empire<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> minerals<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> research
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>Один на империю<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> силы для защищающихся<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> еды<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> минералов<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Production'/> производства<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> исследований
+
+---
+
+Minerals0
+
+Refining Array
+
+Модуль интенсивной добычи
+
+---
+
+Minerals0Description
+
+Minerals no longer have to be discarded if they do not pass the minimum purity threshold, but can now instead be aggregated into a smaller mass of suitable for secondary production purposes.
+
+Минералы больше не будут забракованы, если они не проходят порог минимального качества, их все можно перерабатывать в едином цикле производства.
+
+---
+
+Minerals0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Minerals'/> minerals from miners<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> minerals
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Minerals'/> минералов от шахтеров<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> минералов
+
+---
+
+Minerals1
+
+Drone Excavation Center
+
+Центр обслуживания дронов
+
+---
+
+Minerals1Description
+
+The drone excavation center allows each miner to supervise a number of drones at his mineral site. The use of these robotic programmed drones has proven to be invaluable thanks to their cutting-edge sensory devices and excavation lasers.<br/><br/><style name='Italic'/>There has only been one accident so far, where a drone undergoing maintenance detected the human supervisor as the mining target, with fatal results. After refined the unfortunate individual, the drone continued operation following standard mining protocols.
+
+Дрон - главный помошник шахтеров. Технология позволяет каждому шахтеру управлять большим количеством автоматических дронов. Использование этих роботов оказалось бесценным, благодаря их передовым сенсорным устройствам и землеройным лазерам.<br/><br/><style name='Italic'/>Был только один несчастный случай, когда дрон распознал человека-руководителя в качестве цели для горнодобычи, с фатальными результатами. После распознания несчастного человека, дрон продолжил работу в соответствии со стандартными протоколами добычи.
+
+---
+
+Minerals1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Minerals'/> minerals from miners<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> minerals
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Minerals'/> минералов от шахтеров<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Minerals'/> минералов
+
+---
+
+Minerals2
+
+Mineral Warp Relay
+
+Телепортатор ресурсов
+
+---
+
+Minerals2Description
+
+Advances in warping technology have enabled the construction and use of relays to perform so-called microwarps to extract minerals out of stationary mineral sources. These warps are so precise they are able to transport individual particles, but require substantial calculation and preparation in order to be successful. Even so, equipped with appropriate scanning equipment, we are able to substantially improve our extraction speed.
+
+Достижения в области деформации пространства позволили строительство и использование небольших гиперпространственных врат, мы можем использовать их для транспортировки полезных ископаемых из недр планеты прямо на склад. Эти врата настолько точны, что способны перевозить отдельные частицы, но требуют значительных расчетов и подготовки для того, чтобы все прошло гладко. Тем не менее, оснастив установку соответствующим сканирующим оборудованием, мы можем существенно улучшить нашу скорость извлечения.
+
+---
+
+Minerals2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Minerals'/> minerals from miners<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> minerals
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Minerals'/> минералов от шахтеров<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Minerals'/> минералов
+
+---
+
+Morale0
+
+Holo Theater
+
+Голографический театр
+
+---
+
+Morale0Description
+
+<style name='Italic'/>&quot;The Information Ministry humbly presents its valued citizens with the latest in entertainment technology! Heroes so real they blur the line between truth and fantasy, reality and imagination! &quot;<br/>    -- Prime Minister Yun Xi<style name='Default'/><br/><br/>After years of hypersleep and inactivity, our people long for distraction and entertainment to stimulate their senses. Holographic 3D projections are the next step towards a virtual reality that promises an exciting experience for the whole family.
+
+<style name='Italic'/>&quot;Министерство информации представило свои новые недорогие технологии развлечения! Герои кажутся настолько реальным, стираются грань между правдой и выдумкой, реальностью и фантазией!&quot;<br/>    -- Премьер-министр Юн Си<style name='Default'/><br/><br/>После многих лет гиперсна и бездействия, наши люди как никогда жаждут развлечений. Голографические 3D-проекции являются новой ступенью на пути к виртуальной реальности, которая обещает быть крайне захватывающей для всей семьи.
+
+---
+
+Morale0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Morale'/> morale
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Morale'/> морали
+
+---
+
+Morale1
+
+Emotion Regulation Center
+
+Центр коррекции эмоций
+
+---
+
+Morale1Description
+
+<style name='Italic'/>&quot;The truth is that we can learn to condition our minds, bodies, and emotions to link pain or pleasure to whatever we choose. By changing what we link pain and pleasure to, we will instantly change our behaviors.&quot;<br/>    -- Anthony Robbins<style name='Default'/><br/><br/>Through neural microsurgery and operant conditioning, all provided by the Emotion Regulation Center, the colonists can subtly alter their dominant alpha waves in case of emotional distress, substantially improving their well-being amidst the sometimes-depressing environment of Pandora.
+
+<style name='Italic'/>&quot;Правда в том, что мы можем изучить состояние наших умов, тел и эмоций, чтобы связать боль или удовольствие с тем, что мы выбирем. Изменяя то, что мы связываем с болью и удовольствием, мы можем мгновенно изменить наше поведение.&quot;<br/>    -- Энтони Роббинс<style name='Default'/><br/><br/>Через  микрохирургиию нервной системы  колонисты могут тонко настраивать свои доминирующие альфа-волны в случае эмоционального расстройства, существенно улучшая свое самочуствие.
+
+---
+
+Morale1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Morale'/> morale
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Morale'/> мораль
+
+---
+
+Morale2
+
+Collective Consciousness
+
+Коллективное Сознание
+
+---
+
+Morale2Description
+
+<style name='Italic'/>&quot;Praised be the Lords, for they have granted us the most complete of communions, the most beautiful Eucharist of all. Let us praise the Lords as one body, one mind, united in the one belief!&quot;<br/>    -- Lady Lilith Vermillion, The Path to Salvation<style name='Default'/><br/><br/>Study of Xenomorph hives has allowed our colony to emulate the Bugs' collective mind through artificial means, while still retaining the individuality we so prize. This allows the colonists to fully realize their empathy, eliminating most social discontent.
+
+<style name='Italic'/>&quot;Хвала Богу, ибо он предоставил нам наиболее полную из причастия, самую красивую Евхаристию из всех. Давайте молиться владыке нашему как одно единое тело, один разум, единый в одной вере!&quot;<br/>    -- Леди Лилит Алая, Путь к Спасению<style name='Default'/><br/><br/>Изучение ульев ксеноморфов позволило нашей колонии создать симулятор коллективного разума и сохранить при этом индивидуальность. Это позволяет колонистам в полной мере реализовать свои переживания, устраняя наиболее опасные социальные недовольства.
+
+---
+
+Morale2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+16 <icon texture='Resources/Morale'/> morale
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+16 <icon texture='Resources/Morale'/> морали
+
+---
+
+NukeBuilding
+
+Missile Launch Control Center
+
+Центр управления баллистическими ракетами
+
+---
+
+NukeBuildingDescription
+
+The main control facility for ballistic missiles silos. From a launch control center, the missile combat crew can monitor the complex, launch the missile, or relax in the living quarters.
+
+Основной объект для управления баллистическими ракетами. Из центра управления запуском боевая команда может контролировать комплекс, запустить ракету или отдохнуть в жилых помещениях.
+
+---
+
+NukeBuildingProperties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a nuke operation<br/><icon texture='GUI/Bullet'/>8 turn cooldown
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>Дает возможность запуска ядерного оружия<br/><icon texture='GUI/Bullet'/>перезарядка 10 ходов
+
+---
+
+Pollution0
+
+Pollution Processor
+
+Очистительный комплекс
+
+---
+
+Pollution0Description
+
+Old Earth was in a grim state. With large parts of the ozone layer destroyed as well as the landscape scarred by factional warfare and nuclear waste, our ancestors gathered in a handful of mega cities housing billions of people, trying to escape from an increasingly harsh environment.<br/><br/>Many scientists and ecologists rightfully advocate that such a course of events should not be repeated, and these newly-discovered automated recycling technologies are a step in the right direction.
+
+Старая Земля была в ужасном состоянии. Большая часть озонового слоя была разрушена, а земля перепонена отходами производства и последствиями использования оружия массового уничтожения.<br/> <br/> Многие ученые и экологи по праву выступают за то, что бы такой ход событий не повторился, и эти автоматизированные технологии очищения станут первым шагом в этом направлении.
+
+---
+
+Pollution0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>-4 <icon texture='Resources/Pollution'/> pollution
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>-4 <icon texture='Resources/Pollution'/> загрязнения
+
+---
+
+Pollution1
+
+Air Recycler
+
+Переработчик воздуха
+
+---
+
+Pollution1Description
+
+The efforts to diminish the impact of industrialization on air purity may have paid and helped the colonists thrive for so long, but the latest breakthroughs allow for the implementation of an Air Recycler that further reduces the effects of pollution in its immediate vicinity.
+
+Усилия по уменьшению влияния индустриализации на чистоту воздуха, возможно, помогли колонистам процветать до сих пор, но новейшие достижения позволяют создать переработчик воздуха, что еще больше снижает последствия загрязнения в непосредственной близости от него.
+
+---
+
+Pollution1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>-8 <icon texture='Resources/Pollution'/> pollution
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>-8 <icon texture='Resources/Pollution'/> загрязнений
+
+---
+
+Pollution2
+
+Atmotron
+
+Атмотрон
+
+---
+
+Pollution2Description
+
+<style name='Italic'/>&quot;It is our most sacred duty to give back to this earth whenever, wherever we can, so as to lay a solid, sane foundation for her future children.&quot;<br/>    -- First Gardinier Elora, Nomination Speech<style name='Default'/><br/><br/>Why repair what you can recreate? The Atmotron processes the atmospherical data of a given zone for a while, then reproduces and enhances it by various means ranging from electrolysis to ionization, efficiently suppressing most pollution problems in the area.
+
+<style name='Italic'/>&quot;Это наша самая священная обязанность - сохранить эту землю, таким образом, чтобы заложить прочную, разумную основу для своих будущих детей.&quot;<br/>    -- Элора Гарньер Первая, Номинационная речь<style name='Default'/><br/><br/>Зачем ремонтировать то, что можно воссоздать? Атмотрон обрабатывает атмосферные данные данной зоны, а затем воспроизводит и усиливает их с помощью различных средств, начиная от электролиза до ионизации, эффективно устраняя большинство проблем загрязнения в этом районе.
+
+---
+
+Pollution2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>-16 <icon texture='Resources/Pollution'/> pollution
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>-16 <icon texture='Resources/Pollution'/> загрязнений
+
+---
+
+Population0
+
+Wendo Apartments
+
+Модульные дома
+
+---
+
+Population0Description
+
+<style name='Italic'/>&quot;It is no secret that I consider modularization to be heavily underused in the field of architecture. To expand living space by shifting walls and layering floors becomes a trivial endeavor when your building is constructed in modular fashion.&quot;<br/>    -- Dejazmach Wendo, Modular Architecture<style name='Default'/><br/><br/>Rather than build housing in an inefficient, inclination-driven way, better space occupation can be achieved by building adaptive, highly reconfigurable accommodations. Named after their inventor Dejazmach Wendo, those allow us to shelter more colonists in a given area rather than expand indefinitely and erratically.
+
+<style name='Italic'/>&quot;Ни для кого не секрет, что я считаю модульность  в значительной степени недооцененной в области архитектуры. Расширения жизненного пространства путем сдвига стен и смещение пола требует тривиальных усилий, если ваш дом построен по модульной схеме.&quot;<br/>    -- Дежазмах Вендо, Модульная Архитектура<style name='Default'/><br/><br/>Вместо того, чтобы и дальше строить малоэффективное жилье, лучше все старое место перестроить с помощью адаптивных средств.
+
+---
+
+Population0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Habitat'/> habitat
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Habitat'/> жилья
+
+---
+
+Population1
+
+Sky Dome
+
+Небесный купол
+
+---
+
+Population1Description
+
+The anti-gravitation fields produced by high velocity rotation of superconductors allows us to construct floating housing structures, thereby removing most of the space occupation problems of the colony and pushing the population limits even further.
+
+Анти-гравитационные поля, создающие высокую скорость вращения сверхпроводников, позволяют построить летающие жилые структуры, тем самым открывая новые горизонты для городской архитектуры.
+
+---
+
+Population1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Habitat'/> habitat
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Habitat'/> жилья
+
+---
+
+Population2
+
+Neuromatrix
+
+Нейроматрица
+
+---
+
+Population2Description
+
+<style name='Italic'/>&quot;Personally, I would be delighted if there were a life after death, especially if it permitted me to continue to learn about this world and others, if it gave me a chance to discover how history turns out.&quot;<br/>    -- Carl Sagan<style name='Default'/><br/><br/>Once a colonist becomes too old to be of any direct use to the colony, his experience and personality can be burned onto a chip. Those are then linked to a global network feeding their expertise to the various digital structures of the colony, allowing the retired to keep participating in its development. This spares their relatives the grief of their loss, while the bodies may be discarded, leaving room for younger, healthier colonists.
+
+<style name='Italic'/>&quot;Лично я был бы рад, если бы существовала жизнь после смерти, особенно если это дало бы мне возможность продолжать изучать этот мир и многое другое, если это дало мне возможность узнать, чем закончится история.&quot;<br/>    -- Карл Саган<style name='Default'/><br/><br/>После того, как колонист становится слишком стар,  его опыт и личность могут быть записаны в чипе, чипе, который затем получает связь с глобальной сетью хранения данных колонии, что позволяет даже после смерти принимать участие в ее развитии. Это избавляет родственников от горя потери.
+
+---
+
+Population2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+16 <icon texture='Resources/Habitat'/> habitat
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+16 <icon texture='Resources/Habitat'/> жилья
+
+---
+
+Production0
+
+Automated Factory
+
+Автофабрики
+
+---
+
+Production0Description
+
+Claims to this new world are made on the backbone of a working industry, providing goods and services to colonists. However, modern factories are machine-driven and highly automated, sustaining a considerable production output with little to no human interaction.
+
+Недовольство этим новым миром лежит на хребте рабочей промышленности, предоставляющей товары и услуги для колонистов. Тем не менее, современные заводы с машинным приводом и высокой степенью автоматизации поддерживают значительный выпуск продукции без какого-либо человеческого взаимодействия.
+
+---
+
+Production0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Production'/> production
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Production'/> производство от рабочих<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Production'/> производство
+
+---
+
+Production1
+
+Intelligent Factory
+
+Интеллектуальное производство
+
+---
+
+Production1Description
+
+Among the many uses to which AI can be put, one of the most interesting is the optimization of resource deployment. The Intelligent Factory was to be a proof-of-concept demonstrating the ameliorated organization due to the use of machines. Its efficiency was such that it was almost immediately deployed on a large scale.
+
+Производство всегда было самым желанным применением ИИ. Интеллектуальный завод должен был стать доказательством правильности новой концепции. Его эффективность была такой, что почти сразу же было развернуто массовое строительство ему подобных.
+
+---
+
+Production1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Production'/> production
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Production'/> производство от рабочих<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Production'/> производство
+
+---
+
+Production2
+
+Nano Factory
+
+Нанофабрика
+
+---
+
+Production2Description
+
+Automated production can lead to a great deal of wasted time. Machines become obsolete at a consistent pace, outages can stop a whole production array, and what little human interaction is left only hampers productivity. Self-replication is an efficient and cost-effective answer to those problems.
+
+Автоматизированное производство может быть связанным с огромной потерей времени. Устаревание оборудования, перебои в подаче энергии, все это может остановить целое производство. Саморепликация является экономически эффективным ответом на все эти проблемы.
+
+---
+
+Production2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Production'/> production
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Production'/> производство от рабочих<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Production'/> производство
+
+---
+
+Research0
+
+Quantum Physics Laboratory
+
+Лаборатория квантовой физики
+
+---
+
+Research0Description
+
+The classical fields of research can be considered as operators in quantic equations rather than ends in themselves. This concept, when implemented, allows for a more thorough understanding of the world around us.
+
+Классические направления исследований можно рассматривать как операторы в квантовых уравнениях, а не как самоцель. Эта концепция, при реализации, позволяет более глубоко понять окружающий нас мир.
+
+---
+
+Research0Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> research
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Research'/> исследований ученых<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> исследований
+
+---
+
+Research1
+
+Chaos Laboratory
+
+Лаборатория хаоса
+
+---
+
+Research1Description
+
+Computational power allows for the diminishing of deterministic chaos. Where once computers inevitably rounded numbers, leading to wide fluctuations in predicted results, realtime recalculation of phase space data has led to results more accurate than we ever dreamed of, in turn helping other fields develop in a much more efficient manner.
+
+Ее вычислительная мощность позволяет изучать детерминированный хаос. Там, где когда-то компьютеры неизбежно округляли число, что приводило к большим колебаниям в прогнозируемых результатах, теперь есть возможность работать в реальном времени с практически бесконечной точностью.
+
+---
+
+Research1Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> research
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Research'/> исследований ученых<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Research'/> исследований
+
+---
+
+Research2
+
+Causality Laboratory
+
+Лаборатория причинности
+
+---
+
+Research2Description
+
+Rather than recalculating odds over and over as experiments progressed, it was found that better results could be achieved by manipulating cause and effect themselves. Having perfect knowledge of our inputs results  in a better chance of the intended effects and reactions, instead of dealing with uncontrollable external factors.
+
+Вместо того, чтобы пересчитывать шансы снова и снова, и повторять эксперименты, было установлено, что лучшие результаты могут быть достигнуты путем манипулирования причинами и следствиями. Прекрасное знание входных данных приводит к прогнозированнию эффектов и реакций, а не к борьбе с неконтролируемыми внешними факторами.
+
+---
+
+Research2Properties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> research
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Research'/> исследований ученых<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Resources/Research'/> исследований
+
+---
+
+ScanBuilding
+
+Recon Satellite Uplink
+
+Связь с развед спутником
+
+---
+
+ScanBuildingDescription
+
+Even though disturbances are quite common in the ionosphere of Pandora, preventing a constant link to reconnaissance satellites, this tech allows us to communicate with them quite often and upload orders at a rather consistent pace.
+
+Несмотря на огромные помехи создаваемые в ионосфере Пандоры, эта технология позволяет нам общаться с нашими спутниками относительно часто.
+
+---
+
+ScanBuildingProperties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a satellite scan operation<br/><icon texture='GUI/Bullet'/>2 turn cooldown
+
+<icon texture='GUI/Bullet'/>Здание<br/><icon texture='GUI/Bullet'/>дает спутниковую разведку<br/><icon texture='GUI/Bullet'/>перезарядка 3 хода
+
+---
+
+SpyBuilding
+
+Panopticon
+
+Panopticon
+
+---
+
+SpyBuildingDescription
+
+Privacy has been abolished. Walls are transparent, cameras are everywhere, the Zamyatin towers of the security services rise on every street, and the mouths of truth listen to any rumour. Arrests are plentiful and reformation swift, so the people are safer than ever from spies, and each other. But are they happy?
+
+Privacy has been abolished. Walls are transparent, cameras are everywhere, the Zamyatin towers of the security services rise on every street, and the mouths of truth listen to any rumour. Arrests are plentiful and reformation swift, so the people are safer than ever from spies, and each other. But are they happy?
+
+---
+
+SpyBuildingProperties
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>-100% infiltration chance for enemy agents<br/><icon texture='GUI/Bullet'/>-1 <icon texture='Resources/Morale'/> morale
+
+<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>-100% infiltration chance for enemy agents<br/><icon texture='GUI/Bullet'/>-1 <icon texture='Resources/Morale'/> morale
+
+---
+
+StormBuilding
+
+Ion Storm Generator
+
+Ion Storm Generator

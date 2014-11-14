@@ -1,0 +1,445 @@
+Authenticating
+
+Authenticating ...
+
+Аутентификация ...
+
+---
+
+AccountCreated
+
+Account created successfully.
+
+Аккаунт успешно создан.
+
+---
+
+BetaMultiplayerBrowserGames
+
+Note that beta games are separate from the release version.
+
+Note that beta games are separate from the release version.
+
+---
+
+ConnectionLost
+
+Connection lost.
+
+Соединение потеряно.
+
+---
+
+ConnectingToServer
+
+Connecting to server ...
+
+Соединение с сервером ...
+
+---
+
+Countdown1
+
+1 ...
+
+1 ...
+
+---
+
+Countdown2
+
+2 ...
+
+2 ...
+
+---
+
+Countdown3
+
+3 ...
+
+3 ...
+
+---
+
+Countdown4
+
+4 ...
+
+4 ...
+
+---
+
+Countdown5
+
+Starting in 5 ...
+
+Начало через 5 ...
+
+---
+
+CountdownStopped
+
+Countdown stopped.
+
+Отсчет остановлен.
+
+---
+
+CreatingAccount
+
+Creating account ...
+
+Создание аккаунта ...
+
+---
+
+DeployOperation
+
+<style color='Green'/>Left-click to deploy operation
+
+<style color='Green'/>Кликните для начала операции
+
+---
+
+Error
+
+Error
+
+Ошибка
+
+---
+
+EverythingOK
+
+Everything OK.
+
+Все OK.
+
+---
+
+ExecuteOrder
+
+<style color='Green'/>Left-click to execute order
+
+<style color='Green'/>Кликни что бы выполнить приказ
+
+---
+
+GameInitializationFailed
+
+Could not initialize game. Background applications, particularly security and antivirus software, may be preventing Pandora from working normally.
+
+Ошибка инициализации.
+
+---
+
+GameLoaded
+
+Game loaded
+
+Игра загружена
+
+---
+
+GameSaved
+
+Game saved
+
+Игра сохранена
+
+---
+
+GameSaveError
+
+Error saving game
+
+Ошибка сохранения
+
+---
+
+IncompatibleVersion
+
+Incompatible game version. Please update Pandora.
+
+Версии несовместимы.
+
+---
+
+Info
+
+Info
+
+Инфо
+
+---
+
+InitializingGame
+
+Initializing game ...
+
+Инициализация игры ...
+
+---
+
+InitializingWorld
+
+Initializing world ...
+
+ Инициализация мира ...
+
+---
+
+InvalidCommand
+
+Invalid command: &quot;%1%&quot;
+
+ Неправильная команда: &quot;%1%&quot;
+
+---
+
+InvalidEmail
+
+Invalid email.
+
+ Неправильный email.
+
+---
+
+InvalidName
+
+Invalid name.
+
+Неправильное имя.
+
+---
+
+InvalidProductKey
+
+Invalid %1% product key.
+
+Неправильный product key.
+
+---
+
+Kicked
+
+You have been kicked from the server.
+
+Вас выкинули с сервера.
+
+---
+
+MasterServerUnreachable
+
+Could not connect to master server.
+
+Невозможно подключиться к мастер серверу.
+
+---
+
+NameTooShort
+
+Name too short.
+
+Имя слишком короткое.
+
+---
+
+NetworkError
+
+Network Error
+
+Ошибка сети
+
+---
+
+NoFreeSlots
+
+No free slot available on the server.
+
+На сервере недостаточно свободных слотов.
+
+---
+
+NoGames
+
+No games are currently available.<br/>Why not start one?
+
+Нету доступных игр.<br/>Почему бы не начать свою?
+
+---
+
+OnlineError3
+
+Invalid product key.
+
+Неправильный product key.
+
+---
+
+OnlineError4
+
+Product key already in use.
+
+Product key уже используется.
+
+---
+
+OnlineError6
+
+Invalid name or password.
+
+Неправильное имя или пароль.
+
+---
+
+OnlineError7
+
+Name already taken.
+
+Имя уже занято.
+
+---
+
+OnlineError8
+
+Invalid name or password.
+
+Неправильное имя или пароль.
+
+---
+
+OnlineError10
+
+Product key already in use.
+
+Product key уже используется.
+
+---
+
+OnlineError12
+
+Email already taken.
+
+Email уже используется.
+
+---
+
+PasswordsDoNotMatch
+
+Passwords do not match.
+
+Пароли не совпадают.
+
+---
+
+PasswordTooShort
+
+Password too short.
+
+Пароль слишком короткий.
+
+---
+
+PlayerJoined
+
+%1% has joined.
+
+%1% вступил в игру
+
+---
+
+PlayerLeft
+
+%1% has left.
+
+%1% покинул игру
+
+---
+
+ProductKeyEmpty
+
+Product key empty.
+
+Product key не задан.
+
+---
+
+RestartRequired
+
+A game restart is required for some settings to take effect.
+
+Необходимо перезагрузить игру чтобы изменения вступили в силу.
+
+---
+
+RetrievingList
+
+Retrieving list ...
+
+Получение списка ...
+
+---
+
+ScreenShotSaved
+
+Screen shot saved to &quot;%1%&quot;
+
+Скриншот сохранен в &quot;%1%&quot;
+
+---
+
+ScreenShotSaveError
+
+Error capturing screen shot
+
+Ошибка создания скриншота
+
+---
+
+ServerError
+
+Server Error
+
+Серверная ошибка
+
+---
+
+ServerInfo
+
+Server Info
+
+Серверная информация
+
+---
+
+ServerShutDown
+
+Server shut down.
+
+Сервер остановлен.
+
+---
+
+ServerUnreachable
+
+Could not connect to server. To improve connectivity, ensure the host has forwarded the set network port (default: TCP 6121).
+
+Невозможно подключиться к серверу. 
+
+---
+
+Unknown
+
+Unknown.
+
+Unknown.
+
+---
+
+VictoryAchievements
+
+Victory achievements can only be unlocked in single-player games started from the New Game panel.
+
+Victory achievements can only be unlocked in single-player games started from the New Game panel.

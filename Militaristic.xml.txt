@@ -1,0 +1,893 @@
+FirstContact
+
+&quot;Greetings %3%! You are talking to Admiral James Heid of the Imperium, 1st Div, Expeditionary Force. Under my direct command is the most advanced war machinery known to men, and the beasts inhabiting this world will feel its full wrath. You better make sure not to walk into my line of fire...&quot;
+
+&quot;Приветствую, %3%! Вы разговариваете с адмиралом Джеймсом Хэйдом, Империум, 1-й дивизион, экспедиционные силы. Под моим непосредственным командованием находится самая современная военная техника, известная человечеству, и звери, населяющие этот мир, почувствовуют гнев. Вам лучше не переходить мою линию огня...&quot;
+
+---
+
+NamePositive
+
+&quot;The honourable %6%.&quot;
+
+&quot;The honourable %6%.&quot;
+
+---
+
+NameNegative
+
+&quot;The warmongering %6%.&quot;
+
+&quot;The warmongering %6%.&quot;
+
+---
+
+LetMeThink
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+---
+
+LetMeKnow
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+---
+
+DenounceThirdParty0
+
+&quot;Just thought you oughta know that some scumbag is flanking you. Just thought you might want to know.&quot;
+
+&quot;Просто подумал, что вам лучше бы знать, что вас прикрывают тюфяки. Просто подумал, что вы хотели бы это знать.&quot;
+
+---
+
+AcceptDenounceThirdParty0
+
+&quot;I need all the field intel I can get, frankly.&quot;
+
+&quot;Мне нужны все полевые разведданные, которые я могу получить, если честно.&quot;
+
+---
+
+RejectDenounceThirdParty0
+
+&quot;What are you, the Ministry of Gossip? Not interested.&quot;
+
+&quot;Ты что, Министерство Сплетен? Не интересно.&quot;
+
+---
+
+DenounceThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptDenounceThirdParty1
+
+&quot;Well, looks like I need to put boots on the ground. Ain't you the hometown hero?&quot;
+
+&quot;Что ж, похоже мне нужно поставить сапоги на землю. Вы разне не доморощенный герой?&quot;
+
+---
+
+RejectDenounceThirdParty1
+
+&quot;Tell me something I don't know!&quot;
+
+&quot;Скажи мне что-нибудь, чего я не знаю!&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty0
+
+&quot;We need to talk about your logistics. We think they've been compromised.&quot;
+
+&quot;Нам нужно поговорить о вашей логистике. Мы думаем, что она была скомпрометирована.&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty0
+
+&quot;Trading? Research? Goddamn. Why can't we just shoot everyone and be done with it. Who?&quot;
+
+&quot;Торговля? Исследования? Черт. Почему мы не можем просто расстрелять всех и дело с концом. Кто?&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty0
+
+&quot;Correct me if I'm wrong but you're nowhere above me in any chain of command. Request denied.&quot;
+
+&quot;Поправьте меня, если я ошибаюсь, но вы нигде не выше меня в любой субординации. Запрос отклонен.&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty1
+
+&quot;Damn and blast. We were getting along famously, too. Alright, we'll drop them like an old jarhead&quot;
+
+&quot;Черт побери. Мы классно ладили. Хорошо, мы сбросим их как старого Морпеха.&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty1
+
+&quot;No, sir. We wouldn't drop them even if their name was Jerry.&quot;
+
+&quot;Нет, сэр. Мы не бросили бы их, даже если бы их звали Джерри.&quot;
+
+---
+
+DemandPeaceOfferToThirdParty0
+
+&quot;Now, you need to be nicer to your neighbours.&quot;
+
+&quot;Теперь, вы должны быть милыми с вашими соседями.&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty0
+
+&quot;Is the genuine article? Well, I guess we could stop shooting for a while. Who at?&quot;
+
+&quot;Это подлинная статья? что ж, я думаю, мы могли остановить стрельбу на некоторое время. Против кого?&quot;
+
+---
+
+RejectPeaceOfferToThirdParty0
+
+&quot;Now you got me all choked up. I'm too crusty to say sorry, when the war's going so nicely.&quot;
+
+&quot;Теперь вы мне совсем надоели. Я слишком тверд, чтобы попросить прощения, когда война идет так прекрасно.&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty1
+
+&quot;I fess up -- I never did like shooting them thar... whatchamacalls. Okay, we'll take a break.&quot;
+
+&quot;Честно, я никогда не делал ничего такого, стрелал или кактамего. Ладно, мы возьмем перерыв.&quot;
+
+---
+
+RejectPeaceOfferToThirdParty1
+
+&quot;Asking me to give up war, is like asking birds to give up wings. Ain't never gonna happen.&quot;
+
+&quot;Просить меня отказаться от войны, все равно, что просить птиц отказаться от крыльев. Этого не будет.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty0
+
+&quot;Ain't your blood up? There's WAR coming. And you're gonna be at the heart of it.&quot;
+
+&quot;Ain't your blood up? There's WAR coming. And you're gonna be at the heart of it.&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty0
+
+&quot;Now you see here, you got my dander up. Who'd you want me to kill?&quot;
+
+&quot;Now you see here, you got my dander up. Who'd you want me to kill?&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty0
+
+&quot;I don't shoot people on demand sorry. Not unless you got capital to back it up.&quot;
+
+&quot;I don't shoot people on demand sorry. Not unless you got capital to back it up.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty1
+
+&quot;Them? Hell, I'll shoot 'em before breakfast.&quot;
+
+&quot;Them? Hell, I'll shoot 'em before breakfast.&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty1
+
+&quot;Sorry, partner, but I'm too darn Maverick to mosy along with other folk's orders. %6% will live.&quot;
+
+&quot;Sorry, partner, but I'm too darn Maverick to mosy along with other folk's orders. %6% will live.&quot;
+
+---
+
+OfferShareMap
+
+&quot;Hooah, comrade. Fancy looking at these ordnance maps we got?&quot;
+
+&quot;Ух ты, товарищ. Загляделись на наши карты боеприпасов?&quot;
+
+---
+
+AcceptShareMap
+
+&quot;Sounds solid to me. Will make rangefinding awfully easy.&quot;
+
+&quot;Звучит круто, как по меня. Это сделает раннее обнаружение ужасно простым.&quot;
+
+---
+
+RejectShareMap
+
+&quot;Does it matter what the map looks like? Our tanks will roll right over it anyway.&quot;
+
+&quot;Имеет ли значение, что карта выглядит? Наши танки скатятся прямо по ней в любом случае.&quot;
+
+---
+
+OfferOpenBorders
+
+&quot;We wanna try out some tank exercises on your land. Is that okay?&quot;
+
+&quot;Мы хотим провести танковые учения на вашей земле. Хорошо?&quot;
+
+---
+
+AcceptOpenBorders
+
+&quot;Sure come on in. We've got you in our sights anyway. Kidding, kidding.&quot;
+
+&quot;Конечно заходите. будете нашей достопримечательностью. Шучу, шучу.&quot;
+
+---
+
+RejectOpenBorders
+
+&quot;Nope, sorry. We buried a whole load of mines round here for field training -- would be way too dangerous for the likes of you...&quot;
+
+&quot;Нет, извините. Мы везде похоронили весь запас мин для полевых учений. Было бы слишком опасно для таких, как ты...&quot;
+
+---
+
+TerminateOpenBorders
+
+&quot;%1%, I've decided it's time for a cold war -- our agreement on open borders is hereby nullified. Imperial territory is now a restricted area for your people, anyone who enters will be shot on sight.&quot;
+
+&quot;%1%, я решил, что пришло время для холодной войны - наша договоренность об открытых границ Настоящим аннулирована. Имперская территория в настоящее время является запретной зоной для вашего народа, любой, кто входит, будет расстрелян на месте.&quot;
+
+---
+
+AcceptOpenBordersTerminated
+
+&quot;Oh well, at least now I don't have to make up excuses anymore for tripled border patrols.&quot;
+
+&quot;Ну что ж, по крайней мере, сейчас мне не нужно искать оправданий для утроенных пограничных патрулей.&quot;
+
+---
+
+Crime0
+
+Bombing civilian targets is bad enough -- but you should really pretend to bomb some military ones too.
+
+Бомбить гражданские объекты - очень плохо, вам приходится делать вид, что бомбить военные объекты тоже.
+
+---
+
+Crime1
+
+The whole point of military intervention for humanitarian purposes is that you leave someone alive at the end. You monster.
+
+Весь смысл военной интервенции в гуманитарных целях в том, что вы оставите кого-то в живых в конце. Вы монстр.
+
+---
+
+Crime2
+
+The United Earth envoy to Pandora has gone missing, in your territory. We know you killed her. You can't hide your crimes forever, you know.
+
+Посланник Объединенной Земли на Пандоре пропал, на вашей территории. Мы знаем, вы убили ее. Вы не сможете скрыть свои преступления, вы знаете.
+
+---
+
+Denounce
+
+&quot;%7% The military is here to protect the world against the likes of you.&quot;
+
+&quot;%7% Военные прибыли, чтобы защитить мир от таких, как ты.&quot;
+
+---
+
+AcceptDenounce
+
+&quot;Guilty as charged.&quot;
+
+&quot;Виноват.&quot;
+
+---
+
+RejectDenounce
+
+&quot;When I get hold of you, I'll gut you, you plug-ugly, worn-out wolverine!&quot;
+
+&quot;Когда я достану тебя, я вырву тебе кишки, ублюдок, изношенная росомаха!&quot;
+
+---
+
+Praise
+
+&quot;%5% You deserve a medal, sir.&quot;
+
+&quot;%5% Вы заслуживаете медаль, сэр.&quot;
+
+---
+
+AcceptPraise
+
+&quot;You're as cute as a possum when you say nice things.&quot;
+
+&quot;Ты так же милы, как опоссум, когда говорите приятные вещи.&quot;
+
+---
+
+RejectPraise
+
+&quot;You speak mighty fine for someone as dumb as dirt.&quot;
+
+&quot;Ваши слова прекрасны как грязь.&quot;
+
+---
+
+OfferSurrender
+
+&quot;I... I can't believe it. The finest mercenary force the Earth ever produced and... I, on behalf of Imperium forces on Pandora, unconditionally surrender. I command all my remaining troops to stand down. That's it.&quot;
+
+&quot;Я... Я не могу в это поверить. Величайшая наемная сила Земли из когда-либо созданных и ... Я, от имени Империума на Пандоре, безоговорочно сдаюсь. Я приказываю всем мои оставшимся войска уйти в отставку. Вот и все.&quot;
+
+---
+
+AcceptSurrender
+
+&quot;No-one stands against Imperium.&quot;
+
+&quot;Никто не выступает против Империума.&quot;
+
+---
+
+RejectSurrender
+
+&quot;I think we want to grind you into the dirt a little more, first, boy.&quot;
+
+&quot;Я думаю, мы хотим немного вдолбить вас в грязь, мальчик.&quot;
+
+---
+
+Compliment0
+
+My, hitting the dot on an Ace from two miles. You train your snipers well.
+
+Мой снайпер, попадает в туза с двух миль. Вы тренируете снайперов хорошо.
+
+---
+
+Compliment1
+
+I must say, your last manuever was a masterpiece of finesse, like clockwork.
+
+Я должен сказать, что ваш последний маневр был шедевром изящества, прошел как по маслу.
+
+---
+
+Compliment2
+
+I've never seen so many shiny medals. What time do you finish work?
+
+Я никогда не видел так много блестящих медалей. В котором часу вы освобождаетесь?
+
+---
+
+Insult0
+
+%3%, your reckless warmongering and constant arms race make you a danger to us all.
+
+%3%, ваша безрассудная милитаристская гонка создает опасность для всех нас.
+
+---
+
+Insult1
+
+You barbarians should be wiped off the face of this planet, %3%.
+
+Вы варвары должны быть стерты с лица нашей планеты, %3%.
+
+---
+
+Insult2
+
+Without a doubt, one should give you a taste of your own medicine, %2%.
+
+Без сомнения, нужно дать вам попробовать на вкус вашего собственного лекарства, %2%.
+
+---
+
+OfferGift0
+
+&quot;I don't think you've got enough guns. Let me buy you some.&quot;
+
+&quot;Я не думаю, у вас есть достаточное количество пушек. Позвольте мне купить вам несколько.&quot;
+
+---
+
+GiftAccepted0
+
+&quot;Great! We were running short of landmines.&quot;
+
+&quot;Отлично! Мы испытывали нехватку мин.&quot;
+
+---
+
+GiftAccepted1
+
+&quot;All jokes aside, we can put that sum to good use. Thanks.&quot;
+
+&quot;Кроме шуток, мы сможем использовать эту сумму с пользой. Спасибо.&quot;
+
+---
+
+GiftRejected0
+
+&quot;Sorry, we're under an exclusive contract and can't take your money.&quot;
+
+&quot;Сожалению, мы связаны эксклюзивным контрактом и не может принять ваши деньги.&quot;
+
+---
+
+GiftRejected1
+
+&quot;That doesn't even buy one cruise missile. Go home, son.&quot;
+
+&quot;На это даже не купить одну крылатую ракету. Иди домой, сынок.&quot;
+
+---
+
+DemandTribute0
+
+&quot;Hey, you haven't paid your protection money, %3%. Do you want me to remind you?&quot;
+
+&quot;Эй, вы не заплатили деньги за защиту, %3%. Вам напомнить?&quot;
+
+---
+
+TributeAccepted0
+
+&quot;Well, I guess we could spare you a nickel or two. How much do you need?&quot;
+
+&quot;Ну, я думаю, мы могли подкинуть вам пару кредитов. Сколько вам нужно?&quot;
+
+---
+
+TributeAccepted1
+
+&quot;Well, that doesn't hurt too much. I guess I won't be gold-plating the APC this week.&quot;
+
+&quot;Ну, это не слишком много. Пожалуй, я не буду позолачивать свои БТР на этой неделе.&quot;
+
+---
+
+TributeRejected0
+
+&quot;HA! Hahahahaha... Oh, wait. You're not joking?&quot;
+
+&quot;ХА! Ахахахаха... Ой, подождите. Вы не шутите?&quot;
+
+---
+
+TributeRejected1
+
+&quot;You must be joking, no way I'm going to pay you that much!&quot;
+
+&quot;Вы должно быть шутите, я не собираюсь платить вам столько!&quot;
+
+---
+
+AcceptCreditsForDeal0
+
+&quot;%1%, we've known each other a long time. How much is going to make this work?&quot;
+
+&quot;%1%, мы знаем друг друга давно. Сколько нужно, чтобы сделать эту работу?&quot;
+
+---
+
+AcceptCreditsForDeal1
+
+&quot;A military courier will leave the money in the usual dead drop. Now, to details...&quot;
+
+&quot;Военный курьер оставит деньги в обычном тайнике. Теперь к деталям...&quot;
+
+---
+
+RejectCreditsForDeal0
+
+&quot;You're tighter than the bark on a tree. No deal.&quot;
+
+&quot;Ты сильнее, чем кора на дереве. Сделки не будет.&quot;
+
+---
+
+RejectCreditsForDeal1
+
+&quot;I value the capital more than your friendship, %1%.&quot;
+
+&quot;Я ценю капитал больше, чем вашу дружбу, %1%.&quot;
+
+---
+
+CreditsForDealRejected
+
+&quot;Must suck to be out of cash. Maybe next time.&quot;
+
+&quot;Я плачу только за отсос. Может в следующий раз.&quot;
+
+---
+
+DemandCreditsForDeal
+
+&quot;Mercenary is such a loaded word. I prefer, gun-for-hire. Or Sheriff.&quot;
+
+&quot;Наемник такое веское слово. Я предпочитаю пистолет-по-найму. Или Шериф.&quot;
+
+---
+
+DemandCredits0
+
+&quot;Well, I think we'll be happy with just %6% <icon texture='Resources/Credits'/> credits. Getting to fight is pleasure enough for us.&quot;
+
+&quot;Ну, я думаю, мы будем рады всего за %6% <icon texture='Resources/Credits'/> кредитов.&quot;
+
+---
+
+DemandCredits1
+
+&quot;I can put together a package for %6% <icon texture='Resources/Credits'/> credits. Do you need time to think it over?&quot;
+
+&quot;Я могу подобрать пакет для %6% <icon texture='Resources/Credits'/> кредитов. Вам нужно время подумать?&quot;
+
+---
+
+DemandCredits2
+
+&quot;Buying our military might ain't cheap, and this ain't either. %6% <icon texture='Resources/Credits'/> credits, not a cent less.&quot;
+
+&quot;Наша техника не из дешевых, и это тоже. %6% <icon texture='Resources/Credits'/> кредитов, и ни центом меньше.&quot;
+
+---
+
+DemandCredits3
+
+&quot;Ha! Give me everything you've got. Call it a show of faith?&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+&quot;Ха! Дай мне все, что есть. Назовите это прыжок веры.&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+---
+
+OfferCredits0
+
+&quot;Darn it, you're all kinds of wrong. Would %6% <icon texture='Resources/Credits'/> credits straighten you out?&quot;
+
+&quot;Черт, вы весь кривой. %6% <icon texture='Resources/Credits'/> кредитов выпрямит вас?&quot;
+
+---
+
+OfferCredits1
+
+&quot;For %6% <icon texture='Resources/Credits'/> credits I bought my first gunboat. Now I'm giving it to you.&quot;
+
+&quot;За %6% <icon texture='Resources/Credits'/> кредитов я купил себе первую лодку. Сейчас я даю это вам.&quot;
+
+---
+
+OfferCredits2
+
+&quot;You know how many tanks %6% <icon texture='Resources/Credits'/> credits buys? Well, me neither. But I can ask my adjutant. Here, take it.&quot;
+
+&quot;Знаете, скольеео танком можно купить за %6% <icon texture='Resources/Credits'/> кредитов? Ну, я тоже. Но я могу попросить моего адъютанта. Вот, возьми.&quot;
+
+---
+
+OfferCredits3
+
+&quot;%6% <icon texture='Resources/Credits'/> credits -- and that's the military budget of an entire country! Yeah, take it.&quot;
+
+&quot;%6% <icon texture='Resources/Credits'/> кредитов -- это же военный бюджет целой страны! ладно, берите.&quot;
+
+---
+
+AllianceAccepted
+
+&quot;Yes, let us crush shared enemies with an unstoppable force. I'll draft some sound invasion plans.&quot;
+
+&quot;Да, давайте раздавим общих врагов. Я уже разрабатываю некоторые планы вторжения.&quot;
+
+---
+
+AllianceRejected
+
+&quot;Do not take it the wrong way, %2%, but not right now. Thanks.&quot;
+
+&quot;Не поймите неправильно, %2%, но не сейчас. Спасибо.&quot;
+
+---
+
+AllianceTerminated
+
+&quot;I'm pulling out my tanks -- this alliance is over.&quot;
+
+&quot;Я расчихляю мои танки -- этот союз закончился.&quot;
+
+---
+
+Condemn
+
+&quot;You are willing to go so far, I see... Great, let's fight a war that will bring Pandora's civilization to its knees!&quot;
+
+&quot;я вижу, вы готовы зайти далеко... Отлично, давайте вести войну, которая поставит цивилизацию Пандоры на колени!&quot;
+
+---
+
+CondemnAccepted
+
+&quot;%4% Triggering a couple WMDs over your followers' heads doesn't seem like such a big deal to me...&quot;
+
+&quot;%4%, запуск пары боеголовок над головами ваших последователей -- не большое дело для меня...&quot;
+
+---
+
+DeclareWar
+
+&quot;%4% From here on out it's total war.&quot;
+
+&quot;%4%, с этого момента это тотальная война.&quot;
+
+---
+
+DemandWithdrawal
+
+&quot;Do not think I'm not aware of your troop concentrations at our borders! Order their immediate withdrawal, or you'll be picking the particles of your boys out of the dirt.&quot;
+
+&quot;Не думайте, что я не в курсе вашей растущей концентрации войск на моей границе! Немедленно выведите войска, или будете собирать ваших ребят по частям...&quot;
+
+---
+
+Eliminated
+
+&quot;The mighty Imperium brought to its knees... Unbelieveable that it has come this far. I will now join my comrades in the last stand. Admiral James Heid, signing off.&quot;
+
+&quot;Могучий Империум на коленях... Невероятно, что все зашло так далеко. Сейчас я присоединяюсь к моим товарищам в последней клети. Подписано, Адмирал Джеймс Хайд.&quot;
+
+---
+
+Goodbye
+
+&quot;James Heid, signing off.&quot;
+
+&quot;Подписано, Джеймс Хэйд.&quot;
+
+---
+
+Greet0
+
+&quot;What do you want, %2%? I have better things to do than talk to the likes of you.&quot;
+
+&quot;Что вы хотите, %2%? У меня есть более важные дела, чем поговорить с такими, как ты.&quot;
+
+---
+
+Greet1
+
+&quot;Greetings, %3%! Though I am busy devising new strategies, there is always some time for you.&quot;
+
+&quot;Приветствую, %3%! Хотя я занят разработкой новых стратегий, всегда есть немного времени для вас.&quot;
+
+---
+
+Greet2
+
+&quot;Greetings, General %2%! How can I help you out?&quot;
+
+&quot;Приветствую, Генерал %2%! Чем я могу помочь?&quot;
+
+---
+
+NonAggressionPactAccepted
+
+&quot;Good choice. There is enough warmongering to be done elsewhere.&quot;
+
+&quot;Хороший выбор. Мне достаточно подстрекательств в других местах.&quot;
+
+---
+
+NonAggressionPactRejected
+
+&quot;Nah, I prefer my soldiers to be on edge. Makes them harder. Stronger.&quot;
+
+&quot;Нет, я предпочитаю, чтобы мои солдаты были на краю. Это делает их сильнее.&quot;
+
+---
+
+NonAggressionPactTerminated
+
+&quot;To be frank, I was thinking it was about time. Time for some troop exercises at the borders.&quot;
+
+&quot;Честно говоря, я думаю, что сейчас самое время. Время некоторым войскам появиться на границах.&quot;
+
+---
+
+OfferAlliance
+
+&quot;Soldier! There's no such thing as an army of one. Your ally needs you.&quot;
+
+&quot;Солдат! Нет такого понятия, как армия одного. Ваш союзник нуждается в вас.&quot;
+
+---
+
+OfferNonAggressionPact
+
+&quot;I can't believe I'm offering this but... how about we don't shoot at each other. For now. And yes, I'm having a weak moment.&quot;
+
+&quot;Я не могу поверить, что предлагаю это, но ... Как насчет того, чтобы не стрелять друг в друга? Пока. И да, я сейчас слаб.&quot;
+
+---
+
+OfferPeace
+
+&quot;That was an outstanding war! How about a short ceasefire to let the soldiers visit their families?&quot;
+
+&quot;Это был выдающийся война! Как насчет короткого перемирия, чтобы позволить солдатам навестить свои семьи?&quot;
+
+---
+
+OfferResearchPact
+
+&quot;Should we share our research efforts? We've got some amazing new guns.&quot;
+
+&quot;Может нам поделиться своими научно-исследовательскими работами? У нас есть удивительные новые пушки.&quot;
+
+---
+
+OfferTradingPact
+
+&quot;How about a sweet trade pact? You'll really want some of these huggable doll-mines -- I heard they make excellent toys for children.&quot;
+
+&quot;Как насчет торгового пакта? Вам понравятся эти обнимающие куклы-мины - Я слышал, из них делают отличные игрушки для детей.&quot;
+
+---
+
+PeaceAccepted
+
+&quot;Was an awful lot of bloodshed these past few years, I agree.&quot;
+
+&quot;Был очень много кровопролития в последние несколько лет, я согласен.&quot;
+
+---
+
+PeaceRejected
+
+&quot;Nope, we will finish you off. A quick and painless death for %3%.&quot;
+
+&quot;Нет, мы вас прикончим.Быстрая и безболезненная смерть, %3%.&quot;
+
+---
+
+ResearchPactAccepted
+
+&quot;Sure thing. If you discover some outstanding war machine, let us know.&quot;
+
+&quot;Конечно. Если вы изобретете выдающуюся военную машину, дайте нам знать.&quot;
+
+---
+
+ResearchPactRejected
+
+&quot;The war machines we currently research wield such power that making them available to anyone else would be -- irresponsible.&quot;
+
+&quot;Военные машины, которые мы в настоящее время исследуем, обладают огромной силой,  и делать их доступными кому-либо еще будет глупо.&quot;
+
+---
+
+ResearchPactTerminated
+
+&quot;Discovered a cute new technology? Whatever.&quot;
+
+&quot;Обнаружили милую новую технологию? Какая разница.&quot;
+
+---
+
+TerminateAlliance
+
+&quot;Our strong alliance surely had its merits. But not anymore.&quot;
+
+&quot;Наш прочный союз, безусловно, имел свои достоинства. Но не больше.&quot;
+
+---
+
+TerminateNonAggressionPact
+
+&quot;The borders are too quiet, I'm canceling this silly non-aggression pact.&quot;
+
+&quot;На границах слишком тихо, я отменяю этот глупый пакт о ненападении.&quot;
+
+---
+
+TerminateResearchPact
+
+&quot;The scientific profit from our research pact is too one-sided, so I'm canceling it.&quot;
+
+&quot;Научная прибыль от нашего исследовательского пакта слишком одностороння, так что я отменяю его.&quot;
+
+---
+
+TerminateTradingPact
+
+&quot;To be frank, I think our trading pact is simply not profitable enough for us, and hereby nullified.&quot;
+
+&quot;Откровенно говоря, я думаю, что наш торговый пакт просто не настолько выгоден для нас, и настоящим аннулируются.&quot;
+
+---
+
+TradingPactAccepted
+
+&quot;Ah sure, why not. But do not try to smuggle any weapons. Unless it's to me.&quot;
+
+&quot;Ах конечно, почему нет. Но не пытайтесь провезти любое оружие. Только если для меня.&quot;
+
+---
+
+TradingPactRejected
+
+&quot;I know our guns are sought after, but giving them to everyone would make them, well, less exclusive. I hope you understand...&quot;
+
+&quot;Я знаю, что наши пушки востребованы, но если давать их всем, то онибудут, ну, менее эксклюзивными. Надеюсь, вы понимаете ...&quot;
+
+---
+
+TradingPactTerminated
+
+&quot;I see this is an insult to my integrity. Watch your step, %2%.&quot;
+
+&quot;Я вижу, что это является оскорблением моей честности. Смотрите под ноги, %2%.&quot;
+
+---
+
+WarAccepted
+
+&quot;%2%, you must have lost your sanity to challenge me. Once I have dealt with your laughable army, I will personally take a C-X Flesheater and shove it down your throat.&quot;
+
+&quot;%2%, Вы, должно быть, потеряли рассудок, если бросаете мне вызов. После того, как я имел дело с вашей смехотворной армией, я лично возьму C-X Трупоед и засуну его тебе горло.&quot;
+
+---
+
+WithdrawalAccepted
+
+&quot;Let me assure you, %1%, that they were merely passing by -- I'll issue their new movement orders within the hour.&quot;
+
+&quot;Позвольте мне заверить вас, %1%, что они просто проходят мимо. Я выпущу новые приказы о  движении в течение часа.&quot;
+
+---
+
+WithdrawalRejected
+
+&quot;I'm afraid our troops are stationed exactly where they are supposed to be -- and that's not gonna change.&quot;
+
+&quot;Боюсь, наши войска размещены именно там, где они должны быть - и этого не изменить.&quot;

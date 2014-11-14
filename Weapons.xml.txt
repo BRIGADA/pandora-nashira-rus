@@ -1,0 +1,901 @@
+Alien
+
+Disintigrator
+
+Disintigrator
+
+---
+
+AlienDescription
+
+The Messari seem to have focused their development on one particular area, in which they are millennia ahead of us -- the generation and maintenance of complex energy fields. In their passive state, the fields barely interact with any forms of matter -- even high-energy alpha radiation -- but, when activated, they rend matter apart invisibly at the most basic level, with no possible defense.<br/><br/>We have no idea of the theory behind this. All we know is that to come within sight-lines of these weapons means certain death. Targets simply... evaporate.
+
+The Messari seem to have focused their development on one particular area, in which they are millennia ahead of us -- the generation and maintenance of complex energy fields. In their passive state, the fields barely interact with any forms of matter -- even high-energy alpha radiation -- but, when activated, they rend matter apart invisibly at the most basic level, with no possible defense.<br/><br/>We have no idea of the theory behind this. All we know is that to come within sight-lines of these weapons means certain death. Targets simply... evaporate.
+
+---
+
+AlienProperties
+
+<icon texture='GUI/Bullet'/>Beam weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft
+
+<icon texture='GUI/Bullet'/>Beam weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft
+
+---
+
+AlienArtillery
+
+Cruncher
+
+Cruncher
+
+---
+
+AlienArtilleryDescription
+
+Whilst the fields of the rest of Messari forces channel the fields through a variety of foci, the 'artillery' employs unfocused fields. Whilst this seems to increase their range hugely and allow them to hit more targets at once, the dispersion effect means that there will always be some survivors.
+
+Whilst the fields of the rest of Messari forces channel the fields through a variety of foci, the 'artillery' employs unfocused fields. Whilst this seems to increase their range hugely and allow them to hit more targets at once, the dispersion effect means that there will always be some survivors.
+
+---
+
+AlienArtilleryProperties
+
+<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+---
+
+Artillery0
+
+Long Tom
+
+Большой Том
+
+---
+
+Artillery0Description
+
+Indirect fire requires remote target acquisition, usually by a forward observer, but Pandora's unpredictable gravitational interference has made accurate long range artillery wildly unreliable.<br/><br/>Guided indirect artillery disposes of the human component in favor of a drone observer which can provide in-flight corrections to heavy ordnance projectiles for accurate bombardment over extreme ranges.
+
+Как правило, для непрямого огня на Старой Землей хватало наведения наблюдателя, но непредсказуемое гравитационное вмешательство Пандоры, сделало точный дальний артиллерийский огонь крайне ненадежным. <br/> <br/> Данная проблема была решена управляемым снарядом.
+
+---
+
+Artillery0Properties
+
+<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Артиллерия<br/><icon texture='GUI/Bullet'/>Совместимо с танками и кораблями<br/><icon texture='GUI/Bullet'/>Двойной радиус попадания<br/><icon texture='GUI/Bullet'/>Нет ответного огня<br/><icon texture='GUI/Bullet'/>Нету бонуса от брони при атаке<br/><icon texture='GUI/Bullet'/>Урон снижается пропорционально здоровью цели<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Artillery1
+
+Gunther
+
+Гюнтер
+
+---
+
+Artillery1Description
+
+Where the spread of normal artillery merely diminishes the chances of a target escaping an attack, the Gunther attempts to eliminate it. Its high rate of fire, automated MRSI calculation and fragmentation air burst projectiles enable it to strikes both the target and a surrounding area the size of a small town.
+
+Там, где стрельба обычной артиллерии лишь уменьшает шансы цели уйти из зоны поражения, Гюнтер старается вообще устранить эти шансы. Высокая скорострельность, система автоматического расчета попадания MRSI  и составные снаряды, делают возможным накрывать огнем площадь целого города.
+
+---
+
+Artillery1Properties
+
+<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Артиллерия<br/><icon texture='GUI/Bullet'/>Совместимо с танками и кораблями<br/><icon texture='GUI/Bullet'/>Двойной радиус попадания<br/><icon texture='GUI/Bullet'/>Нет ответного огня<br/><icon texture='GUI/Bullet'/>Нету бонуса от брони при атаке<br/><icon texture='GUI/Bullet'/>Урон снижается пропорционально здоровью цели<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Artillery2
+
+Cygnus
+
+Цигнус
+
+---
+
+Artillery2Description
+
+The Cygnus brings another lethal component into the fray: gravitons. When Cygnus shells implode, the release of gravitons emulates the effect of a temporary black hole, pulling objects in their vicinity toward the impact point and crushing them under the force of their own, heavily-augmented gravitational field.
+
+В основе работы снарядом лежат гравитоны. Когда снаряды Цингуса взрываются, начинается выпуск гравитонов - по сути создающих эффект временный черной дыры. Прятигивая объекты и перемалывая их гравитационной силой.
+
+---
+
+Artillery2Properties
+
+<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Артиллерия<br/><icon texture='GUI/Bullet'/>Совместимо с танками и кораблями<br/><icon texture='GUI/Bullet'/>Двойной радиус попадания<br/><icon texture='GUI/Bullet'/>Нет ответного огня<br/><icon texture='GUI/Bullet'/>Нету бонуса от брони при атаке<br/><icon texture='GUI/Bullet'/>Урон снижается пропорционально здоровью цели<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Aspidoch
+
+Yaw
+
+Рык
+
+---
+
+AspidochDescription
+
+When the Aspidoch breaches, you don't want to be nearby.
+
+Когда Аспидох ревет, вы явно хотите оказаться в другом месте.
+
+---
+
+AspidochProperties
+
+<icon texture='GUI/Bullet'/>Melee weapon
+
+<icon texture='GUI/Bullet'/>Melee weapon
+
+---
+
+Automatic0
+
+L-15 Lance Gun
+
+Штурмовое оружие L-15
+
+---
+
+Automatic0Description
+
+The most widespread human weapon since the colonization of extraterrestrial bodies, the Lance Gun is a fully automatic assault weapon.
+
+Самый распространенный вид оружия в начале эпохи колонизации. Полностью автоматическое оружие.
+
+---
+
+Automatic0Properties
+
+<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Автоматическое оружие<br/><icon texture='GUI/Bullet'/>совместимо с самолетами, вездеходами, ЭБП, танками, пехотой и кораблями<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/>силы против техники
+
+---
+
+Automatic1
+
+Gauss Gatling Gun
+
+Гаусс пушка гатлинга
+
+---
+
+Automatic1Description
+
+Recording and studying thousands of gunfights in real wars, has allowed us to model typical combatant and projectile patterns, opening the door for a new generation of automatic weapons. Weapons like the Gauss gun attempt to compensate for all uncertainties encountered on the battlefield. Stochastically-adjusted flight curves considerably increase the weapon's average accuracy.<br/><br/><style name='Italic'/>The troops have given a... mixed response to the Gauss tech. Veteran soldiers are especially wary of guns whose aims stray on purpose, no matter what &quot;theoretical nonsense&quot; might lurk behind it.
+
+Запись и изучение тысячи перестрелками в реальных войнах позволило нам смоделировать типичные атакующие и защитные тактики, открывая дверь для нового поколения автоматического оружия. Оружие, такое как пушки Гаусса, предназначено для компенсации всех неопределенностей встречаются на поле боя. Стохастически скорректированные кривые полета значительно увеличить среднюю точность оружия. Уникальное гибридное оружие.
+
+---
+
+Automatic1Properties
+
+<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Автоматическое оружие<br/><icon texture='GUI/Bullet'/>совместимо с самолетами, вездеходами, ЭБП, танками, пехотой и кораблями<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против техники
+
+---
+
+Automatic2
+
+Deiphobus
+
+Дейфобус
+
+---
+
+Automatic2Description
+
+The Deiphobus ammunition is tailored to trigger a chain reaction breaking down materials to their core subatomic components. Victims of the Deiphobus probably won't care much for the exact process -- as they'll be almost instantaneously disintegrated.
+
+Боеприпасы Дейфобус созданы, чтобы вызвать цепную реакцию субатомных частиц при разрушении материалов. Визуально это выглядит, как будто жертвы практически мгновенно распались.
+
+---
+
+Automatic2Properties
+
+<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Автоматическое оружие<br/><icon texture='GUI/Bullet'/>совместимо с самолетами, вездеходами, ЭБП, танками, пехотой и кораблями<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против техники
+
+---
+
+Bug0
+
+Needles
+
+Иглы
+
+---
+
+Bug0Properties
+
+<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Оружие ближнего боя<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против техники
+
+---
+
+Cannon0
+
+M-20 Serenity Cannon
+
+M-20 Сиринити
+
+---
+
+Cannon0Description
+
+To break through the thick armor and hulls of tanks, weapons of immense fire power are required. These simple cannons deliver a devastating payload that crushes everything in its path. While particularly effective against heavy targets, the relatively low rate of fire and targeting speed make them an atrocious armament against light or airborne units.<br/><br/><style name='Italic'/>What's better than a tank?
+
+Чтобы пробить толстую броню и корпуса танков, нужно оружие огромной огневой мощи. Эта конструктивно простая пушка, снаряды которой разрушают все на своем пути. Особенно эффективна против тяжелых целей, обладает относительно низкой скорострельностью и скоростью прицеливания. <br/> <br/> <style Name='Italic'/> Что может быть лучше, чем танк?
+
+---
+
+Cannon0Properties
+
+<icon texture='GUI/Bullet'/>Cannon weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Пушка<br/><icon texture='GUI/Bullet'/>Совместимо с танками и кораблями<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против тяжелой техники<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против легких подразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Cannon1
+
+Photon Cannon
+
+Фотонная пушка
+
+---
+
+Cannon1Description
+
+Designed as a straight replacement to the M-20 Serenity, Photon Cannons use plain old light focused through intensifying prisms to pierce their adversaries. Their shots are silent, save for the hiss of their target subliming.
+
+Задуманный, как замена для М-20 Сиринити, Фотонная пушка использует старый добрый свет и фокусирует его через призмы, пронзая противников. Их выстрелы бесшумны, за исключением шипения горящей цели.
+
+---
+
+Cannon1Properties
+
+<icon texture='GUI/Bullet'/>Cannon weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Пушка<br/><icon texture='GUI/Bullet'/>Совместимо с танками и кораблями<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против тяжелой техники<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против легких подразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Cannon2
+
+Tachyon Cannon
+
+Тахионная пушка
+
+---
+
+Cannon2Description
+
+While not making use of tachyons per se, the Tachyon Cannon is still an impressive piece or weaponry. It is able to propel super-energised photon particles at very high frequency and superluminal speeds, letting them pierce right through the thickest defense. Its AI-driven targeting system also grants it near-perfect accuracy, making the Tachyon Cannon the most frightening weapon in modern armies.
+
+Хотя тахионы не используются сами по себе, тахионная пушка является внушительным оружием. Оно способно ускорить сверхенергетические частицы фотонов на очень высокой частоте до сверхсветовых скоростей, позволяя им пробивать насквозь толстую броню. Его система наведения с ИИ обеспечивает почти идеальную точность, что делает тахионную пушку самым страшным оружием в современной армий.
+
+---
+
+Cannon2Properties
+
+<icon texture='GUI/Bullet'/>Cannon weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Пушка<br/><icon texture='GUI/Bullet'/>Совместимо с танками и кораблями<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против тяжелой техники<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против легких подразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Crab
+
+Claws
+
+Claws
+
+---
+
+CrabProperties
+
+<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs light units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs heavy units
+
+<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs light units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs heavy units
+
+---
+
+Flak0
+
+P-5 Bantham Flak
+
+Зенитная пушка P-5
+
+---
+
+Flak0Description
+
+Heavily based on probability theory and flight patterns, our new maneuver-estimation algorithms can predict changes in flight craft orientation and speed in  real-time. This allows us to finally reintroduce effective flak weaponry to Pandora and even reclaims the throne from missile systems as the de-facto aircraft destroyer.
+
+Долгие изучения методов предсказывания полета кораблей, а так методов работы этих алгоритмов в реальном времени. Это позволяет нам, наконец, создать крайне эффективную зенитную установку.
+
+---
+
+Flak0Properties
+
+<icon texture='GUI/Bullet'/>Anti-air weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>ПВО<br/><icon texture='GUI/Bullet'/>Совместимо с танками и кораблями<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Flak1
+
+Whirlwind Flak
+
+Зенитная пушка Смерч
+
+---
+
+Flak1Description
+
+Saturating the sky with a sea of shells and shrapnel, the Whirlwind Flak cannot be avoided by even the most skilled pilots. There is simply nowhere to escape.
+
+Она создает целое небо из снарядов и осколков. Ее попаданий в принципе не возможно избежать.
+
+---
+
+Flak1Properties
+
+<icon texture='GUI/Bullet'/>Anti-air weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>ПВО<br/><icon texture='GUI/Bullet'/>Совместимо с танками и кораблями<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Flak2
+
+Mirage Flak
+
+Зенитная пушка Мираж
+
+---
+
+Flak2Description
+
+Artificially creating sprite-lightnings, the effects of the Mirage are quite a sight to behold -- from a safe distance. Though not destructive in and of itself, the electrical discharge in the upper atmosphere jams weapons, disrupts electronic functions, causes bugs in all kinds of software, and has repercussions right down to the ground, though to a much lesser extent.
+
+Ее действие основано на искусственно создаваемой молнии, завораживающее зрелище, если смотреть с безопасного расстояния. Хотя ее попадание само по себе не разрушительно, оно полностью нарушает работу электронных устройств, вплоть до полного вывода их из строя.
+
+---
+
+Flak2Properties
+
+<icon texture='GUI/Bullet'/>Anti-air weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>ПВО<br/><icon texture='GUI/Bullet'/>Совместимо с танками и кораблями<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Flame0
+
+Hellfire
+
+Хелфаер
+
+---
+
+Flame0Description
+
+<style name='Italic'/>&quot;I like my enemies the way I like my toast. Charred.&quot;<br/>    -- Admiral James Heid<style name='Default'/><br/><br/>Colloquially said to send its enemies to hell, because of the horrible death it inflicts, this flamethrower uses a ground-breaking hydroxide-based pre-ignition technology. It doesn't discriminate between human and alien flesh, melting them with equal ease -- though robotics are more tricky.
+
+<style name='Italic'/>&quot;Я люблю своих врагов, как я люблю свой ​​тост. Поджаренными.&quot;<br/>    -- Адмирал Джеймс Хэйд<style name='Default'/><br/><br/>Грубо говоря она отправляет своих врагов в ад, и названа так из-за ужасной смерти, которую приносит. Это огнемет использует гидроксид на основе новаторской технологии предварительного зажигания.
+
+---
+
+Flame0Properties
+
+<icon texture='GUI/Bullet'/>Flamethrower weapon<br/><icon texture='GUI/Bullet'/>Usable by troopers<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Огнемет<br/><icon texture='GUI/Bullet'/>Совместимо с пехотой<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Flame1
+
+G-7 Volcano
+
+G-7 Вулкан
+
+---
+
+Flame1Description
+
+This evolution of the Hellfire brings its own twist to the battlegrounds: dual tanks hold respectively  &quot;vitriol&quot; and water, each of them coming out through a different barrel. The super-heated acid is propelled first, causing severe chemical burns to the target. Then comes the pressurized near-frozen water, provoking the explosive reaction that gives the weapon its name.
+
+Эта новая ступень эволюция систем Хелфаер. Вначале идет сверх нагретая кислота, нанося серьезные химические ожоги. Затем под давлением идет почти замерзшая вода, провоцируя разрушительную химическую реакцию.
+
+---
+
+Flame1Properties
+
+<icon texture='GUI/Bullet'/>Flamethrower weapon<br/><icon texture='GUI/Bullet'/>Usable by troopers<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Огнемет<br/><icon texture='GUI/Bullet'/>Совместимо с пехотой<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Flame2
+
+C-X Flesheater
+
+C-X Трупоед
+
+---
+
+Flame2Description
+
+The aptly-name Flesheater may look inoffensive, seemingly hurling a spray of gas onto its enemies. In reality, what is propelled is a highly hazardous mix of various re-engineered Pandoran toxins, much more active than their Terran counterparts: exo-, neuro-, hemo-, photo-, cardiotoxins and yet a few more. An unprotected victim is dissolved alive, both form the inside and the outside.
+
+Меткое имя 'Трупоед' может выглядеть безобидно, бросая брызги газа на своих врагов. На самом деле, то, что приводится выбрасывается, является весьма опасным сочетанием различных модернизированых токсинов Пандоры, гораздо более активных, чем их земные коллеги: экзо-, нейро-, гемо-, фото-, кардиотоксины и еще несколько. Незащищенные жертвы растворяются заживо, изнутри и снаружи.
+
+---
+
+Flame2Properties
+
+<icon texture='GUI/Bullet'/>Flamethrower weapon<br/><icon texture='GUI/Bullet'/>Usable by troopers<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Огнемет<br/><icon texture='GUI/Bullet'/>Совместимо с пехотой<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха
+
+---
+
+Flyer
+
+Yaw
+
+Клыки
+
+---
+
+FlyerProperties
+
+<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs biological units
+
+<icon texture='GUI/Bullet'/>Оружие ближнего боя<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против биоподразделений
+
+---
+
+Giant
+
+Sting
+
+Жало
+
+---
+
+GiantProperties
+
+<icon texture='GUI/Bullet'/>Melee weapon
+
+<icon texture='GUI/Bullet'/>Melee weapon
+
+---
+
+Gun0
+
+Lady Finger
+
+Lady Finger
+
+---
+
+Gun0Description
+
+Very expensive but small, concealable and with surprising fire power the Ladyfinger was specifically developed for our agents in the field to make them a threat not to be taken lightly.
+
+Very expensive but small, concealable and with surprising fire power the Ladyfinger was specifically developed for our agents in the field to make them a threat not to be taken lightly.
+
+---
+
+Gun0Properties
+
+<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+---
+
+Gun1
+
+Arasaka Minami 10
+
+Arasaka Minami 10
+
+---
+
+Gun1Description
+
+Upgraded with a Smartlink to directly interface with its wielder's cyberware, the Minami 10 allows a single well-trained agent to engage and survive battle encounters even against larger troop formations.
+
+Upgraded with a Smartlink to directly interface with its wielder's cyberware, the Minami 10 allows a single well-trained agent to engage and survive battle encounters even against larger troop formations.
+
+---
+
+Gun1Properties
+
+<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+---
+
+Gun2
+
+Techtronica M40
+
+Techtronica M40
+
+---
+
+Gun2Description
+
+The Techtronica M40 is a state of the art weapon that harbors an integrated consciousness. While the manufactoring cost is tremendous, the satellite supported battlefield assistance and intelligent threat analysis basically turn agents into one-man armies.
+
+The Techtronica M40 is a state of the art weapon that harbors an integrated consciousness. While the manufactoring cost is tremendous, the satellite supported battlefield assistance and intelligent threat analysis basically turn agents into one-man armies.
+
+---
+
+Gun2Properties
+
+<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+---
+
+Laser0
+
+Pulse Laser
+
+Импульсный лазер
+
+---
+
+Laser0Description
+
+Even though its pulse rate is quite low, this design is reasonably powerful: the longer the device builds energy, the higher the temperatures reached, up to the point where the laser simply evaporates the target.
+
+Даже при крайне низкой частоте луча, это оружие обладает огромной мощью, лазер просто испаряет цель.
+
+---
+
+Laser0Properties
+
+<icon texture='GUI/Bullet'/>Beam weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks and watercraft
+
+<icon texture='GUI/Bullet'/>Лучевое оружие<br/><icon texture='GUI/Bullet'/>Совместимо с самолетами, вездеходами, ЭБП,танками и кораблями
+
+---
+
+Laser1
+
+Fusion Laser
+
+Направленный лазер
+
+---
+
+Laser1Description
+
+Fusing excited deuterium and tritium nuclei with helium can release a tremendous amount of energy at the moment of contact. When channelled into a beam, the released energy results in a destructive power that surpasses traditional laser devices.
+
+Совмещая возбужденные ядра дейтерия и трития с гелием можно выпустить огромное количество энергии. Когда эта энергия направляется в пучок, создается огромная сила.
+
+---
+
+Laser1Properties
+
+<icon texture='GUI/Bullet'/>Beam weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks and watercraft
+
+<icon texture='GUI/Bullet'/>Лучевое оружие<br/><icon texture='GUI/Bullet'/>Совместимо с самолетами, вездеходами, ЭБП,танками и кораблями
+
+---
+
+Laser2
+
+Graviton Laser
+
+Гравитационный лазер
+
+---
+
+Laser2Description
+
+Theoretically predicted since Niels Bohr's day, it's only thanks to recent progress in technology that we now have finally discovered and proven the graviton particle. The ability to modify gravity itself opens the door to a new era of stunning devices, like this particle beam that dismantles its target by gravitational force.
+
+Теоретически предсказаный Нильсом Бором, только благодаря недавнему прогрессу в технологиях гравитон был, наконец обнаружен. Возможность изменять саму гравитацию открывает дверь в новую эру прекрасным устройствам: пучку частиц, который уничтожает свою цель под действием силы тяжести.
+
+---
+
+Laser2Properties
+
+<icon texture='GUI/Bullet'/>Beam weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks and watercraft
+
+<icon texture='GUI/Bullet'/>Лучевое оружие<br/><icon texture='GUI/Bullet'/>Совместимо с самолетами, вездеходами, ЭБП,танками и кораблями
+
+---
+
+Leviathan
+
+Leviathan
+
+Левиафан
+
+---
+
+LeviathanDescription
+
+The Leviathan's powerful arms are able to crush a reinforced hull with little to no effort.
+
+Сильные руки Левиафана в состоянии раздавить усиленную броню практически без усилий.
+
+---
+
+LeviathanProperties
+
+<icon texture='GUI/Bullet'/>Melee weapon
+
+<icon texture='GUI/Bullet'/>Melee weapon
+
+---
+
+Missile0
+
+Hammerhead Missile Launcher
+
+Ракетная установка Хамерхед
+
+---
+
+Missile0Description
+
+<style name='Italic'/>&quot;The means by which we live have outdistanced the ends for which we live. Our scientific power has outrun our spiritual power. We have guided missiles and misguided men.&quot;<br/>    -- Martin Luther King, Jr.<style name='Default'/><br/><br/>This self-propelled projectile delivery weapon employs guidance systems to maneuver its heavy ordnance missiles, dubbed Hammerheads. Missile based weapon systems are a good choice against heavy targets, like tanks, but at the same time stay relatively effective against lighter and faster targets.
+
+<style name='Italic'/>&quot;Смысл, которым мы живем уже опередил цели, ради которых мы живем. Наш научная власть превзошла нашу духовную силу. Мы направляем ракеты и не можем направить человека.&quot;<br/>    --Мартин Лютер Кинг младший<style name='Default'/><br/><br/>Это самоходная установка использует системы наведения для управления тяжелыми ракетами, получившими название 'Хаммер'. Данные оружейные системы являются хорошим выбором против тяжелых мишеней, таких как танки, но в то же время остаются относительно эффективеными против более легких и быстрых целей.
+
+---
+
+Missile0Properties
+
+<icon texture='GUI/Bullet'/>Missile weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs biological units
+
+<icon texture='GUI/Bullet'/>Ракетное оружие<br/><icon texture='GUI/Bullet'/>совместимо с самолетами, вездеходами, ЭБП, танками, пехотой и кораблями<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против биоподразделений
+
+---
+
+Missile1
+
+Hydra Missile Launcher
+
+Ракетная установка Гидра
+
+---
+
+Missile1Description
+
+Guidance-driven missile weapons have long struggled against jamming and chaff, but the Hydra Missile Launcher's vast amounts of projectiles and intelligent homing systems strike a balance that eludes most countermeasures.
+
+Самонаводящееся ракетное оружие имеет давнюю проблему с помехозащищенностью, но огромное количество снарядов в ракетной установке 'Гидра' и интеллектуальная система самонаведения обеспечивает преодоление большинства контрмер.
+
+---
+
+Missile1Properties
+
+<icon texture='GUI/Bullet'/>Missile weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs biological units
+
+<icon texture='GUI/Bullet'/>Ракетное оружие<br/><icon texture='GUI/Bullet'/>совместимо с самолетами, вездеходами, ЭБП, танками, пехотой и кораблями<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против биоподразделений
+
+---
+
+Missile2
+
+Anti-Matter Missile Launcher
+
+Ракетная установка на Антиматерии
+
+---
+
+Missile2Description
+
+This matter-antimatter collision has the potency to put nuclear fusion reactions to shame. The miniaturization and balancing of the projectiles costs a tremendous amount, but the efficiency of this weapon has no equal.
+
+Миниатюризация и создание снарядов стоит огромного количества денег, но эффективность этого оружия не имеет себе равных.
+
+---
+
+Missile2Properties
+
+<icon texture='GUI/Bullet'/>Missile weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs biological units
+
+<icon texture='GUI/Bullet'/>Ракетное оружие<br/><icon texture='GUI/Bullet'/>совместимо с самолетами, вездеходами, ЭБП, танками, пехотой и кораблями<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против техники<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против биоподразделений
+
+---
+
+Nightcrawler
+
+Tentacles
+
+Tentacles
+
+---
+
+NightcrawlerProperties
+
+<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units
+
+<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units
+
+---
+
+Ningen
+
+Larynx
+
+Larynx
+
+---
+
+NingenProperties
+
+<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+---
+
+None
+
+No Weapon
+
+Нет оружия
+
+---
+
+NoneDescription
+
+Units with no weapon cannot attack and usually have a very low military power, thus need protection.
+
+Подразделение не имеет никакого вооружения
+
+---
+
+QueenFlyer
+
+Yaw
+
+Клыки
+
+---
+
+QueenFlyerProperties
+
+<icon texture='GUI/Bullet'/>Melee weapon
+
+<icon texture='GUI/Bullet'/>Оружие ближнего боя
+
+---
+
+Shark
+
+Bite
+
+Укус
+
+---
+
+SharkProperties
+
+<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs light units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs heavy units
+
+<icon texture='GUI/Bullet'/>Оружие ближнего боя<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> силы против легких подразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs heavy units
+
+---
+
+Sniper0
+
+SWS Headhunter
+
+Головорез SWS
+
+---
+
+Sniper0Description
+
+A direct successor to old Earth light-gas guns, the SWS Headhunter is the cream of the crop of sniper rifles. It offers a combination of light weight, an advanced recoil buffer and hypersonic projectiles, presenting a frightening experience to all enemies caught unaware.
+
+Прямой наследник старых земных винтовок, Головорез SWS является лучшей из снайперских винтовок. Он предлагает сочетание легкого веса, передового гашения отдачи и гиперзвуковых снарядов, представляя опасность для всех врагов.
+
+---
+
+Sniper0Properties
+
+<icon texture='GUI/Bullet'/>Sniper weapon<br/><icon texture='GUI/Bullet'/>Usable by troopers<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Снайперская винтовка<br/><icon texture='GUI/Bullet'/>Совместимо с пехотой<br/><icon texture='GUI/Bullet'/>Нет ответного огня<br/><icon texture='GUI/Bullet'/>Нету бонуса от брони при атаке<br/><icon texture='GUI/Bullet'/>Урон снижается пропорционально здоровью цели<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против техники
+
+---
+
+Sniper1
+
+Shock Rifle
+
+Шоковая винтовка
+
+---
+
+Sniper1Description
+
+Firing high impact discharges from a frighteningly bulky frame, the Shock sniper rifle is a devastating offensive weapon when combined with proper support.
+
+Хотя стрельба из этой винтовки доставляет некоторые неудобства из-за громоздкой рамы, снайперская шоковая винтовка является разрушительным наступательным оружием, если сочетается с надлежащей поддержкой.
+
+---
+
+Sniper1Properties
+
+<icon texture='GUI/Bullet'/>Sniper weapon<br/><icon texture='GUI/Bullet'/>Usable by troopers<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Снайперская винтовка<br/><icon texture='GUI/Bullet'/>Совместимо с пехотой<br/><icon texture='GUI/Bullet'/>Нет ответного огня<br/><icon texture='GUI/Bullet'/>Нету бонуса от брони при атаке<br/><icon texture='GUI/Bullet'/>Урон снижается пропорционально здоровью цели<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против техники
+
+---
+
+Sniper2
+
+H-44 Arc Rifle
+
+Дуговая винтовка H-44
+
+---
+
+Sniper2Description
+
+The H-44 Arc sniper rifle fires rounds loaded with coupled subatomic particles. While inoffensive as long as they remain entangled, those particles separate on impact, warping a good chunk of the target around the penetration point.
+
+Дуговая снайперская винтовка H-44 стреляет патронами, наполненными связанными субатомными частицами. Будучи безобидными до тех пор, пока они остаются связанными, эти частицы отделяются от удара, деформируя хороший кусок мишени вокруг точки проникновения.
+
+---
+
+Sniper2Properties
+
+<icon texture='GUI/Bullet'/>Sniper weapon<br/><icon texture='GUI/Bullet'/>Usable by troopers<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+
+<icon texture='GUI/Bullet'/>Снайперская винтовка<br/><icon texture='GUI/Bullet'/>Совместимо с пехотой<br/><icon texture='GUI/Bullet'/>Нет ответного огня<br/><icon texture='GUI/Bullet'/>Нету бонуса от брони при атаке<br/><icon texture='GUI/Bullet'/>Урон снижается пропорционально здоровью цели<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/>силы против биоподразделений<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против техники
+
+---
+
+SpitterBug
+
+Pharynx
+
+Пасть
+
+---
+
+SpitterBugProperties
+
+<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units
+
+<icon texture='GUI/Bullet'/>Артиллерия<br/><icon texture='GUI/Bullet'/>Двойной радиус попадания<br/><icon texture='GUI/Bullet'/>Нет ответного огня<br/><icon texture='GUI/Bullet'/>Нету бонуса от брони при атаке<br/><icon texture='GUI/Bullet'/>Урон снижается пропорционально здоровью цели<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> силы против воздуха

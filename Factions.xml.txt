@@ -1,0 +1,636 @@
+Aspidochs
+
+Aspidochs
+
+Аспидохи
+
+---
+
+Bugs
+
+Bugs
+
+Жуки
+
+---
+
+Diplomatic
+
+The Ambassadors
+
+The Ambassadors
+
+---
+
+DiplomaticDescription
+
+The root of the ambassadorial class goes back to the bronze age, where the capability to not immediately kill an alien human was probably enough to get you classified as a diplomat. It continued into classical times, with the Phoenicians and Romans making effective use of travellers as ambassadors. But it wasn’t until 14th century that Milan’s Francesco Sforza established the idea of formal, permanent embassies between the endless-warring city states of Italy.<br/><br/>It was here that the international class really started to get established - a group of internationalists whose allegiance was as much to the role that they had as to the state they represented. In time, like their Roman predecessors, they became independently wealthy and bred smartly across borders, tightening their networks of contacts, and increasing their value to whichever state employed them.<br/><br/>With the 20th century, a new addition to their bloodline emerged. Adding to the ranks of the bourgeoisie and aristocrats came spies, increasingly embedded in every embassy as ‘military advisors’. Though these spies also started by being recruited from the ranks of the educated, by the century’s end it was a meritocratic institution pure and simple. Still, both the spies and diplomats lived in notable luxury at the expense of the states that employed them.<br/><br/>Through the ructions of the 21st century, the embassies changed allegiances and structures repeatedly, as the states they were responsible to fell into weakness, obsolescence and irrelevance. Yet that international race of diplomats, though drawn from all the races of the Earth, had formed one class. They were wealthy as sin too, and loathe to lose their privileges and the lifestyle that they’d become used to.<br/><br/>They saw the state of Earth early, they saw its future early, and they formed a consortium. Gradually, a plan emerged. They took over key areas of the world, through loopholes in treaties they’d crafted themselves or the action of the spies who were now thoroughly integrated into the faction. They ruled little but wealthy city-state enclaves and troublesome lands that no-one else could claim, initially as peacekeepers then as de-facto rulers. Liechtenstein, Switzerland, Lesotho, Kaliningrad, Hong Kong, Monaco, Cyprus, Sierra Leone, Jerusalem, Kashmir… where there was war, they saw an opportunity.<br/><br/>
+
+The root of the ambassadorial class goes back to the bronze age, where the capability to not immediately kill an alien human was probably enough to get you classified as a diplomat. It continued into classical times, with the Phoenicians and Romans making effective use of travellers as ambassadors. But it wasn’t until 14th century that Milan’s Francesco Sforza established the idea of formal, permanent embassies between the endless-warring city states of Italy.<br/><br/>It was here that the international class really started to get established - a group of internationalists whose allegiance was as much to the role that they had as to the state they represented. In time, like their Roman predecessors, they became independently wealthy and bred smartly across borders, tightening their networks of contacts, and increasing their value to whichever state employed them.<br/><br/>With the 20th century, a new addition to their bloodline emerged. Adding to the ranks of the bourgeoisie and aristocrats came spies, increasingly embedded in every embassy as ‘military advisors’. Though these spies also started by being recruited from the ranks of the educated, by the century’s end it was a meritocratic institution pure and simple. Still, both the spies and diplomats lived in notable luxury at the expense of the states that employed them.<br/><br/>Through the ructions of the 21st century, the embassies changed allegiances and structures repeatedly, as the states they were responsible to fell into weakness, obsolescence and irrelevance. Yet that international race of diplomats, though drawn from all the races of the Earth, had formed one class. They were wealthy as sin too, and loathe to lose their privileges and the lifestyle that they’d become used to.<br/><br/>They saw the state of Earth early, they saw its future early, and they formed a consortium. Gradually, a plan emerged. They took over key areas of the world, through loopholes in treaties they’d crafted themselves or the action of the spies who were now thoroughly integrated into the faction. They ruled little but wealthy city-state enclaves and troublesome lands that no-one else could claim, initially as peacekeepers then as de-facto rulers. Liechtenstein, Switzerland, Lesotho, Kaliningrad, Hong Kong, Monaco, Cyprus, Sierra Leone, Jerusalem, Kashmir… where there was war, they saw an opportunity.<br/><br/>
+
+---
+
+DiplomaticLeaderPrename
+
+Itala
+
+Itala
+
+---
+
+DiplomaticLeaderSurname
+
+Palomino
+
+Palomino
+
+---
+
+DiplomaticLeaderTitle
+
+Secretary
+
+Secretary
+
+---
+
+DiplomaticProperties
+
+<icon texture='GUI/Bullet'/>Diplomatic: +25% <icon texture='Resources/Standing'/> standing in diplomatic negotiations<br/><icon texture='GUI/Bullet'/>Subversive: +25% <icon texture='Attributes/Infiltration'/> infiltration chance<br/><icon texture='GUI/Bullet'/>Parasitic: profit 25% from all <icon texture='Resources/Research'/> research and <icon texture='Resources/Credits'/> trading pacts on the planet<br/><icon texture='GUI/Bullet'/>Orbital Eyes: -66% <icon texture='Attributes/Production'/> cost and <icon texture='Attributes/Upkeep'/> upkeep for satellite uplinks
+
+<icon texture='GUI/Bullet'/>Diplomatic: +25% <icon texture='Resources/Standing'/> standing in diplomatic negotiations<br/><icon texture='GUI/Bullet'/>Subversive: +25% <icon texture='Attributes/Infiltration'/> infiltration chance<br/><icon texture='GUI/Bullet'/>Parasitic: profit 25% from all <icon texture='Resources/Research'/> research and <icon texture='Resources/Credits'/> trading pacts on the planet<br/><icon texture='GUI/Bullet'/>Orbital Eyes: -66% <icon texture='Attributes/Production'/> cost and <icon texture='Attributes/Upkeep'/> upkeep for satellite uplinks
+
+---
+
+DiplomaticQuote
+
+<style name='Italic'/>&quot;The art of diplomacy is to say nothing, at length, to everybody. The art of espionage is to use the time that the diplomats have bought to make sure you get the right reply. &quot;<br/>    -- %1%, Nuovo Principe <style name='Default'/>
+
+<style name='Italic'/>&quot;The art of diplomacy is to say nothing, at length, to everybody. The art of espionage is to use the time that the diplomats have bought to make sure you get the right reply. &quot;<br/>    -- %1%, Nuovo Principe <style name='Default'/>
+
+---
+
+DiplomaticTheme
+
+Diplomatic
+
+Diplomatic
+
+---
+
+DiplomaticWelcome
+
+You are %1%, leader of the diplomatic Ambassadors. For generations your ancestors were envoys, consuls, attachés and spies, holding Earth back from the brink of war by whatever means necessary, and growing fat on state wages. Now with Earth lost, you've fled to Pandora. Here, you're attempting to keep peace amongst the reckless factions that survived Earth -- and quietly establishing your surveillance networks to make sure that they do...
+
+You are %1%, leader of the diplomatic Ambassadors. For generations your ancestors were envoys, consuls, attachés and spies, holding Earth back from the brink of war by whatever means necessary, and growing fat on state wages. Now with Earth lost, you've fled to Pandora. Here, you're attempting to keep peace amongst the reckless factions that survived Earth -- and quietly establishing your surveillance networks to make sure that they do...
+
+---
+
+Ecologic
+
+Terra Salvum
+
+Терра Сальвум
+
+---
+
+EcologicDescription
+
+The Earth-founded organization that became Terra Salvum started out as an array of pressure-groups, scattered over the planet, in the late 20th century. As the 21st century progressed and the climate collapsed, they won more supporters to their cause, especially in the areas where natural resources were being over-exploited -- Africa, South America and parts of Asia -- as well as in liberal parts of the west.<br/><br/>Gradually, the organizations realized that the only way to talk to governments was to match their size. In the 2040s, following a decade of terrorism and warfare that scarred Earth, these pressure groups merged into Terra Salvum, using their combined influence and financial power to make their opinions count just as much as the corporations. Their more-militant arm became especially feared in international waters.<br/><br/>When Pandora was discovered, Terra Salvum didn't have the finances to buy one of Noxium's terrifyingly-expensive cruise-colonizers. Thankfully with the aid of developing world hackers, the organization managed to 'acquire' the blueprints for the ships. Friendly scientists donated their lives to rapidly decode these and the resources of a small nation were poured into building a single colony ship. However, the organization simply couldn't afford the extra cost of building enough hibernation units and radiation shielding before launch -- so they didn't.<br/><br/>Given their exposure to hard radiation during the transit to Pandora, most of the adult ecologists sickened and died, leaving a crew of young, fervent green warriors growing up on the ship, most of whom had never seen an Earth flower. On landing, the young Vivian Gardinier, daughter of the former leader Elora, was appointed as her mother's replacement. Her peaceful followers -- after more than two decades of imprisonment on a radiation-riddled spaceship -- long for a living world and are determined that the war for natural resources which bled old Earth white will never happen on Pandora. 
+
+Основанная на Земле организация, которая позже стала Террой Сальвум, начинала в конце 20-го века как группа активистов, разбросанных по всей планете. В 21-м веке, когда климат был уничтожен прогрессом, они обрели больше сторонников, особенно в тех областях, где природные ресурсы чрезмерно эксплуатировались - Африка, Южная Америка и некоторые части Азии,- а также в либеральных частях Запада.<br/><br/>Постепенно, организации поняли, что единственный способ поговорить с правительствами  - это соответствовать их размеру. В 2040-е годы, после десятилетия терроризма и войны, что шрамировала Землю, эти группы активистов объединились в Терра Сальвум, используя их совместное влияние и финансовую мощь, сделали так,что с их мнением считались так же, как и с мнением корпораций. Их военной мощи особенно опасались в международных водах.<br/><br/>Когда Пандора была обнаружена, у Терра Сальвум не было финансов, чтобы купить один из ужасающе-дорогих колонизаторов Ноксиума. К счастью, с помощью развивающегося мира хакеров, организации удалось «приобрести» чертежи для кораблей. Сочувствующие ученые пожертвовали своей жизнью, чтобы быстро декодировать эти чертежи. Ресурсы маленькой нации были растрачены на строительство одного колониального корабля. Тем не менее, организация просто не могла позволить себе дополнительных расходов на строительство достаточного количества криокамер и средств защиты от излучения.<br/><br/>Учитывая воздействие жесткого излучения во время путешествия на Пандору, большинство взрослых экологов заболело и умерло, оставив экипаж из молодых, горячих зеленых воинов, растущих на корабле, большинство из которых никогда не видел цветов Земли. При посадке, молодая Вивиан Гардиньер, дочь бывшего лидера Элора, была назначена в качестве замены ее матери. Ее мирные последователи, после более чем двух десятилетий лишения свободы на пронизанном радиацией корабле, слишком долгого для живого мира, решили, что война за природные ресурсы, котороя обескровила Старую Землю  никогда не произойдет на Пандоре. 
+
+---
+
+EcologicLeaderPrename
+
+Vivian
+
+Вивиан
+
+---
+
+EcologicLeaderSurname
+
+Gardinier
+
+Гардиньер
+
+---
+
+EcologicLeaderTitle
+
+Advocate
+
+Адвокат
+
+---
+
+EcologicProperties
+
+<icon texture='GUI/Bullet'/>Ecologic: +1 <icon texture='Resources/Minerals'/> minerals from forests and fungus<br/><icon texture='GUI/Bullet'/>Frugal: +25% <icon texture='Resources/Habitat'/> habitat<br/><icon texture='GUI/Bullet'/>Sympathetic: -50% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>Peaceful: -25% <icon texture='Attributes/Power'/> power when attacking
+
+<icon texture='GUI/Bullet'/>Экологи: +1 <icon texture='Resources/Minerals'/> минерал от лесов и грибков<br/><icon texture='GUI/Bullet'/>Скромные: +2 <icon texture='Resources/Habitat'/> жилье<br/><icon texture='GUI/Bullet'/>Сочувственный: -50% <icon texture='Factions/NativeIcon' width='16'/> инопланетной агрессии<br/><icon texture='GUI/Bullet'/>Мирные: -25% <icon texture='Attributes/Power'/> силы при атаке
+
+---
+
+EcologicQuote
+
+<style name='Italic'/>&quot;Our ancestors knew how much Earth was suffering, but they kept their ways, and we paid the price. Now that we have found this untouched new world, have we learned from our ancestors' mistakes? If not, how will the alien ecosystem react to our intrusion?&quot;<br/>    -- %1%, Alien Ecosystems<style name='Default'/>
+
+<style name='Italic'/>&quot;Наши предки знали, сколько Земля страдает, но они продолжали свой путь, и мы поплатились за это. Теперь, когда мы нашли этот нетронутый новый мир, научились ли мы на ошибках наших предков? Если нет, то как чужая экосистема отреагируют на наше вторжение?&quot;<br/>    -- %1%, Инопланетные Экосистемы<style name='Default'/>
+
+---
+
+EcologicTheme
+
+Ecologic
+
+Эологический
+
+---
+
+EcologicWelcome
+
+You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources have bled out old Earth, our once rich and abundant homeworld is nothing but a shadow of its former self. While other factions might be on a path to repeat the same mistakes again, you and your followers have respect for the environment and humanity, treating the planet and its children with the respect they deserve.
+
+Вы %1%, лидер экологического %2%. Бесшабашенная промышленность и война за природные ресурсы истощили Старую Земли. Наш однажды богатый и обильный домашний мир не что иное, как тени былого. В то время как другие фракции может пойти по пути повторения  ошибок, вы и ваши последователи имеют отношение к окружающей среде и человечеству, рассматривайте планету и ее детей с уважением, которого они заслуживают.
+
+---
+
+Economic
+
+Noxium Corporation
+
+Корпорация Ноксиум
+
+---
+
+EconomicDescription
+
+No one would have believed in the last years of the nineteenth century that Earth was being controlled keenly and closely by intelligences more subtle than most men's. The Noxium Corporation didn't exist then, of course. But the handful of greedy men who valued their own happiness more highly than that of a thousand others had existed since the 17th century.<br/><br/>The slow cartelization of most economic markets really took off in the 19th century, but advanced marvelously in the 20th century, and in the USA in particular. By the end of 2000, the poorest 80% of people in the USA owned just 15% of the country's wealth -- and that fell to 10% in the next five years.<br/><br/>By the 21st century, these financiers had reached an almost perfect capitalist state. They did nothing. They produced nothing. They gambled huge amounts of money on stock markets like roulette wheels, but hid it carefully when the tax-man came to call. When the countries of the world, driven to desperation by their collapsing incomes, eliminated tax havens, these financiers just bought up the nascent space industry and moved into orbit.<br/><br/>Noxium wasn't the first company to make money from space habitats -- in fact its main focus was on asteroid mining -- but its establishment of the so-called Ceres Cartel with the Empire Management mercenary group in the 2030s meant that it was quite soon the only business in town. Habitats that weren't launched with the cartel's approval had a horrible habit of being struck by micrometeorites, exploding on launch or directing themselves into a burn-up orbit while the occupants slept. The commercial war was bloody but understandably short-lived.<br/><br/>The Ceres Cartel held together for the best part of forty years, until 2075 when the first interstellar probes reported back from the superterran exoplanet Tau Ceti e. Though the planet was uninhabitable, the prospect of space colonization suddenly reawakened Noxium's dozing commercial instincts and plans for interstellar ships were put into effect. Unfortunately, Noxium foolishly neglected to take their military allies Imperium into their new venture, instead allying with the production facilities of the Solar Dynasty and the design geniuses of Togra University.<br/><br/>Imperium's vengeful raid on the Callisto headquarters of Noxium's mining operation killed off the Ceres Cartel totally. The Imperium vacuum troopers took the prototype ship -- intended for Noxium's own use -- which Imperium then used to head to Pandora. It's worth noting that though the Noxium board was angry at the Imperium for this, it was mainly that they hadn't realised space-piracy would be such a lucrative business model. Instead, they focused their ire on Noxium's own security section, who soon found that, whilst accountants might be boring people, it doesn't take much imagination to cancel your bonus and/or throw you out of an airlock.<br/><br/>Retrenching and belatedly establishing their own security force, Noxium built itself a new colony ship, and hastened for the new markets of Pandora, ripe for the exploitation of its physical, human and financial capital.
+
+Никто не поверил бы в последние годы девятнадцатого века, что Земля в настоящее время контролируется интеллектуалами более худыми, чем большинство мужчин. Корпорация Ноксиум конечно же тогда еще не существовала. Но горстка жадных мужчин, ценивших свое счастье выше, чем тысяч других, существовала с 17 века.<br/><br/>Постепенное объединение в картели большинства экономических рынков хоть и ускорилось в 19 веке, но в 20 веке  скорость стала невероятной, в частности в США. К концу 2000 года, самым бедным 80% населения США принадлежало только 15% богатства страны и в течение следующих пяти лет упало до 10%.<br/><br/>К 21-му веку, эти финансисты достигли почти идеального капиталистического государства. Они ничего не сделали. Они не дали ничего. Они играли огромными суммами денег на фондовых рынках, как на рулетке, но тщательно прятали их, когда приходила налоговая инспекция. Когда страны мира, доведенные до отчаяния своими рушащимися доходами, устранили налоговые лазейки, эти финансисты просто скупили зарождающуюся космическую промышленность и переехали на орбиту.<br/><br/>Ноксиум не была первой компанией, делающей деньги из космических мест обитания - на самом деле главный акцент был сделан на добыче астероидов. Однако создание так называемого картеля Церера совместно с Имперской группой управления наемниками в 2030-х годах означало, что это стало их основным бизнесом. Места обитания, которые запускались без согласия картеля обычно поражали микрометеориты, взрывались при запуске или сами по себе выгорали на орбите, пока жители спали. Коммерческая война была кровавая, но недолгая.<br/><br/>Картель Церера продержался вместе сорок лет, до 2075 года, когда первые межзвездные зонды сообщили об экзопланете в созвездии Тау Кита. Хотя планета была необитаемой, перспектива колонизации космоса вдруг пробудила дремлющий коммерческий инстинкт Ноксиум и планы на межзвездные корабли были введены в действие. К сожалению, Ноксиум пренебрегли своими военными союзниками из Империума в их новом предприятии и сделали упор на производственном союзе с Солнечной Династией и гениями университета Тогра.<br/><br/> Империум совершил мстительный рейд на штаб-квартиру добывающего отделения Ноксиум, Каллисто, и уничтожил Картель Церера. Космические войска Империума захватили прототип корабля, предназначенного для собственного использования Ноксиума, который Империум позже использовал для перемещения на Пандору. Стоит отметить, что, хотя совет Ноксиума был зол на Империум за нападение, главное, что они не поняли, что космическое пиратство будет прибыльной бизнес моделью. Вместо этого они сосредоточили свое недовольство на собственном отделе безопасности, который вскоре обнаружил, что, в то время как бухгалтеры могут быть скучными людьми, не надо много фантазии, чтобы отменить выплаты процентов и/или бросить вас из шлюза .<br/><br/>Экономно и с опозданием восстановив их собственные силы безопасности, Ноксиум построил себе новый корабль-колонию, и поспешил на новый рынок Пандоры, спеый для эксплуатации его физического, человеческого и финансового капитала.
+
+---
+
+EconomicLeaderPrename
+
+Eric
+
+Эрик
+
+---
+
+EconomicLeaderSurname
+
+Preston
+
+Престон
+
+---
+
+EconomicLeaderTitle
+
+Director
+
+Директор
+
+---
+
+EconomicProperties
+
+<icon texture='GUI/Bullet'/>Economic: +25% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>Bargainers: 25% <icon texture='Resources/Credits'/> better prices<br/><icon texture='GUI/Bullet'/>Wealthy: +120 <icon texture='Resources/Credits'/> starting credits<br/><icon texture='GUI/Bullet'/>Extravagant: -25% <icon texture='Resources/Habitat'/> habitat
+
+<icon texture='GUI/Bullet'/>Экономисты: +25% <icon texture='Resources/Credits'/> кредитов с налогов <br/><icon texture='GUI/Bullet'/>Переговорщики: -25% <icon texture='Resources/Credits'/> цены покупки<br/><icon texture='GUI/Bullet'/>Богатые: +120 <icon texture='Resources/Credits'/> кредитов к начальному капиталу<br/><icon texture='GUI/Bullet'/>Экстравагантные: -2 <icon texture='Resources/Habitat'/> жилья
+
+---
+
+EconomicQuote
+
+<style name='Italic'/>&quot;In this day and age, supply and demand is the driving force behind society. I made several fortunes by understanding the market, by buying and selling at the right times, and to the right people. In this world, provided you have the liquidity, nothing is impossible.&quot;<br/>    -- %1%, Planetary Markets<style name='Default'/>
+
+<style name='Italic'/>&quot;В этот день возраст, спрос и предложение является движущей силой общества. Я сделал состояние, понимая рынок, покупая и продавая в нужное время, и с нужными людьми. В этом мире, если у вас есть ликвидность, нет ничего невозможного.&quot;<br/>    -- %1%, Планетарные рынки<style name='Default'/>
+
+---
+
+EconomicTheme
+
+Economic
+
+Экономика
+
+---
+
+EconomicWelcome
+
+You are %1%, leader of the economic %2%. Your people value riches above everything and have elevated trade and haggling to art forms. While they are highly skilled in all forms of commerce, their extravagant style and pretentious architecture result in a waste of living space noticeably felt by the less fortunate individuals of your society.
+
+Вы %1%, лидер экономического %2%. Ваши люди ценят материальные блага превыше всего и часто покупают предметы роскоши. В то время как они имеют высокую квалификацию во всех видах торговли, их экстравагантный стиль и претенциозная архитектура приводит к пустой трате жилой площади, заметно ощущаемой менее удачливыми особями нашего общества.
+
+---
+
+Fanatic
+
+Divine Ascension
+
+Божественное Вознесение
+
+---
+
+FanaticDescription
+
+The Divine Ascension is a theocratic monarchy and the colorfully-named Lady Lilith Vermillion is its absolute monarch. Born as simple Lily Maroon in 2010s rural America, Lily's wild early years hardly gave signs that she would one day be regarded as next-to-god by billions; drinking, gambling, blackmail and more sordid sins all came naturally to her.<br/><br/>Her first steps on the path to godhood came, though, when a nerdy drinking buddy signed her up to a major social network as a prank. Never having used these, Lily saw, where few had before, the potential for social networks as a natural outgrowth of evangelical organizations -- and as a tool for blackmail.<br/><br/>Taking elements of major modern cults, and using her underworld connections, Lily founded the world's first entirely online religion in 2038. Then the second. And third. Intrigued by the success and experiencing a taste for power, she changed her name to Lilith Vermillion and with the help of Togra's off-shelf AI designers founded hundreds of new religions. Some riffing on old favorites like The Greek Autodocs Church, some entirely new, like Blessed Abduction, but all plugged deeply into user's online lives. Each one was subtly different, but all had Divine Ascension and the unity of all religions as their heart, their eventual revealed truth.<br/><br/>That wasn't Divine Ascension's biggest secret though. The precepts of the church were extremely hierarchical and to reach the next level of salvation, believers had to put their trust in their higher-ups -- revealing their darkest secrets as part of ascension rituals, projected live on the social network. Essentially, every step up the hierarchy knew the dirty secrets of every person below them. And Lady Vermillion, aided by data-mining AIs, sits at the top.<br/><br/>Now imagine trying to leave such a network. You're all being automatically blackmailed, your income siphoned, your friends and family incentivized to betray doubters so they can be 'healed' at the special reformation camps in Siberia. There's no way out, save to disappear entirely.<br/><br/>By the 2040s, Divine Ascension was one of the largest religions on earth. Some of the followers truly believed; those who didn't kept their mouths firmly shut. But now the really strange part started. Lilith, a grasping materialist since birth, finally found herself with the luxury to rest, think; and found that she genuinely had faith, in herself, as a god. Now this might have been a result of the brain trauma she received after an assassination attempt, and it didn’t change anything about the cruelty and authoritarianism of her organization – but it changed the religion’s aims. She was a god; now she wanted a planet of her own.<br/><br/>Using the fabulous wealth of a tithe drawn from a billion people, Lilith had Noxium build her a fabulous space cathedral, a Gothic rotational habitat that was decorated as a prayer wheel, turning the sun's rays into rotational force, and hence prayer, and incidentally gravity. With her faithful few, she retreated into meditative cryo-pods in the hub of the habitat. Here they lay, aging only slowly, waiting for the discovery of a world she could call her own -- and the science to get there.<br/><br/>In the 2080s, the Pandora announcement invigorated her religions. Vermillion's instructions were clear -- her cryo-pod and those of the faithful were loaded straight into her custom-built Noxium colonization ship and sent to the stars, while her fearful faithful prayed for her deliverance (and many secretly hoped she never came back).<br/><br/>On Pandora, Lady Vermillion sits at the top of a social pyramid that combines the worst parts of Facebook, Scientology and North Korea.  Her zealous followers worship her for being god's instrument to express his will among men. She believes it's her destiny to show her people the right path, and lead them to a prosperous future in a promised land. Pandora is that promised land. Woe betide any heathens who get in her way.
+
+Божественная Вознесение является теократической монархией с абсолютным монархом, называемой Леди Лилит Алая. В миру Лили Марун родилась в 2010-е сельской Америке, дикие ранние годы Лили едва давала признаки того, что она в один прекрасный день станет помазанницей божией для миллиардов; алкоголь, азартные игры, шантаж и другие грязные грехи все были, естественно, ей знакомы.<br/><br/>Ее первые шаги на пути к божественности начались, когда собутыльник зарегистрировал её в крупной социальной сети в качестве шутки. Никогда не пользовавшаяся ими, Лили увидела, как и многие до нее, потенциал использования социальных сетей для евангельских организаций... и в качестве инструмента для шантажа.<br/><br/>Переняв элементы основных современных культов, и, используя свои преступные связи, Лили основала первую полностью онлайн религию в мире в 2038 году. Затем вторую. И третью. Заинтригованная успехом и испытав вкус к власти, она изменила свое имя на Лилит Алая и с помощью бывших специалистов по ИИ из Тогры основала сотни новых религий. Взяв некоторые мотивы из старых церквей, таких как Греческая Ортодоксальная Церковь, некоторые из совершенно новых, таких как Пресвятое Похищение, все это она перенесла в интернет-жизнь обычного пользователя. Каждый из них немного отличался от других, но все обрели Божественное Вознесение, единство всех религий в их сердцах, их собственную открытую истину.<br/><br/>Но это был не самый большой секрет Божественного Вознесения. Заповеди церкви были крайне иерархичны и, чтобы достичь следующего уровня спасения, верующие должны были уповать на их настоятелей - выдавая свои самые темные тайны в рамках ритуалов восхождения, транслируемых в прямом эфире на социальной сети. По сути, каждый человек вверх по иерархии знал грязные секреты каждого человека под ними. А леди Алая, опираясь на данные сканирующего ИИ, возглавляет все.<br/><br/>А теперь представьте, что вы пытаетесь оставить такую сеть. Вас все время автоматически шантажировали, ваш доход перекачивали, ваши друзья и семья заинтересована передать вас на 'исцеление' в специальные лагеря реформирования в Сибири. Нет другого выхода, кроме как полностью исчезнуть.<br/><br/>К 2040-м годам, Божественное Вознесение была одной из крупнейших религий на земле. Некоторые из последователей действительно верили; те, кто не верил держал язык за зубами. Но сейчас началась действительно нечто странное. Лилит, материалист с рождения, наконец, нашла себя в роскошном отдыхе, в размышлениях; и обнаружила, что она действительно верит в себя, как в бога. Правда, возможно, это было результатом травмы головного мозга, которую она получила после покушения. и хотя это откровение не повлияло на жестокость и авторитаризм в ее организации, но это изменило религиозные цели. Она был богом, а теперь она хотела свою собственную планету.<br/><br/>Используя сказочное богатство от десятины, получаемой с миллиарда человек, Лилит заказала Ноксиуму построить ей сказочный космический собор, готическую вращающуюся станцию, украшеную как молитвенный алтарь, превращающую солнечные лучи в силу вращения, и, следовательно, молитву, а попутно и в гравитацию. С несколькими верноподданнными, она отошла в медитативную криокамеру в основании станции. Вот она лежит, медленно старея, ожидая открытия мира, который она могла бы назвать своим именем - и наука сделала это.<br/><br/>К 2080-м годам, открытие Пандоры воодушевило ее религию. Инструкции Алой были ясны - ее криокамера и тех из верующих, кто был с ней, были загружены прямо в заказный Ноксиуму колонизационный корабль и отправили к звездам, в то время как верующие молились за ее освобождение (и многие тайно надеялись, что она так и не вернётся).<br/><br/>На Пандоре, Алая леди находится на вершине социальной пирамиды, которая сочетает худшие части Facebook, саентологии и Северной Кореи. Ее рьяные последователи поклоняться ей за то, что она - помазанник бога, выражающий его волю среди людей. Она считает, что это ее судьба - показать ее людям правильный путь и привести их к процветающему будущему в обетованной земле. Землей обетованной является Пандора. Горе всем язычникам, которые встают у нее на пути.
+
+---
+
+FanaticLeaderPrename
+
+Lilith
+
+Лилит
+
+---
+
+FanaticLeaderSurname
+
+Vermillion
+
+Алая
+
+---
+
+FanaticLeaderTitle
+
+Lady
+
+Леди
+
+---
+
+FanaticProperties
+
+<icon texture='GUI/Bullet'/>Fanatic: -25% <icon texture='Attributes/Production'/> unit cost<br/><icon texture='GUI/Bullet'/>Aggressive: +25% <icon texture='Attributes/Power'/> power when attacking<br/><icon texture='GUI/Bullet'/>Zealous: +2 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Conservative: -33% <icon texture='Resources/Research'/> research from scientists
+
+<icon texture='GUI/Bullet'/>Фанатики: -25% <icon texture='Attributes/Production'/> стоимости юнитов<br/><icon texture='GUI/Bullet'/>Агрессивные: +25% <icon texture='Attributes/Power'/> силы при атаке<br/><icon texture='GUI/Bullet'/>Ревностные: +2 <icon texture='Resources/Morale'/> морали<br/><icon texture='GUI/Bullet'/>Консервативные: -33% <icon texture='Resources/Research'/> исследований от ученых
+
+---
+
+FanaticQuote
+
+<style name='Italic'/>&quot;God has finally shown us the path to a new paradise, so do not fear my brothers and sisters -- for I am destined to be the shepherd leading you to salvation.&quot;<br/>    -- %1%, The Path to Salvation<style name='Default'/>
+
+<style name='Italic'/>&quot;Бог, наконец, показал нам путь в новой рай, так что не бойтесь, мои братья и сестры - мне суждено быть пастырем, ведущим вас к спасению.&quot;<br/>    -- %1%, Путь к спасению<style name='Default'/>
+
+---
+
+FanaticTheme
+
+Fanatic
+
+Fanatic
+
+---
+
+FanaticWelcome
+
+You are %1% of the fanatic %2%. You are the head of a theocratic monarchy, and your zealous followers worship you for being god's instrument to express his will among men. It is your destiny to show your people the right path, and lead them to a prosperous future in a promised land.
+
+Вы %1% фанатик %2%. Вы глава теократической монархии, и ваши ревностные последователи поклоняются вам за то, что божественный инструмент, который выражает Его/ее/их волю среди людей. Это твоя судьба, показать вашим людям правильный путь, и привести их к процветающему будущему в земле обетованной.
+
+---
+
+Flyers
+
+Flyers
+
+Флаерс
+
+---
+
+Giants
+
+Giants
+
+Гиганты
+
+---
+
+Industrious
+
+Solar Dynasty
+
+Солнечная Династия
+
+---
+
+IndustriousDescription
+
+The prevailing theme of the short twentieth century (1914-1991) was the clash of authoritarian ideologies. Communism, fascism and capitalism fought throughout the century, with none of them emerging with its reputation intact. Indeed, the only 'isms' that did emerge successfully were authoritarianism and pragmatism -- both as practiced effectively by the Chinese Communist party from the late 1930s. By always acting in the interest of the majority over the interest of any single individual, the Chinese state emerged with a brutally effective economy by the late 20th century.<br/><br/>But, as Plato observed, regimes always decay towards tyranny. Chinese communism was no exception, though the efforts of the National People's Congress to execute and subjugate overweening leaders to their authority until the early 2060s were impressively effective. It was only with the appointment of Sheng Xi as Chairman of the Central Guidance Commission for Building Spiritual Civilization that they made a misstep.<br/><br/>Like Caesar and Napoleon before him, Sheng Xi made carefully-brutal steps towards the suppression of resistance. The early steps are of little interest -- his birth in Xiamen, his rapid rise through the party and accession to the Politburo. However, his own business is of note -- a firm specializing in genetic manipulation (essential for progress in the ranks) used by the elite to guarantee children and sons (whispered to involve cloning technology for the more infertile cases). By the time of the final National Congress in 2062, Sheng was General Secretary and powerful -- too powerful in fact, so that rumors rumbled in the state media that the Congress would take him down a peg.<br/><br/>What happened at the final National Congress, no-one really knows. The state media blames the detonation of poison gas bombs on Uighur and Nepalese separatists, but we do know that after the event, Sheng's authority was unchallenged. He changed his title from General Secretary to Prime Minister and, to prevent further attacks on the new Congress, had them all shipped up to a new Noxium-built habitat in orbit about Saturn.<br/><br/>This habitat was, in fact, his pleasure palace, where complicit members lived a life of bliss. (No-one knows what happened to any dissidents, but there was always a large supply of shipboard protein.) With the consent of his Congress-slaves, Sheng changed the name of the country to the Solar Dynasty, and died in bliss, while his people suffered.<br/><br/>His clone-son, Yun Xi, became Prime Minister after him and it was he who took the Solar Dynasty to Pandora. Yun's people slaved in the shipyards of the asteroid belt for Noxium, turning the rare ores into the refined metals needed. His people also built every last interstellar transport, working long hours in leaky spacesuits, until they dropped. Togra had the designs, Noxium the resources, and Yun had the manpower.<br/><br/>Yun Xi, like his father, is concerned with the greatness of his people. They only know him as father of the country, the spiritual and physical successor to his father. But he seeks to remake the state in his image. His clones are seeded throughout the state, in positions of authority; indeed, the majority of the colonists taken to Pandora are Yun's clones too, with the other passengers just there as make-weights, in case genetic diversity is needed.<br/><br/>Yun's aim on Pandora is to build a perfect state, in his image -- strong, resolute and clear in purpose. He has already sold his state and his people to reach Pandora -- if every other living thing has to suffer for the greater goal too, so be it.
+
+Преобладающей темой короткого двадцатого века (1914-1991) было столкновение авторитарных идеологий. Коммунизм, фашизм и капитализм боролись на протяжении всего столетия, без объединения и с той же репутацией. Действительно, единственными 'измами', которые успешно объединились были авторитаризм и прагматизм -  обе  успешно практикуются Коммунистической партией Китая с конца 1930-х годов. Всегда действуя в интересах большинства, нежели в интересах какого-либо одного человека, китайское государство построило жестоко эффективную экономику в конце 20 века.<br/><br/>Но, как заметил Платон, режимы всегда сваливаются к тирании. Китайский коммунизм не был исключением, хотя усилия Всекитайского собрания народных представителей, направленные на подчинении высокомерных лидеров их власти, до начала 2060 были весьма эффективными. И только назначив Шэн Си в качестве Председателя Центральной комиссии по духовному развитию, они сделали неверный шаг.<br/><br/>Как Цезарь и Наполеон до него, Шэн Си использовал жестокие меры по подавлению сопротивления. Все что до этого малоинтересно: родился в городе Сямынь, быстрый рост в партии и вступление в Политбюро. Тем не менее, его бизнес знаменит - фирма, специализирующаяся на генетических манипуляциях (необходимых для карьерного роста), используется элитой для гарантии появления детей и сыновей (тайно с привлечением технологии клонирования для бесплодных случаев). К моменту последнего Национального Конгресса в 2062 году Шэн был всемогущим генеральным секретарем, так что в государственных средствах массовой информации грохотали слухи о том, что Конгресс преклоняется перед ним.<br/><br/>То, что произошло на последнем Национальном конгрессе, никто толком не знает. Государственные СМИ обвиняли его в подрыве отравляющих бомб газа на Уйгурских и Непальских сепаратистах, но мы знаем, что после этого события, власть Шэна стала бесспорной. Он изменил название своей должности с генерального секретаря на премьер-министра и, чтобы предотвратить дальнейшие нападения на новый Конгресс, перенес его на новый, построенный Ноксиумом корабль на орбите около Сатурна.<br/><br/>Это место было, по сути, его собственным дворцом, где его подельники жили в блаженстве. (Никто не знает, что случилось с любых инакомыслящим, но на корабле всегда был большой запас белка). С согласия его Конгресса-рабоа Шэн изменил название страны на Солнечную Династию, и умер в блаженстве, в то время как его люди страдали.<br/><br/>Его клон-сын, Юн Си, стал премьер-министром по наследству, и это был тот, кто основал Солнечную Династию на Пандоре. Люди Юна работают рабоми на верфях в поясе астероидов для Ноксиума, превращая редкие руды в необходимый металл. Его люди также построил все до последнего межзвездные транспорты, работая долгие часы в дырявых скафандрах, пока они не падали замертво. У Тогры были проекты, у Ноксиума ресурсы, и Юн была живая силы.<br/><br/>Юн Си, как и его отец, обеспокоен величием своего народа. Они знают его только как отца нации, духовного и физического преемника своего отца. Но он стремится поменять его образ. Его клоны правили по всей территории государства, более того, большинство колонистов, принятых на Пандору являются клонами Юна, наряду с другими пассажирами взятыми просто для веса,на случае, если понадобится генетическое разнообразие.<br/><br/>Целью Юна на Пандоре является постройка идеальное, с его точки зрения, государства - сильного, решительный и ясно видящего свои цели. Он уже продал свое состояние и людей, чтобы достичь Пандоры - если любому другому живому существу придется пострадать для большой цели, то так тому и быть.
+
+---
+
+IndustriousLeaderPrename
+
+Yun
+
+Юн
+
+---
+
+IndustriousLeaderSurname
+
+Xi
+
+Си
+
+---
+
+IndustriousLeaderTitle
+
+Prime Minister
+
+Примьер-министр
+
+---
+
+IndustriousProperties
+
+<icon texture='GUI/Bullet'/>Industrious: +50% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>Fertile: +25% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Exploitive: free <icon texture='Units/FormerIcon' height='16'/> former<br/><icon texture='GUI/Bullet'/>Reckless: +50% <icon texture='Resources/Pollution'/> pollution
+
+<icon texture='GUI/Bullet'/>Трудолюбивый: +50% <icon texture='Resources/Production'/> производства рабочих<br/><icon texture='GUI/Bullet'/>Плодородный: +25% <icon texture='Resources/PositiveGrowth'/> роста<br/><icon texture='GUI/Bullet'/>Эксплуататорский: бесплатные <icon texture='Units/FormerIcon' height='16'/> модели<br/><icon texture='GUI/Bullet'/>Безрассудный: +50% <icon texture='Resources/Pollution'/> загрязнений
+
+---
+
+IndustriousQuote
+
+<style name='Italic'/>&quot;People need guidance. Without control and authority there is anarchy, and the masses would simply consume themselves. It is the duty of the enlightened few to lead, to give them a purpose, to channel their strength. Unified they are privileged to serve in a dynasty that will shake the very foundations of this new world.&quot;<br/>    -- %1%, Leadership of the State<style name='Default'/>
+
+<style name='Italic'/>&quot;Люди нуждаются в руководстве. Без контроля и власти наступит анархия, а массы просто уничтожат себя. Это является обязанностью просвещенного меньшинства, чтобы привести, дать им цель, направить их силы. Объединенные, они счастливы служить в династии, которая потрясет сами основы этого нового мира.&quot;<br/>    -- %1%, Государственный Лидер<style name='Default'/>
+
+---
+
+IndustriousTheme
+
+Industrious
+
+Трудолюбивые
+
+---
+
+IndustriousWelcome
+
+You are %1% of the industrious %2%. Your followers are large in numbers, and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if people or planet have to suffer for the greater goal, so be it.
+
+Вы %1% из трудолюбивых %2%. Ваши последователи многочисленны и вы управляете ими с абсолютной властью с помощью ограничений и цензуры. Это ваше учение: за планетарным суверенитетом стоит сильная промышленность, и если население или планета должны страдать ради высшего блага, так и быть.
+
+---
+
+Invaders
+
+Messari
+
+Предвестники
+
+---
+
+Leviathans
+
+Leviathans
+
+Левиафаны
+
+---
+
+Militaristic
+
+Imperium
+
+Империум
+
+---
+
+MilitaristicDescription
+
+At the end of the 20th century, war got expensive, fast. When a single-shot dumb missile costs more than a small town, you can't just fire them at anyone -- but the Western powers did, fearful of losing even a single soldier. Most first-world soldiers never got within a mile of a living enemy, and their autonomous drones fought their wars for them.<br/><br/>Meanwhile their developing-world opponents cobbled together countertech from video game consoles, how-to guides on 4chan and sheer bile. It was asymmetric warfare to the nth degree, one side using money, the other lives.<br/><br/>For the West it got to the point, where a single soldier's death was a tragedy -- so it was simpler to hire veterans, mercenaries and the insurgents themselves. The corporation that fronted all this -- that provided a one-click military solution anywhere in the world, dropping bombs like ordering pizzas -- was Empire Management, originally an internet logistics firm run by Chad Harrigan and Buck Smith, a pair of Muscle Marys from Venice Beach, California.<br/><br/>Empire's rise to dominance was fast, thanks to the terrorism scares of the 2030s. It was often rumored that Empire's boys supplied the terrorists too -- indeed, that they instigated minor insurgencies in key mineral territories when the global warfare levels dropped. Empire's troops, raised in private camps to work in squads called 'legions', were recognized as the best on the planet. Soon, warring factions could bid against each other for Empire's protection in a territory -- with the auction loser often surrendering and the winner paying the full fee, with no troops or bombs ever deployed.<br/><br/>With the private space race in full flight, Chad and Buck saw a new opportunity. They approached the management of Noxium, offering them a simple deal; access to space in return for the elimination of their competitors. Noxium agreed and, in a series of short-lived skirmishes, space became the fiefdom of the two corporations, with Empire absorbing other military firms, and pretty much merging with the US military. An internal marketing-squad renamed the firm Imperium in the late 2060s, in parody of the Solar Dynasty.<br/><br/>Chad and Buck didn't make it through the 2070s -- a loophole in their procurement software saw a disgruntled employee dump a small satellite-rod on their rural Californian home, obliterating it and the local area -- and the company was left in trust for their body-building club. Operationally, it was taken over by a young veteran, James Heid, a self-styled admiral, who'd grown up in the Spartan training camps of Ceres.<br/><br/>Within a few years of Heid's appointment, his first major challenge arrived; the Pandora discovery and the revelation that Noxium was working on transports without the involvement of Imperium. Heid's reaction was characteristically calm. During a conference call with the Noxium board, he raised the issue gently -- and was rejected, explicitly. At which point, Heid panned his camera to reveal that he was on Callisto, already silently conquered by his crack troops under his personal command, and that they had seized the prototype colony ship.<br/><br/>Heid's decision to fly personally to Pandora is pragmatic. His forces don't need Pandora -- but the company's pride couldn't stand the concept of wars without Imperium, and he was sure war was going to come on Pandora.
+
+В конце 20-го века, война быстро стала дорогой. Когда один выстрел глупой ракетой стоит больше, чем небольшой город, вы не можете просто стрелять во всех, хотя западные державы так и делали, опасаясь потерять хоть одного солдата. Большинство солдат мировых лидеров за милю не видели живого врага, и их автономные дроны воевали за них.<br/><br/>Между тем их противники из развивающихся стран наскоро обучались по стрелялкам на игровых консолях, а также руководствовались 4chan и простой желчью. Это была в высшей степени асимметричная война, одна сторона использовала деньги, другая жизни.<br/><br/>Запад дошел до точки, где смерть одного солдата была трагедией, где проще нанять ветеранов, наемников и самих повстанцев. Корпорацией, которая предлагала все это - предоставляла военные решение в 'один клик' в любой точке мира, сбрасывая бомбы как пирожки, была Имперская группа управления, первоначально интернет логистическая фирма под управлением Чада Харригана и Бака Смита, парой геев-качков из Венис-Бич, Калифорния.<br/><br/>Империя быстро стала доминировать, благодаря угрозе терроризма в 2030-х годах. Часто ходят слухи, что ребята из Империи поддерживают и террористов тоже, а именно, что это они спровоцировали незначительные мятежи в ключевых добывающих территориях, когда глобальный уровень боеготовности упал. Войска Империи, обучаемые в частных лагерях работать в отрядах, называемых 'легионы', были признаны лучшими на планете. Вскоре, враждующие группировки могли делать ставки друг против друга, чтобы Империи защищала имеено их территории - на аукционе проигравший часто сдавался и победитель платил полную стоимость, без каких либо войск или бомб.<br/><br/>В частной космической гонке, Чад и Бак увидели новую возможность. Они подошли к управлению Ноксиума, предлагая им простую сделку: доступ в космос в обмен на ликвидацию конкурентов. Ноксиум согласился и, после серии быстрых стычек, космос стал вотчиной двух корпораций; Империя поглощала другие военные фирмы, и в значительной степени слилась с американскими военными. Внутренняя маркетинг-команда переименовала фирму в Империум в конце 2060, пародируя Солничную Династию.<br/><br/>Чад и Бак не успели этого увидеть в 2070-х годах: через лазейку в их программном обеспечении закупок недовольный сотрудник сбросил небольшой стержень со спутника на их загородный дома в Калифорнии, уничтожив его и окрестности; компания осталась на доверительном управлении их бодибилдинг клуба. В действительности, Империум перешел под управление молодому ветерану, Джеймсу Хэйду, самозваному адмиралу, который вырос в спартанских тренировочных лагерях Цереры.<br/><br/>В течение нескольких лет после назначения, Хэйд получил первый крупный вызов: открытие Пандоры и разоблачение Ноксиума, который работал над транспортом без участия Империума. Реакцией Хэйда, что характерно, было спокойствие. Во время селекторного совещания Ноксиума, он поднял вопрос мягко - и получил отказ. После этого, Хэйд указал на камеру, показав, что он был на Каллисто и тихо захватил Каллисто с помошью войск под его личным командованием, и что они захватили прототип корабля-колонии.<br/><br/>Решение Хэйда к отбытию лично на Пандору было прагматичным. Его силы не нужны Пандоре - но гордость компании не выдержала концепции войн без Империума, а он был уверен, что война придет на Пандору.
+
+---
+
+MilitaristicLeaderPrename
+
+James
+
+Джеймс
+
+---
+
+MilitaristicLeaderSurname
+
+Heid
+
+Хэйд
+
+---
+
+MilitaristicLeaderTitle
+
+Admiral
+
+Адмирал
+
+---
+
+MilitaristicProperties
+
+<icon texture='GUI/Bullet'/>Militaristic: +25% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>Resilient: +100% <icon texture='Attributes/Health'/> healing rate<br/><icon texture='GUI/Bullet'/>Well-trained: 3 free <icon texture='Operations/PromotionIcon' height='16'/> field training<br/><icon texture='GUI/Bullet'/>High-paid: +25% <icon texture='Attributes/Upkeep'/> unit upkeep
+
+<icon texture='GUI/Bullet'/>Военный: +25% <icon texture='Attributes/Power'/> силы<br/><icon texture='GUI/Bullet'/>Жизнерадостный: +100% <icon texture='Attributes/Health'/> скорости восстановления<br/><icon texture='GUI/Bullet'/>Тренированные: 3 бесплатных <icon texture='Operations/PromotionIcon' height='16'/> полевых тренировки<br/><icon texture='GUI/Bullet'/>Высокооплачиваемые: +50% <icon texture='Attributes/Upkeep'/> стоимости найма
+
+---
+
+MilitaristicQuote
+
+<style name='Italic'/>&quot;Sure, I'm aware that for our guys this fight was a hellhole, a living nightmare. But for me, for the veterans... it was Tuesday.&quot;<br/>    -- %1%, The Callisto Conflict<style name='Default'/>
+
+<style name='Italic'/>&quot;Конечно, я знаю, что для наших ребят эта борьба была адской бездной, кошмаром наяву. Но для меня, для ветерана ... это был просто вторник.&quot;<br/>    -- %1%, Конфликт в Калисто<style name='Default'/>
+
+---
+
+MilitaristicTheme
+
+Militaristic
+
+Милитаристы
+
+---
+
+MilitaristicWelcome
+
+You are %1% of the militaristic %2%. Your specialty is warfare with expertise in all of its facets, and your imperial legions are feared across the solar system. Your society follows a strict military code, with members learning discipline and the chain of command from early on in childhood. When on duty, any imperial soldier is expected to excel, but the Imperium rewards that with a very high rate of pay.
+
+Вы %1% милитарист из %2%. Ваша специальность - войны и ваших войск боялись по всей Солнечной системе. Ваше общество следует строгому военному кодексу, членов которого с детства обучают дисциплине и субординации. При исполнении служебных обязанностей от любого имперского солдата ожидаются высокие показатели и Империум вознаграждает это качество очень высоким уровнем оплаты.
+
+---
+
+Nightcrawlers
+
+Harbingers
+
+Harbingers
+
+---
+
+QueenFlyers
+
+Comminuotors
+
+Comminuotors
+
+---
+
+Random
+
+Random
+
+Случайный
+
+---
+
+Scientific
+
+Togra University
+
+Университет Тогры
+
+---
+
+ScientificDescription
+
+Togra University was founded in 2022, with a specialism in cutting edge research in materials science -- that is, valuing practical products over pure research. Despite that, in the 21st century, Togra's professors received more Nobel prizes than the rest of the world put together.<br/><br/>Set up in 2022 by an anonymous donor, initially as a research lab specializing in frictionless material science, the University grew fat on corporate donations for its research. Soon the joke spread that if you wanted to do something immoral, then you asked Noxium -- but if it was immoral and impossible, then you asked Togra. Despite that jibe, the scientists of Togra are mostly good, honest and upright people -- just forgetful and a little too keen to chase truth at the expense of, say, a thousand lab monkeys' brains.<br/><br/>It's hard to show a history of people who sat in a lab for seventy years but, as those Nobel Prizes indicate, Togra has been behind most of the 21st century's transformational innovations. It was Togra that supplied Noxium with the theory that allowed it to develop its expertise in zero-g mining. It was Togra which advised the Solar Dynasty on cloning techniques, so Prime Minister Sheng Xi could rule (in some sense) for ever. It was even Togra which devised the schemata that allowed the interstellar probes and the great colony ships to actually reach near light-speed, without using up the energy of a small sun.<br/><br/>However, Togra's board of governors, chaired by Doctor Alpheus Schreiber, has a severe dedication to information being 'free'. So it was probably also researchers at Togra that helped Terra Salvum build their own interstellar colony ship. It's likely to be Togra that let Imperium know about Noxium's plans for the ship. And it was definitely Togra that supplied the open source AI cores that look like they could save Earth from global warming -- and might eventually take over more branches of government.<br/><br/>Most irritatingly for Togra, it was also these open source software AIs that helped Lilith Vermillion set up the social media / data-harvesting sites that eventually turned into Divine Ascension. Togra's scientists are mostly disgusted with her manipulative, truth-avoiding religion (though, as the saying goes, 'where you have two Togra, you have three opinions'.) On Pandora, their first aim is research; their second is to destroy Lady Vermillion.<br/><br/>Togra's scientists and engineers value the human intellect and academic virtues, particularly respecting personal freedom. While this freedom might result in a lack of discipline or motivation at times, this faction shows unrivaled creativity, with the brightest minds in the known universe. However, just because they're clever, doesn't mean they're all nice people.
+
+Университет Тогры был основан в 2022 году, специализировался на передовых исследованиях в материаловедении, т.е. фокусировались на практических приложениях, нежели на фундаментальные исследования. Несмотря на это, в 21 веке, профессора Тогры получили больше Нобелевских премий, чем профессора остальной частей света вместе взятые.<br/><br/>Созданная в 2022 на анонимное пожертвование в качестве исследовательской лаборатории, специализирующейся на трении материалов, Университет вырос за счет корпоративных пожертвований на его исследования. Вскоре шутили, что, если вы хотите сделать что-то аморальное, то спросите Ноксиум, а есливы хотите нечто аморальное и невозможное, то  спросите Тогру. Несмотря на эти насмешки, ученые Тогры в основном хорошие, честные люди, просто забывчивы и немного слишком увлечены, готовы преследовать истину за счет, скажем, мозгов тысячы лабораторных обезьян.<br/><br/>Трудно показать историю людей, которые сидели в лаборатории в течение семидесяти лет, но, как показывают Нобелевские премии, Тогра чтояла за большинством трансформационных инноваций 21-го века. Это Тогра помогла Ноксиуму с теорией, позволившей ей разработать свой опыт по добыче в невесомости. Это Тогра предложила Солнечной Династии методы клонирования, так, что премьер-министр Шэн Си мог править (в некотором смысле) вечно. И даже к разработке схем, позволившим межзвездным зондам и огромным кораблям-колониям  достичь околосветовой скорости, не используя энергию небольшого солнца, причастна Тогра.<br/><br/>Тем не менее, совет управляющих Тогры под председательством доктора Алвея Шрайбера, всегда настаивал, что информация была 'свободной'. Потому, вероятно, именно исследователи Тогры помогли Терра Сальвум построить свой собственный межзвездный корабль-колонию. Потому, вероятно, именно Тогра дала Империуму информацию о планах Ноксиума на счет корабля. И уж определенно Тогра поддерживает разработку ядра ИИ с открытым исходным кодом, что выглядит так, будто это нужно для спасения Землю от глобального потепления, ну и в конечном итоге может позволить подмять под себя властей.<br/><br/>Но больше всего Тогру раздражает то, что Лилит Алая использовала программы с этим открытым кодом, чтобы управлять средствами массовой информации / сайтами-сборщиками данных, что в конечном итоге переросло в Божественное Вознесение. Ученые Тогры питают отвращение к ее манипулятивной, избегающей правды религии (хотя, как говорится, 'там, где есть две Тогры, есть три мнения'). На Пандоре, их первой целью является исследования; вторая цель состоит в уничтожении Леди Лилит Алой.<br/><br/>Ученые и инженеры Тогры ценят человеческий интеллект и академическую добродетель, особенно уважая личную свободу. В то время как эта свобода может привести к недисциплинированности или демотивации, эта фракция показывает непревзойденное творчество самых ярких умов в известной вселенной. Тем не менее, только потому, что они умные, не означает, что все они хорошие люди.
+
+---
+
+ScientificLeaderPrename
+
+Alpheus
+
+Алфей
+
+---
+
+ScientificLeaderSurname
+
+Schreiber
+
+Шрайбер
+
+---
+
+ScientificLeaderTitle
+
+Doctor
+
+Доктор
+
+---
+
+ScientificProperties
+
+<icon texture='GUI/Bullet'/>Scientific: +50% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>Resourceful: -50% <icon texture='Resources/Credits'/> refit costs<br/><icon texture='GUI/Bullet'/>Curious: free <icon texture='Units/ATVIcon' height='16'/> seeker ATV<br/><icon texture='GUI/Bullet'/>Free-spirited: -2 <icon texture='Resources/Morale'/> morale
+
+<icon texture='GUI/Bullet'/>Ученые: +50% <icon texture='Resources/Research'/> исследований от ученых<br/><icon texture='GUI/Bullet'/>Находчивый: -25% <icon texture='Resources/Credits'/> расходов на ремонт<br/><icon texture='GUI/Bullet'/>Любопытный: бесплатный <icon texture='Units/ATVIcon' height='16'/> развед вездеход<br/><icon texture='GUI/Bullet'/>Свободомыслящий: -2 <icon texture='Resources/Morale'/> морали
+
+---
+
+ScientificQuote
+
+<style name='Italic'/>&quot;Since the beginning of time, mankind has traveled towards new horizons and discovered new wonders along the way. However, we scholars of Togra University travel even further by discovering the natural laws that exist behind each and every wonder.&quot;<br/>    -- %1%, Discoveries of a New Age<style name='Default'/>
+
+<style name='Italic'/>&quot;С начала времен человечество путешествовало к новым горизонтам и обнаружило новые чудеса на этом пути. Тем не менее, мы ученые Тогры университета путешествовали еще дальше, обнаружили естественные законы, которые существуют за каждым  чудом.&quot;<br/>    -- %1%, Открытия нового века<style name='Default'/>
+
+---
+
+ScientificTheme
+
+Scientific
+
+Ученые
+
+---
+
+ScientificWelcome
+
+You are %1% of the scientific %2%. Your faction values the human intellect and academic virtues, highly respecting personal freedom. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity and are among the brightest in the known universe.
+
+Вы %1% ученый из %2%. Ваша фракция ценит человеческий интеллект, личную свободу и академические добродетели выше всего остального. В то время как эта свобода иногда может привести к недисциплинированности или демотивации, ваши ученые показывают непревзойденный творческий потенциал в своих исследованиях.
+
+---
+
+Sharks
+
+Sharks
+
+Акулы
+
+---
+
+Spectator
+
+Spectator
+
+Spectator
+
+---
+
+SpectatorLeaderPrename
+
+
+
+
+
+---
+
+SpectatorLeaderSurname
+
+
+
+
+
+---
+
+SpectatorLeaderTitle
+
+Spectator
+
+Spectator
+
+---
+
+SpectatorProperties
+
+
+
+
+
+---
+
+SpectatorQuote
+
+
+
+
+
+---
+
+SpectatorTheme
+
+
+

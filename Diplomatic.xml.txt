@@ -1,0 +1,909 @@
+FirstContact
+
+&quot;What a pleasure to finally meet you! Itala Palomino at your service, humble representative of the Ambassadorial faction. We're keen to make sure everyone gets on here on Pandora, for  the benefit of all. Oh, it is so good to meet you. I can tell already we're going to be the best of friends!&quot;
+
+&quot;What a pleasure to finally meet you! Itala Palomino at your service, humble representative of the Ambassadorial faction. We're keen to make sure everyone gets on here on Pandora, for  the benefit of all. Oh, it is so good to meet you. I can tell already we're going to be the best of friends!&quot;
+
+---
+
+NamePositive
+
+&quot;The noble %6%.&quot;
+
+&quot;The noble %6%.&quot;
+
+---
+
+NameNegative
+
+&quot;The deceitful %6%.&quot;
+
+&quot;The deceitful %6%.&quot;
+
+---
+
+LetMeThink
+
+&quot;Fascinating! I need some time to consult the council.&quot;
+
+&quot;Fascinating! I need some time to consult the council.&quot;
+
+---
+
+LetMeKnow
+
+&quot;That's great! I'm sure you'll let us know as soon as you can.&quot;
+
+&quot;That's great! I'm sure you'll let us know as soon as you can.&quot;
+
+---
+
+DenounceThirdParty0
+
+&quot;Our channels have revealed a small diplomatic iceberg heading your way...&quot;
+
+&quot;Our channels have revealed a small diplomatic iceberg heading your way...&quot;
+
+---
+
+AcceptDenounceThirdParty0
+
+&quot;I'm sure we already know all about it - but tell me all the same.&quot;
+
+&quot;I'm sure we already know all about it - but tell me all the same.&quot;
+
+---
+
+RejectDenounceThirdParty0
+
+&quot;It would reflect badly on us as purveyors of diplomatic savvy if we believed that.&quot;
+
+&quot;It would reflect badly on us as purveyors of diplomatic savvy if we believed that.&quot;
+
+---
+
+DenounceThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptDenounceThirdParty1
+
+&quot;I'm sure it's all a miscommunication... still, better safe than sorry. Thank you.&quot;
+
+&quot;I'm sure it's all a miscommunication... still, better safe than sorry. Thank you.&quot;
+
+---
+
+RejectDenounceThirdParty1
+
+&quot;No, our relations with them are better than ideal. But thanks!&quot;
+
+&quot;No, our relations with them are better than ideal. But thanks!&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty0
+
+&quot;We're not ever in favor of aggressive actions, but if we were, we'd certainly accept the rationale of sanctions against a certain group...&quot;
+
+&quot;We're not ever in favor of aggressive actions, but if we were, we'd certainly accept the rationale of sanctions against a certain group...&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty0
+
+&quot;Sanctions are better than war. Who should we isolate?&quot;
+
+&quot;Sanctions are better than war. Who should we isolate?&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty0
+
+&quot;I think sanctions are a step too far. We need more evidence, sorry.&quot;
+
+&quot;I think sanctions are a step too far. We need more evidence, sorry.&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty1
+
+&quot;It's a disappointment - we were getting on famously. But they'll never learn otherwise.&quot;
+
+&quot;It's a disappointment - we were getting on famously. But they'll never learn otherwise.&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty1
+
+&quot;I can see how this would be a gentle poke to our friends, to correct their course. How noble of you!&quot;
+
+&quot;I can see how this would be a gentle poke to our friends, to correct their course. How noble of you!&quot;
+
+---
+
+DemandPeaceOfferToThirdParty0
+
+&quot;Old pal. I know you love war--war, but how about trying a bit of jaw--jaw, hmm?&quot;
+
+&quot;Old pal. I know you love war--war, but how about trying a bit of jaw--jaw, hmm?&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty0
+
+&quot;Excellent idea. We'll get a summit arranged immediately.&quot;
+
+&quot;Excellent idea. We'll get a summit arranged immediately.&quot;
+
+---
+
+RejectPeaceOfferToThirdParty0
+
+&quot;I'm sorry, the council isn't sitting today. Could you call back tomorrow?&quot;
+
+&quot;I'm sorry, the council isn't sitting today. Could you call back tomorrow?&quot;
+
+---
+
+DemandPeaceOfferToThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty1
+
+&quot;Yes! I don't think this war serves anyone's purposes.&quot;
+
+&quot;Yes! I don't think this war serves anyone's purposes.&quot;
+
+---
+
+RejectPeaceOfferToThirdParty1
+
+&quot;Ah, I'm sorry. My assistant doesn't have the time to do the paperwork for that particular treaty.&quot;
+
+&quot;Ah, I'm sorry. My assistant doesn't have the time to do the paperwork for that particular treaty.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty0
+
+&quot;It would be absolutely appalling if you ended up at war, despite what they've been saying. Oh, you haven't heard...? Oh, my.&quot;
+
+&quot;It would be absolutely appalling if you ended up at war, despite what they've been saying. Oh, you haven't heard...? Oh, my.&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty0
+
+&quot;I'm intrigued to hear how we could possibly be at war...&quot;
+
+&quot;I'm intrigued to hear how we could possibly be at war...&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty0
+
+&quot;At war? The Ambassadors? We'd have to change our name!&quot;
+
+&quot;At war? The Ambassadors? We'd have to change our name!&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty1
+
+&quot;Yes, I suppose war is merely a continuation of diplomacy by other means.&quot;
+
+&quot;Yes, I suppose war is merely a continuation of diplomacy by other means.&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty1
+
+&quot;I'm afraid that would upset the balance of power.&quot;
+
+&quot;I'm afraid that would upset the balance of power.&quot;
+
+---
+
+OfferShareMap
+
+&quot;Our cartographers just can't quite make these maps as beautiful as the hand-drawn ones we brought from Earth. Do you want a look?&quot;
+
+&quot;Our cartographers just can't quite make these maps as beautiful as the hand-drawn ones we brought from Earth. Do you want a look?&quot;
+
+---
+
+AcceptShareMap
+
+&quot;We'll get it hand-inked on vellum and sent out on the next plane. Our gift to you.&quot;
+
+&quot;We'll get it hand-inked on vellum and sent out on the next plane. Our gift to you.&quot;
+
+---
+
+RejectShareMap
+
+&quot;I'm afraid our maps are mainly of relationships, not territory, so they'd be of no use to you.&quot;
+
+&quot;I'm afraid our maps are mainly of relationships, not territory, so they'd be of no use to you.&quot;
+
+---
+
+OfferOpenBorders
+
+&quot;Did you ever hear of Schengen? Wasn't that a wonderful experiment? Freedom of movement benefits us all.&quot;
+
+&quot;Did you ever hear of Schengen? Wasn't that a wonderful experiment? Freedom of movement benefits us all.&quot;
+
+---
+
+AcceptOpenBorders
+
+&quot;Look, we'll issue temporary work permits to all your citizens. And if soldiers happen to walk through our land on their way somewhere else... plausible deniability, my friend.&quot;
+
+&quot;Look, we'll issue temporary work permits to all your citizens. And if soldiers happen to walk through our land on their way somewhere else... plausible deniability, my friend.&quot;
+
+---
+
+RejectOpenBorders
+
+&quot;Of course! You just need to fill out this paperwork, have it stamped correctly and take it to Inspector Grestin at the department of bureaucracy.&quot;
+
+&quot;Of course! You just need to fill out this paperwork, have it stamped correctly and take it to Inspector Grestin at the department of bureaucracy.&quot;
+
+---
+
+TerminateOpenBorders
+
+&quot;Apparently, we've had some issues with an inspector at the border, just letting anyone through. We need to close it, to deal with the insurgents. I hope you understand, %1%?&quot;
+
+&quot;Apparently, we've had some issues with an inspector at the border, just letting anyone through. We need to close it, to deal with the insurgents. I hope you understand, %1%?&quot;
+
+---
+
+AcceptOpenBordersTerminated
+
+&quot;Well, that's really sad. I mean, if we had any spies they could still waltz through it anyway. But we don't, of course.&quot;
+
+&quot;Well, that's really sad. I mean, if we had any spies they could still waltz through it anyway. But we don't, of course.&quot;
+
+---
+
+Crime0
+
+How dare you speak these silver-tongued lies and line your pockets while our people die? 
+
+How dare you speak these silver-tongued lies and line your pockets while our people die? 
+
+---
+
+Crime1
+
+You stand idly by, dining on canapes and champagne, whilst your people starve. Don't you care? 
+
+You stand idly by, dining on canapes and champagne, whilst your people starve. Don't you care? 
+
+---
+
+Crime2
+
+Every domestic device you design kills another half-a-dozen of my people. Don't you test your tech? Or is this another strand to your plan?
+
+Every domestic device you design kills another half-a-dozen of my people. Don't you test your tech? Or is this another strand to your plan?
+
+---
+
+Denounce
+
+&quot;%7%, there are diplomatic means to the same end.&quot;
+
+&quot;%7%, there are diplomatic means to the same end.&quot;
+
+---
+
+AcceptDenounce
+
+&quot;Come now. This is no more than realpolitik. Did you ever read Il Principe? You should.&quot;
+
+&quot;Come now. This is no more than realpolitik. Did you ever read Il Principe? You should.&quot;
+
+---
+
+RejectDenounce
+
+&quot;That's not true. And if it was true, it wouldn't be wrong. And if it was wrong, you couldn't prove it.&quot;
+
+&quot;That's not true. And if it was true, it wouldn't be wrong. And if it was wrong, you couldn't prove it.&quot;
+
+---
+
+Praise
+
+&quot;%5% you are the very model of diplomacy. We must invite you to one of our parties!&quot;
+
+&quot;%5% you are the very model of diplomacy. We must invite you to one of our parties!&quot;
+
+---
+
+AcceptPraise
+
+&quot;You're too kind. It's all for the good of mankind.&quot;
+
+&quot;You're too kind. It's all for the good of mankind.&quot;
+
+---
+
+RejectPraise
+
+&quot;What admirably insincere grovelling. I'm sorry, it doesn't move my stony heart.&quot;
+
+&quot;What admirably insincere grovelling. I'm sorry, it doesn't move my stony heart.&quot;
+
+---
+
+OfferSurrender
+
+&quot;We offer our surrender, our subjugation to your immutable will. We won't even demand a treaty! ...well, maybe a small one.&quot;
+
+&quot;We offer our surrender, our subjugation to your immutable will. We won't even demand a treaty! ...well, maybe a small one.&quot;
+
+---
+
+AcceptSurrender
+
+&quot;I knew that you'd eventually come around to our way of thinking.&quot;
+
+&quot;I knew that you'd eventually come around to our way of thinking.&quot;
+
+---
+
+RejectSurrender
+
+&quot;No. We prefer to keep our enemies close, and our friends at a distance. Sorry.&quot;
+
+&quot;No. We prefer to keep our enemies close, and our friends at a distance. Sorry.&quot;
+
+---
+
+Compliment0
+
+With your oratory, you could persuade us that black was white and vice versa. What marvellous demagoguery!
+
+With your oratory, you could persuade us that black was white and vice versa. What marvellous demagoguery!
+
+---
+
+Compliment1
+
+It's so admirable to meet someone who merely wishes for peace. 
+
+It's so admirable to meet someone who merely wishes for peace. 
+
+---
+
+Compliment2
+
+I know you have an iron fist, but you present a velvet glove to the world. Astounding... tact.
+
+I know you have an iron fist, but you present a velvet glove to the world. Astounding... tact.
+
+---
+
+Insult0
+
+You bloody liars.
+
+You bloody liars.
+
+---
+
+Insult1
+
+Monsters. Playing with people's lives shouldn't be fun.
+
+Monsters. Playing with people's lives shouldn't be fun.
+
+---
+
+Insult2
+
+Your silver tongue is as lead in my ears.
+
+Your silver tongue is as lead in my ears.
+
+---
+
+OfferGift0
+
+&quot;We've just increased our aid budget. You look like you need an air-drop.&quot;
+
+&quot;We've just increased our aid budget. You look like you need an air-drop.&quot;
+
+---
+
+GiftAccepted0
+
+&quot;That is a kind offer.&quot;
+
+&quot;That is a kind offer.&quot;
+
+---
+
+GiftAccepted1
+
+&quot;We'll put this money towards a focus on rebuilding a civil society.&quot;
+
+&quot;We'll put this money towards a focus on rebuilding a civil society.&quot;
+
+---
+
+GiftRejected0
+
+&quot;Why do we need your money, when we can turn lead into gold?&quot;
+
+&quot;Why do we need your money, when we can turn lead into gold?&quot;
+
+---
+
+GiftRejected1
+
+&quot;That wouldn't buy a single Rerrero Foche.&quot;
+
+&quot;That wouldn't buy a single Rerrero Foche.&quot;
+
+---
+
+DemandTribute0
+
+&quot;We're establishing an interfactional monetary bank, to bailout struggling groups. Can we put you down for a contribution?&quot;
+
+&quot;We're establishing an interfactional monetary bank, to bailout struggling groups. Can we put you down for a contribution?&quot;
+
+---
+
+TributeAccepted0
+
+&quot;Our IMB fund is always happy to help stabilise ailing economies? What can we do for you?&quot;
+
+&quot;Our IMB fund is always happy to help stabilise ailing economies? What can we do for you?&quot;
+
+---
+
+TributeAccepted1
+
+&quot;Fine. The bankers are shifting the digigold in the virtual vault now.&quot;
+
+&quot;Fine. The bankers are shifting the digigold in the virtual vault now.&quot;
+
+---
+
+TributeRejected0
+
+&quot;Ah, I'm afraid you don't qualify for aid at this time. Sorry!&quot;
+
+&quot;Ah, I'm afraid you don't qualify for aid at this time. Sorry!&quot;
+
+---
+
+TributeRejected1
+
+&quot;Apologies, that's more than we have in the aid fund.&quot;
+
+&quot;Apologies, that's more than we have in the aid fund.&quot;
+
+---
+
+AcceptCreditsForDeal0
+
+&quot;%1%, is there anything we can do to smooth this process?&quot;
+
+&quot;%1%, is there anything we can do to smooth this process?&quot;
+
+---
+
+AcceptCreditsForDeal1
+
+&quot;But of course. Our pleasure.&quot;
+
+&quot;But of course. Our pleasure.&quot;
+
+---
+
+RejectCreditsForDeal0
+
+&quot;Let's not bring filthy lucre into this, %1%.&quot;
+
+&quot;Let's not bring filthy lucre into this, %1%.&quot;
+
+---
+
+RejectCreditsForDeal1
+
+&quot;Well. We'll have to get it another way then.&quot;
+
+&quot;Well. We'll have to get it another way then.&quot;
+
+---
+
+CreditsForDealRejected
+
+&quot;Let's talk more.&quot;
+
+&quot;Let's talk more.&quot;
+
+---
+
+DemandCreditsForDeal
+
+&quot;We require matching funds to get this project off the ground.&quot;
+
+&quot;We require matching funds to get this project off the ground.&quot;
+
+---
+
+DemandCredits0
+
+&quot;With just %6% <icon texture='Resources/Credits'/> credits we can feed a starving bureaucrat for a week.&quot;
+
+&quot;With just %6% <icon texture='Resources/Credits'/> credits we can feed a starving bureaucrat for a week.&quot;
+
+---
+
+DemandCredits1
+
+&quot;%6% <icon texture='Resources/Credits'/> credits would establish a charitable institution in your name.&quot;
+
+&quot;%6% <icon texture='Resources/Credits'/> credits would establish a charitable institution in your name.&quot;
+
+---
+
+DemandCredits2
+
+&quot;Donating %6% <icon texture='Resources/Credits'/> credits would do nicely. For humanity, you understand.&quot;
+
+&quot;Donating %6% <icon texture='Resources/Credits'/> credits would do nicely. For humanity, you understand.&quot;
+
+---
+
+DemandCredits3
+
+&quot;Money is the root of evil. If you give us it all, we'll find a way of safely disposing of it.&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+&quot;Money is the root of evil. If you give us it all, we'll find a way of safely disposing of it.&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+---
+
+OfferCredits0
+
+&quot;We've put together an aid package of %6% <icon texture='Resources/Credits'/> credits.&quot;
+
+&quot;We've put together an aid package of %6% <icon texture='Resources/Credits'/> credits.&quot;
+
+---
+
+OfferCredits1
+
+&quot;%6% <icon texture='Resources/Credits'/> credits. That's our final offer.&quot;
+
+&quot;%6% <icon texture='Resources/Credits'/> credits. That's our final offer.&quot;
+
+---
+
+OfferCredits2
+
+&quot;We're well aware that %6% <icon texture='Resources/Credits'/> credits would make a huge difference to your happiness.&quot;
+
+&quot;We're well aware that %6% <icon texture='Resources/Credits'/> credits would make a huge difference to your happiness.&quot;
+
+---
+
+OfferCredits3
+
+&quot;%6% <icon texture='Resources/Credits'/> credits -- and not a penny more. Because that's all we've got.&quot;
+
+&quot;%6% <icon texture='Resources/Credits'/> credits -- and not a penny more. Because that's all we've got.&quot;
+
+---
+
+AllianceAccepted
+
+&quot;Let no-one break our alliance asunder, save for us ourselves.&quot;
+
+&quot;Let no-one break our alliance asunder, save for us ourselves.&quot;
+
+---
+
+AllianceRejected
+
+&quot;How to be diplomatic about this? Ah... no.&quot;
+
+&quot;How to be diplomatic about this? Ah... no.&quot;
+
+---
+
+AllianceTerminated
+
+&quot;Understandable. You'll be back though.&quot;
+
+&quot;Understandable. You'll be back though.&quot;
+
+---
+
+Condemn
+
+&quot;The council has unreservedly condemned your actions as provocative. Personally, I say rot in hell.&quot;
+
+&quot;The council has unreservedly condemned your actions as provocative. Personally, I say rot in hell.&quot;
+
+---
+
+CondemnAccepted
+
+&quot;%4% Which is to say, your opinion is entirely valid, even if your premises are suspect.&quot;
+
+&quot;%4% Which is to say, your opinion is entirely valid, even if your premises are suspect.&quot;
+
+---
+
+DeclareWar
+
+&quot;%4% Which is to say, we'll be commencing a limited tactical operation inside your borders.&quot;
+
+&quot;%4% Which is to say, we'll be commencing a limited tactical operation inside your borders.&quot;
+
+---
+
+DemandWithdrawal
+
+&quot;Your peacekeepers are worryingly close to our assets. Please withdraw them to the agreed line of control.&quot;
+
+&quot;Your peacekeepers are worryingly close to our assets. Please withdraw them to the agreed line of control.&quot;
+
+---
+
+Eliminated
+
+&quot;Will no-one give peace a chance?&quot;
+
+&quot;Will no-one give peace a chance?&quot;
+
+---
+
+Goodbye
+
+&quot;Always, a pleasure, never a chore.&quot;
+
+&quot;Always, a pleasure, never a chore.&quot;
+
+---
+
+Greet0
+
+&quot;My friend! It is so good to see you.&quot;
+
+&quot;My friend! It is so good to see you.&quot;
+
+---
+
+Greet1
+
+&quot;Ah, the irrepressible %3%. Seeing you brings joy to my heart.&quot;
+
+&quot;Ah, the irrepressible %3%. Seeing you brings joy to my heart.&quot;
+
+---
+
+Greet2
+
+&quot;The Council's greetings, %1%.&quot;
+
+&quot;The Council's greetings, %1%.&quot;
+
+---
+
+NonAggressionPactAccepted
+
+&quot;With this piece of paper, we shall have peace in our time.&quot;
+
+&quot;With this piece of paper, we shall have peace in our time.&quot;
+
+---
+
+NonAggressionPactRejected
+
+&quot;I'm not sure about the wording on this treaty.&quot;
+
+&quot;I'm not sure about the wording on this treaty.&quot;
+
+---
+
+NonAggressionPactTerminated
+
+&quot;Apologies, we found a loophole, and we thought we'd rescind the treaty whilst we corrected it.&quot;
+
+&quot;Apologies, we found a loophole, and we thought we'd rescind the treaty whilst we corrected it.&quot;
+
+---
+
+OfferAlliance
+
+&quot;It's good to have good friends. And it's better to have that in writing.&quot;
+
+&quot;It's good to have good friends. And it's better to have that in writing.&quot;
+
+---
+
+OfferNonAggressionPact
+
+&quot;We have a treaty paper here. Um... would you rather refer to us the Allies or the Axis? I can never decide.&quot;
+
+&quot;We have a treaty paper here. Um... would you rather refer to us the Allies or the Axis? I can never decide.&quot;
+
+---
+
+OfferPeace
+
+&quot;We don't seek to conquer you by force; we wish to conquer you by understanding.&quot;
+
+&quot;We don't seek to conquer you by force; we wish to conquer you by understanding.&quot;
+
+---
+
+OfferResearchPact
+
+&quot;Perhaps, working together, we could understand this world better?&quot;
+
+&quot;Perhaps, working together, we could understand this world better?&quot;
+
+---
+
+OfferTradingPact
+
+&quot;Peace, commerce and honest friendship with all nations... that's all we seek.&quot;
+
+&quot;Peace, commerce and honest friendship with all nations... that's all we seek.&quot;
+
+---
+
+PeaceAccepted
+
+&quot;We'll give peace a chance.&quot;
+
+&quot;We'll give peace a chance.&quot;
+
+---
+
+PeaceRejected
+
+&quot;After what you've done? I don't think you've learned your lesson, just yet.&quot;
+
+&quot;After what you've done? I don't think you've learned your lesson, just yet.&quot;
+
+---
+
+ResearchPactAccepted
+
+&quot;Superb. We will build a new world together.&quot;
+
+&quot;Superb. We will build a new world together.&quot;
+
+---
+
+ResearchPactRejected
+
+&quot;The council does not feel you offer this sincerely.&quot;
+
+&quot;The council does not feel you offer this sincerely.&quot;
+
+---
+
+ResearchPactTerminated
+
+&quot;%1%, this pact is superfluous.&quot;
+
+&quot;%1%, this pact is superfluous.&quot;
+
+---
+
+TerminateAlliance
+
+&quot;The council feels that we would be friendlier if we weren't allies.&quot;
+
+&quot;The council feels that we would be friendlier if we weren't allies.&quot;
+
+---
+
+TerminateNonAggressionPact
+
+&quot;We have no need of such a pact. Honesty and truth are worth more than words on paper.&quot;
+
+&quot;We have no need of such a pact. Honesty and truth are worth more than words on paper.&quot;
+
+---
+
+TerminateResearchPact
+
+&quot;This is a formal declaration of the termination of our research pact. Council's orders.&quot;
+
+&quot;This is a formal declaration of the termination of our research pact. Council's orders.&quot;
+
+---
+
+TerminateTradingPact
+
+&quot;This is a formal declaration of the termination of our trade pact. Council's orders.&quot;
+
+&quot;This is a formal declaration of the termination of our trade pact. Council's orders.&quot;
+
+---
+
+TradingPactAccepted
+
+&quot;Of course. What is yours is ours.&quot;
+
+&quot;Of course. What is yours is ours.&quot;
+
+---
+
+TradingPactRejected
+
+&quot;We're good for goods, %1%.&quot;
+
+&quot;We're good for goods, %1%.&quot;
+
+---
+
+TradingPactTerminated
+
+&quot;Enough trade for now. We have all we need.&quot;
+
+&quot;Enough trade for now. We have all we need.&quot;
+
+---
+
+WarAccepted
+
+&quot;We appreciate the formal declaration, and look forward to a dignified period of hostilities.&quot;
+
+&quot;We appreciate the formal declaration, and look forward to a dignified period of hostilities.&quot;
+
+---
+
+WithdrawalAccepted
+
+&quot;We'll withdraw that mission.&quot;
+
+&quot;We'll withdraw that mission.&quot;
+
+---
+
+WithdrawalRejected
+
+&quot;Those units are there as humanitarian observers, nothing more.&quot;
+
+&quot;Those units are there as humanitarian observers, nothing more.&quot;

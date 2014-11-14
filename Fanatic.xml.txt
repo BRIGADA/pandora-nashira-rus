@@ -1,0 +1,909 @@
+FirstContact
+
+&quot;Ah, it is a blessing to meet you. Pandora has been promised to our people as a spiritual refuge. As long as you believe in a god - any god - I believe we shall be friends.&quot;
+
+&quot;Ах, бог предназначил нам встретиться. Какой бог? Любой бог, в которого вы верите.&quot;
+
+---
+
+NamePositive
+
+&quot;The pious %6%.&quot;
+
+&quot;The pious %6%.&quot;
+
+---
+
+NameNegative
+
+&quot;The fanatic %6%.&quot;
+
+&quot;The fanatic %6%.&quot;
+
+---
+
+LetMeThink
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+&quot;Hmm... give me a moment to think about it.&quot;
+
+---
+
+LetMeKnow
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+&quot;Sure, just let me know once you have made your decision.&quot;
+
+---
+
+DenounceThirdParty0
+
+&quot;A devil is at work in our new world, and its eye is on you.&quot;
+
+&quot;Дьявол на работе в нашем новом мире, и он положил на вас глаз.&quot;
+
+---
+
+AcceptDenounceThirdParty0
+
+&quot;I thought there was no devil -- but, after all, to make himself mythical was His greatest trick.&quot;
+
+&quot;Я думаю, что нет никакого дьявола, но, в конце концов, сделать себя мифом было Его самым лучших трюком.&quot;
+
+---
+
+RejectDenounceThirdParty0
+
+&quot;No. As the prophet Wilde said, 'We are each our own devil and we make this world our hell.'&quot;
+
+&quot;Нет. Как сказал пророк Уайльд, Мы дьяволы сами себе, и мы сделали этот мир нашим адом.&quot;
+
+---
+
+DenounceThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptDenounceThirdParty1
+
+&quot;I will chase this Shaitan down and make an end of him.&quot;
+
+&quot;Я загоню этого Шайтана в ад и прикончу его.&quot;
+
+---
+
+RejectDenounceThirdParty1
+
+&quot;Oh, no, there is no hope for that one. I must suffer that devil to continue.&quot;
+
+&quot;О, нет, нет никакой надежды на это. Я должен изгнать этого дьявола, чтобы продолжить.&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty0
+
+&quot;Sinners has impugned our faith. Will you work with them whilst the One True Religion is savaged so?&quot;
+
+&quot;%6% уже оспаривает нашу веру. Будете ли вы работать с ними в то время как Одна Истинная Религия будет терзать его?&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty0
+
+&quot;It is true that there is something unclean about this work. Which ally has offended you so?&quot;
+
+&quot;Это правда, что есть что-то нечистое об этой работе. Какой союзник обидел вас?&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty0
+
+&quot;Saint Einstein said that science without religion is lame, yet religion without science is blind. Our friends help us see.&quot;
+
+&quot;Святой Эйнштейн сказал, что наука без религии хрома, но религия без науки слепа. Наши друзья помогают нам видеть.&quot;
+
+---
+
+DemandSanctionsAgainstThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptSanctionsAgainstThirdParty1
+
+&quot;God will love us for this act, as should you.&quot;
+
+&quot;Бог будет любить нас за этот поступок.&quot;
+
+---
+
+RejectSanctionsAgainstThirdParty1
+
+&quot;No. We have need of these heathens, if only to strike them down when building calves of gold.&quot;
+
+&quot;Нет, нам эти язычники нужны лишь чтобы строить наших золотых тельцов.&quot;
+
+---
+
+DemandPeaceOfferToThirdParty0
+
+&quot;War is ungodly. Why do you fight and spit in the gods' eyes?&quot;
+
+&quot;Война нечестива. Почему вы боритесь и плюете в глазах богов?&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty0
+
+&quot;Lo, not all war is holy. We could be mistaken. Who is blessed?&quot;
+
+&quot;Вот, не все войны святы. Мы могли ошибиться. Кто благословен?&quot;
+
+---
+
+RejectPeaceOfferToThirdParty0
+
+&quot;That infidel, that blaggard? No, they deserve punishment, on earth and in heaven.&quot;
+
+&quot;Эти неверные, эти отщепенцы? Нет, они заслуживают наказания, на земле и на небе.&quot;
+
+---
+
+DemandPeaceOfferToThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptPeaceOfferToThirdParty1
+
+&quot;We shall set the dove of peace free, to fly on Pandora.&quot;
+
+&quot;Мы отпустим голубя мира летать на Пандоре.&quot;
+
+---
+
+RejectPeaceOfferToThirdParty1
+
+&quot;No. The Lord is a man of war. We will have war with %6% from generation to generation.&quot;
+
+&quot;Нет. Господь -- муж брани. У нас будет война с %6% от поколения к поколению.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty0
+
+&quot;Somebody needs a good smiting.&quot;
+
+&quot;Somebody needs a good smiting.&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty0
+
+&quot;Warfare is ordained for us, though it is hateful unto us.&quot;
+
+&quot;Warfare is ordained for us, though it is hateful unto us.&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty0
+
+&quot;I came to this new earth not to send a sword, but to bring peace.&quot;
+
+&quot;I came to this new earth not to send a sword, but to bring peace.&quot;
+
+---
+
+DemandWarDeclarationOnThirdParty1
+
+&quot;&quot;
+
+&quot;&quot;
+
+---
+
+AcceptWarDeclarationOnThirdParty1
+
+&quot;Their ultimate abode is hell, a hapless journey's end.&quot;
+
+&quot;Their ultimate abode is hell, a hapless journey's end.&quot;
+
+---
+
+RejectWarDeclarationOnThirdParty1
+
+&quot;Them? No, I cannot harden my heart against them, not teach my hands to war.&quot;
+
+&quot;Them? No, I cannot harden my heart against them, not teach my hands to war.&quot;
+
+---
+
+OfferShareMap
+
+&quot;Would you care to share with us our vision of god's glory?&quot;
+
+&quot;Не могли бы вы поделиться с нами вашим видением Божьей славы?&quot;
+
+---
+
+AcceptShareMap
+
+&quot;So much of our world revealed! So much new to explore and convert.&quot;
+
+&quot;Так много о нашем мире известно! А впереди так много нового, чтобы исследовать и преобразовать.&quot;
+
+---
+
+RejectShareMap
+
+&quot;There are unconverted souls that will be beyond your reach for a time yet.&quot;
+
+&quot;Есть необращенные души, которые будут за пределами вашей досягаемости, пока.&quot;
+
+---
+
+OfferOpenBorders
+
+&quot;When the sweet rains of Pandora come, our people long to go on pilgrimages and seek strange shores. Can they wander through your lands?&quot;
+
+&quot;Когда сладкие дожди Пандоры прийдут, наш народ должен долго идти в паломничестве и искать странные берега. Могут ли они бродить по вашими землями?&quot;
+
+---
+
+AcceptOpenBorders
+
+&quot;We could not, in good faith, refuse your pilgrims.&quot;
+
+&quot;Мы не можем, боже правывй, отказать вашим паломникам.&quot;
+
+---
+
+RejectOpenBorders
+
+&quot;This is our holy of holies, our Kabba. You would desecrate it with your presence.&quot;
+
+&quot;Это наша святая святых, наша Кабба. Вы оскверните ее своим присутствием.&quot;
+
+---
+
+TerminateOpenBorders
+
+&quot;Your people instill sinister and heretic thoughts in my flock. I've had enough of it, no more disbelievers in the holy lands!&quot;
+
+&quot;Ваши люди прививают зловещие и еретичные мысли моей пастве. С меня достаточно, неверующим больше нет места в святых землях!&quot;
+
+---
+
+AcceptOpenBordersTerminated
+
+&quot;Afraid of your followers finding salvation in my arms? You cannot escape god's judgement, %1%.&quot;
+
+&quot;Боитесь, ваши пол\следователи найдут спасение в моих объятиях? Вы не можете избежать Божьего суда, %1%.&quot;
+
+---
+
+Crime0
+
+Your last sermon damned us all to hell. For what? Are we subhuman because we don't share your criminal faith?
+
+Ваша Последняя проповедь обрекала нас всех на ад. За что? Неужели мы нелюди, потому что мы не разделяем вашу уголовую веру?
+
+---
+
+Crime1
+
+We've had reports that you personally ordered the crucifixion of our diplomats. This will not stand.
+
+Мы получили сообщения, что вы лично приказали распять наших дипломатов. Так не должно быть.
+
+---
+
+Crime2
+
+Talking to god is crazy. Hearing god is schizophrenia. Acting on it is pure insanity. And warring in his name is pure evil.
+
+Разговор с Богом  -- сумасшедствие. Слышать Бога -- это шизофрения. Действовать его словам --  чистое безумие. И война во Имя его -- чистое зло.
+
+---
+
+Denounce
+
+&quot;%7% The pantheon of all gods will judge you for this sin. &quot;
+
+&quot;%7% Пантеон богов будут судить вас за этот грех. &quot;
+
+---
+
+AcceptDenounce
+
+&quot;I never claimed to be 'the' Messiah. Merely 'a' messiah.&quot;
+
+&quot;Я никогда не утверждал, что я какой-то Мессия. Я -- 'настоящий' мессия.&quot;
+
+---
+
+RejectDenounce
+
+&quot;This God has a plan for all of us, and it has chosen me as its instrument.&quot;
+
+&quot;У этого Бога есть план для всех нас, и он выбрал меня в качестве своего инструмента.&quot;
+
+---
+
+Praise
+
+&quot;%5% May your god bless you and keep you... far away.&quot;
+
+&quot;%5% Пусть ваш бог благословит вас и держат вас... подальше.&quot;
+
+---
+
+AcceptPraise
+
+&quot;We shall glorify your sweetness and love for all time. Thank you.&quot;
+
+&quot;Мы прославит вашу сладость и любовь на все времена. Спасибо.&quot;
+
+---
+
+RejectPraise
+
+&quot;Commendations from such as you are gods way of telling us to burn more sinners.&quot;
+
+&quot;Похвалы от таких, как вы, -- способ бога сказать нам сжигать больше грешников.&quot;
+
+---
+
+OfferSurrender
+
+&quot;Pandora, that was to be our new Canaan, is lost to us. Our gods, our lords, have abandoned us. We submit.&quot;
+
+&quot;Пандора, которая должна была быть нашим новым Ханааном, теряется нами. Наши боги, наши лорды, отказались от нас. Мы подчиняемся.&quot;
+
+---
+
+AcceptSurrender
+
+&quot;We accept. We shall be as one.&quot;
+
+&quot;Мы принимаем. Мы станем единым целым.&quot;
+
+---
+
+RejectSurrender
+
+&quot;No, even a god full of loving-kindness cannot swallow your cowardice. We fight on.&quot;
+
+&quot;Нет, даже бог полный любящей доброты не может проглотить вашу трусость. Мы будем бороться.&quot;
+
+---
+
+Compliment0
+
+It is good that there is some spirituality in this god-forsaken planet.
+
+Это хорошо, что есть некоторая духовность на этой богом забытой планете.
+
+---
+
+Compliment1
+
+When religion came to Pandora, it came as sweet as the lamb and as fierce as the lion.
+
+Когда религия пришла на Пандору, она пришела так сладко, как агнец и так свирепо, как лев.
+
+---
+
+Compliment2
+
+Whilst I disagree with your beliefs, I admire your ability to hold such beautifully-contradictory principles. Your divided mind is a work of art!
+
+Хотя я не согласна с вашими убеждениями, я восхищаюсь вашей способности следовать таким красиво противоречивым принципам. Ваш разделенный ум - произведение искусства!
+
+---
+
+Insult0
+
+%1%, your fanatical beliefs and blind aggression make you monstrous to our eyes.
+
+%1%, ваши фанатичные убеждения и слепая агрессия сделала вас чудовищем в наших глазах.
+
+---
+
+Insult1
+
+The world would be better without your bigotry, %3%. I think it an evil that children should be born into delusions such as yours.
+
+Мир был бы лучше без вашего фанатизма, %3%. Я думаю, что это зло, что дети должны жить в заблуждениях, таких, в которых живете вы.
+
+---
+
+Insult2
+
+You have disguised your malice as a religion, making it a dagger in the heart of civilization, %2%.
+
+Вы замаскировали свой злой умысел под религию, что делает её кинжалом в сердце цивилизации, %2%.
+
+---
+
+OfferGift0
+
+&quot;The Lord paid us richly for our labors, and I'd like to share with you, %1%.&quot;
+
+&quot;Господь заплатил нам богато от наших трудов, и я хотел бы поделиться с вами, %1%.&quot;
+
+---
+
+GiftAccepted0
+
+&quot;Speak forth, for I can sense your good intentions!&quot;
+
+&quot;Говорите дальше, потому что я чувствую ваши добрые намерения!&quot;
+
+---
+
+GiftAccepted1
+
+&quot;The Lord will not forget your generosity. Go in peace, %3%.&quot;
+
+&quot;Господь не забудет вашу щедрость. Иди с миром, %3%.&quot;
+
+---
+
+GiftRejected0
+
+&quot;My brothers and sisters will see this as a bribe from an infidel, so I can't accept, %3%.&quot;
+
+&quot;Мои братья и сестры будут рассмотрят это как взятку от неверного, так что я не могу это принять, %3%.&quot;
+
+---
+
+GiftRejected1
+
+&quot;I'm sure you need this money more than we do. Keep it.&quot;
+
+&quot;Я уверен, что вам нужны эти деньги больше, чем нам. Оставьте их себе.&quot;
+
+---
+
+DemandTribute0
+
+&quot;The rumors about your sins reach far, %3%, but for a couple hours of praying and a little donation in the name of the Lord I'm willing to grant you absolution.&quot;
+
+&quot;Слухи о грехах ваших выходят далеко, %3%, но за молитвы в течение пары часов и пожертвование во имя Господа, я готова предоставить вам отпущение грехов.&quot;
+
+---
+
+TributeAccepted0
+
+&quot;I do not like where this going, but speak. Charity is a virtue.&quot;
+
+&quot;Я не люблю, когда это происходит. Но благотворительность является добродетелью.&quot;
+
+---
+
+TributeAccepted1
+
+&quot;Very well, you shall see your demands fulfilled -- at least this time.&quot;
+
+&quot;Очень хорошо, вы увидите, ваши требования будут выполнены, по крайней мере на этот раз.&quot;
+
+---
+
+TributeRejected0
+
+&quot;How can you dare to approach me with such sinister intentions to steal the donations of our brethren! I'll have none of it!&quot;
+
+&quot;Как вы осмелились подойти ко мне с такими зловещими намерениями, чтобы украсть пожертвования наших братьев! Я никогда брала ничего из них!&quot;
+
+---
+
+TributeRejected1
+
+&quot;The Lord teaches us humility, but this sum is outrageous. I will pay you nothing.&quot;
+
+&quot;Господь учит нас смирению, но эта сумма возмутительна. Я никогда не буду платить вам ничего.&quot;
+
+---
+
+AcceptCreditsForDeal0
+
+&quot;What would it take %1%, to make you see god's glory in this deal?&quot;
+
+&quot;Что необходимо предпринять, %1%, чтобы вы увидили Божью славу в этой сделке?&quot;
+
+---
+
+AcceptCreditsForDeal1
+
+&quot;Angels are winging it to your wire account as we speak. Now, to business.&quot;
+
+&quot;Ангелы перенесут их на ваш счет, как мы говорим. Теперь к делу.&quot;
+
+---
+
+RejectCreditsForDeal0
+
+&quot;No. I will not yield to temptation, for mine is the power and the glory.&quot;
+
+&quot;Нет, я не поддаюсь искушению, для меня это сила и слава.&quot;
+
+---
+
+RejectCreditsForDeal1
+
+&quot;Neither a borrower nor a lender be, %1%.&quot;
+
+&quot;Ни заемщику, ни кредитору не бывать, %1%.&quot;
+
+---
+
+CreditsForDealRejected
+
+&quot;We will do this another way.&quot;
+
+&quot;Мы сделаем это по-другому.&quot;
+
+---
+
+DemandCreditsForDeal
+
+&quot;Oh, father Vishnu, personification of peace, our donation box is just so empty...&quot;
+
+&quot;О, отец Вишну, олицетворение мира, наш ящик для пожертвований пуст...&quot;
+
+---
+
+DemandCredits0
+
+&quot;With %6% <icon texture='Resources/Credits'/> credits, starving soldiers on Pandora will be able to afford yet more food.&quot;
+
+&quot;С %6% <icon texture='Resources/Credits'/> кредитами, голодающий солдат на Пандоре будет в состоянии позволить себе еще больше пищи.&quot;
+
+---
+
+DemandCredits1
+
+&quot;With just %6% <icon texture='Resources/Credits'/> credits, our educational missions to the wastes of Northern Pandora will be able to afford more prayer-quilts.&quot;
+
+&quot;Всего с %6% <icon texture='Resources/Credits'/> кредитами, наши образовательные миссии в пустошах Северной Пандоры смогут позволить себе молитвенные одеяла.&quot;
+
+---
+
+DemandCredits2
+
+&quot;A donation of just %6% <icon texture='Resources/Credits'/> credits will allow us to build a bunkershrine to my glory.&quot;
+
+&quot;Пожертвование всего в %6% <icon texture='Resources/Credits'/> кредитов позволит нам построить укрепленную усыпальницу во славу мою.&quot;
+
+---
+
+DemandCredits3
+
+&quot;If you give up your worldly goods -- every last holy iota -- you shall shrive yourselves of your sins and buy access to heaven itself!&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+&quot;Если вы откажетесь от своих мирских благ, от каждой последней святой мелочи, вы должны очистить себя от ваших грехов и купить доступ в самое небо!&quot; (%6% <icon texture='Resources/Credits'/> credits)
+
+---
+
+OfferCredits0
+
+&quot;Charity begins at home. Here, %6% <icon texture='Resources/Credits'/> credits is a good amount to feed your soul.&quot;
+
+&quot;Благотворительность входит в дом. Здесь, %6% <icon texture='Resources/Credits'/> кредитов, достаточно, чтобы прокормить вашу душу.&quot;
+
+---
+
+OfferCredits2
+
+&quot;Your poverty is a cry to the three Greek spirits of the poor -- Ptokheia, Penia and Amekhania. They demand I give you %6% <icon texture='Resources/Credits'/> credits, though it impoverishes me too.&quot;
+
+&quot;Ваш бедность - это крик к трем греческим духам бедных - Птохее, Пении и Амекании. Они требуют, чтобы я дала вам %6% <icon texture='Resources/Credits'/> кредитов, хотя это обедняет меня тоже.&quot;
+
+---
+
+OfferCredits1
+
+&quot;%6% <icon texture='Resources/Credits'/> credits will warm your bones. Lan-Caihe, the Chinese god of mendicants, ordains it.&quot;
+
+&quot;%6% <icon texture='Resources/Credits'/> кредитов согреет ваши кости. Лан-Кайши, китайский бог нищих, требует этого.&quot;
+
+---
+
+OfferCredits3
+
+&quot;To dispose of all worldly goods, in an act of charity, is the way of Bhikshatana, the Hindu god of beggars. So, here, take it all -- %6% <icon texture='Resources/Credits'/> credits -- so we may be shriven of our sins.&quot;
+
+&quot;Отказ от всех мирских благ в пользу благотворительности - это путь Бхикшатаны, индуистского бога нищих. Итак, вот, возьмите это -%6% <icon texture='Resources/Credits'/> кредитов и  мы сможем исповедоваться в наших грехах.&quot;
+
+---
+
+AllianceAccepted
+
+&quot;Gladly do we accept, my dear friend! Let us rule this world together in the name of God.&quot;
+
+&quot;Мы охотно это принимаем, мой дорогой друг! Давайте править этим миром вместе во имя Бога.&quot;
+
+---
+
+AllianceRejected
+
+&quot;Your offer honors us, but we do not think it would be a wise choice at this point in time.&quot;
+
+&quot;Ваше предложение льстит нам, но мы не думаем, что это будет правильный выбор на данный момент.&quot;
+
+---
+
+AllianceTerminated
+
+&quot;So be it. Leave it to the Lord to sort the chaff from the wheat.&quot;
+
+&quot;Так и быть. Оставьте Господу отсеять пшеницу от плевел.&quot;
+
+---
+
+Condemn
+
+&quot;For these hideous crimes you will burn in hell, %2%! You hear me? BURN IN HELL!&quot;
+
+&quot;За эти отвратительных преступления вы гореть в аду, %2%! Ты слышишь меня? Гореть в аду!&quot;
+
+---
+
+CondemnAccepted
+
+&quot;%4% The Almighty has ordered me to purge you from these lands -- and I shall obey.&quot;
+
+&quot;%4% Всевышний приказал мне очистить эти земли от вас, и я должен подчиниться.&quot;
+
+---
+
+DeclareWar
+
+&quot;%4% God be my witness, I will put an end to this heresy!&quot;
+
+&quot;%4% Бог мне свидетель, я положу конец этой ереси!&quot;
+
+---
+
+DemandWithdrawal
+
+&quot;Don't think I'm not aware of your growing troop concentrations at my borders! Order their immediate withdrawal or the gods of the pantheon will smite them down.&quot;
+
+&quot;Не думайте, что я не в курсе вашей растущей концентрации войск на моей границе! Немедленно выведите войска или боги пантеона поразят их.&quot;
+
+---
+
+Eliminated
+
+&quot;The rapture comes -- we go to god.&quot;
+
+&quot;Восхищение грядет - мы идем к бога.&quot;
+
+---
+
+Goodbye
+
+&quot;Gods go with you.&quot;
+
+&quot;Идите с богом.&quot;
+
+---
+
+Greet0
+
+&quot;You better come here to beg for forgiveness, sinner.&quot;
+
+&quot;Вам лучше приехать сюда, чтобы просить прощения, грешник.&quot;
+
+---
+
+Greet1
+
+&quot;Speak freely but true, %3%. Argus Panoptes and the Ophanim are always watching.&quot;
+
+&quot;Говорите свободно, но честно, %3%. Аргус Паноптес и Офаним всегда наблюдают.&quot;
+
+---
+
+Greet2
+
+&quot;Welcome, my dear friend! How may I be of service?&quot;
+
+&quot;Добро пожаловать, мой дорогой друг! Чем я могу быть полезен?&quot;
+
+---
+
+NonAggressionPactAccepted
+
+&quot;So be it. May our factions prosper in the years of peace to come, under the sight of the gods.&quot;
+
+&quot;Так и быть. Пусть наши фракции процветают в годы мира, под присмотром богов.&quot;
+
+---
+
+NonAggressionPactRejected
+
+&quot;You might not like to hear this, my dear %1%, but we are not interested.&quot;
+
+&quot;Вы не хотели бы слышать это, мой дорогой %1%, но мы не заинтересованы.&quot;
+
+---
+
+NonAggressionPactTerminated
+
+&quot;The termination of a non-aggression pact has well-known implications. We will remember this, %2%. The holy warriors stand prepared.&quot;
+
+&quot;Прекращение договора о ненападении имеет хорошо известные последствия. Мы будем помнить об этом, %2%. Святые воины готовы.&quot;
+
+---
+
+OfferAlliance
+
+&quot;Joining with us will be one more step along the path to enlightenment.&quot;
+
+&quot;Присоединение к нам будет еще одним шагом на пути к просветлению.&quot;
+
+---
+
+OfferNonAggressionPact
+
+&quot;Lady Pax came to me in a shower of gold and told me that we should swear off war, for a time.&quot;
+
+&quot;Леди Пакс пришла ко мне в золотой душ и сказала мне, что мы должны отречься от войны, на время.&quot;
+
+---
+
+OfferPeace
+
+&quot;By Forseti and Tyr, let this war end! We are tired of bloodshed, especially our own.&quot;
+
+&quot;Как сказал Форсети и Тир, пусть закончится эта война! Мы устали от кровопролития, особенно от нашего собственного.&quot;
+
+---
+
+OfferResearchPact
+
+&quot;We need to prove that the universe was created 6000 years ago, as some of the holy texts state. Your scientific help would be a boon in this.&quot;
+
+&quot;Нам нужно доказать, что Вселенная была создана всего 6000 лет назад, как некоторые священные тексты говорят. Ваши научная помощь будет благом в этом.&quot;
+
+---
+
+OfferTradingPact
+
+&quot;We should trade. We have a stack of bibles, korans, talmuds and so on that we need to get rid of. We'd gambled that there would be local life to convert - how did we know that the xenomorphs wouldn't be able to read?&quot;
+
+&quot;Мы должны торговать. У нас есть стопка Библий, Коранов, Талмудов и так далее, от чего мы должны избавиться. Мы бы их проиграли, будь здесь местная жизнь -- откуда нам было знать, что ксеноморфы не умеют читать?&quot;
+
+---
+
+PeaceAccepted
+
+&quot;It was about time we stopped this waste of human life. Only Ares and the Graeae should choose when men die.&quot;
+
+&quot;Думаю, настало время прекратить тратить человеческие жизни. Только Арес и Грайи должены выбрать, кому умирать.&quot;
+
+---
+
+PeaceRejected
+
+&quot;Nice try, heretic. As an instrument of God's will, our holy warriors will crush you.&quot;
+
+&quot;Хорошая попытка, еретик. В качестве инструмента Божьей воли, наши святые воины сокрушат вас.&quot;
+
+---
+
+ResearchPactAccepted
+
+&quot;Let us embrace the wonders of a new spiritual age together, my friend.&quot;
+
+&quot;Примем чудеса новой духовной эры вместе, мой друг.&quot;
+
+---
+
+ResearchPactRejected
+
+&quot;I am sorry, but for now we will make the journey into the unknown alone.&quot;
+
+&quot;Мне очень жаль, но сейчас мы совершаем путешествие в неизвестность в одиночку..&quot;
+
+---
+
+ResearchPactTerminated
+
+&quot;What miracle did you discover that lead to such an act? It shall not matter, we will find out soon enough.&quot;
+
+&quot;Какое чудо вы узнали, что привело к такому акту? Это не имеет значения, мы это скоро узнаем.&quot;
+
+---
+
+TerminateAlliance
+
+&quot;While our alliance surely stood strong under this alien sky, the time has come to part ways.&quot;
+
+&quot;Хотя наш союз, конечно, стоял сильным под этим Чужим небом, пришло время расстаться.&quot;
+
+---
+
+TerminateNonAggressionPact
+
+&quot;The lord has nullified our non-aggression pact, heathen.&quot;
+
+&quot;Господь признал недействительным наш пакт о ненападении, язычник.&quot;
+
+---
+
+TerminateResearchPact
+
+&quot;The scientific profit from our research pact is too one-sided, so I'm canceling it.&quot;
+
+&quot;Научная прибыль от нашего исследовательского пакта слишком одностороння, так что я отменяю его.&quot;
+
+---
+
+TerminateTradingPact
+
+&quot;Mercury looked over our trading pact and found it wanting. It's simply not profitable enough for us, and hereby nullified.&quot;
+
+&quot;Меркурий посмотрел на наш торговый пакт и нашел его желаным. Однако он не достаточно выгоден для нас, и настоящим аннулируются.&quot;
+
+---
+
+TradingPactAccepted
+
+&quot;Very well! Bring the traders into the temples!&quot;
+
+&quot;Очень хорошо! Приводите торговцев в храмы!&quot;
+
+---
+
+TradingPactRejected
+
+&quot;It seems a bit too early for this step.&quot;
+
+&quot;Кажется, слишком рано для этого шага.&quot;
+
+---
+
+TradingPactTerminated
+
+&quot;Your citizens will feel the lack of our holy goods soon enough and be like Job, forsaken.&quot;
+
+&quot;Ваши граждане будут чувствовать нехватку наших святых товаров достаточно скоро, и будут как Иов, с носом.&quot;
+
+---
+
+WarAccepted
+
+&quot;So shall it be. Our holy forces will subjugate your states in a swift campaign.&quot;
+
+&quot;Пусть будет так. Наши святые силы подчинят ваши города в быстрой кампании.&quot;
+
+---
+
+WithdrawalAccepted
+
+&quot;Our men were lost in pilgrimage, hermitage and meditation. We shall round them up immediately.&quot;
+
+&quot;Наши мужчины были потеряны в паломничестве, скитании и медитации. Мы вернем их сразу же.&quot;
+
+---
+
+WithdrawalRejected
+
+&quot;Who are you to question the placing of god's people?&quot;
+
+&quot;Кто ты такой, чтобы сомневаться в размещении бога в человеке?&quot;

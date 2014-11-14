@@ -1,0 +1,725 @@
+AlwaysShowHealthBars
+
+Always Show Health Bars
+
+Показывать полоски здоровья
+
+---
+
+AlwaysShowHealthBarsHint
+
+Show unit health bars even when at full health.
+
+Показывать полоски здоровья даже при полном здоровье.
+
+---
+
+AmbientVolume
+
+Ambient Volume
+
+Громкость окружения
+
+---
+
+AmbientVolumeHint
+
+Regulates the ambient volume.
+
+Регулирует громкость звуков окружающей среды.
+
+---
+
+AnisotropicFiltering
+
+Anisotropic Filtering
+
+Анизотропная фильтрация
+
+---
+
+AntiAliasing
+
+Anti-Aliasing
+
+Сглаживание
+
+---
+
+AntiAliasingHint
+
+Reduces aliasing by smoothing edges with FXAA, but may reduce performance. Relies on your graphics card's computing power.
+
+Сглаживание при помощи FXAA, может снизить производительность. Зависит от мощности графической карты.
+
+---
+
+Audio
+
+Audio
+
+Аудио
+
+---
+
+AutoCycleUnits
+
+Auto Cycle Units
+
+Циклический выбор подразделений
+
+---
+
+AutoCycleUnitsHint
+
+Automatically cycle to the next idle unit.
+
+Автоматический выбор следующего простаивающего подразделения.
+
+---
+
+Automation
+
+Automation
+
+Автоматизация
+
+---
+
+AutoSave
+
+Autosave
+
+Автосохранение
+
+---
+
+AutoSaveHint
+
+Automatically save the game at the start of each turn.
+
+Автоматически сохранять игру в начале хода.
+
+---
+
+CutsceneVolume
+
+Cutscene Volume
+
+Громкость катсцен
+
+---
+
+CutsceneVolumeHint
+
+Regulates the volume of cutscenes.
+
+Регулирует громкость в видеовставках.
+
+---
+
+DiscoveryHelp
+
+Discovery Help
+
+Помощь в открытиях
+
+---
+
+DiscoveryHelpHint
+
+Open the compendium when left-clicking discovery events.
+
+Открывать энциклопедию кликнув левой кнопкой мыши по событию.
+
+---
+
+DisplayMode
+
+Display Mode
+
+Разрешение
+
+---
+
+DisplayModeHint
+
+Allows you to change the game's display mode. Windowed modes may cause a drop in performance.<br/><br/><style color='Yellow'/>Windowed mode may work best for recording in the native resolution.
+
+Меняет разрешение игры. Оконный режим может снизить производительность.
+
+---
+
+DisplayMode0
+
+Fullscreen
+
+Fullscreen
+
+---
+
+DisplayMode1
+
+Windowed
+
+Windowed
+
+---
+
+DisplayMode2
+
+Windowed Undecorated
+
+Windowed Undecorated
+
+---
+
+EffectsVolume
+
+Effects Volume
+
+Громкость эффектов
+
+---
+
+EffectsVolumeHint
+
+Regulates the effects volume.
+
+Регулирует громкость эфектов игры.
+
+---
+
+FontStyle
+
+Font Style
+
+Шрифт
+
+---
+
+FontStyleHint
+
+Determines the font style to use.<br/><br/><style color='Red'/>Changing this setting requires a game restart to take effect.
+
+Определяет шрифт. <br/> <br/> <style Color='Red'/> Изменение этого параметра требует перезапустить игру.
+
+---
+
+FontStyle0
+
+Futuristic
+
+Futuristic
+
+---
+
+FontStyle1
+
+Plain
+
+Plain
+
+---
+
+FontStyle2
+
+Plain Large
+
+Plain Large
+
+---
+
+FormersBuildConstructionBays
+
+Formers Build Construction Bays
+
+Formers Build Construction Bays
+
+---
+
+FormersBuildEnergyParks
+
+Formers Build Energy Parks
+
+Formers Build Energy Parks
+
+---
+
+FormersBuildFarms
+
+Formers Build Farms
+
+Формеры стоят фермы
+
+---
+
+FormersBuildFieldLaboratories
+
+Formers Build Field Laboratories
+
+Formers Build Field Laboratories
+
+---
+
+FormersBuildMines
+
+Formers Build Mines
+
+Формеры стоят шахты
+
+---
+
+FormersBuildPurifiers
+
+Formers Build Purifiers
+
+Formers Build Purifiers
+
+---
+
+FormersBuildRoads
+
+Formers Build Roads
+
+Формеры стоят дороги
+
+---
+
+FormersBuildSuburbs
+
+Formers Build Suburbs
+
+Formers Build Suburbs
+
+---
+
+FormersClearForests
+
+Formers Clear Forests
+
+Формеры вырубают леса
+
+---
+
+FormersClearFungus
+
+Formers Clear Fungus
+
+Формеры убирают фунгусы
+
+---
+
+FormersClearPollution
+
+Formers Clear Wasteland
+
+Формеры очищают пустоши
+
+---
+
+FormersDestroyImprovements
+
+Formers Destroy Improvements
+
+Formers Destroy Improvements
+
+---
+
+FormersGrowForests
+
+Formers Grow Forests
+
+Формеры растят леса
+
+---
+
+FormersGrowFungus
+
+Formers Grow Fungus
+
+Формеры растят фунгусы
+
+---
+
+FormersImproveEcoregions
+
+Formers Improve Ecoregions
+
+Формеры улучшают экорегионы
+
+---
+
+FormersWorsenEcoregions
+
+Formers Worsen Ecoregions
+
+Формеры ухудшают экорегионы
+
+---
+
+General
+
+General
+
+Общие
+
+---
+
+GrabInput
+
+Grab Input
+
+Grab Input
+
+---
+
+InterfaceVolume
+
+Interface Volume
+
+Громкость интерфейса
+
+---
+
+InterfaceVolumeHint
+
+Regulates the interface volume.
+
+Регулирует громкость интерфейса.
+
+---
+
+KeyboardScrollSpeed
+
+Keyboard Scroll Speed
+
+Скорость прокрутки клавиатурой
+
+---
+
+KeyboardScrollSpeedHint
+
+Determines how fast the keyboard scrolls the camera.
+
+Управляет скоростью движения камеры.
+
+---
+
+Language
+
+Language
+
+Язык
+
+---
+
+MasterVolume
+
+Master Volume
+
+Общая громкость
+
+---
+
+MasterVolumeHint
+
+Regulates the master volume.
+
+Управляет общей громкостью.
+
+---
+
+MouseScrollSpeed
+
+Mouse Scroll Speed
+
+Скорость прокрутки мыши
+
+---
+
+MouseScrollSpeedHint
+
+Determines how fast the mouse scrolls the camera at the edges of the screen.
+
+Определяет, насколько быстро мышь прокручивает камеру по краям экрана.
+
+---
+
+MusicVolume
+
+Music Volume
+
+Громкость музыки
+
+---
+
+MusicVolumeHint
+
+Regulates the music volume.
+
+Регулирует громкость музыки.
+
+---
+
+Network
+
+Network
+
+Сеть
+
+---
+
+PlayCutscenes
+
+Play Cutscenes
+
+Проигрывать катсцены
+
+---
+
+PlayCutscenesHint
+
+Play in-game cinematics.
+
+Показыать игровые видеовставки.
+
+---
+
+ProductKey
+
+Product Key
+
+Код продукта
+
+---
+
+ResetTips
+
+Reset Tips
+
+Сбросить советы
+
+---
+
+ResetTipsHint
+
+Reset game tips.
+
+Сбрасывает внутриигровые советы и они будут показываться как при первом входе в игру.
+
+---
+
+Resolution
+
+Resolution
+
+Разрешение
+
+---
+
+ResolutionHint
+
+Allows you to change the game's display resolution. Higher resolutions will result in increased clarity, but greatly affect performance.
+
+Позволяет изменить разрешение экрана в игре. Более высокое разрешение сильно влияет на производительность.
+
+---
+
+ServerPort
+
+Server Port
+
+Server Port
+
+---
+
+ServerPortHint
+
+TCP port to use when hosting games. Must be defined to a nonzero value. No other ports are used.<br/><br/><style color='Yellow'/>When hosting multiplayer games, it is recommended that you forward this port on your router to guarantee that others are able to connect directly to your game.
+
+TCP порт для хостинга игр. Никакие другие порты не используются. Значение 0 указывает, что свободный порт определяется автоматически.<br/><br/><style color='Yellow'/>При хостинге, рекомендуется, что вы перенаправили этот порт на маршрутизаторе, чтобы гарантировать, что другие смогут подключаться непосредственно к вашей игре.
+
+---
+
+ShadowQuality
+
+Shadow Quality
+
+Качество теней
+
+---
+
+ShadowQualityHint
+
+Determines the size of the shadow map used for rendering shadows. A higher shadow quality will result in more detailed shadows, but requires more video memory (VRAM).
+
+Определяет размер карты теней, которая используется для рендеринга теней. Более высокое качество теней приведет к более подробной тени, но требует больше видеопамяти (VRAM).
+
+---
+
+ShadowQuality0
+
+Low
+
+Низкое
+
+---
+
+ShadowQuality1
+
+Medium
+
+Среднее
+
+---
+
+ShadowQuality2
+
+High
+
+Высокое
+
+---
+
+ShowGrid
+
+Show Grid
+
+Показывать сетку
+
+---
+
+ShowGridHint
+
+Display the ground grid.
+
+Показывать сетку на карте.
+
+---
+
+ShowTips
+
+Show Tips
+
+Показывать подсказки
+
+---
+
+ShowTipsHint
+
+Display helpful game tips.
+
+Подсказки помогут вам освоиться.
+
+---
+
+SpokenLanguage
+
+Spoken Language
+
+Язык озвучивания
+
+---
+
+SpokenLanguageHint
+
+Specifies the spoken language.
+
+Определяет на каком языке будет озвучивания.
+
+---
+
+TextureQuality
+
+Texture Quality
+
+Качество текстур
+
+---
+
+TextureQualityHint
+
+Determines the size of textures used throughout the game. Higher texture quality will result in more detailed terrain and units, but requires more video memory (VRAM).<br/><br/>Low: 256 MB<br/>Medium: 512 MB<br/>High: 1024 MB<br/><br/><style color='Red'/>Changing this setting requires a game restart to take effect.
+
+Определяет размер текстур, используемых на протяжении всей игры. Высшее качество текстур приведет к более подробной местности и т.п., но требует больше видеопамяти (VRAM) <br/> <br/> Низкие настройки: 256 Мб <br/> Средние: 512 Мб <br/> Высокие: 1024 Мб <BR /> <br/> <style color='Red'/> Изменение этого параметра требует перезапуска игры.
+
+---
+
+TextureQuality0
+
+Low
+
+Низкие
+
+---
+
+TextureQuality1
+
+Medium
+
+Средние
+
+---
+
+TextureQuality2
+
+High
+
+Высокие
+
+---
+
+VerticalSynchronization
+
+Vertical Synchronization
+
+Вертикальная синхронизация
+
+---
+
+VerticalSynchronizationHint
+
+Synchronizes your frame rate to your primary monitor's refresh rate. This will eliminate screen tearing and reduce hardware load, but will also cause reduced performance if your hardware cannot keep up with the monitor's refresh rate.
+
+Синхронизирует частоту кадров с частотой обновления вашего основного монитора. Это может устранить разрыв экрана и уменьшить нагрузку оборудования, но может привести к снижению производительности, если ваше оборудование не может идти в ногу с частотой обновления монитора.
+
+---
+
+Video
+
+Video
+
+Видео
+
+---
+
+VoiceVolume
+
+Voice Volume
+
+Громкость голоса
+
+---
+
+VoiceVolumeHint
+
+Regulates the voice volume.
+
+Регулирует громкость голоса.
+
+---
+
+WrittenLanguage
+
+Written Language
+
+Язык текста
+
+---
+
+WrittenLanguageHint
+
+Specifies the written language.<br/><br/><style color='Red'/>Changing this setting requires a game restart to take effect.
+
+Определяет язык текста. <br/> <br/> <style Color='Red'/> Изменение этого параметра требует перезапускаь игры.

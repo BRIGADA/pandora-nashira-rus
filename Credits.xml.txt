@@ -2,7 +2,7 @@ BetaTesting
 
 <br/><style upperCase='1'/>Beta Testing<style upperCase='0'/>
 
-<br/><style upperCase='1'/>Бета-тестинг<style upperCase='0'/>
+<br/><style upperCase='1'/>Р‘РµС‚Р°-С‚РµСЃС‚РёСЂРѕРІР°РЅРёРµ<style upperCase='0'/>
 
 ---
 
@@ -10,7 +10,7 @@ DesignAndProgramming
 
 <br/><style upperCase='1'/>Design and Programming<style upperCase='0'/>
 
-<br/><style upperCase='1'/>Дезайн и программирование<style upperCase='0'/>
+<br/><style upperCase='1'/>Р”РёР·Р°Р№РЅ Рё РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ<style upperCase='0'/>
 
 ---
 
@@ -18,7 +18,7 @@ Graphics
 
 <br/><style upperCase='1'/>Graphics<style upperCase='0'/>
 
-<br/><style upperCase='1'/>Графика<style upperCase='0'/>
+<br/><style upperCase='1'/>Р“СЂР°С„РёРєР°<style upperCase='0'/>
 
 ---
 
@@ -26,7 +26,7 @@ Music
 
 <br/><style upperCase='1'/>Music<style upperCase='0'/>
 
-<br/><style upperCase='1'/>Музыка<style upperCase='0'/>
+<br/><style upperCase='1'/>РњСѓР·С‹РєР°<style upperCase='0'/>
 
 ---
 
@@ -34,7 +34,7 @@ Sound
 
 <br/><style upperCase='1'/>Sound<style upperCase='0'/>
 
-<br/><style upperCase='1'/>Звуки<style upperCase='0'/>
+<br/><style upperCase='1'/>Р—РІСѓРє<style upperCase='0'/>
 
 ---
 
@@ -42,7 +42,7 @@ SpecialThanks
 
 <br/><style upperCase='1'/>Special Thanks<style upperCase='0'/>
 
-<br/><style upperCase='1'/>Особая благодарность<style upperCase='0'/>
+<br/><style upperCase='1'/>РћСЃРѕР±Р°СЏ Р±Р»Р°РіРѕРґР°СЂРЅРѕСЃС‚СЊ<style upperCase='0'/>
 
 ---
 
@@ -50,7 +50,7 @@ Translation
 
 <br/><style upperCase='1'/>Translation<style upperCase='0'/>
 
-<br/><style upperCase='1'/>Translation<style upperCase='0'/>
+<br/><style upperCase='1'/>РџРµСЂРµРІРѕРґ<style upperCase='0'/>
 
 ---
 
@@ -58,4 +58,4 @@ Writing
 
 <br/><style upperCase='1'/>Writing<style upperCase='0'/>
 
-<br/><style upperCase='1'/>Сценарий<style upperCase='0'/>
+<br/><style upperCase='1'/>РЎС†РµРЅР°СЂРёР№<style upperCase='0'/>

@@ -106,7 +106,7 @@ AlliedVictory
 
 Allied Victory
 
-Allied Victory
+Дипломатическая победа
 
 ---
 
@@ -130,7 +130,7 @@ Difficulty0Hint
 
 The AI suffers a slight penalty compared to the player.
 
-На АИ действует небольшое пенальти.
+На ИИ действует небольшое пенальти.
 
 ---
 
@@ -146,7 +146,7 @@ Difficulty1Hint
 
 The AI has no advantage over the player.
 
-АИ не имеет преимущества перед игроком
+ИИ не имеет преимущества перед игроком
 
 ---
 
@@ -162,7 +162,7 @@ Difficulty2Hint
 
 The AI gains a slight advantage over the player.
 
-АИ дается небольшая фора.
+ИИ дается небольшая фора.
 
 ---
 
@@ -178,7 +178,7 @@ Difficulty3Hint
 
 The AI gains a moderate advantage over the player.
 
-АИ получает большое преимущество перед игроком.
+ИИ получает большое преимущество перед игроком.
 
 ---
 
@@ -194,7 +194,7 @@ Difficulty4Hint
 
 The AI gains a considerable advantage over the player.
 
-АИ получает огромное преимущество перед игроком.
+ИИ получает огромное преимущество перед игроком.
 
 ---
 
@@ -234,7 +234,7 @@ DropInHint
 
 Allow joining players to take over disconnected and AI players after the game has started. Normally joining players may only reconnect or take over spectator slots.
 
-Allow joining players to take over disconnected and AI players after the game has started. Normally joining players may only reconnect or take over spectator slots.
+Разрешён вход игроков в слоты отсоединившихся и слоты ИИ после начала игры. Обычно игроки могут только переподключаться или подключаться как наблюдатели.
 
 ---
 
@@ -250,7 +250,7 @@ GameVisibility0
 
 Friends Only
 
-Friends Only
+Только друзья
 
 ---
 
@@ -258,7 +258,7 @@ GameVisibility0Hint
 
 Game is only joinable through friends lists, invites or direct connect.
 
-Game is only joinable through friends lists, invites or direct connect.
+Вход возможен только для друзей, по приглашениям или при прямом соединении.
 
 ---
 
@@ -266,7 +266,7 @@ GameVisibility1
 
 Private
 
-Private
+Закрытая игра.
 
 ---
 
@@ -274,7 +274,7 @@ GameVisibility1Hint
 
 Game is only joinable through invites or direct connect.
 
-Game is only joinable through invites or direct connect.
+Вход возможен только по приглашениям или при прямом соединении.
 
 ---
 
@@ -282,7 +282,7 @@ GameVisibility2
 
 Public
 
-Public
+Публичная игра.
 
 ---
 
@@ -290,7 +290,7 @@ GameVisibility2Hint
 
 Game shows in public lists and is joinable by anyone.
 
-Game shows in public lists and is joinable by anyone.
+Игра отображается в публичных листах и вход открыт для всех.
 
 ---
 
@@ -370,7 +370,7 @@ Pace3Hint
 
 Increases costs and durations by 100%.
 
-При марафонном темпе игры увеличивается производство и затраты на исследования на 100%.
+При марафонском темпе игры увеличивается производство и затраты на исследования на 100%.
 
 ---
 
@@ -418,7 +418,7 @@ RevealedResearchTiers0
 
 One
 
-Нулевая
+Один
 
 ---
 
@@ -434,7 +434,7 @@ RevealedResearchTiers1
 
 Two
 
-Один
+Два
 
 ---
 
@@ -450,7 +450,7 @@ RevealedResearchTiers2
 
 Three
 
-Два
+Три
 
 ---
 
@@ -458,7 +458,7 @@ RevealedResearchTiers2Hint
 
 Technologies three tiers ahead are revealed.
 
-Видно только на 2 уровеня вперед.
+Видно только на 3 уровеня вперед.
 
 ---
 
@@ -466,7 +466,7 @@ RevealedResearchTiers3
 
 Four
 
-Три
+Четыре
 
 ---
 
@@ -474,7 +474,7 @@ RevealedResearchTiers3Hint
 
 Technologies four tiers ahead are revealed.
 
-Видно только на 3 уровеня вперед.
+Видно только на 4 уровеня вперед.
 
 ---
 
@@ -762,7 +762,7 @@ Temperature1
 
 Temperate
 
-Средний
+Умеренный
 
 ---
 

@@ -402,7 +402,7 @@ Flame0Description
 
 <style name='Italic'/>&quot;I like my enemies the way I like my toast. Charred.&quot;<br/>    -- Admiral James Heid<style name='Default'/><br/><br/>Colloquially said to send its enemies to hell, because of the horrible death it inflicts, this flamethrower uses a ground-breaking hydroxide-based pre-ignition technology. It doesn't discriminate between human and alien flesh, melting them with equal ease -- though robotics are more tricky.
 
-<style name='Italic'/>&quot;Я люблю своих врагов, как я люблю свой ​​тост. Поджаренными.&quot;<br/>    -- Адмирал Джеймс Хэйд<style name='Default'/><br/><br/>Грубо говоря она отправляет своих врагов в ад, и названа так из-за ужасной смерти, которую приносит. Это огнемет использует гидроксид на основе новаторской технологии предварительного зажигания.
+<style name='Italic'/>&quot;Я люблю своих врагов, как я люблю свой тост. Поджаренными.&quot;<br/>    -- Адмирал Джеймс Хэйд<style name='Default'/><br/><br/>Грубо говоря она отправляет своих врагов в ад, и названа так из-за ужасной смерти, которую приносит. Это огнемет использует гидроксид на основе новаторской технологии предварительного зажигания.
 
 ---
 

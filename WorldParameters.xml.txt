@@ -34,7 +34,7 @@ AlienAggression1Hint
 
 Aliens turn hostile relatively late and are willing to travel short distances from their home territories in order to attack. Hives hatch new xenomorphs quite slowly.
 
-Чужие становятся агрессивными относительно поздно и готовы уходить недалеко от своего логова. Чужие в ульях появляются  редко.
+Чужие становятся агрессивными относительно поздно и готовы уходить недалеко от своего логова. Чужие в ульях появляются редко.
 
 ---
 
@@ -50,7 +50,7 @@ AlienAggression2Hint
 
 Aliens turn hostile reasonably fast and are willing to travel moderate distances from their home territories in order to attack. Hives hatch new xenomorphs at an average speed.
 
-Чужие становятся агрессивными относительно быстро и готовы уходить от своего логова на средние расстояния.
+Чужие становятся агрессивными относительно быстро и готовы уходить от своего логова на средние расстояния. Ульи порождают новых ксеноморфов со средней скоростью. 
 
 ---
 
@@ -66,7 +66,7 @@ AlienAggression3Hint
 
 Aliens turn hostile quite fast and are willing to travel considerable distances from their home territories in order to attack. Hives hatch new xenomorphs relatively quickly.
 
-Чужие становятся агрессивными очень быстро и готовы уходить от своего логова на на большие расстояния. Чужие в ульях появляются часто.
+Чужие становятся агрессивными очень быстро и готовы уходить от своего логова на большие расстояния. Ульи порождают новых ксеноморфов относительно часто.
 
 ---
 
@@ -82,7 +82,7 @@ AlienAggression4Hint
 
 Aliens turn hostile extremely fast and are willing to travel immense distances from their home territories in order to attack. Hives hatch new xenomorphs very quickly.
 
-Чужие становятся агрессивными практически мгновенно и готовы уходить от своего логова на огромные расстояния. Чужие в ульях появляются очень часто.
+Чужие становятся агрессивными практически мгновенно и готовы уходить от своего логова на огромные расстояния. Ульи порождают новых ксеноморфов очень часто.
 
 ---
 
@@ -106,7 +106,7 @@ AlliedVictory
 
 Allied Victory
 
-Allied Victory
+Союзная победа
 
 ---
 
@@ -130,7 +130,7 @@ Difficulty0Hint
 
 The AI suffers a slight penalty compared to the player.
 
-На АИ действует небольшое пенальти.
+На ИИ действует небольшое пенальти.
 
 ---
 
@@ -146,7 +146,7 @@ Difficulty1Hint
 
 The AI has no advantage over the player.
 
-АИ не имеет преимущества перед игроком
+ИИ не имеет преимущества перед игроком
 
 ---
 
@@ -162,7 +162,7 @@ Difficulty2Hint
 
 The AI gains a slight advantage over the player.
 
-АИ дается небольшая фора.
+ИИ получает небольшое преимущество перед игроком.
 
 ---
 
@@ -178,7 +178,7 @@ Difficulty3Hint
 
 The AI gains a moderate advantage over the player.
 
-АИ получает большое преимущество перед игроком.
+ИИ получает большое преимущество перед игроком.
 
 ---
 
@@ -194,7 +194,7 @@ Difficulty4Hint
 
 The AI gains a considerable advantage over the player.
 
-АИ получает огромное преимущество перед игроком.
+ИИ получает огромное преимущество перед игроком.
 
 ---
 
@@ -210,7 +210,7 @@ Difficulty5Hint
 
 The difficulty level for each AI faction is determined randomly at the start of the game.
 
-Выбирается случайно.
+Уровень сложности для каждой группировки ИИ определяется случайным образом при старте игры.
 
 ---
 
@@ -242,7 +242,7 @@ GameVisibility
 
 Game Visibility
 
-Game Visibility
+Видимость игры
 
 ---
 
@@ -250,7 +250,7 @@ GameVisibility0
 
 Friends Only
 
-Friends Only
+Только для друзей
 
 ---
 
@@ -258,7 +258,7 @@ GameVisibility0Hint
 
 Game is only joinable through friends lists, invites or direct connect.
 
-Game is only joinable through friends lists, invites or direct connect.
+Подключиться к игре можно через список друзей, по приглашению или при прямом соединении.
 
 ---
 
@@ -266,7 +266,7 @@ GameVisibility1
 
 Private
 
-Private
+Приватная
 
 ---
 
@@ -274,7 +274,7 @@ GameVisibility1Hint
 
 Game is only joinable through invites or direct connect.
 
-Game is only joinable through invites or direct connect.
+Подключиться к игре можно по приглашению или при прямом соединении.
 
 ---
 
@@ -282,7 +282,7 @@ GameVisibility2
 
 Public
 
-Public
+Публичная
 
 ---
 
@@ -290,7 +290,7 @@ GameVisibility2Hint
 
 Game shows in public lists and is joinable by anyone.
 
-Game shows in public lists and is joinable by anyone.
+Игра отображается в публичных списках и допускает подключение любого игрока.
 
 ---
 
@@ -346,7 +346,7 @@ Pace2
 
 Epic
 
-Эпик
+Эпичный
 
 ---
 
@@ -354,7 +354,7 @@ Pace2Hint
 
 Increases costs and durations by 50%.
 
-При эпическом темпе игры увеличивается производство и затраты на исследования на 50%.
+При эпичном темпе игры увеличивается производство и затраты на исследования на 50%.
 
 ---
 
@@ -530,7 +530,7 @@ Shape0Hint
 
 The world is shaped in the form of several smaller islands with water covering 80% of the planetary surface. Naval exploration and warfare play a vital role.
 
-Мир имеет форму нескольких небольших островов с водой занимающей 80% поверхности планеты. Морская разведка и войны играют жизненно важную роль.
+Мир имеет форму нескольких небольших островов с водой, занимающей 80% поверхности планеты. Морская разведка и войны играют жизненно важную роль.
 
 ---
 
@@ -546,7 +546,7 @@ Shape1Hint
 
 The world is shaped in the form of a few large continents with water covering 70% of the planetary surface. Balanced forces are the key to military success.
 
-Мир имеет форму нескольких больших континентов с водой занимающей 70% земной поверхности. Сбалансированные силы являются ключом к успеху.
+Мир имеет форму нескольких больших континентов с водой, занимающей 70% поверхности планеты. Сбалансированные силы являются ключом к успеху.
 
 ---
 
@@ -562,7 +562,7 @@ Shape2Hint
 
 The world is shaped in the form of one massive super-continent with water covering 60% of the planetary surface. Strong army ground troops are highly recommended.
 
-Мир имеет форму одного массивного супер-континента с водой занимающей 60% поверхности планеты. Сильные сухопутные войска жизненно необходимы.
+Мир имеет форму одного массивного супер-континента с водой, занимающей 60% поверхности планеты. Сильные сухопутные войска жизненно необходимы.
 
 ---
 
@@ -578,7 +578,7 @@ Shape3Hint
 
 World shape is determined randomly at the start of the game.
 
-Выбирается случайно.
+Форма мира определяется случайно при старте игры.
 
 ---
 
@@ -610,7 +610,7 @@ Size0HintFactions
 
 There are 3 landing human factions, for an average of about 5 cities per faction.
 
-Доступно 3 места для игроков
+Есть место для размещения 3-х фракций игроков, в среднем по 5 городов на фракцию.
 
 ---
 
@@ -626,7 +626,7 @@ Size1Hint
 
 A small world spans 32x32 for a total of 1024 territories.
 
-Маленький мир 32x32 охватывает в общей сложности 1 024 территорий.
+Маленький мир 32x32 охватывает в общей сложности 1024 территории.
 
 ---
 
@@ -634,7 +634,7 @@ Size1HintFactions
 
 There are 5 landing human factions, for an average of about 6 cities per faction..
 
-Доступно 5 мест для игроков
+Есть место для размещения 5-и фракций игроков, в среднем по 6 городов на фракцию.
 
 ---
 
@@ -650,7 +650,7 @@ Size2Hint
 
 A medium world spans 40x40 for a total of 1600 territories.
 
-Средний мир охватывает 40x40 на общую сумму 1 600 территорий.
+Средний мир 40x40 охватывает в общей сложности 1600 территорий.
 
 ---
 
@@ -658,7 +658,7 @@ Size2HintFactions
 
 There are 7 landing human factions, for an average of about 6 cities per faction..
 
-Доступно 6 мест для игроков.
+Есть место для размещения 7-и фракций игроков, в среднем по 6 городов на фракцию.
 
 ---
 
@@ -674,7 +674,7 @@ Size3Hint
 
 A large world spans 48x48 for a total of 2304 territories.
 
-Большой мир охватывает 48x48 на общую сумму 2 304 территорий.
+Большой мир 48x48 охватывает в общей сложности 2304 территории.
 
 ---
 
@@ -682,7 +682,7 @@ Size3HintFactions
 
 There are 7 landing human factions, for an average of about 9 cities per faction.
 
-Доступно 6 мест для игроков.
+Есть место для размещения 7-и фракций игроков, в среднем по 9 городов на фракцию.
 
 ---
 
@@ -706,7 +706,7 @@ Size4HintFactions
 
 There are 7 landing human factions, for an average of about 12 cities per faction.
 
-Доступно 6 мест для игроков.
+Есть место для размещения 7-и фракций игроков, в среднем по 12 городов на фракцию.
 
 ---
 
@@ -722,7 +722,7 @@ Size5Hint
 
 World size is determined randomly at the start of the game.
 
-Выбирается случайно.
+Размер мира выбирается случайно при старте игры.
 
 ---
 
@@ -762,7 +762,7 @@ Temperature1
 
 Temperate
 
-Средний
+Умеренный
 
 ---
 
@@ -794,7 +794,7 @@ Temperature3
 
 Random
 
- Произвольный
+Произвольный
 
 ---
 
@@ -802,7 +802,7 @@ Temperature3Hint
 
 World temperature is determined randomly at the start of the game.
 
-Выбирается случайно.
+Климат выбирается случайно при старте игры.
 
 ---
 
@@ -810,7 +810,7 @@ TurnTimer
 
 Turn Timer
 
-Turn Timer
+Таймер хода
 
 ---
 
@@ -818,7 +818,7 @@ TurnTimer0
 
 None
 
-None
+Отсутствует
 
 ---
 
@@ -834,7 +834,7 @@ TurnTimer1
 
 Very Short (2 minutes)
 
-Very Short (2 minutes)
+Очень короткий (2 минуты)
 
 ---
 
@@ -850,7 +850,7 @@ TurnTimer2
 
 Very Short (adaptive)
 
-Very Short (adaptive)
+Очень короткий (адаптивно)
 
 ---
 
@@ -866,7 +866,7 @@ TurnTimer3
 
 Short (4 minutes)
 
-Short (4 minutes)
+Короткий (4 минуты)
 
 ---
 
@@ -882,7 +882,7 @@ TurnTimer4
 
 Short (adaptive)
 
-Short (adaptive)
+Короткий (адаптивно)
 
 ---
 
@@ -898,7 +898,7 @@ TurnTimer5
 
 Moderate (6 minutes)
 
-Moderate (6 minutes)
+Умеренный (6 минут)
 
 ---
 
@@ -914,7 +914,7 @@ TurnTimer6
 
 Moderate (adaptive)
 
-Moderate (adaptive)
+Умеренный (адаптивно)
 
 ---
 
@@ -930,7 +930,7 @@ TurnTimer7
 
 Long (8 minutes)
 
-Long (8 minutes)
+Длинный (8 минут)
 
 ---
 
@@ -946,7 +946,7 @@ TurnTimer8
 
 Long (adaptive)
 
-Long (adaptive)
+Длинный (адаптивно)
 
 ---
 
@@ -962,7 +962,7 @@ TurnTimer9
 
 Very Long (10 minutes)
 
-Very Long (10 minutes)
+Очень длинный (10 минут)
 
 ---
 
@@ -978,7 +978,7 @@ TurnTimer10
 
 Very Long (adaptive)
 
-Very Long (adaptive)
+Очень длинный (адаптивно)
 
 ---
 

@@ -90,7 +90,7 @@ CityBuilt
 
 <style name='Heading'/>Colony Established<style name='Italic'/><br/><br/>&quot;This City is what it is because our citizens are what they are.&quot;<br/>    -- Plato<style name='Default'/><br/><br/>This is a great day for mankind. Today, we've established our first habitation on a foreign world. The scientific and mechanical marvels it took to bring us to this point should not be belittled -- but it's better to look to the future rather than the past.<br/><br/>At the moment, our colony might only be a few thousand souls, but given time and peace, we hope that it swell to rival the cities of Earth -- except that here, we have clean water, clean soil and room to grow.<br/><br/>It's humanity's only chance for a fresh start. Let's hope that we can take it.
 
-<style name='Heading'/>Colony Established<style name='Italic'/><br/><br/>&quot;This City is what it is because our citizens are what they are.&quot;<br/>    -- Plato<style name='Default'/><br/><br/>This is a great day for mankind. Today, we've established our first habitation on a foreign world. The scientific and mechanical marvels it took to bring us to this point should not be belittled -- but it's better to look to the future rather than the past.<br/><br/>At the moment, our colony might only be a few thousand souls, but given time and peace, we hope that it swell to rival the cities of Earth -- except that here, we have clean water, clean soil and room to grow.<br/><br/>It's humanity's only chance for a fresh start. Let's hope that we can take it.
+<style name='Heading'/>Колония основана<style name='Italic'/><br/><br/>&quot;Нет более верного признака дурного устройства городов, чем обилие в них юристов и врачей.&quot;<br/>    -- Платон<style name='Default'/><br/><br/>Это великий день для всего человечества. Сегодня мы основали наше первое поселение во внешнем мире. Чтобы привести нас в эту точку потребовались все доступные чудеса науки и техники - но нам лучше смотреть в будущее, а не в прошлое.<br/><br/>На данный момент наша колония является приютом для нескольких тысяч душ, но с учетом наших возможностей, мы надеемся, что сможем конкурировать с городами Земли - ведь тут у нас есть чистая вода, чистый грунт и возможности для роста и развития.<br/><br/>Человечеству был дан шанс начать все с начала. Будем надеяться, что мы сможем принять его.
 
 ---
 
@@ -290,7 +290,7 @@ Welcome
 
 Welcome to Pandora,<br/>%1%!
 
-Welcome to Pandora,<br/>%1%!
+Добро пожаловать на Пандору,<br/>%1%!
 
 ---
 

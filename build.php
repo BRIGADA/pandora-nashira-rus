@@ -43,6 +43,7 @@ function encode($str) {
     $str = str_replace('ö', 'o', $str);
     $str = str_replace('á', 'a', $str);
     $str = str_replace('ä', 'a', $str);
+    $str = str_replace('"', '&quot;', $str);
 
     if(@iconv("UTF-8", "CP1251", $str) === FALSE) {
 	echo PHP_EOL;

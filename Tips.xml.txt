@@ -2,7 +2,7 @@
 
 Colonizers are massive construction units that allow you to build the cities that form the backbone of your empire. To found your first city on Pandora, click the &quot;Build City&quot; button in the selection panel in the bottom left. Note that this order will consume your Colonizer.
 
-Колонизаторы - массивные строительные юниты, которые позволяют строить города, которые формируют костяк вашей империи. Чтобы найти свой первый город на Пандоре, нажмите &quot;Создать город&quot; в панели выбора в левом нижнем углу. Обратите внимание, что после этого приказа колонизатор будет потерян.
+Колонизаторы - массивные строительные юниты, которые позволяют строить города, формирующие костяк вашей империи. Чтобы основать свой первый город на Пандоре, нажмите кнопку &quot;Построить город&quot; на панели в левом нижнем углу. Обратите внимание, что после этого приказа Колонизатор будет потерян.
 
 ---
 
@@ -18,7 +18,7 @@ Colonizer
 
 This unit is your first line of defense against rival factions and hostile alien species. You can either play safe by fortifying it in your city, or send it out on exploration duty by right-clicking on your destination. Exploration is risky, but can be very rewarding!
 
-Этот энит - ваша первая линия обороны против соперничающих группировок и враждебных чужеродных видов. Вы можете Не рисковать, оставив его охранять ваш город, или отправить его на разведку, щелкнув правой кнопкой мыши на пункт назначения. Разведка  рискованна, но может быть очень полезной!
+Этот юнит - ваша первая линия обороны против соперничающих фракций и враждебных чужеродных видов. Вы можете не рисковать, оставив его охранять ваш город, или отправить его на разведку, щелкнув правой кнопкой мыши на пункт назначения. Разведка рискованна, но может быть очень полезной!
 
 ---
 
@@ -34,7 +34,7 @@ Combat Unit
 
 A city can produce one item at a time, for example a unit or a building. In the upper right you can see your production options. Left-clicking on an option will add to the production queue below. Production of the item will begin when the turn ends. You can reorder the production queue by dragging items up and down the queue.
 
-Город может произвести только один объект одновременно, например юнит или здание. В правом верхнем углу вы можете увидеть ваши варианты производства. Кликните левой кнопкой мыши на опции и он будет добавлен в очередь производства и начнет производиться, когда придет его очередь.
+Город может произвести только один объект за раз, например юнит или здание. В правом верхнем углу вы можете увидеть ваши варианты производства. Кликните левой кнопкой мыши на опции и он будет добавлен в очередь производства и начнет производиться, когда придет его очередь.
 
 ---
 
@@ -162,7 +162,7 @@ Start
 
 Take your time to explore your way around the interface. Every button and label has a hint to provide you with relevant information. If you are unsure what to do next, refer to the glowing button on the right side of the screen. It will help you focus on the next task before you end your turn.
 
-Не торопитесь, исследуя интерфейса. Каждая кнопка и ярлык имеет рекомендацию, которая предоставит вам необходимую информацию. Если вы не уверены, что делать дальше, обратитесь к светящейся кнопки на правой стороне экрана. Это поможет вам сосредоточиться на следующей задаче, прежде чем вы закончите свой ход.
+Не торопитесь, исследуя интерфейс. Все кнопки и ярлыки имеют подсказки, предоставляющие вам всю необходимую информацию. Если вы не уверены, что делать дальше, взгляните на светящуюся кнопку на правой стороне экрана. Это поможет вам сосредоточиться на следующей задаче, прежде чем вы закончите свой ход.
 
 ---
 

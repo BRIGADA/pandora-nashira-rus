@@ -1850,7 +1850,7 @@ Player
 
 Player
 
-Player
+Игрок
 
 ---
 
@@ -3074,7 +3074,7 @@ Team
 
 Team
 
-Team
+Команда
 
 ---
 
@@ -3082,7 +3082,7 @@ Team0
 
 None
 
-None
+Нет
 
 ---
 

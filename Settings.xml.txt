@@ -106,7 +106,7 @@ CutsceneVolume
 
 Cutscene Volume
 
-Громкость катсцен
+Громкость видеовставок
 
 ---
 
@@ -130,7 +130,7 @@ DiscoveryHelpHint
 
 Open the compendium when left-clicking discovery events.
 
-Открывать энциклопедию кликнув левой кнопкой мыши по событию.
+Открывать энциклопедию при клике мышью по событию.
 
 ---
 
@@ -138,7 +138,7 @@ DisplayMode
 
 Display Mode
 
-Разрешение
+Режим экрана
 
 ---
 
@@ -146,7 +146,7 @@ DisplayModeHint
 
 Allows you to change the game's display mode. Windowed modes may cause a drop in performance.<br/><br/><style color='Yellow'/>Windowed mode may work best for recording in the native resolution.
 
-Меняет разрешение игры. Оконный режим может снизить производительность.
+Позволяет вам изменить режим отображения игры. Оконные режимы могут снизить производительность.<br/><br/><style color='Yellow'/>Оконные режимы могут дать более хороший результат при записи в нативном разрешении.
 
 ---
 
@@ -154,7 +154,7 @@ DisplayMode0
 
 Fullscreen
 
-Fullscreen
+Во весь экран
 
 ---
 
@@ -162,7 +162,7 @@ DisplayMode1
 
 Windowed
 
-Windowed
+В окне
 
 ---
 
@@ -170,7 +170,7 @@ DisplayMode2
 
 Windowed Undecorated
 
-Windowed Undecorated
+В окне без декораций
 
 ---
 
@@ -186,7 +186,7 @@ EffectsVolumeHint
 
 Regulates the effects volume.
 
-Регулирует громкость эфектов игры.
+Регулирует громкость эффектов.
 
 ---
 
@@ -202,7 +202,7 @@ FontStyleHint
 
 Determines the font style to use.<br/><br/><style color='Red'/>Changing this setting requires a game restart to take effect.
 
-Определяет шрифт. <br/> <br/> <style Color='Red'/> Изменение этого параметра требует перезапустить игру.
+Определяет шрифт.<br/><br/><style Color='Red'/>При изменении этого параметра требуется перезапуск игры.
 
 ---
 
@@ -234,7 +234,7 @@ FormersBuildConstructionBays
 
 Formers Build Construction Bays
 
-Formers Build Construction Bays
+Формеры строят строй-отсеки
 
 ---
 
@@ -242,7 +242,7 @@ FormersBuildEnergyParks
 
 Formers Build Energy Parks
 
-Formers Build Energy Parks
+Формеры строят энерго-парки
 
 ---
 
@@ -258,7 +258,7 @@ FormersBuildFieldLaboratories
 
 Formers Build Field Laboratories
 
-Formers Build Field Laboratories
+Формеры строят полевые лаборатории
 
 ---
 
@@ -274,7 +274,7 @@ FormersBuildPurifiers
 
 Formers Build Purifiers
 
-Formers Build Purifiers
+Формеры строят очистители
 
 ---
 
@@ -290,7 +290,7 @@ FormersBuildSuburbs
 
 Formers Build Suburbs
 
-Formers Build Suburbs
+Формеры строят предместья
 
 ---
 
@@ -306,7 +306,7 @@ FormersClearFungus
 
 Formers Clear Fungus
 
-Формеры убирают фунгусы
+Формеры убирают грибок
 
 ---
 
@@ -322,7 +322,7 @@ FormersDestroyImprovements
 
 Formers Destroy Improvements
 
-Formers Destroy Improvements
+Формеры уничтожают улучшения
 
 ---
 
@@ -338,7 +338,7 @@ FormersGrowFungus
 
 Formers Grow Fungus
 
-Формеры растят фунгусы
+Формеры растят грибки
 
 ---
 
@@ -370,7 +370,7 @@ GrabInput
 
 Grab Input
 
-Grab Input
+Захват управления
 
 ---
 
@@ -434,7 +434,7 @@ MouseScrollSpeed
 
 Mouse Scroll Speed
 
-Скорость прокрутки мыши
+Скорость прокрутки мышью
 
 ---
 
@@ -474,7 +474,7 @@ PlayCutscenes
 
 Play Cutscenes
 
-Проигрывать катсцены
+Проигрывать видеовставки
 
 ---
 
@@ -482,7 +482,7 @@ PlayCutscenesHint
 
 Play in-game cinematics.
 
-Показыать игровые видеовставки.
+Показывать игровые видеовставки.
 
 ---
 
@@ -530,7 +530,7 @@ ServerPort
 
 Server Port
 
-Server Port
+Порт сервера
 
 ---
 
@@ -538,7 +538,7 @@ ServerPortHint
 
 TCP port to use when hosting games. Must be defined to a nonzero value. No other ports are used.<br/><br/><style color='Yellow'/>When hosting multiplayer games, it is recommended that you forward this port on your router to guarantee that others are able to connect directly to your game.
 
-TCP порт для хостинга игр. Никакие другие порты не используются. Значение 0 указывает, что свободный порт определяется автоматически.<br/><br/><style color='Yellow'/>При хостинге, рекомендуется, что вы перенаправили этот порт на маршрутизаторе, чтобы гарантировать, что другие смогут подключаться непосредственно к вашей игре.
+TCP порт для хостинга игр. Никакие другие порты не используются. Значение 0 указывает, что свободный порт определяется автоматически.<br/><br/><style color='Yellow'/>При хостинге рекомендуется перенаправить этот порт на маршрутизаторе, чтобы обеспечить возможность подключения других игроков к вашей игре.
 
 ---
 
@@ -618,7 +618,7 @@ SpokenLanguage
 
 Spoken Language
 
-Язык озвучивания
+Язык озвучки
 
 ---
 
@@ -626,7 +626,7 @@ SpokenLanguageHint
 
 Specifies the spoken language.
 
-Определяет на каком языке будет озвучивания.
+Определяет язык озвучки.
 
 ---
 
@@ -642,7 +642,7 @@ TextureQualityHint
 
 Determines the size of textures used throughout the game. Higher texture quality will result in more detailed terrain and units, but requires more video memory (VRAM).<br/><br/>Low: 256 MB<br/>Medium: 512 MB<br/>High: 1024 MB<br/><br/><style color='Red'/>Changing this setting requires a game restart to take effect.
 
-Определяет размер текстур, используемых на протяжении всей игры. Высшее качество текстур приведет к более подробной местности и т.п., но требует больше видеопамяти (VRAM) <br/> <br/> Низкие настройки: 256 Мб <br/> Средние: 512 Мб <br/> Высокие: 1024 Мб <BR /> <br/> <style color='Red'/> Изменение этого параметра требует перезапуска игры.
+Определяет размер текстур, используемых на протяжении всей игры. Более высокое качество текстур приведет к большей детализации местности и объектов, но потребует больше видеопамяти (VRAM)<br/><br/>Низкое: 256 Мб<br/>Среднее: 512 Мб<br/>Высокое: 1024 Мб<br/><br/><style color='Red'/>При изменении этого параметра требуется перезапуск игры.
 
 ---
 
@@ -650,7 +650,7 @@ TextureQuality0
 
 Low
 
-Низкие
+Низкое
 
 ---
 
@@ -658,7 +658,7 @@ TextureQuality1
 
 Medium
 
-Средние
+Среднее
 
 ---
 
@@ -666,7 +666,7 @@ TextureQuality2
 
 High
 
-Высокие
+Высокое
 
 ---
 
@@ -682,7 +682,7 @@ VerticalSynchronizationHint
 
 Synchronizes your frame rate to your primary monitor's refresh rate. This will eliminate screen tearing and reduce hardware load, but will also cause reduced performance if your hardware cannot keep up with the monitor's refresh rate.
 
-Синхронизирует частоту кадров с частотой обновления вашего основного монитора. Это может устранить разрыв экрана и уменьшить нагрузку оборудования, но может привести к снижению производительности, если ваше оборудование не может идти в ногу с частотой обновления монитора.
+Синхронизирует частоту кадров с частотой обновления вашего основного монитора. Это может устранить дрожание картинки и уменьшить нагрузку на оборудование, но может привести к снижению производительности, если ваше оборудование не успевает за частотой обновления монитора.
 
 ---
 
@@ -722,4 +722,4 @@ WrittenLanguageHint
 
 Specifies the written language.<br/><br/><style color='Red'/>Changing this setting requires a game restart to take effect.
 
-Определяет язык текста. <br/> <br/> <style Color='Red'/> Изменение этого параметра требует перезапускаь игры.
+Определяет язык текста.<br/><br/><style Color='Red'/>При изменении этого параметра требуется перезапуск игры.

@@ -18,7 +18,7 @@ BetaMultiplayerBrowserGames
 
 Note that beta games are separate from the release version.
 
-Note that beta games are separate from the release version.
+Бета- и релиз-версии игры - это разные вещи.
 
 ---
 
@@ -122,7 +122,7 @@ ExecuteOrder
 
 <style color='Green'/>Left-click to execute order
 
-<style color='Green'/>Кликни что бы выполнить приказ
+<style color='Green'/>Кликни чтобы выполнить приказ
 
 ---
 
@@ -130,7 +130,7 @@ GameInitializationFailed
 
 Could not initialize game. Background applications, particularly security and antivirus software, may be preventing Pandora from working normally.
 
-Ошибка инициализации.
+Ошибка инициализации. Фоновые приложение, такие как антивирусы и брандмауэры, могут мешать нормальной работе игры.
 
 ---
 
@@ -186,7 +186,7 @@ InitializingWorld
 
 Initializing world ...
 
- Инициализация мира ...
+Инициализация мира ...
 
 ---
 
@@ -194,7 +194,7 @@ InvalidCommand
 
 Invalid command: &quot;%1%&quot;
 
- Неправильная команда: &quot;%1%&quot;
+Неправильная команда: &quot;%1%&quot;
 
 ---
 
@@ -202,7 +202,7 @@ InvalidEmail
 
 Invalid email.
 
- Неправильный email.
+Неправильный email.
 
 ---
 
@@ -234,7 +234,7 @@ MasterServerUnreachable
 
 Could not connect to master server.
 
-Невозможно подключиться к мастер серверу.
+Невозможно подключиться к мастер-серверу.
 
 ---
 
@@ -258,7 +258,7 @@ NoFreeSlots
 
 No free slot available on the server.
 
-На сервере недостаточно свободных слотов.
+На сервере нет свободных слотов.
 
 ---
 
@@ -370,7 +370,7 @@ RestartRequired
 
 A game restart is required for some settings to take effect.
 
-Необходимо перезагрузить игру чтобы изменения вступили в силу.
+Необходимо перезагрузить игру, чтобы изменения вступили в силу.
 
 ---
 
@@ -402,7 +402,7 @@ ServerError
 
 Server Error
 
-Серверная ошибка
+Ошибка сервера
 
 ---
 
@@ -410,7 +410,7 @@ ServerInfo
 
 Server Info
 
-Серверная информация
+Информация о сервере
 
 ---
 
@@ -426,7 +426,7 @@ ServerUnreachable
 
 Could not connect to server. To improve connectivity, ensure the host has forwarded the set network port (default: TCP 6121).
 
-Невозможно подключиться к серверу. 
+Невозможно подключиться к серверу. Убедитесь что используемый сетевой порт коректно перенаправляется (по умолчанию TCP 6121).
 
 ---
 
@@ -434,7 +434,7 @@ Unknown
 
 Unknown.
 
-Unknown.
+Неизвестно.
 
 ---
 
@@ -442,4 +442,4 @@ VictoryAchievements
 
 Victory achievements can only be unlocked in single-player games started from the New Game panel.
 
-Victory achievements can only be unlocked in single-player games started from the New Game panel.
+Победные достижения можно открыть только в однопользовательских играх.

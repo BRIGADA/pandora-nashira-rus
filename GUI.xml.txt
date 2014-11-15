@@ -42,7 +42,7 @@ AdvancementsHelp
 
 Projects provide either a temporary or permanent benefit for your whole empire once they are completed in any of your cities. The range of those benefits varies greatly. From simple one-time resource gains and bonus units to advanced technologies and strategies that unlock new possibilities and can provide significant advantages in a variety of sectors.
 
-Достижения - могут иметь временный или перманентный эффект.<br/><br/> Их результативность очень сильно различается. Это может быть как одноразовым получением ресурсов, так и улучшением подразделений ,и получение разнообразных технологий, которые сильно влияют на исходы событий.
+Достижения - могут иметь временный или перманентный эффект.<br/><br/>Их результативность очень сильно различается. Это может быть как одноразовым получением ресурсов, так и улучшением подразделений ,и получение разнообразных технологий, которые сильно влияют на исходы событий.
 
 ---
 
@@ -106,7 +106,7 @@ ArmorsHelp
 
 In the workshop armors are applied to units, and in game terms they simply provide additional power for an increased production cost.<br/><br/>Since a better armor does not result in an increased upkeep cost, it is a good idea to always equip the best available armor as long as the overall production cost of a design stays reasonable.
 
-В мастерской вы можете устанавливать новую броню на подразделения, как правило чем она прочнее - тем дороже.<br/><br/> Очень важно заметить - улучшение брони не увеличивает стоимость содержания войск. Всегда нужно использовать самую лучшую защиту из возможных, если цена за нее разумна.
+В мастерской вы можете устанавливать новую броню на подразделения, как правило чем она прочнее - тем дороже.<br/><br/>Очень важно заметить - улучшение брони не увеличивает стоимость содержания войск. Всегда нужно использовать самую лучшую защиту из возможных, если цена за нее разумна.
 
 ---
 
@@ -146,7 +146,7 @@ BuildingsHelp
 
 Buildings are produced in cities to improve the economy and various industries of your empire. While most buildings simply increase the resource output of a city, there also exist others that provide a defensive benefit or are used to deploy operations.<br/><br/>Note that buildings have upkeep costs, so you should only build them where they are most effective.
 
-Здания создаются в городах для улучшения экономики и различных отраслей промышленности вашей империи. В то время как большинство зданий просто увеличивает производство ресурсов, существуют и другие, обладающие особыми особенностями, а так же используются для оборонительных  или разведывательных операций. <br/> <br/> Обратите внимание, что здания имеют затраты на содержание, так что вы должны  строить их только там, где они являются наиболее эффективными.
+Здания создаются в городах для улучшения экономики и различных отраслей промышленности вашей империи. В то время как большинство зданий просто увеличивает производство ресурсов, существуют и другие, обладающие особыми особенностями, а так же используются для оборонительных  или разведывательных операций.<br/><br/>Обратите внимание, что здания имеют затраты на содержание, так что вы должны  строить их только там, где они являются наиболее эффективными.
 
 ---
 
@@ -346,7 +346,7 @@ ContactPlayer
 
 Click to contact %1%.
 
-Левая кнопка мыши - что бы связаться с %1%.
+Левая кнопка мыши - чтобы связаться с %1%.
 
 ---
 
@@ -378,7 +378,7 @@ CreditsHint
 
 Credits<br/>Accumulation of wealth. Used to purchase goods and pay upkeep costs. Without credits your units and buildings will be disbanded and dismantled.
 
-Кредиты <br/> ваше богатство, которое используются для покупки товаров и оплаты затрат на содержание. Без кредитов ваши подразделения и здания будут расформированы и демонтированы.
+Кредиты<br/>ваше богатство, которое используются для покупки товаров и оплаты затрат на содержание. Без кредитов ваши подразделения и здания будут расформированы и демонтированы.
 
 ---
 
@@ -418,7 +418,7 @@ CurrentResearchHint
 
 Currently researching technology. Click to change.
 
-Исследование выполнено. Кликните что бы продолжить.
+Исследование выполнено. Кликните, чтобы продолжить.
 
 ---
 
@@ -482,7 +482,7 @@ DesignNameHint
 
 Design name. Click to rename.
 
-Название проекта. Кликните что бы переименовать.
+Название проекта. Кликните, чтобы переименовать.
 
 ---
 
@@ -570,7 +570,7 @@ DevicesHelp
 
 Applied to a unit via the workshop, devices grant units a variety of different bonuses for an increased production cost.<br/><br/>Unlike the simple power bonus gained from armors, the bonus for devices is situational -- so make sure to utilize them properly.
 
-Устройства устанавливаются в мастерской и они предоставляют подразделению различные бонусы, за увеличение стоимости производства <br/> <br/> В отличие от  бонуса защиты, полученного от брони, бонус для устройств носит ситуационный характер - используйте только по мере необходимости.
+Устройства устанавливаются в мастерской и они предоставляют подразделению различные бонусы, за увеличение стоимости производства<br/><br/>В отличие от  бонуса защиты, полученного от брони, бонус для устройств носит ситуационный характер - используйте только по мере необходимости.
 
 ---
 
@@ -658,7 +658,7 @@ DisableTipsHint
 
 Stop showing pop-up tips. You may re-enable them in the settings panel.
 
-Подсказки отключены. Их можно сново включить через панель настроек.
+Отключение подсказок. Их можно сново включить через панель настроек.
 
 ---
 
@@ -722,7 +722,7 @@ EconomyVictoryDescription
 
 Accumulate enough credits to purchase 75% of the other independent factions' economies to win an economic victory.
 
-Накопите достаточно кредитов на покупку 75% экономик других фракций , чтобы одержать экономическую победу.
+Накопите достаточно кредитов на покупку 75% экономик других фракций, чтобы одержать экономическую победу.
 
 ---
 
@@ -786,7 +786,7 @@ EnterCityHint
 
 Click to enter city screen.
 
-Кликните что бы открыть экран города.
+Кликните, чтобы открыть экран города.
 
 ---
 
@@ -826,7 +826,7 @@ Era1
 
 Mechanization Era
 
-Эра механики
+Эра механизации
 
 ---
 
@@ -890,7 +890,7 @@ FactionsHelp
 
 Globalization, the colonization of extraterrestrial bodies in our solar system, and the first successful construction of an Alcubierre drive in the second half of the 21st century, combined to swiftly undermine Earth's old world order.<br/><br/>To stay relevant and stem the massive costs required to cope with global pollution and extraterrestrial engineering, most existing countries united in federations or merged with powerful mega-corporations.<br/><br/>The resulting factions greatly differ in their ideologies and beliefs on how human society should advance into an unknown future.
 
-Глобализация, колонизацию внеземных тел в нашей Солнечной системе, и первое успешное строительство двигателя Алькубьерре во второй половине 21-го века, в сочетании с быстрым разрушением старого мирового порядка Земли. <br/> <br/>, Чтобы оставаться независимыми и побороть  огромные траты связанные с глобальным загрязнением и развитием внеземной добычи ресурсов, большинство существующих стран, объединенных в федерации или слились с мощным мега-корпораций. <br/> <br/> Полученные фракции значительно различаются по своей идеологии и убеждений о том, как человеку общество должно продвигаться в неизвестное будущее.
+Глобализация, колонизацию внеземных тел в нашей Солнечной системе, и первое успешное строительство двигателя Алькубьерре во второй половине 21-го века, в сочетании с быстрым разрушением старого мирового порядка Земли.<br/><br/>, Чтобы оставаться независимыми и побороть  огромные траты связанные с глобальным загрязнением и развитием внеземной добычи ресурсов, большинство существующих стран, объединенных в федерации или слились с мощным мега-корпораций.<br/><br/>Полученные фракции значительно различаются по своей идеологии и убеждений о том, как человеку общество должно продвигаться в неизвестное будущее.
 
 ---
 
@@ -962,7 +962,7 @@ FoodHint
 
 Food<br/>Sustains population. Without food your colonists will starve and die.
 
-Еда <br/> Еда нужна населению. Без пищи колонисты будут голодать и умирать.
+Еда<br/>Еда нужна населению. Без пищи колонисты будут голодать и умирать.
 
 ---
 
@@ -1042,7 +1042,7 @@ GrowthHint
 
 Growth<br/>The rate at which population increases or decreases. Once enough positive or negative growth has accumulated, a colonist is gained or lost. Starting at 8, every time your city grows, your borders expand.
 
-Прирост населения <br/> Скорость, с которой население увеличивается или уменьшается. После накопления или уменьшения, колонист добавляется или теряется. Начиная с 8 уровня, каждый раз, когда город растет, ваши границы расширяются.
+Прирост населения<br/>Скорость, с которой население увеличивается или уменьшается. После накопления или уменьшения, колонист добавляется или теряется. Начиная с 8 уровня, каждый раз, когда город растет, ваши границы расширяются.
 
 ---
 
@@ -1058,7 +1058,7 @@ HabitatHint
 
 Habitat<br/>Living space available to your population. A negative value indicates overpopulation and reduces morale.
 
-Жилье <br/> Эта вся жилая площадь доступная для населения. Отрицательное значение указывает перенаселение и снижает моральный дух.
+Жилье<br/>Эта вся жилая площадь доступная для населения. Отрицательное значение указывает перенаселение и снижает моральный дух.
 
 ---
 
@@ -1498,7 +1498,7 @@ MoraleHint
 
 Morale<br/>Overall population happiness. Positive or negative morale increases or decreases the resource output and growth rate of your population.
 
-Мораль <br/>Общий показатель счастье населения. Каждое деление, положительное или отрицательное увеличивает или уменьшает  производительность населения на 5%.
+Мораль<br/>Общий показатель счастье населения. Каждое деление, положительное или отрицательное увеличивает или уменьшает  производительность населения на 5%.
 
 ---
 
@@ -1514,7 +1514,7 @@ MovementHint
 
 Movement Speed<br/>The number of territories the unit can cross in one month.
 
-Скорость передвижения <br/> Сколько территорий возможно пересечь за один ход.
+Скорость передвижения<br/>Сколько территорий возможно пересечь за один ход.
 
 ---
 
@@ -1746,7 +1746,7 @@ OpenWebsite
 
 Open website in your preferred browser.
 
-Открыть вэбсайт в выбранно броузере.
+Открыть вэбсайт в браузере.
 
 ---
 
@@ -1890,7 +1890,7 @@ PollutionHint
 
 Pollution<br/>The amount of industrial waste a city produces. Pollution has a negative impact on morale.
 
-Загрязнение<br/>Количество промышленных отходов города. Загрязнение отрицательно влияет на моральное состояние.
+Загрязнение<br/>Количество промышленных отходов города. Загрязнение отрицательно влияет на мораль.
 
 ---
 
@@ -1906,7 +1906,7 @@ PopulationHint
 
 Population<br/>Assigned to tasks.
 
-Население<br/>Назначеное на работы.
+Население<br/>Назначено на работы.
 
 ---
 
@@ -1914,7 +1914,7 @@ PopulationX
 
 Population (%1%)
 
-Населения (%1%)
+Население (%1%)
 
 ---
 
@@ -1922,7 +1922,7 @@ Port
 
 Port
 
-Port
+Порт
 
 ---
 
@@ -1946,7 +1946,7 @@ ProducingProduceable
 
 Producing %1%.
 
-В производстве - '%1%'.
+Производит %1%.
 
 ---
 
@@ -1986,7 +1986,7 @@ ProductionHint
 
 Production<br/>Processes minerals into buildings, troops or operations.
 
-Производство <br/> Процесс постройки из минералов зданий, снаряжения или снабжение операций.
+Производство<br/>Процесс постройки из минералов зданий, снаряжения или снабжение операций.
 
 ---
 
@@ -1994,7 +1994,7 @@ ProductionOptions
 
 Production Options
 
-Опции производства
+Параметры производства
 
 ---
 
@@ -2010,7 +2010,7 @@ ProductKey
 
 Product Key
 
-Product Key
+Ключ продукта
 
 ---
 
@@ -2018,7 +2018,7 @@ Profile
 
 Profile
 
-Профайл
+Профиль
 
 ---
 
@@ -2082,7 +2082,7 @@ RankHint
 
 Rank (%1% / %2%)<br/>Unit experience gained from combat. Each successive rank increases unit power by %3%%%.
 
-Ранг (%1% / %2%)<br/>сколько единиц опыта, накоплено в бою. Каждый последующий ранг увеличивает силу подразделения на %3%%%.
+Ранг (%1% / %2%)<br/>Количество опыта, получаемого в бою. Каждый следующий ранг увеличивает силу подразделения на %3%%%.
 
 ---
 
@@ -2090,7 +2090,7 @@ Raze
 
 Raze
 
-Сровнять с землей
+Сравнять с землей
 
 ---
 
@@ -2098,7 +2098,7 @@ RazeHint
 
 Click to begin razing the city by killing 1 population each turn.
 
-Кликните, чтобы начать разрушение города, убивая единице населения каждый ход.
+Кликните, чтобы начать разрушение города путем уничтожения единицы населения за ход.
 
 ---
 
@@ -2122,7 +2122,7 @@ Refit
 
 Refit
 
- Переоснастить 
+Переоснастить 
 
 ---
 
@@ -2138,7 +2138,7 @@ Refresh
 
 Refresh
 
-Обносить
+Обновить
 
 ---
 
@@ -2146,7 +2146,7 @@ RememberPassword
 
 Remember Password
 
-Помните пароль
+Запомнить пароль
 
 ---
 
@@ -2154,7 +2154,7 @@ RemoteHost
 
 Remote Host
 
-Удаленный Host
+Удаленный хост
 
 ---
 
@@ -2162,7 +2162,7 @@ RemotePort
 
 Remote Port
 
- Удаленный Port
+Удаленный порт
 
 ---
 
@@ -2170,7 +2170,7 @@ Report
 
 Report
 
-Важно событие
+Важное событие
 
 ---
 
@@ -2178,7 +2178,7 @@ RequiresX
 
 Requires %1% %2%.
 
-Requires %1% %2%.
+Требует %1% %2%.
 
 ---
 
@@ -2194,7 +2194,7 @@ Research1
 
 Years behind in research
 
-Years behind in research
+Годы до технологий
 
 ---
 
@@ -2202,7 +2202,7 @@ Research2
 
 Outdated technologies
 
-Outdated technologies
+Устаревшие технологии
 
 ---
 
@@ -2210,7 +2210,7 @@ Research3
 
 Moderate research progress
 
-Moderate research progress
+Умеренный прогресс исследований
 
 ---
 
@@ -2218,7 +2218,7 @@ Research4
 
 Advanced technologies
 
-Advanced technologies
+Перспективные технологии
 
 ---
 
@@ -2226,7 +2226,7 @@ Research5
 
 Outstanding and highly advanced research
 
-Outstanding and highly advanced research
+Выдающиеся и весьма перспективные исследования
 
 ---
 
@@ -2242,7 +2242,7 @@ ResearchColonistsHint
 
 Scientists accumulate research to discover new technologies.
 
-Ученые накапливают знания, чтобы обнаружить новые технологии.
+Ученые накапливают знания для открытия новых технологий.
 
 ---
 
@@ -2250,7 +2250,7 @@ ResearchHint
 
 Research<br/>Accumulation of knowledge. Used to discover new technologies.
 
-Исследования <br/> Накопление знаний. Используется для обнаружения новых технологий.
+Исследования<br/>Накопление знаний. Используется для обнаружения новых технологий.
 
 ---
 
@@ -2266,7 +2266,7 @@ ResearchVictoryDescription
 
 Research 75% of all technologies to win a science victory.
 
-Исследовать 75% всех технологий для научной победы.
+Для достижения научной победы необходимо исследовать 75% всех технологий.
 
 ---
 
@@ -2330,7 +2330,7 @@ ResourcePerTurnFromArtists
 
 <icon texture='GUI/Bullet'/>%1% from artists
 
-<icon texture='GUI/Bullet'/>%1% from artists
+<icon texture='GUI/Bullet'/>%1% от артистов
 
 ---
 
@@ -2490,7 +2490,7 @@ ResourcePerTurnFromResearchPacts
 
 <icon texture='GUI/Bullet'/>%1% from research pacts
 
-<icon texture='GUI/Bullet'/>%1% от научного договора
+<icon texture='GUI/Bullet'/>%1% от научных договоров
 
 ---
 
@@ -2562,7 +2562,7 @@ ResourcePerTurnFromUnits
 
 <icon texture='GUI/Bullet'/>%1% from units
 
-<icon texture='GUI/Bullet'/>%1% from units
+<icon texture='GUI/Bullet'/>%1% от юнитов
 
 ---
 
@@ -2578,7 +2578,7 @@ ResourcePerTurnFromVirus
 
 <icon texture='GUI/Bullet'/>%1% from genetic virus
 
-<icon texture='GUI/Bullet'/>%1% from genetic virus
+<icon texture='GUI/Bullet'/>%1% от гинетических вирусов
 
 ---
 
@@ -2626,7 +2626,7 @@ Riot
 
 Riot
 
-Riot
+Бунт
 
 ---
 
@@ -2658,7 +2658,7 @@ SelectCompatibleDesign
 
 Select a compatible design.
 
-Выберите совместимый проект.
+Выберите совместимый дизайн.
 
 ---
 
@@ -2666,7 +2666,7 @@ Sell
 
 Sell
 
-Sell
+Продать
 
 ---
 
@@ -2682,7 +2682,7 @@ SellBuildingMessage
 
 Are you sure you want to sell %1% for %2% <icon texture='Resources/Credits'/> credits?
 
-Вы уверены, что хотите продать %1% for %2% <icon texture='Resources/Credits'/> кредитов?
+Вы уверены, что хотите продать %1% за %2% <icon texture='Resources/Credits'/> кредитов?
 
 ---
 
@@ -2690,7 +2690,7 @@ SetTerritoryToAcquire
 
 Set this territory to be acquired next when enough population <style color='Gray'/>(%1%)<style name='Default'/> is accumulated <style color='Gray'/>(%2% turns)<style name='Default'/>.
 
-Поглатить эту территориию при следующем росте населения населения <style color='Gray'/>(%1%)<style name='Default'/> через <style color='Gray'/>(%2% ходов)<style name='Default'/>.
+Поглотить эту территориию при следующем росте населения населения <style color='Gray'/>(%1%)<style name='Default'/> через <style color='Gray'/>(%2% ходов)<style name='Default'/>.
 
 ---
 
@@ -2778,7 +2778,7 @@ SightHint
 
 Sight Range<br/>How far the unit can see.
 
-Дальносить видимости<br/>Как далеко подразделения могут видеть.
+Дальносить обзора<br/>Как далеко подразделения могут видеть.
 
 ---
 
@@ -2786,7 +2786,7 @@ SlotClosed
 
 [Closed]
 
-[Closed]
+[Закрыто]
 
 ---
 
@@ -2794,7 +2794,7 @@ SlotOpen
 
 [Open]
 
-[Open]
+[Открыть]
 
 ---
 
@@ -2802,7 +2802,7 @@ SortByClass
 
 Sort by Class
 
-Сортировать по Классу
+Сортировать по классу
 
 ---
 
@@ -2810,7 +2810,7 @@ SortByCredits
 
 Sort by Credits
 
-Сортировать по Доходу
+Сортировать по доходу
 
 ---
 
@@ -2818,7 +2818,7 @@ SortByDevice
 
 Sort by Device
 
-Сортировать по Устройствам
+Сортировать по устройствам
 
 ---
 
@@ -2826,7 +2826,7 @@ SortByDesign
 
 Sort by Design
 
-Сортировать по Проекту
+Сортировать по дизайну
 
 ---
 
@@ -2834,7 +2834,7 @@ SortByFood
 
 Sort by Food
 
-Сортировать по Еде
+Сортировать по еде
 
 ---
 
@@ -2842,7 +2842,7 @@ SortByGrowth
 
 Sort by Growth
 
-Сортировать по Росту
+Сортировать по росту
 
 ---
 
@@ -2850,7 +2850,7 @@ SortByHabitat
 
 Sort by Habitat
 
-Сортировать по Жилью
+Сортировать по жилью
 
 ---
 
@@ -2858,7 +2858,7 @@ SortByHealth
 
 Sort by Health
 
-Сортировать по Здоровья
+Сортировать по здоровью
 
 ---
 
@@ -2866,7 +2866,7 @@ SortByMinerals
 
 Sort by Minerals
 
-Сортировать по Минералам
+Сортировать по минералам
 
 ---
 
@@ -2874,7 +2874,7 @@ SortByMorale
 
 Sort by Morale
 
-Сортировать по Морали
+Сортировать по морали
 
 ---
 
@@ -2882,7 +2882,7 @@ SortByMovement
 
 Sort by Movement
 
-Сортировать по Скорости
+Сортировать по скорости
 
 ---
 
@@ -2890,7 +2890,7 @@ SortByName
 
 Sort by Name
 
-Сортировать по Имени
+Сортировать по имени
 
 ---
 
@@ -2898,7 +2898,7 @@ SortByOrder
 
 Sort by Order
 
-Сортировать по Приказам
+Сортировать по приказам
 
 ---
 
@@ -2906,7 +2906,7 @@ SortByPollution
 
 Sort by Pollution
 
-Сортировать по Загрязнениям
+Сортировать по загрязнениям
 
 ---
 
@@ -2914,7 +2914,7 @@ SortByPopulation
 
 Sort by Population
 
-Сортировать по Населению
+Сортировать по населению
 
 ---
 
@@ -2922,7 +2922,7 @@ SortByProduction
 
 Sort by Production
 
-Сортировать по Производству
+Сортировать по производству
 
 ---
 
@@ -2930,7 +2930,7 @@ SortByPower
 
 Sort by Power
 
-Сортировать по Силе
+Сортировать по силе
 
 ---
 
@@ -2938,7 +2938,7 @@ SortByResearch
 
 Sort by Research
 
-Сортировать по Иследованям
+Сортировать по иследованям
 
 ---
 
@@ -2946,7 +2946,7 @@ SortBySight
 
 Sort by Sight
 
-Сортировать по Обзору
+Сортировать по обзору
 
 ---
 
@@ -2954,7 +2954,7 @@ SortByUpkeep
 
 Sort by Upkeep
 
-Сортировать по Содержанию
+Сортировать по содержанию
 
 ---
 
@@ -2962,7 +2962,7 @@ SortByWeapon
 
 Sort by Weapon
 
-Сортировать по Оружию
+Сортировать по вооружению
 
 ---
 
@@ -2986,7 +2986,7 @@ Spectator
 
 Spectator
 
-Spectator
+Наблюдатель
 
 ---
 
@@ -3018,7 +3018,7 @@ StopRazingHint
 
 Click to stop razing the city.
 
-Кликлине что бы останосить разрушение города.
+Кликлине, чтобы останосить разрушение города.
 
 ---
 
@@ -3026,7 +3026,7 @@ Stories
 
 Stories
 
-Stories
+Истории
 
 ---
 
@@ -3034,7 +3034,7 @@ StoriesHelp
 
 Here you can find short stories about the world of Pandora. Enjoy the reading!
 
-Here you can find short stories about the world of Pandora. Enjoy the reading!
+Здесь вы можете найти короткие рассказы о мире Пандоры. Сила в знаниях!
 
 ---
 
@@ -3042,7 +3042,7 @@ Story
 
 Story
 
-Story
+История
 
 ---
 
@@ -3050,7 +3050,7 @@ SuccessChance
 
 Success Chance
 
-Success Chance
+Шанс на успех
 
 ---
 
@@ -3162,7 +3162,7 @@ TechnologiesHelp
 
 Over the course of the game you will unlock increasingly more advanced technologies which provide new buildings, units, weapons, armors, devices, operations and projects.
 
-В течение игры вы будете изучать все более передовые технологий, здания, учреждения, оружие, доспехи, устройства, достижений. <br/> <br/> Если специально не отключено то исследование 75% всех имеющихся  технологий дадут вам победу вашей империи.
+В течение игры вы будете изучать все более передовые технологий, здания, учреждения, оружие, доспехи, устройства, достижений.<br/><br/>Если специально не отключено то исследование 75% всех имеющихся  технологий дадут вам победу вашей империи.
 
 ---
 
@@ -3330,7 +3330,7 @@ UnitsHelp
 
 Units are designed in the workshop and produced in cities. Military troops consist of biological units (infantry) as well as a variety of mechanical units (from light reconnaissance vehicles to massive war machines), and each unit class has their own strength and weaknesses. There also exist civilian units like Colonizers (to found new bases) and Formers (to shape the landscape), which are unarmed and thus require protection.<br/><br/>Note that almost all units have an upkeep cost, so do not invest into a large army unless it serves a purpose.
 
-Подразделения разрабатываются в мастерской и производятся в городах. Войска состоят из биологических юнитов (пехота), а также различных механических единиц (от легких разведывательных машин до огромных боевых машин), и каждый их класс имеет свои сильные и слабые стороны. Также существуют гражданские подразделения, такие как колонизаторы (служат для основания новых поселений) и формеры (для формирования ландшафта), которые не имеют оружия и, следовательно, нуждаются в защите. <br/> <br/> Следует отметить, что практически все устройства имеют стоимость поддержки, так что не вкладывайте деньги в большую армию, если она не служит конкретным потребностям.
+Подразделения разрабатываются в мастерской и производятся в городах. Войска состоят из биологических юнитов (пехота), а также различных механических единиц (от легких разведывательных машин до огромных боевых машин), и каждый их класс имеет свои сильные и слабые стороны. Также существуют гражданские подразделения, такие как колонизаторы (служат для основания новых поселений) и формеры (для формирования ландшафта), которые не имеют оружия и, следовательно, нуждаются в защите.<br/><br/>Следует отметить, что практически все устройства имеют стоимость поддержки, так что не вкладывайте деньги в большую армию, если она не служит конкретным потребностям.
 
 ---
 
@@ -3410,7 +3410,7 @@ WeaponsHelp
 
 Weapons come in the form of guns or turrets, and are carried by infantry units or mounted on vehicles. Different weapon types are more or less effective against certain unit classes or in certain situations, so equip your units wisely.<br/><br/>If you are under attack and defending your borders, it is a good idea to refit your existing units with the 'Refit' order to counter the enemy's troop composition.
 
-Оружие  носят пехотные подразделения или устанавливают на транспортные средства. Различные виды оружия  эффективно против различных классов или в определенных ситуациях, поэтому устанавливать его нужно мудро. <br/> <br/> Если Вы находитесь под атакой то защита ваших границ, это хорошая идея.
+Оружие  носят пехотные подразделения или устанавливают на транспортные средства. Различные виды оружия  эффективно против различных классов или в определенных ситуациях, поэтому устанавливать его нужно мудро.<br/><br/>Если Вы находитесь под атакой то защита ваших границ, это хорошая идея.
 
 ---
 

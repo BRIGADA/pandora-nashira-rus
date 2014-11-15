@@ -18,7 +18,7 @@ Diplomatic
 
 The Ambassadors
 
-The Ambassadors
+Послы
 
 ---
 
@@ -34,7 +34,7 @@ DiplomaticLeaderPrename
 
 Itala
 
-Itala
+Итала
 
 ---
 
@@ -42,7 +42,7 @@ DiplomaticLeaderSurname
 
 Palomino
 
-Palomino
+Паломино
 
 ---
 
@@ -50,7 +50,7 @@ DiplomaticLeaderTitle
 
 Secretary
 
-Secretary
+Секретарь
 
 ---
 
@@ -58,7 +58,7 @@ DiplomaticProperties
 
 <icon texture='GUI/Bullet'/>Diplomatic: +25% <icon texture='Resources/Standing'/> standing in diplomatic negotiations<br/><icon texture='GUI/Bullet'/>Subversive: +25% <icon texture='Attributes/Infiltration'/> infiltration chance<br/><icon texture='GUI/Bullet'/>Parasitic: profit 25% from all <icon texture='Resources/Research'/> research and <icon texture='Resources/Credits'/> trading pacts on the planet<br/><icon texture='GUI/Bullet'/>Orbital Eyes: -66% <icon texture='Attributes/Production'/> cost and <icon texture='Attributes/Upkeep'/> upkeep for satellite uplinks
 
-<icon texture='GUI/Bullet'/>Diplomatic: +25% <icon texture='Resources/Standing'/> standing in diplomatic negotiations<br/><icon texture='GUI/Bullet'/>Subversive: +25% <icon texture='Attributes/Infiltration'/> infiltration chance<br/><icon texture='GUI/Bullet'/>Parasitic: profit 25% from all <icon texture='Resources/Research'/> research and <icon texture='Resources/Credits'/> trading pacts on the planet<br/><icon texture='GUI/Bullet'/>Orbital Eyes: -66% <icon texture='Attributes/Production'/> cost and <icon texture='Attributes/Upkeep'/> upkeep for satellite uplinks
+<icon texture='GUI/Bullet'/>Дипломатия: +25% <icon texture='Resources/Standing'/> репутации в переговорах<br/><icon texture='GUI/Bullet'/>Шпионаж: +25% <icon texture='Attributes/Infiltration'/> шанса внедрения<br/><icon texture='GUI/Bullet'/>Паразитирование: получение 25% от всех <icon texture='Resources/Research'/> исследваний и <icon texture='Resources/Credits'/> торговых договоров на планете<br/><icon texture='GUI/Bullet'/>Орбитальные глаза: -66% <icon texture='Attributes/Production'/> стоимости и <icon texture='Attributes/Upkeep'/> соддержания спутниковой связи
 
 ---
 
@@ -66,7 +66,7 @@ DiplomaticQuote
 
 <style name='Italic'/>&quot;The art of diplomacy is to say nothing, at length, to everybody. The art of espionage is to use the time that the diplomats have bought to make sure you get the right reply. &quot;<br/>    -- %1%, Nuovo Principe <style name='Default'/>
 
-<style name='Italic'/>&quot;The art of diplomacy is to say nothing, at length, to everybody. The art of espionage is to use the time that the diplomats have bought to make sure you get the right reply. &quot;<br/>    -- %1%, Nuovo Principe <style name='Default'/>
+<style name='Italic'/>&quot;Искусство дипломатии - это рассказать всем не сказав ничего. Искусство шпионажа - это грамотное использование полученного дипломатами временени на получение правильных ответов.&quot;<br/>    -- %1%, Новые Принципы <style name='Default'/>
 
 ---
 
@@ -98,7 +98,7 @@ EcologicDescription
 
 The Earth-founded organization that became Terra Salvum started out as an array of pressure-groups, scattered over the planet, in the late 20th century. As the 21st century progressed and the climate collapsed, they won more supporters to their cause, especially in the areas where natural resources were being over-exploited -- Africa, South America and parts of Asia -- as well as in liberal parts of the west.<br/><br/>Gradually, the organizations realized that the only way to talk to governments was to match their size. In the 2040s, following a decade of terrorism and warfare that scarred Earth, these pressure groups merged into Terra Salvum, using their combined influence and financial power to make their opinions count just as much as the corporations. Their more-militant arm became especially feared in international waters.<br/><br/>When Pandora was discovered, Terra Salvum didn't have the finances to buy one of Noxium's terrifyingly-expensive cruise-colonizers. Thankfully with the aid of developing world hackers, the organization managed to 'acquire' the blueprints for the ships. Friendly scientists donated their lives to rapidly decode these and the resources of a small nation were poured into building a single colony ship. However, the organization simply couldn't afford the extra cost of building enough hibernation units and radiation shielding before launch -- so they didn't.<br/><br/>Given their exposure to hard radiation during the transit to Pandora, most of the adult ecologists sickened and died, leaving a crew of young, fervent green warriors growing up on the ship, most of whom had never seen an Earth flower. On landing, the young Vivian Gardinier, daughter of the former leader Elora, was appointed as her mother's replacement. Her peaceful followers -- after more than two decades of imprisonment on a radiation-riddled spaceship -- long for a living world and are determined that the war for natural resources which bled old Earth white will never happen on Pandora. 
 
-Основанная на Земле организация, которая позже стала Террой Сальвум, начинала в конце 20-го века как группа активистов, разбросанных по всей планете. В 21-м веке, когда климат был уничтожен прогрессом, они обрели больше сторонников, особенно в тех областях, где природные ресурсы чрезмерно эксплуатировались - Африка, Южная Америка и некоторые части Азии,- а также в либеральных частях Запада.<br/><br/>Постепенно, организации поняли, что единственный способ поговорить с правительствами  - это соответствовать их размеру. В 2040-е годы, после десятилетия терроризма и войны, что шрамировала Землю, эти группы активистов объединились в Терра Сальвум, используя их совместное влияние и финансовую мощь, сделали так,что с их мнением считались так же, как и с мнением корпораций. Их военной мощи особенно опасались в международных водах.<br/><br/>Когда Пандора была обнаружена, у Терра Сальвум не было финансов, чтобы купить один из ужасающе-дорогих колонизаторов Ноксиума. К счастью, с помощью развивающегося мира хакеров, организации удалось «приобрести» чертежи для кораблей. Сочувствующие ученые пожертвовали своей жизнью, чтобы быстро декодировать эти чертежи. Ресурсы маленькой нации были растрачены на строительство одного колониального корабля. Тем не менее, организация просто не могла позволить себе дополнительных расходов на строительство достаточного количества криокамер и средств защиты от излучения.<br/><br/>Учитывая воздействие жесткого излучения во время путешествия на Пандору, большинство взрослых экологов заболело и умерло, оставив экипаж из молодых, горячих зеленых воинов, растущих на корабле, большинство из которых никогда не видел цветов Земли. При посадке, молодая Вивиан Гардиньер, дочь бывшего лидера Элора, была назначена в качестве замены ее матери. Ее мирные последователи, после более чем двух десятилетий лишения свободы на пронизанном радиацией корабле, слишком долгого для живого мира, решили, что война за природные ресурсы, котороя обескровила Старую Землю  никогда не произойдет на Пандоре. 
+Основанная на Земле организация, ставшая впоследствии Терра Сальвум, была образована в конце 20-го века группой активистов, разбросанных по всей планете. В 21-м веке, когда климат был уничтожен прогрессом, они обрели больше сторонников, особенно в тех областях, где природные ресурсы чрезмерно эксплуатировались - Африка, Южная Америка и некоторые части Азии, а также в либеральных частях Запада.<br/><br/>Постепенно организации поняли, что единственный способ разговаривать с правительствами - это соответствовать их размеру. В 2040-е годы, после десятилетий терроризма и войн, шрамировавших Землю, группы активистов объединились в Терра Сальвум, и используя совместное влияние и финансовую мощь, смогли сделать так, что с их мнением пришлось считаться также, как и с мнением корпораций. Их военной мощи особенно опасались в международных водах.<br/><br/>Когда Пандора была обнаружена, у Терра Сальвум не было финансов, чтобы купить один из ужасно дорогих колонизаторов Ноксиума. К счастью, с помощью развивающегося мира хакеров, организации удалось «приобрести» чертежи кораблей. Сочувствующие ученые пожертвовали своей жизнью, чтобы быстро декодировать эти чертежи. Ресурсы маленькой нации были растрачены на строительство одного колониального корабля. Тем не менее, организация просто не могла позволить себе дополнительных расходов на строительство достаточного количества криокамер и средств защиты от излучения.<br/><br/>Учитывая воздействие жесткого излучения во время путешествия на Пандору, большинство взрослых экологов заболело и умерло, оставив экипаж из молодых и горячих зеленых воинов, растущих на корабле, большинство из которых никогда не видело красок Земли. При посадке молодая Вивиан Гардиньер, дочь бывшего лидера Элора, была назначена в качестве замены её матери. Её мирные последователи, после более чем двух десятилетий лишения свободы на пронизанном радиацией корабле решили, что война за природные ресурсы, которая обескровила Старую Землю никогда не произойдет на Пандоре. 
 
 ---
 
@@ -130,7 +130,7 @@ EcologicProperties
 
 <icon texture='GUI/Bullet'/>Ecologic: +1 <icon texture='Resources/Minerals'/> minerals from forests and fungus<br/><icon texture='GUI/Bullet'/>Frugal: +25% <icon texture='Resources/Habitat'/> habitat<br/><icon texture='GUI/Bullet'/>Sympathetic: -50% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>Peaceful: -25% <icon texture='Attributes/Power'/> power when attacking
 
-<icon texture='GUI/Bullet'/>Экологи: +1 <icon texture='Resources/Minerals'/> минерал от лесов и грибков<br/><icon texture='GUI/Bullet'/>Скромные: +2 <icon texture='Resources/Habitat'/> жилье<br/><icon texture='GUI/Bullet'/>Сочувственный: -50% <icon texture='Factions/NativeIcon' width='16'/> инопланетной агрессии<br/><icon texture='GUI/Bullet'/>Мирные: -25% <icon texture='Attributes/Power'/> силы при атаке
+<icon texture='GUI/Bullet'/>Экология: +1 <icon texture='Resources/Minerals'/> минерал от лесов и грибков<br/><icon texture='GUI/Bullet'/>Скромность: +2 <icon texture='Resources/Habitat'/> жильё<br/><icon texture='GUI/Bullet'/>Симпатичность: -50% <icon texture='Factions/NativeIcon' width='16'/> инопланетной агрессии<br/><icon texture='GUI/Bullet'/>Миролюбие: -25% <icon texture='Attributes/Power'/> силы при атаке
 
 ---
 
@@ -146,7 +146,7 @@ EcologicTheme
 
 Ecologic
 
-Эологический
+Экология
 
 ---
 
@@ -154,7 +154,7 @@ EcologicWelcome
 
 You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources have bled out old Earth, our once rich and abundant homeworld is nothing but a shadow of its former self. While other factions might be on a path to repeat the same mistakes again, you and your followers have respect for the environment and humanity, treating the planet and its children with the respect they deserve.
 
-Вы %1%, лидер экологического %2%. Бесшабашенная промышленность и война за природные ресурсы истощили Старую Земли. Наш однажды богатый и обильный домашний мир не что иное, как тени былого. В то время как другие фракции может пойти по пути повторения  ошибок, вы и ваши последователи имеют отношение к окружающей среде и человечеству, рассматривайте планету и ее детей с уважением, которого они заслуживают.
+Вы %1%, лидер экологической фракции %2%. Бездумная индустриализация и войны за природные ресурсы истощили Старую Землю, наш когда-то богатый и плодородный мир. Пока другие фракции могут пойти по пути повторения прежних ошибок, вы и ваши последователи бережно относитесь к окружающей среде и человечеству, рассматривая планету и её детей с уважением, которого они заслуживают.
 
 ---
 
@@ -306,7 +306,7 @@ Flyers
 
 Flyers
 
-Флаерс
+Летуны
 
 ---
 
@@ -330,7 +330,7 @@ IndustriousDescription
 
 The prevailing theme of the short twentieth century (1914-1991) was the clash of authoritarian ideologies. Communism, fascism and capitalism fought throughout the century, with none of them emerging with its reputation intact. Indeed, the only 'isms' that did emerge successfully were authoritarianism and pragmatism -- both as practiced effectively by the Chinese Communist party from the late 1930s. By always acting in the interest of the majority over the interest of any single individual, the Chinese state emerged with a brutally effective economy by the late 20th century.<br/><br/>But, as Plato observed, regimes always decay towards tyranny. Chinese communism was no exception, though the efforts of the National People's Congress to execute and subjugate overweening leaders to their authority until the early 2060s were impressively effective. It was only with the appointment of Sheng Xi as Chairman of the Central Guidance Commission for Building Spiritual Civilization that they made a misstep.<br/><br/>Like Caesar and Napoleon before him, Sheng Xi made carefully-brutal steps towards the suppression of resistance. The early steps are of little interest -- his birth in Xiamen, his rapid rise through the party and accession to the Politburo. However, his own business is of note -- a firm specializing in genetic manipulation (essential for progress in the ranks) used by the elite to guarantee children and sons (whispered to involve cloning technology for the more infertile cases). By the time of the final National Congress in 2062, Sheng was General Secretary and powerful -- too powerful in fact, so that rumors rumbled in the state media that the Congress would take him down a peg.<br/><br/>What happened at the final National Congress, no-one really knows. The state media blames the detonation of poison gas bombs on Uighur and Nepalese separatists, but we do know that after the event, Sheng's authority was unchallenged. He changed his title from General Secretary to Prime Minister and, to prevent further attacks on the new Congress, had them all shipped up to a new Noxium-built habitat in orbit about Saturn.<br/><br/>This habitat was, in fact, his pleasure palace, where complicit members lived a life of bliss. (No-one knows what happened to any dissidents, but there was always a large supply of shipboard protein.) With the consent of his Congress-slaves, Sheng changed the name of the country to the Solar Dynasty, and died in bliss, while his people suffered.<br/><br/>His clone-son, Yun Xi, became Prime Minister after him and it was he who took the Solar Dynasty to Pandora. Yun's people slaved in the shipyards of the asteroid belt for Noxium, turning the rare ores into the refined metals needed. His people also built every last interstellar transport, working long hours in leaky spacesuits, until they dropped. Togra had the designs, Noxium the resources, and Yun had the manpower.<br/><br/>Yun Xi, like his father, is concerned with the greatness of his people. They only know him as father of the country, the spiritual and physical successor to his father. But he seeks to remake the state in his image. His clones are seeded throughout the state, in positions of authority; indeed, the majority of the colonists taken to Pandora are Yun's clones too, with the other passengers just there as make-weights, in case genetic diversity is needed.<br/><br/>Yun's aim on Pandora is to build a perfect state, in his image -- strong, resolute and clear in purpose. He has already sold his state and his people to reach Pandora -- if every other living thing has to suffer for the greater goal too, so be it.
 
-Преобладающей темой короткого двадцатого века (1914-1991) было столкновение авторитарных идеологий. Коммунизм, фашизм и капитализм боролись на протяжении всего столетия, без объединения и с той же репутацией. Действительно, единственными 'измами', которые успешно объединились были авторитаризм и прагматизм -  обе  успешно практикуются Коммунистической партией Китая с конца 1930-х годов. Всегда действуя в интересах большинства, нежели в интересах какого-либо одного человека, китайское государство построило жестоко эффективную экономику в конце 20 века.<br/><br/>Но, как заметил Платон, режимы всегда сваливаются к тирании. Китайский коммунизм не был исключением, хотя усилия Всекитайского собрания народных представителей, направленные на подчинении высокомерных лидеров их власти, до начала 2060 были весьма эффективными. И только назначив Шэн Си в качестве Председателя Центральной комиссии по духовному развитию, они сделали неверный шаг.<br/><br/>Как Цезарь и Наполеон до него, Шэн Си использовал жестокие меры по подавлению сопротивления. Все что до этого малоинтересно: родился в городе Сямынь, быстрый рост в партии и вступление в Политбюро. Тем не менее, его бизнес знаменит - фирма, специализирующаяся на генетических манипуляциях (необходимых для карьерного роста), используется элитой для гарантии появления детей и сыновей (тайно с привлечением технологии клонирования для бесплодных случаев). К моменту последнего Национального Конгресса в 2062 году Шэн был всемогущим генеральным секретарем, так что в государственных средствах массовой информации грохотали слухи о том, что Конгресс преклоняется перед ним.<br/><br/>То, что произошло на последнем Национальном конгрессе, никто толком не знает. Государственные СМИ обвиняли его в подрыве отравляющих бомб газа на Уйгурских и Непальских сепаратистах, но мы знаем, что после этого события, власть Шэна стала бесспорной. Он изменил название своей должности с генерального секретаря на премьер-министра и, чтобы предотвратить дальнейшие нападения на новый Конгресс, перенес его на новый, построенный Ноксиумом корабль на орбите около Сатурна.<br/><br/>Это место было, по сути, его собственным дворцом, где его подельники жили в блаженстве. (Никто не знает, что случилось с любых инакомыслящим, но на корабле всегда был большой запас белка). С согласия его Конгресса-рабоа Шэн изменил название страны на Солнечную Династию, и умер в блаженстве, в то время как его люди страдали.<br/><br/>Его клон-сын, Юн Си, стал премьер-министром по наследству, и это был тот, кто основал Солнечную Династию на Пандоре. Люди Юна работают рабоми на верфях в поясе астероидов для Ноксиума, превращая редкие руды в необходимый металл. Его люди также построил все до последнего межзвездные транспорты, работая долгие часы в дырявых скафандрах, пока они не падали замертво. У Тогры были проекты, у Ноксиума ресурсы, и Юн была живая силы.<br/><br/>Юн Си, как и его отец, обеспокоен величием своего народа. Они знают его только как отца нации, духовного и физического преемника своего отца. Но он стремится поменять его образ. Его клоны правили по всей территории государства, более того, большинство колонистов, принятых на Пандору являются клонами Юна, наряду с другими пассажирами взятыми просто для веса,на случае, если понадобится генетическое разнообразие.<br/><br/>Целью Юна на Пандоре является постройка идеальное, с его точки зрения, государства - сильного, решительный и ясно видящего свои цели. Он уже продал свое состояние и людей, чтобы достичь Пандоры - если любому другому живому существу придется пострадать для большой цели, то так тому и быть.
+Преобладающей темой короткого двадцатого века (1914-1991) было столкновение авторитарных идеологий. Коммунизм, фашизм и капитализм боролись на протяжении всего столетия, без объединения и с той же репутацией. Действительно, единственными 'измами', которые успешно объединились были авторитаризм и прагматизм - обе успешно практикуются Коммунистической партией Китая с конца 1930-х годов. Всегда действуя в интересах большинства, нежели в интересах какого-либо одного человека, китайское государство построило жестоко эффективную экономику в конце 20 века.<br/><br/>Но, как заметил Платон, режимы всегда сваливаются к тирании. Китайский коммунизм не был исключением, хотя усилия Всекитайского собрания народных представителей, направленные на подчинении высокомерных лидеров их власти, до начала 2060 были весьма эффективными. И только назначив Шэн Си в качестве Председателя Центральной комиссии по духовному развитию, они сделали неверный шаг.<br/><br/>Как Цезарь и Наполеон до него, Шэн Си использовал жестокие меры по подавлению сопротивления. Все что до этого малоинтересно: родился в городе Сямынь, быстрый рост в партии и вступление в Политбюро. Тем не менее, его бизнес знаменит - фирма, специализирующаяся на генетических манипуляциях (необходимых для карьерного роста), используется элитой для гарантии появления детей и сыновей (тайно с привлечением технологии клонирования для бесплодных случаев). К моменту последнего Национального Конгресса в 2062 году Шэн был всемогущим генеральным секретарем, так что в государственных средствах массовой информации грохотали слухи о том, что Конгресс преклоняется перед ним.<br/><br/>То, что произошло на последнем Национальном конгрессе, никто толком не знает. Государственные СМИ обвиняли его в подрыве отравляющих бомб газа на Уйгурских и Непальских сепаратистах, но мы знаем, что после этого события, власть Шэна стала бесспорной. Он изменил название своей должности с генерального секретаря на премьер-министра и, чтобы предотвратить дальнейшие нападения на новый Конгресс, перенес его на новый, построенный Ноксиумом корабль на орбите около Сатурна.<br/><br/>Это место было, по сути, его собственным дворцом, где его подельники жили в блаженстве. (Никто не знает, что случилось с любых инакомыслящим, но на корабле всегда был большой запас белка). С согласия его Конгресса-рабоа Шэн изменил название страны на Солнечную Династию, и умер в блаженстве, в то время как его люди страдали.<br/><br/>Его клон-сын, Юн Си, стал премьер-министром по наследству, и это был тот, кто основал Солнечную Династию на Пандоре. Люди Юна работают рабоми на верфях в поясе астероидов для Ноксиума, превращая редкие руды в необходимый металл. Его люди также построил все до последнего межзвездные транспорты, работая долгие часы в дырявых скафандрах, пока они не падали замертво. У Тогры были проекты, у Ноксиума ресурсы, и Юн была живая силы.<br/><br/>Юн Си, как и его отец, обеспокоен величием своего народа. Они знают его только как отца нации, духовного и физического преемника своего отца. Но он стремится поменять его образ. Его клоны правили по всей территории государства, более того, большинство колонистов, принятых на Пандору являются клонами Юна, наряду с другими пассажирами взятыми просто для веса,на случае, если понадобится генетическое разнообразие.<br/><br/>Целью Юна на Пандоре является постройка идеальное, с его точки зрения, государства - сильного, решительный и ясно видящего свои цели. Он уже продал свое состояние и людей, чтобы достичь Пандоры - если любому другому живому существу придется пострадать для большой цели, то так тому и быть.
 
 ---
 
@@ -354,7 +354,7 @@ IndustriousLeaderTitle
 
 Prime Minister
 
-Примьер-министр
+Премьер-министр
 
 ---
 

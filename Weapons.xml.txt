@@ -2,7 +2,7 @@ Alien
 
 Disintigrator
 
-Disintigrator
+Дезинтегратор
 
 ---
 
@@ -146,7 +146,7 @@ Automatic0
 
 L-15 Lance Gun
 
-Штурмовое оружие L-15
+Штурмовая пушка L-15
 
 ---
 
@@ -170,7 +170,7 @@ Automatic1
 
 Gauss Gatling Gun
 
-Гаусс пушка гатлинга
+Гаусс-пушка Гатлинга
 
 ---
 
@@ -234,7 +234,7 @@ Cannon0
 
 M-20 Serenity Cannon
 
-M-20 Сиринити
+M-20 Серенити
 
 ---
 
@@ -266,7 +266,7 @@ Cannon1Description
 
 Designed as a straight replacement to the M-20 Serenity, Photon Cannons use plain old light focused through intensifying prisms to pierce their adversaries. Their shots are silent, save for the hiss of their target subliming.
 
-Задуманный, как замена для М-20 Сиринити, Фотонная пушка использует старый добрый свет и фокусирует его через призмы, пронзая противников. Их выстрелы бесшумны, за исключением шипения горящей цели.
+Задуманный, как замена для М-20 Серенити, Фотонная пушка использует старый добрый свет и фокусирует его через призмы, пронзая противников. Их выстрелы бесшумны, за исключением шипения горящей цели.
 
 ---
 
@@ -306,7 +306,7 @@ Crab
 
 Claws
 
-Claws
+Клешни
 
 ---
 
@@ -354,7 +354,7 @@ Flak1Description
 
 Saturating the sky with a sea of shells and shrapnel, the Whirlwind Flak cannot be avoided by even the most skilled pilots. There is simply nowhere to escape.
 
-Она создает целое небо из снарядов и осколков. Ее попаданий в принципе не возможно избежать.
+Она создает целое небо из снарядов и осколков. Ее попаданий принципиально не возможно избежать.
 
 ---
 
@@ -394,7 +394,7 @@ Flame0
 
 Hellfire
 
-Хелфаер
+Пламя Ада
 
 ---
 
@@ -426,7 +426,7 @@ Flame1Description
 
 This evolution of the Hellfire brings its own twist to the battlegrounds: dual tanks hold respectively  &quot;vitriol&quot; and water, each of them coming out through a different barrel. The super-heated acid is propelled first, causing severe chemical burns to the target. Then comes the pressurized near-frozen water, provoking the explosive reaction that gives the weapon its name.
 
-Эта новая ступень эволюция систем Хелфаер. Вначале идет сверх нагретая кислота, нанося серьезные химические ожоги. Затем под давлением идет почти замерзшая вода, провоцируя разрушительную химическую реакцию.
+Эта новая ступень эволюция систем "Пламя Ада". Вначале идет сверх нагретая кислота, нанося серьезные химические ожоги. Затем под давлением идет почти замерзшая вода, провоцируя разрушительную химическую реакцию.
 
 ---
 
@@ -498,7 +498,7 @@ Gun0
 
 Lady Finger
 
-Lady Finger
+Дамский пальчик
 
 ---
 
@@ -506,7 +506,7 @@ Gun0Description
 
 Very expensive but small, concealable and with surprising fire power the Ladyfinger was specifically developed for our agents in the field to make them a threat not to be taken lightly.
 
-Very expensive but small, concealable and with surprising fire power the Ladyfinger was specifically developed for our agents in the field to make them a threat not to be taken lightly.
+Очень дорогое но компактное оружие скрытого ношения и удивительно мощное. Дамский пальчик специально создан для наших полевых агентов, чтобы их не могли захватить без потерь.
 
 ---
 
@@ -514,7 +514,7 @@ Gun0Properties
 
 <icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
 
-<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+<icon texture='GUI/Bullet'/>Автоматическое оружие<br/><icon texture='GUI/Bullet'/>Используется агентами<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> урона против живых противников<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> урона против техники
 
 ---
 
@@ -546,7 +546,7 @@ Gun2
 
 Techtronica M40
 
-Techtronica M40
+Технотроника M40
 
 ---
 
@@ -554,7 +554,7 @@ Gun2Description
 
 The Techtronica M40 is a state of the art weapon that harbors an integrated consciousness. While the manufactoring cost is tremendous, the satellite supported battlefield assistance and intelligent threat analysis basically turn agents into one-man armies.
 
-The Techtronica M40 is a state of the art weapon that harbors an integrated consciousness. While the manufactoring cost is tremendous, the satellite supported battlefield assistance and intelligent threat analysis basically turn agents into one-man armies.
+Технотроника M40 является очень современным оружием с заключённым в нём ИИ. Стоимость его производста огромна, спутник обеспечивает поддержку на поле боя, а ИИ способен превратить агента в армию из одного человека.
 
 ---
 
@@ -562,7 +562,7 @@ Gun2Properties
 
 <icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
 
-<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units
+<icon texture='GUI/Bullet'/>Автоматическое оружие<br/><icon texture='GUI/Bullet'/>Используется агентами<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> урона против живых<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> урона против техники
 
 ---
 
@@ -666,7 +666,7 @@ Missile0
 
 Hammerhead Missile Launcher
 
-Ракетная установка Хамерхед
+Ракетная установка Молот
 
 ---
 
@@ -674,7 +674,7 @@ Missile0Description
 
 <style name='Italic'/>&quot;The means by which we live have outdistanced the ends for which we live. Our scientific power has outrun our spiritual power. We have guided missiles and misguided men.&quot;<br/>    -- Martin Luther King, Jr.<style name='Default'/><br/><br/>This self-propelled projectile delivery weapon employs guidance systems to maneuver its heavy ordnance missiles, dubbed Hammerheads. Missile based weapon systems are a good choice against heavy targets, like tanks, but at the same time stay relatively effective against lighter and faster targets.
 
-<style name='Italic'/>&quot;Смысл, которым мы живем уже опередил цели, ради которых мы живем. Наш научная власть превзошла нашу духовную силу. Мы направляем ракеты и не можем направить человека.&quot;<br/>    --Мартин Лютер Кинг младший<style name='Default'/><br/><br/>Это самоходная установка использует системы наведения для управления тяжелыми ракетами, получившими название 'Хаммер'. Данные оружейные системы являются хорошим выбором против тяжелых мишеней, таких как танки, но в то же время остаются относительно эффективеными против более легких и быстрых целей.
+<style name='Italic'/>&quot;Смысл, которым мы живем уже опередил цели, ради которых мы живем. Наш научная власть превзошла нашу духовную силу. Мы направляем ракеты и не можем направить человека.&quot;<br/>    --Мартин Лютер Кинг младший<style name='Default'/><br/><br/>Это самоходная установка использует системы наведения для управления тяжелыми ракетами, получившими название 'Молот'. Данные оружейные системы являются хорошим выбором против крупных мишеней, таких как танки, но в то же время остаются относительно эффективеными против более легких и быстрых целей.
 
 ---
 
@@ -738,7 +738,7 @@ Nightcrawler
 
 Tentacles
 
-Tentacles
+Тентакли
 
 ---
 
@@ -746,7 +746,7 @@ NightcrawlerProperties
 
 <icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units
 
-<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units
+<icon texture='GUI/Bullet'/>Холодное оружие<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units
 
 ---
 
